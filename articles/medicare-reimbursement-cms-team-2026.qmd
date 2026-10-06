@@ -1,0 +1,198 @@
+---
+title: "Medicare Reimbursement in 2026: What CMS TEAM Changes for Your Hospital"
+description: "Medicare reimbursement in 2026 under CMS TEAM: how target prices work, what the reconciliation process looks like, and how 721 hospitals should manage\u2026"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">Medicare Reimbursement</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Bundled Payments</span> <span class="article-tag-pill">Hospital Finance</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Medicare Reimbursement in 2026: What CMS TEAM Changes for Your Hospital</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">How the CMS Transforming Episode Accountability Model restructures Medicare reimbursement for surgical procedures — what mandated hospitals need to know about target prices, reconciliation, and the path to 2027.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-medicare-reimbursement.jpg" alt="Medicare Reimbursement in 2026: What CMS TEAM Changes for Your Hospital" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- TEAM adds annual reconciliation
+- Five procedures face episode targets
+- Upside and downside both apply
+- Visibility across sites is critical
+</div></aside>
+
+## How Medicare reimbursement works under TEAM
+
+Under standard Medicare IPPS, hospitals receive DRG-based payments for each inpatient admission — a fixed rate based on the patient's diagnosis, procedure, and associated complications. This payment covers the hospitalization itself but not post-discharge services, which are billed separately by SNFs, home health agencies, rehab facilities, and outpatient providers.
+
+TEAM does not change how hospitals bill or receive DRG payments during the year. The change happens at **annual reconciliation**. CMS calculates total Medicare Part A and Part B spending across all TEAM-eligible episodes at the hospital — anchor hospitalizations plus all post-discharge services within 30 days. It then compares that total to the hospital's aggregate target price across those episodes. The difference is either a bonus or a repayment.
+
+## Target prices: how CMS calculates what you're expected to spend
+
+Target prices are hospital-specific and procedure-specific. CMS sets them using each hospital's own historical episode spending from a three-year lookback period, blended with regional and national benchmarks. The blend is weighted: early performance years weight the hospital's own history more heavily; later years shift toward the regional and national averages, increasing the competitive pressure.
+
+CMS then applies a discount factor to the blended baseline — **2.0% for LEJR, spinal fusion, and SHFFT; 1.5% for CABG and major bowel**. This discount represents the savings CMS expects to capture from the program. To earn a bonus, a hospital must spend below the discounted target, not just below its own historical average.
+
+## PY1 (2026): no downside, real upside
+
+Performance Year 1 covers calendar year 2026. Under Track 1 — the default for most hospitals — there is no downside financial risk. If a hospital's aggregate episode spending exceeds its target prices, nothing is owed. If spending comes in below the target prices, the hospital receives a gain payment up to a 10% stop-gain limit per episode.
+
+This means 2026 is the last low-risk window to build the infrastructure needed for PY2. Hospitals that use PY1 to establish baseline cost data, implement post-acute discharge protocols, and build episode monitoring capabilities will be better positioned when two-sided risk begins.
+
+## PY2 and beyond: when the repayment risk arrives
+
+Starting in Performance Year 2 (2027), most hospitals move to Track 3 — two-sided risk with a 20% stop-gain and 20% stop-loss limit. For a hospital with an average LEJR target price of $24,540, the maximum annual loss per episode under Track 3 is approximately $4,908. Multiply that across hundreds of episodes and the exposure is material.
+
+Optum Advisory estimated in late 2025 that **56% of mandatory TEAM participants are projected to lose money** once downside risk begins, with average projected losses of $1.2 million per facility under current performance trajectories. Brandeis University and the Institute for Accountable Care similarly project that up to two-thirds of participating hospitals will face net revenue losses without operational changes.
+
+## The reconciliation mechanics: how CMS calculates your final payment
+
+CMS conducts TEAM reconciliation retrospectively, after each performance year ends. The reconciliation process follows a defined sequence:
+
+1. **Episode attribution:** CMS identifies all Medicare FFS beneficiaries discharged from the TEAM hospital with a qualifying procedure MS-DRG during the performance year. The 30-day post-discharge window is calculated from the date of discharge from the anchor hospitalization.
+2. **Episode cost calculation:** CMS sums all Medicare Parts A and B payments for the attributed beneficiary during the episode window, including the anchor DRG payment, SNF/IRF/home health costs, outpatient follow-up, and any readmission hospitalizations.
+3. **Target price application:** Each episode's cost is compared to the hospital-specific target price for that procedure type. If episode cost < target price, the difference is a positive reconciliation amount (gain). If episode cost > target price, the difference is a negative amount (pending stop-loss calculation).
+4. **Stop-gain and stop-loss limits:** Individual episode gains and losses are capped at the applicable stop-gain/stop-loss percentage multiplied by the target price. For Track 3 (20%), the maximum swing per episode is ±20% of the target price.
+5. **CQS adjustment:** The aggregate reconciliation amount (sum of all episode gain/loss amounts) is then adjusted upward or downward based on the hospital's Composite Quality Score, which reflects hospital-wide readmission rates, PSI-90 complication rates, and patient experience scores.
+6. **Net reconciliation payment:** CMS issues a single annual net payment to the hospital (positive reconciliation) or the hospital remits a payment to CMS (negative reconciliation). Payments are processed through the Medicare Administrative Contractor (MAC) that processes the hospital's Medicare claims.
+
+The reconciliation is prospective in its design but retrospective in its execution: hospitals do not know their exact reconciliation amount until after the performance year closes. This creates a need for real-time episode cost monitoring infrastructure — the core value proposition of purpose-built TEAM software — that tells hospitals their projected reconciliation outcome while there is still time to intervene on individual episodes.
+
+(Source: [Centers for Medicare & Medicaid Services. (2024). TEAM participant guide and reconciliation methodology.](https://www.cms.gov/priorities/innovation/innovation-models/team-model))
+
+## How the Composite Quality Score affects your check
+
+The **Composite Quality Score (CQS)** is TEAM's mechanism for ensuring that financial incentives for cost reduction do not lead to quality degradation. The CQS is a composite of three metrics: (1) **Hospital-Wide Readmission (HWR) measure** — a risk-standardized all-cause readmission rate across all inpatient discharges; (2) **PSI-90 Composite** — a patient safety indicator measuring rates of in-hospital complications; and (3) **HCAHPS patient experience survey** scores.
+
+CMS translates each hospital's CQS into a multiplier that adjusts the reconciliation amount. A hospital with a strong CQS (above the 60th percentile nationally) has its reconciliation amount increased — earning more for the same episode cost efficiency. A hospital with a weak CQS (below the 40th percentile) has its reconciliation amount decreased — earning less for the same efficiency. A hospital at the national median has no CQS adjustment.
+
+The practical implication: hospitals that invest only in episode cost reduction without addressing readmission rates and patient safety may see their quality score reduce their CQS multiplier, partially offsetting financial gains. Conversely, hospitals with strong quality performance have an amplified reward for every dollar of episode cost improvement. Quality and cost efficiency are financially complementary under TEAM's design.
+
+(Source: [Centers for Medicare & Medicaid Services. (2024). TEAM CQS methodology. FY2025 IPPS Final Rule, 89 FR 68986.](https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems))
+
+## Frequently asked questions
+
+### How does Medicare reimbursement work under CMS TEAM?
+
+Hospitals continue receiving standard DRG-based Medicare payments throughout the year. At annual reconciliation, CMS compares total episode spending (anchor hospitalization + 30 days post-discharge) to hospital-specific target prices. Hospitals spending below targets receive bonus payments; those spending above targets owe repayments (starting in PY2, 2027).
+
+### What is a CMS TEAM target price?
+
+A target price is the maximum episode spending CMS expects the hospital to achieve, calculated from the hospital's historical spending blended with regional and national benchmarks, then discounted by 1.5–2.0% depending on procedure type.
+
+### Is there downside risk in 2026?
+
+No. Performance Year 1 (2026) carries no downside financial risk for Track 1 hospitals. Repayment obligations begin in Performance Year 2 (2027) for most participants.
+
+<BlogReferences items={[{"id":1,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model overview and reimbursement methodology.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":2,"text":"CMS, FY2025 IPPS Final Rule, Section X — TEAM financial design and target price methodology, 89 FR 68986.","url":"https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems"},{"id":3,"text":"HFMA, \"Hospitals can use 2026 to prepare for CMS TEAM bundled payment risk,\" March 2026.","url":"https://www.hfma.org/payment-reimbursement-and-managed-care/hospitals-can-use-2026-to-prepare-for-cms-team-bundled-payment-risk"},{"id":4,"text":"Optum Advisory, \"56% of mandatory TEAM participants projected to lose money under current criteria,\" 2025.","url":"https://www.advisory.com/topics/policy-and-payment/hospitals-need-to-know-team"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

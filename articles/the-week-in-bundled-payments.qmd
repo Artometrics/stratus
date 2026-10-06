@@ -1,0 +1,184 @@
+---
+title: "The Week in Bundled Payments"
+description: "A briefing on CMS TEAM, CJR-X, and the companies chasing them."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">sandbox-news</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">The Week in Bundled Payments</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">A briefing on CMS TEAM, CJR-X, and the companies chasing them.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Rainfall Research" class="author-avatar"> <span>Rainfall Research</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 08, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/bundled-payments-banner.jpg" alt="The Week in Bundled Payments" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Innovaccer pushes TEAM software
+- Optum flags coding risk
+- Milliman adds actuarial tooling
+- CJR-X proposal expands joint episodes
+</div></aside>
+
+## Innovaccer expands beyond value-based contracts
+
+Innovaccer, a health-tech firm, launched Atlas, a "population health operating system," on January 22nd. The product extends the firm’s outcomes-tracking software beyond value-based contracts into fee-for-service arrangements, suggesting the company sees its future well beyond compliance work for any single CMS model.
+
+It follows a sustained push into the bundled-payments space: a guide for hospital executives on navigating TEAM, a webinar, a YouTube explainer, and a two-day conference for health systems this spring. Oracle, a software giant, recently named Innovaccer a competitor of its own health-data ambitions — no small compliment.
+
+(Source: [Innovaccer, "Gearing Up for CMS TEAM: A Guide for Healthcare Leaders," March 18, 2025.](https://innovaccer.com/resources/blogs/gearing-up-for-cms-team-model-a-comprehensive-guide-to-healthcares-next-evolution))
+(Source: [Innovaccer, "Innovaccer Launches Atlas: The Population Health Operating System to Deliver Outcomes Beyond Value-Based Care," press release, January 22, 2026.](https://innovaccer.com/resources/news))
+
+## Optum Advisory flags coding exposure under TEAM
+
+Optum Advisory, a consulting arm of UnitedHealth Group, published an analysis in November finding that most hospitals mandated into TEAM will face financial exposure once downside risk begins in 2027.
+
+The firm’s sharper finding concerned coding, not payment policy: one facility it studied had left roughly two-thirds of its episodes without the diagnosis codes needed to secure favorable risk adjustment. For Optum, whose business model favors advisory fees over software subscriptions, this is a sales pitch as much as a research finding.
+
+(Source: [Advisory.com (Optum), "What hospitals need to know about TEAM for 2026," November 25, 2025.](https://www.advisory.com/topics/policy-and-payment/hospitals-need-to-know-team))
+(Source: [Optum, Cleveland Clinic bundled payment case study.](https://www.optum.com))
+
+## Milliman makes the actuarial case
+
+Milliman, an actuarial firm, is making its own case through data rather than diagnosis. Its MedInsight Bundles product, promoted in a November write-up, offers hospitals episode-level profitability tracking and settlement auditing for TEAM.
+
+A January outlook named TEAM and the newer Ambulatory Surgical Model among the top issues facing health systems this year, and a February note extended Milliman’s pitch to skilled-nursing facilities eyeing partnerships with hospitals under the model.
+
+(Source: [Milliman/MedInsight, "Turning CMS’s TEAM Model into a competitive advantage," November 26, 2025.](https://www.medinsight.com/healthcare-data-analytics-resources/blog/beyond-compliance-turning-cmss-team-model-into-a-competitive-advantage))
+(Source: [Milliman, "6 issues Milliman is watching for health systems and provider organizations in 2026," January 8, 2026.](https://www.milliman.com/en/insight/6-issues-milliman-health-systems-provider-2026))
+(Source: [Milliman, "The CMS Transforming Episode Accountability Model: 4 reasons why it’s an opportunity for skilled nursing facilities…," February 5, 2026.](https://www.milliman.com/en/insight/cms-transforming-episode-nursing-team))
+
+## CMS proposes CJR-X
+
+CMS, the federal agency that runs Medicare, proposed on April 10th a new mandatory bundled-payment model, CJR-X, that would eventually cover more than 2,500 hospitals nationwide — more than three times the number mandated into TEAM.
+
+If finalized, it would take effect on October 1st, 2027, and apply nationwide to joint-replacement episodes, a marked departure from TEAM’s regional pilot design. None of the three companies above have yet said a public word about it.
+
+(Source: CMS, FY2027 Inpatient Prospective Payment System (IPPS) Proposed Rule (CJR-X), April 10, 2026.)
+(Source: [Forvis Mazars, "CJR-X: Unpacking CMS’ New Mandatory Bundled Payment Model," May 2026.](https://www.forvismazars.us/forsights/2026/05/cjr-x-unpacking-cms-new-mandatory-bundled-payment-model))
+(Source: [Bass, Berry & Sims, "CMS Proposes Nationwide Mandatory Bundled Payment Model for Joint Replacements," April 2026.](https://www.bassberry.com/news/cms-proposes-nationwide-mandatory-bundled-payment-model-for-joint-replacements))
+(Source: Lexology, "CMS Proposes Resurrection and Nationwide Expansion of Mandatory Joint Replacement Bundled Payment Model (CJR-X)," April 2026.)
+
+## Looking ahead
+
+TEAM itself enters a quieter phase. The model’s first year carries no downside financial risk, giving hospitals what one analyst called a "dress rehearsal." That grace period ends in 2027, when penalties of up to a fifth of a hospital’s target reimbursement come into force — precisely the moment CJR-X is due to arrive alongside it.
+
+(Source: [CMS, "TEAM (Transforming Episode Accountability Model)," model page.](https://www.cms.gov/priorities/innovation/innovation-models/team-model))
+(Source: [HFMA, "Hospitals can use 2026 to prepare for CMS TEAM bundled payment risk," March 7, 2026.](https://www.hfma.org/payment-reimbursement-and-managed-care/hospitals-can-use-2026-to-prepare-for-cms-team-bundled-payment-risk))
+(Source: ACS Bulletin, "New TEAM Payment Model Brings Opportunities, Challenges for Surgeons and Hospitals," January 2025.)
+
+---
+
+*Optum, Milliman, and CJR-X had no internal Slack mentions as of this writing. Those items are built entirely from public research at Ahmed Qureshi’s request, to cover all three named competitors alongside the items sourced from #general.*
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

@@ -36,3 +36,5 @@ data/cache/
 # Combined drop-on-Netlify site, fully regenerated from per-report netlify/
 # staging output by tools/build_website.py -- not a source, don't track it.
 /website/
+
+.firebase/

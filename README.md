@@ -1,84 +1,62 @@
-# Rainfall CMS TEAM reports
+# Stratus
 
-Quarto + R source for Rainfall Health **CMS TEAM** whitepapers and draft state/territory briefings. Open **`states/<name>/`** or **`regions/<name>/`** — each folder is its own Quarto project with local render output and a **`netlify/`** staging folder for deploy (gitignored).
+**Stratus** is Rainfall Health's data intelligence, research, and interactive reporting platform for the CMS Transforming Episode Accountability Model (TEAM) and bundled payments.
 
-**Repository:** [github.com/kmcauliffe-rainfall/rainfall-reports](https://github.com/kmcauliffe-rainfall/rainfall-reports)
+- **Production Live URL (Firebase)**: [https://stratus-510519.web.app](https://stratus-510519.web.app)
+- **GitHub Repository**: [https://github.com/Artometrics/stratus](https://github.com/Artometrics/stratus)
+- **GitHub Pages**: [https://artometrics.github.io/stratus/](https://artometrics.github.io/stratus/)
 
-## Report folders
+---
 
-| Folder | Main file | Status |
-|--------|-----------|--------|
-| [`states/california/`](states/california/) | `california.qmd` | Whitepaper (Netlify-ready) |
-| [`states/colorado/`](states/colorado/) … [`states/tennessee/`](states/tennessee/) | `index.qmd` | Drafts |
-| [`regions/norcal-pnw-rockies/`](regions/norcal-pnw-rockies/) … [`regions/south-midwest/`](regions/south-midwest/) | `index.qmd` | Drafts |
+## Running in Cursor
 
-Shared code and CMS data: [`R/`](R/), [`data/`](data/), [`styles/`](styles/), [`assets/`](assets/). Each report folder also has `assets/`, `fonts/`, and `styles/` (from `tools/link_report_assets.sh`).
+To open and run the project in **Cursor**:
 
-Every report folder includes:
-
-- `_quarto.yml`, `{name}.Rproj`, `.Rprofile` (uses repo-root renv)
-- `deploy-netlify.sh` → renders and stages **`netlify/`** for upload
-- `netlify.toml` (California has full headers; drafts use minimal config)
-
-Deployed sites use **`robots.txt` (Disallow: /)**, **`noindex`** meta, and **`X-Robots-Tag`** — unlisted, not search-engine friendly. Anyone with the URL can still view the page.
-
-## One-time setup
-
-From the **repo root**:
+1. Open the folder `~/Desktop/stratus` in Cursor (`File > Open Folder...`).
+2. When prompted, install recommended extensions (`quarto.quarto`, `REditorSupport.r`, `esbenp.prettier-vscode`).
+3. Open a terminal in Cursor (`Ctrl + \`` or `Cmd + \``) and run:
 
 ```bash
-Rscript -e 'renv::restore(prompt = FALSE)'
-./tools/link_report_assets.sh
+# Start the local hot-reloading development preview
+npm run preview
+# (or: quarto preview)
 ```
 
-## Work on California
+The browser will open with the full Stratus platform running locally.
 
-```bash
-cd states/california
-quarto render                    # california.html + california.pdf in this folder
-open california.html             # local preview
-./deploy-netlify.sh              # builds netlify/ for upload
+---
+
+## Available Commands
+
+| Command | Description |
+|---------|-------------|
+| `npm run preview` | Runs the Quarto local development server with instant reload |
+| `npm run build` | Compiles the full static site into `_site/` |
+| `npm run convert` | Re-runs the article conversion script (`tools/convert_articles.py`) |
+| `npm run deploy` | Deploys the built static site to Firebase Hosting |
+
+---
+
+## Platform Structure
+
+```
+stratus/
+├── _quarto.yml              # Quarto website configuration and navbar
+├── index.qmd                # Stratus homepage
+├── media.qmd                # Filterable media index matching corporate UI
+├── articles/                # 48+ converted 2-column research articles
+├── states/                  # State-level whitepapers (California, New York, Florida, etc.)
+│   └── california/          # Includes interactive audio listen-along player
+├── regions/                 # Regional briefings (Northeast, South & Midwest, etc.)
+├── newsletter/              # Investigative briefs and CJR market analysis
+├── assets/                  # Media banners, author portraits, and brand SVGs
+├── styles/                  # stratus-media.css (Rainfall Health corporate design system)
+└── tools/                   # Automation scripts (convert_articles.py, link_report_assets.sh)
 ```
 
-**Listen along:** The web player uses [`audio/california-narration.mp3`](states/california/audio/california-narration.mp3). The **script** is [`california-narration.txt`](states/california/california-narration.txt), rebuilt on every `quarto render` from `R/write_ca_narration.R` (sections 01–06, aligned with the article). The **MP3 does not update automatically** — after render, paste the new `.txt` into ElevenLabs, export audio to `states/california/audio/california-narration.mp3`, then `./deploy-netlify.sh`.
+---
 
-Drag **`states/california/netlify/`** to [app.netlify.com/drop](https://app.netlify.com/drop), or use the Netlify CLI (no global install required):
+## Deployment
 
-```bash
-cd states/california
-npx netlify-cli login          # once, opens browser
-npx netlify-cli deploy --prod --dir=netlify
-```
-
-Optional: `brew install netlify-cli` or `npm install -g netlify-cli`, then `netlify deploy --prod --dir=netlify`.
-
-Draft states/regions: same pattern inside their folder (`quarto render`, `./deploy-netlify.sh`).
-
-## Render all projects
-
-```bash
-Rscript R/render_all.R
-Rscript R/render_all.R pdf
-```
-
-## Refreshing CMS data
-
-From repo root with renv active:
-
-```r
-source("R/00_setup.R"); source("R/06_cms_roster.R")
-source("R/01_load_data.R"); source("R/05_cms_hrrp.R")
-refresh_team_roster(list_label = "TEAM Participant List - 2026Q3")
-refresh_hrrp_summary(load_team_hospitals("CA")$ccn)
-```
-
-## Prerequisites
-
-- [Quarto](https://quarto.org/docs/get-started/) ≥ 1.5
-- [R](https://cran.r-project.org/) ≥ 4.3
-
-## Regenerate draft copy from website MDX
-
-```bash
-python3 tools/build_draft_reports.py
-```
+- **Firebase Hosting**: Run `npm run deploy` to publish changes to Firebase CDN edge nodes.
+- **GitHub Pages**: Pushes to `main` automatically trigger `.github/workflows/deploy.yml` to build and deploy to GitHub Pages.

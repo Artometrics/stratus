@@ -1,0 +1,175 @@
+---
+title: "CMS TEAM Update: What the Latest Medicare Reimbursement Guidance Means for Mandated Hospitals"
+description: "CMS TEAM update: the FY2027 proposed rule and CJR-X proposal signal where Medicare reimbursement is heading for mandated hospitals."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">CJR-X</span> <span class="article-tag-pill">Regulatory Update</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">CMS TEAM Update: What the Latest Medicare Reimbursement Guidance Means for Mandated Hospitals</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">The FY2027 IPPS proposed rule updates TEAM’s target-price and quality policies and introduces the nationwide CJR-X model — here is what changed and what it means.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed \&quot;Eddie\&quot; Qureshi, CEO" class="author-avatar"> <span>Ahmed \"Eddie\" Qureshi, CEO</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 03, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-comparison-docs.jpg" alt="CMS TEAM Update: What the Latest Medicare Reimbursement Guidance Means for Mandated Hospitals" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- FY2027 IPPS proposes CJR-X
+- Joint replacement expands nationally
+- TEAM footprint may grow
+- Hospitals should watch the rule
+</div></aside>
+
+Since TEAM went live on January 1, 2026, the biggest **Medicare reimbursement news** for participants has been regulatory. On April 10, 2026, CMS published the FY2027 IPPS proposed rule, which included proposed updates to TEAM (episode-category triggers, quality-measure assessment, and target-price construction) and, most notably, proposed the Comprehensive Care for Joint Replacement Expanded (CJR-X) model — a nationwide mandatory LEJR bundle set to begin October 1, 2027.
+
+## What did CMS propose for TEAM?
+
+Per Milliman’s analysis of the proposed rule, CMS proposed rolling the Composite Quality Score baseline period forward annually and shifting certain baseline periods to a July–June window to align with the Hospital IQR and Hospital-Acquired Condition programs. CMS also issued requests for information on ambulatory surgical center episodes and on voluntary hospital participation.
+
+## What is the CJR-X signal?
+
+CJR-X would make LEJR accountability nationwide; TEAM participants would be exempt during TEAM’s run. The American Hospital Association reiterated support for value-based care while flagging concerns about mandatory models. AHA SVP Ashley Thompson stated that "mandatory participation presents significant challenges, particularly for hospitals that lack the scale or financial capacity to make the necessary investments in care redesign. A phased or voluntary approach would better support success."
+
+## What is the comment period and timeline?
+
+The comment period closed June 9, 2026. A final rule is expected in late 2026.
+
+## What does this mean for mandated hospitals?
+
+Downside risk still begins for TEAM participants in 2027, and the proposed changes reinforce that CMS is doubling down on mandatory episode accountability — not retreating from it.
+
+## Frequently asked questions
+
+### What's the latest CMS TEAM news?
+
+The most significant recent development is the FY2027 IPPS proposed rule, released April 10, 2026, which proposed TEAM policy updates and introduced the nationwide CJR-X model.
+
+### What is CJR-X?
+
+CJR-X is a proposed nationwide mandatory lower extremity joint replacement (LEJR) bundled-payment model, proposed to start October 1, 2027.
+
+### When did the CJR-X comment period close?
+
+The public comment period on the FY2027 IPPS proposed rule, which includes CJR-X, closed June 9, 2026.
+
+### Did CMS TEAM's start date change?
+
+No. CMS TEAM launched as scheduled on January 1, 2026, and that date has not changed.
+
+### When is the CJR-X final rule expected?
+
+A final rule is expected in late 2026.
+
+<BlogReferences items={[{"id":1,"text":"CMS, FY2027 IPPS Proposed Rule — CJR-X proposal, April 2026.","url":"https://www.federalregister.gov"},{"id":2,"text":"Forvis Mazars, \"CJR-X: Unpacking CMS’ New Mandatory Bundled Payment Model,\" May 2026.","url":"https://www.forvismazars.us/forsights/2026/05/cjr-x-unpacking-cms-new-mandatory-bundled-payment-model"},{"id":3,"text":"Bass, Berry & Sims, \"CMS Proposes Nationwide Mandatory Bundled Payment Model for Joint Replacements,\" April 2026.","url":"https://www.bassberry.com/news/cms-proposes-nationwide-mandatory-bundled-payment-model-for-joint-replacements"},{"id":4,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model resources.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

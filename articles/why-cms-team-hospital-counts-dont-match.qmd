@@ -1,0 +1,218 @@
+---
+title: "Why CMS TEAM Hospital Counts Don\u2019t Match: 741, 721, and the Roster Confusion"
+description: "Why CMS TEAM hospital counts disagree: September 2024 list (~741), March 2026 active roster (721), trade-press variants, and how closed/merged/IPPS exits create 717\u2013720-style tallies."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Hospital Roster</span> <span class="article-tag-pill">Data Explainer</span> <span class="article-tag-pill">Compliance</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Why CMS TEAM Hospital Counts Don’t Match: 741, 721, and the Roster Confusion</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">Press clips, CMS pages, and internal spreadsheets still disagree on how many hospitals are in TEAM. Here is what each number means — and which figure Rainfall treats as source of truth.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-myths-warning.jpg" alt="Why CMS TEAM Hospital Counts Don’t Match: 741, 721, and the Roster Confusion" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- 721 is Rainfall’s active source of truth
+- 741 is the Sept 2024 public list
+- Closures and merges explain the drop
+- DIY subtractions create 717–720 myths
+- Check CCN and CBSA, not headlines
+</div></aside>
+
+## Why do different sources cite different TEAM hospital counts?
+
+If you have sat in a TEAM steering committee lately, you have probably heard three incompatible sentences in the same hour: “CMS says **721**,” “our deck still says **741**,” and “someone on LinkedIn said it’s really **~718**.” None of those speakers is necessarily lying. They are usually looking at **different snapshots** of a living participant list — or subtracting hospitals by hand without a published inactive file.
+
+Rainfall Health’s Sandbox map and research hub use **721 active hospitals** from the **March 2026** CMS TEAM participant update, embedded in `territoryHospitals.json`. That is the figure we recommend CFOs and compliance teams standardize on unless CMS publishes a newer file.
+
+This explainer walks through each common number, what it actually represents, and how a hospital can verify its own status without trusting a slide deck from last fall.
+
+(Source: [CMS TEAM model page; Rainfall Health March 2026 roster.](https://www.cms.gov/priorities/innovation/innovation-models/team-model))
+
+<BlogFastFacts label={"Fast Facts — Roster numbers"} items={["741 — September 2024 CMS public participant list (historical)","721 — March 2026 active participants (Rainfall source of truth)","714 / ~740 / 742 — trade-press variants; not authoritative","~717–720 — typically DIY tallies after informal “exits” without a CMS inactive file","11,720 — HRRP hospital-condition pairs (unrelated","do not confuse with hospital count)","Maryland — excluded via Total Cost of Care Model (not a “missing” TEAM state error)"]} />
+
+## What does 741 mean?
+
+**741** (sometimes rounded in secondary coverage) refers to the **September 2024** CMS TEAM participant list that circulated widely after the final rule and early model communications. Many consulting decks, newsletters, and internal trackers froze that number as “the roster.”
+
+That list was real. It is also **out of date** for operational planning in mid-2026. Hospitals close, merge under a surviving CCN, convert payment status away from IPPS/OPPS combinations required for TEAM, or otherwise leave the active participant set. CMS’s public materials and subsequent updates moved the active count to **721**.
+
+## What does 721 mean — and why does Rainfall use it?
+
+**721** is the active participant count on the **March 2026** CMS TEAM update that Rainfall ingested into the territory map. Every state hospital profile, region hub, and Tools page in Sandbox that cites a national total uses this figure.
+
+Territory rollups sum exactly to 721: Territory 1 **160** + Territory 2 **161** + Territory 3 **236** + Territory 4 **164**. If your internal total does not reconcile to one of those territory sums, you are not looking at the same file.
+
+<div class="blog-table-scroll not-prose">
+
+| Figure | Vintage / meaning | Use it for? |
+| --- | --- | --- |
+| 741 | Sept 2024 CMS public list | Historical comparison only |
+| 721 | March 2026 active participants | Current planning & Sandbox map |
+| 714 / ~740 / 742 | Trade press / secondary summaries | Cite with attribution; do not plan against |
+| ~717–720 | Informal exits subtracted by hand | Hypothesis — verify each CCN |
+| 11,720 | HRRP hospital-condition pairs | Readmissions analysis — not TEAM count |
+
+</div>
+
+## Where do 720, 718, and 717 come from?
+
+There is **no official CMS “720 hospitals” TEAM total** in Rainfall’s working files. When people say 720, they are often (a) misremembering 721, (b) confusing TEAM with an **HRRP** statistic (our HRRP article analyzes **11,720** hospital-condition pairs), or (c) looking at a scraped table that dropped a row.
+
+Tallies around **717–718** usually appear when a consultant or hospital system subtracts “three hospitals that closed” or “a few that merged” from 721 **without** a CMS-published inactive list. Those exits may be directionally true — closures, mergers, and IPPS-status changes are exactly why 741 fell to 721 — but **DIY subtraction is not a new official roster**. Until CMS publishes the next file, treat 717/718 as a rumor that must be verified CCN by CCN.
+
+If three additional hospitals leave after March 2026, the correct process is: wait for CMS’s update (or confirm via your CMS Innovation Center contacts), then revise. Do not silently ship a new “official” number into board materials.
+
+## How should hospital leaders verify their own status?
+
+1. Confirm your CCN’s primary address CBSA against the CMS-selected CBSA list — TEAM is geographic, not brand-based.
+2. Check whether you are paid under IPPS (and OPPS as required) — payment-status changes can remove you even if the building still operates.
+3. Reconcile any “741” spreadsheet to the March 2026 721-hospital file hospital-by-hospital.
+4. Use Rainfall’s /territory-map to see the active directory Rainfall uses in research.
+5. Document the vintage of every roster you present to the board (“CMS list as of March 2026”).
+
+Compliance and finance should agree on a **single roster owner**. Most of the confusion we see is organizational: strategy uses 741, quality uses a consultant PDF, and the CFO uses 721 from a webinar — then the reconciliation meeting becomes theology.
+
+## What Rainfall will keep consistent going forward
+
+Rainfall Health site copy, the Tools page, and CMS TEAM hospital profiles standardize on **721 active hospitals (March 2026)**. Mentions of **741** will be labeled as the September 2024 historical list. Trade-press variants remain attributed, not authoritative.
+
+When CMS publishes the next participant update, Rainfall will revise `territoryHospitals.json`, territory legend counts, and this explainer’s “source of truth” sentence in the same release.
+
+## Frequently asked questions
+
+### How many hospitals are in CMS TEAM right now?
+
+Rainfall uses 721 active participants from the March 2026 CMS TEAM update as the current source of truth.
+
+### Why do people still say 741?
+
+741 reflects the September 2024 CMS public participant list that many decks froze. Subsequent closures, mergers, and IPPS-status changes reduced the active count to 721.
+
+### Is the real number 718?
+
+Not as an official CMS total in our files. Figures near 717–718 usually come from informal subtraction of exits. Verify each CCN against CMS before planning to that number.
+
+### What about 720?
+
+720 is not an authoritative TEAM hospital total here. It is often a misremembered 721 or a confusion with unrelated CMS statistics (e.g., HRRP pair counts).
+
+### Are Maryland hospitals “missing” from 721?
+
+Maryland is excluded from TEAM because of the Maryland Total Cost of Care Model — that is a design choice, not a roster error.
+
+<BlogReferences items={[{"id":1,"text":"Centers for Medicare & Medicaid Services. (2026). TEAM participant list (March 2026 update). CMMI.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":2,"text":"Centers for Medicare & Medicaid Services. (2024, September). TEAM participant list (initial public list). CMMI.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":3,"text":"Centers for Medicare & Medicaid Services. (2024, August). Transforming Episode Accountability Model: Final Rule. Federal Register, 89(166), 68986–69178.","url":"https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems"},{"id":4,"text":"Rainfall Health. (2026). territoryHospitals.json — active CMS TEAM hospital directory used by the Rainfall Health TEAM territory map (721 hospitals)."},{"id":5,"text":"Dummit, L. A., et al. (2016). Association between hospital participation in a Medicare bundled payment initiative and payments and quality outcomes for lower extremity joint replacement episodes. JAMA, 316(12), 1267–1278.","url":"https://doi.org/10.1001/jama.2016.12717"},{"id":6,"text":"Finkelstein, A., Ji, Y., Mahoney, N., & Skinner, J. S. (2018). Mandatory Medicare bundled payment program for lower extremity joint replacement and discharge to institutional postacute care: Interim analysis of the first year of a 5-year randomized trial. JAMA, 320(9), 892–900.","url":"https://doi.org/10.1001/jama.2018.12346"},{"id":8,"text":"American College of Surgeons. (2024). Transforming Episode Accountability Model (TEAM): ACS position and analysis.","url":"https://www.facs.org/advocacy/transforming-episode-accountability-model/"},{"id":9,"text":"Healthcare Financial Management Association. (2026, March). Hospitals can use 2026 to prepare for CMS TEAM bundled payment risk.","url":"https://www.hfma.org/payment-reimbursement-and-managed-care/hospitals-can-use-2026-to-prepare-for-cms-team-bundled-payment-risk"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

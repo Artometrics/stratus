@@ -1,0 +1,632 @@
+---
+title: "The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions"
+description: "Why care transitions stall even when everyone wants them to work \u2014 and why lawyers belong in the room early. UC Health's Cora Han on governance and AI."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">Health Data Governance</span> <span class="article-tag-pill">Responsible AI</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">care coordination</span> <span class="article-tag-pill">interoperability</span> <span class="article-tag-pill">healthcare leadership</span> <span class="article-tag-pill">UC Health</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed &quot;Eddie&quot; Qureshi" class="author-avatar"> <span>Ahmed "Eddie" Qureshi</span></span> <span class="author-chip"><img src="/assets/authors/cora-han.png" alt="Cora Han, JD" class="author-avatar"> <span>Cora Han, JD</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">October 05, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_the_trust_gap_cora_han.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/1a90539c"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Health data carries dual obligations.
+- Late lawyers cause project delays.
+- Trust—not technology—blocks care interoperability.
+- Thin margins punish bad procurement.
+- AI evaluation requires clinical governance.
+- Technology must redefine continuous care.
+</div></aside>
+
+---
+
+_Based on Episode 11 of the Rainfall Health Podcast: [Cora Han](https://www.linkedin.com/in/cora-han-9a74a14/), Chief Health Data Officer at the University of California Health (UC Health) and former senior enforcement attorney in the Federal Trade Commission’s Division of Privacy and Identity Protection, in conversation with Rainfall Health founder and CEO Ahmed "Eddie" Qureshi._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/PWTNlqFmJWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+Most conversations about health data start with the pipe: the API, the FHIR standard, the electronic health record integration, or the vendor portal.
+
+Cora Han's starts on the opposite side of the table: with trust, institutional obligation, and legal sequencing.
+
+As Chief Health Data Officer at University of California Health — overseeing health data governance across an academic health system comprising five medical centers, dozens of clinics, and thousands of care teams — Han guides how patient data is protected, managed, and put to work at scale.
+
+Her vantage point is virtually unique in American healthcare. She trained as an intellectual property attorney handling copyright, trademark, and privacy litigation before spending nearly a decade at the Federal Trade Commission's (FTC) Division of Privacy and Identity Protection. There, she led high-stakes technology enforcement actions alongside regulatory partners at the Department of Health and Human Services (HHS), the Office of the National Coordinator for Health IT (ONC), the Office for Civil Rights (OCR), and the FDA.
+
+At the FTC, she saw what happens when sensitive consumer and patient data is mishandled, monetized without consent, or left unprotected. At UC Health, she sees the opposite: how much clinical good that exact same data unlocks when mobilized responsibly across a care continuum.
+
+> It is really our duty to be able to use health data to improve care, to be able to improve people's lives.
+>
+> — Cora Han
+
+That duality means Han reads neither as an organizational brake nor as an uncritical technology accelerator. For health system executives preparing for mandatory bundled models like [CMS TEAM](/cms-team/), CIOs evaluating generative AI, and digital health founders building for health systems, her counsel is fundamentally about **sequencing**: aligning the clinical workflow, stakeholder incentives, and governance guardrails long before signing software contracts.
+
+---
+
+## What Does a Chief Health Data Officer Actually Do?
+
+To outside observers, a data governance role sounds like an endless cycle of policy memos and regulatory compliance checklists. In practice, Han describes the role as fundamentally operational.
+
+Every morning begins with a concrete problem that someone wants health data to solve:
+
+1. **Operations**: Enabling hospital operations teams to track bed availability, surgical throughput, and staffing ratios across five distinct medical campuses.
+2. **Population Health**: Helping clinical quality leaders identify patients with chronic diseases who are due for preventive screenings before acute complications develop.
+3. **Efficiency**: Streamlining administrative workflows so physicians and nurses spend less time charting and more time with patients.
+4. **Translating Research to Bedside**: Creating secure, compliant data enclaves where academic researchers and clinicians can collaborate to develop new therapeutics, validate algorithms, and test novel care pathways.
+
+In every case, the technical capability to move the data is rarely the hardest part. The challenge is ensuring that data use serves a verified institutional need, complies with federal and state privacy statutes, and preserves patient confidence.
+
+---
+
+## The Two Sides of Health Data: Obligation vs. Guardrail
+
+In consumer software, data optimization drives clicks and ad revenue. In healthcare, the stakes are clinical outcomes and human lives. Withholding data or trapping it in clinical silos directly compromises care quality, causes duplicate diagnostic testing, delays post-acute placement, and drives up preventable readmissions.
+
+<div
+  class="blog-compare not-prose"
+  aria-label="The Dual Imperative of Health Data"
+>
+  <div class="blog-compare__heads">
+    <p class="blog-compare__head blog-compare__head--safety">
+      The Clinical Obligation
+    </p>
+    <p class="blog-compare__head blog-compare__head--system">
+      The Fiduciary Guardrail
+    </p>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Core Imperative</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Mandate</p>
+      <p>
+        <strong>Use data to heal:</strong> Failing to mobilize patient records
+        carries direct morbidity and financial costs. Clinicians cannot
+        coordinate what they cannot see across fragmented care boundaries.
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Boundary</p>
+      <p>
+        <strong>Protect patient trust:</strong> Unsanctioned secondary use or
+        commercial data leakage destroys the public trust upon which voluntary
+        care delivery depends. Without trust, patients withhold vital symptoms.
+      </p>
+    </div>
+  </div>
+</div>
+
+When health system leaders treat privacy purely as a justification to say "no," they neglect their clinical duty to use data to improve care. Conversely, when technology vendors view clinical records as training fodder for commercial foundation models, they risk devastating regulatory penalties and institutional reputational damage.
+
+---
+
+## Why Do Lawyers Get Blamed for Slowing Down Innovation?
+
+One of the most persistent refrains among health technology founders and clinical innovators is that legal and compliance teams are "where good ideas go to die."
+
+Han rejects that framing outright:
+
+> Lawyers don't slow projects down. Late lawyers do.
+>
+> — Cora Han
+
+The breakdown occurs when a clinical or operational team spends nine to twelve months evaluating a software vendor, refining a pilot scope, and configuring dashboards, only to hand the completed vendor agreement to legal two weeks before the targeted go-live date.
+
+At that late stage, in-house counsel uncovers fundamental structural flaws:
+
+- Overbroad data rights that run afoul of HIPAA or state privacy statutes (such as California's CMIA).
+- Inadequate cybersecurity protocols or undisclosed downstream sub-processors.
+- Ambiguous data retention, re-identification, or secondary model-training clauses.
+- Workflow assumptions that create regulatory or clinical liability under Medicare programs.
+
+When legal raises these critical flags, the project grinds to a halt. The operational champions blame legal for obstruction. In reality, the initiative stalled because governance was treated as an afterthought rather than a primary architecture requirement.
+
+### How to Build Multidisciplinary Alignment
+
+To avoid the late-lawyer trap, health systems must establish a structured, multidisciplinary table from day one:
+
+- **Dedicated Governance Forums**: Convening clinical champions, IT security engineers, and legal counsel on a recurring schedule so evaluations do not stall in scheduling purgatory.
+- **A Shared Vocabulary**: Clinicians, data scientists, and attorneys must learn enough of each other's domain to communicate without suspicion. Compliance concerns must be specific and grounded, not used as a generic veto.
+- **A Single Problem Statement**: Defining precisely what clinical friction is being resolved, why existing systems cannot solve it, and what minimal data set is required.
+
+---
+
+## Why Does Real-World Interoperability Break Down Between Hospitals and SNFs?
+
+Under CMS's mandatory Transforming Episode Accountability Model ([CMS TEAM](/cms-team/)), [721 hospitals](/cms-team/participating-hospitals/) are held financially accountable for total Medicare Part A and B spending across a 30-day post-discharge window following five major inpatient surgical episodes:
+
+- Lower-extremity joint replacement (LEJR)
+- Surgical hip and femur fracture treatment (SHFFT)
+- Coronary artery bypass graft (CABG)
+- Major bowel procedures
+- Spinal fusion
+
+Because the majority of complications, readmissions, and spending occur **after the patient leaves the acute care hospital** — in skilled nursing facilities (SNFs), inpatient rehabilitation facilities, and home health agencies — TEAM is, in practice, a distributed care coordination and data-sharing mandate.
+
+When asked why data does not flow smoothly across this continuum, Han chooses a precise word: **uneven**.
+
+<div class="blog-table-scroll not-prose">
+
+| Care Continuum Setting      | Technology Infrastructure                                                                | Dedicated Resources                                                      | Primary Operational Focus                                            |
+| :-------------------------- | :--------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| **Acute Care Hospitals**    | Enterprise EHR (Epic/Cerner), real-time HL7/FHIR feeds, automated clinical alert systems | In-house legal counsel, data security engineers, clinical informaticists | Acute stabilization, surgical intervention, throughput, bed capacity |
+| **Skilled Nursing (SNFs)**  | Fragmented point-of-care EHRs, manual portal data entry, legacy software                 | Lean administrative teams, high nursing turnover, outsourced IT          | Functional rehabilitation, ADL recovery, medication administration   |
+| **Community Organizations** | Paper charts, spreadsheets, unscheduled phone calls, secure faxes                        | Social workers, patient navigators, family caregivers, case managers     | Social drivers of health (SDOH), housing, nutrition, transportation  |
+
+</div>
+
+The friction across this care continuum does not stem from a lack of goodwill. Surgeons, hospital case managers, SNF directors of nursing, and home health coordinators all want the patient to heal without complication. The breakdown stems from four structural disparities:
+
+1. **Storage Disparities**: Legacy EHR platforms that do not speak the same clinical dialects or format transition summaries consistently.
+2. **Process Fragmentation**: Incompatible handoff timelines, referral documentation standards, and medication reconciliation workflows.
+3. **Resource Asymmetry**: Large medical systems possess multi-million-dollar health informatics teams; post-acute facilities often rely on single-person contracted IT support.
+4. **Data Capture Variance**: The acute-care chart captures surgical minutiae; the post-acute facility needs functional mobility, wound status, and social support availability.
+
+As Eddie Qureshi emphasized during the discussion, health policy cannot assume an idealized world where every nursing home runs the same infrastructure as an academic medical center. Technology must meet providers where they operate today.
+
+---
+
+## It's Not the Pipes. It's the Trust.
+
+For more than two decades, the healthcare industry has treated interoperability as a plumbing problem: deploy FHIR APIs, connect to regional health information exchanges (HIEs), establish Direct secure messaging protocols, and data will flow.
+
+Yet data sharing across acute and post-acute care remains persistently fragmented. Why?
+
+> Asked for the biggest challenge, she offers one broad word: There is a trust gap. It's not the pipes. It's the trust.
+>
+> — Cora Han
+
+Han dissects this trust gap across two operational planes:
+
+### 1. Trust Between Institutional Care Partners
+
+Hospitals and post-acute facilities are frequently competitors in certain outpatient service lines while being forced collaborators under bundled payment models. When a hospital requests direct access to a post-acute partner's clinical records, immediate questions arise:
+
+- _Will you use our clinical documentation to evaluate, penalize, or deselect our facility from your preferred network?_
+- _How will the data be transmitted, and who assumes financial liability if a breach occurs?_
+- _Who is legally liable if a missed notification or incomplete transfer leads to an adverse patient event?_
+
+Without bounded, pre-negotiated legal frameworks, providers default to defensive data withholding.
+
+### 2. Trust With Patients
+
+Patients are acutely aware of the commercialization of personal information. If patients fear their surgical details, biometric readings, or health status will be shared with data brokers, commercial insurers, or advertisers, they withhold sensitive details from their doctors.
+
+True interoperability unlocks only when both planes are resolved: institutions agree on purpose-bound operational scopes, and patients know their information is guarded by enforceable institutional commitments.
+
+---
+
+## How Should Hospitals on 0.75% Margins Evaluate Healthcare AI?
+
+With median health system operating margins hovering around **0.75%**, hospital leadership teams have zero financial tolerance for software shelfware. Every dollar committed to a technology vendor must deliver measurable clinical or operational return.
+
+Whether evaluating internal development or third-party commercial software, Han outlines the **eight critical questions** that must be resolved before signing:
+
+<div
+  class="blog-compare not-prose"
+  aria-label="Eight Questions Before Healthcare Software Procurement"
+>
+  <div class="blog-compare__heads">
+    <p class="blog-compare__head blog-compare__head--safety">
+      Governance Domain
+    </p>
+    <p class="blog-compare__head blog-compare__head--system">
+      Core Evaluation Question
+    </p>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q1: Clinical Need</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Problem Definition</p>
+      <p>
+        <strong>What exact need is this product trying to serve</strong> — and
+        do our operational and clinical leaders agree that we actually have this
+        need?
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        Reject features searching for a problem. If the frontline clinical
+        workflow does not actively demand it, procurement stops immediately.
+      </p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q2: Comparative Value</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Efficacy & ROI</p>
+      <p>
+        <strong>Will it solve that need measurably better</strong> than the way
+        our care teams solve it today?
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        Software that adds clicks without reducing episode complications,
+        replacing manual labor, or mitigating TEAM downside risk is a net
+        negative.
+      </p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q3: Data Scope</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Data Minimization</p>
+      <p>
+        <strong>What exact data elements does the tool require</strong> — and is
+        only that data in scope?
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        Enforce purpose-bound minimization. Blanket requests for entire patient
+        charts or retrospective enterprise dumps must be rejected.
+      </p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q4: Data Retention</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Lifecycle Management</p>
+      <p>
+        <strong>What are the retention and deletion policies</strong> governing
+        that data once the episode or contract concludes?
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        Contracts must specify strict timelines and verified certification of
+        data purging upon episode completion or agreement termination.
+      </p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q5: Secondary Use</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Model Training Covenants</p>
+      <p>
+        <strong>How do we ensure data is not shared downstream</strong> or used
+        to train commercial foundation models without explicit authorization?
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        Standard Business Associate Agreements (BAAs) do not sufficiently
+        address generative AI. Express non-training covenants are
+        non-negotiable.
+      </p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q6: Model Drift</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Oversight & Change Notice</p>
+      <p>
+        <strong>
+          How will our system be notified when the vendor's underlying model or
+          software updates?
+        </strong>
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        SaaS vendors regularly deploy silent model updates. In clinical decision
+        support or triage, silent model drift introduces catastrophic liability.
+      </p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q7: Ongoing Auditing</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Monitoring & Bias Audits</p>
+      <p>
+        <strong>
+          How will we conduct continuous monitoring, bias audits, and adverse
+          event reporting post-deployment?
+        </strong>
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        Governance does not end at procurement. Metrics for diagnostic accuracy,
+        algorithmic fairness, and clinical impact must be reviewed regularly.
+      </p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Q8: Cybersecurity Controls</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Security Architecture</p>
+      <p>
+        <strong>
+          Are the vendor's cybersecurity controls, certifications, and incident
+          response timelines enterprise-ready?
+        </strong>
+      </p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Evaluation Standard</p>
+      <p>
+        SOC2 Type II, HITRUST certification, robust encryption at rest and in
+        transit, and immediate breach disclosure obligations are mandatory table
+        stakes.
+      </p>
+    </div>
+  </div>
+</div>
+
+---
+
+## What Makes a Health Tech Vendor a True Partner?
+
+For technology companies seeking to partner with health systems, Han shares three core principles that accelerate enterprise adoption far more effectively than a slide deck of software features:
+
+### 1. Respect the Existing Clinical Workflow
+
+Health systems do not have the operational capacity or clinician goodwill to mandate yet another standalone login portal. Technology that forces doctors or care managers to toggle between windows will be ignored. Software must integrate natively into established daily workflows.
+
+### 2. Explain Plainly How the Technology Works
+
+Proprietary "black-box" algorithms will not pass clinical governance committees. Vendors must be capable of demonstrating to medical directors and ethics boards why a model generates specific recommendations, what validation datasets were used, and how algorithmic bias was measured and mitigated.
+
+### 3. Answer Security Questionnaires Fast and Fully
+
+Nothing stalls health system procurement faster than a half-filled security questionnaire or vague answers regarding sub-processors. Vendors that arrive with standardized, pre-packaged SOC2 Type II reports, penetration testing summaries, and architectural diagrams build immediate trust.
+
+---
+
+## A Car Is Not a Fast Horse: Why AI Will Redefine Care Delivery
+
+As the conversation concluded, Eddie Qureshi and Cora Han turned to the long-term trajectory of artificial intelligence across American healthcare.
+
+When the automobile first appeared, early observers described it as a "horseless carriage." The metric of success was straightforward: does it pull a carriage slightly faster or cheaper than a horse? Only years later did society recognize that automobiles fundamentally transformed urban planning, commerce, supply chains, and public health.
+
+Healthcare is currently navigating its "fast horse" era of AI. Systems are deploying tools to draft patient portal replies slightly faster, summarize visit notes a few minutes quicker, or automate routine scheduling calls.
+
+> Don't stop at making existing things go faster. Ask how technology might change the way care is provided. It is really kind of our duty to think in the big picture about what the large-scale potential could be.
+>
+> — Cora Han
+
+When true care-continuum infrastructure is established — connecting acute hospitals, post-acute facilities, and community health workers through shared governance and accountability — healthcare will stop trying to make fragmented, analog processes run faster. It will finally deliver the continuous, proactive care transitions that patients deserve.
+
+---
+
+## Frequently asked questions
+
+### What does a Chief Health Data Officer do at a major health system?
+
+A Chief Health Data Officer (CHDO) oversees health data governance, security, and utilization strategy. At institutions like UC Health, the CHDO bridges clinical operations, IT engineering, research data enclaves, and legal compliance to ensure patient data is used effectively to improve clinical outcomes while safeguarding privacy and institutional trust.
+
+### Why do care transitions fail between acute hospitals and skilled nursing facilities (SNFs)?
+
+Care transitions between hospitals and SNFs typically break down due to structural disparities in health IT infrastructure, incompatible workflow handoffs, and a lack of pre-negotiated trust agreements. While both parties want the patient to heal, defensive data withholding and fragmented EHR systems prevent clinical teams from accessing actionable patient information in real time.
+
+### How does health data governance affect compliance under the CMS TEAM model?
+
+Under CMS TEAM, hospitals are held financially accountable for all Medicare Part A and B spending across a 30-day post-discharge window. Because post-acute providers deliver the majority of care during this period, hospitals must establish secure, compliant, and purpose-bound data agreements to track patient progress, prevent complications, and avoid readmission penalties without violating HIPAA.
+
+### Why do health system lawyers get a reputation for slowing down technology adoption?
+
+As Cora Han explains, "Lawyers don't slow projects down. Late lawyers do." When operational or clinical teams negotiate software contracts for months before bringing in legal counsel, lawyers are forced to halt deployments to resolve critical privacy, cybersecurity, and secondary data-use vulnerabilities that should have been addressed during initial scoping.
+
+### What should health system CIOs ask before procuring healthcare AI software?
+
+CIOs and clinical executives should evaluate eight fundamental governance domains: clinical necessity, comparative clinical efficacy, data minimization, data retention policies, secondary model-training restrictions, model drift notification protocols, ongoing algorithmic auditing, and enterprise cybersecurity certifications (SOC2 Type II, HITRUST).
+
+---
+
+## Download the eBook
+
+<div class="not-prose my-8 p-6 rounded-xl border border-[var(--color-brand-gray-200)] bg-[#f8fafc] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+  <div>
+    <p class="text-xs font-bold uppercase tracking-wider text-[var(--color-brand-blue)] m-0 mb-1">
+      Executive Policy eBook
+    </p>
+    <h3 class="text-lg font-bold text-[var(--color-brand-navy)] m-0">
+      The Trust Gap: Health Data Governance with Cora Han
+    </h3>
+    <p class="text-sm text-[var(--color-brand-gray-600)] m-0 mt-1">
+      Full executive transcript, governance frameworks, and care continuum
+      models in PDF format.
+    </p>
+  </div>
+  <a
+    href="/downloads/eBook_the_trust_gap_cora_han.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-[var(--color-brand-blue)] text-white text-sm font-semibold hover:bg-[var(--color-brand-blue-dark,#1e4fd9)] transition-colors shrink-0 shadow-sm no-underline"
+  >
+    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+      ></path>
+    </svg>
+    Download PDF
+  </a>
+</div>
+
+---
+
+## Get your free CMS TEAM analysis
+
+Rainfall Health will review your 2024 and 2025 Medicare billings and build an individualized view of upside opportunity and downside risk under the CMS TEAM mandate.
+
+- **Schedule a demo and free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+- **CJR-X guide:** [/cjrx/](/cjrx/)
+
+---
+
+## Further reading
+
+- [CMS TEAM Guide: Participating Hospitals, Rules, and Strategy](/cms-team/)
+- [Safety Net Hospitals and CMS TEAM: Dr. Sandra Scott](/post/cms-team-safety-net-hospitals-sandra-scott/)
+- [Compliance Risk Hiding in Plain Sight Under TEAM](/post/compliance-risk-hiding-in-plain-sight-under-team/)
+- [Why CMS TEAM Turned Mandatory: Dr. David Shulkin](/post/why-cms-team-turned-mandatory-shulkin/)
+- [AI Leverage in Care Coordination: Mark Adams](/post/ai-leverage-mark-adams-two-bear-capital/)
+- [Podcast and press](/about/blogs-press-cms-team/)
+
+---
+
+<BlogReferences
+  items={[
+    {
+      id: 1,
+      text: "University of California Office of the President. Center for Data-driven Insights and Innovation (CDI2) — UC Health systemwide analytics, UC Health Data Warehouse, and health data governance (Chief Health Data Officer: Cora Han, JD).",
+      url: "https://www.ucop.edu/uc-health/departments/center-for-data-driven-insights-and-innovations-cdi2.html",
+    },
+    {
+      id: 2,
+      text: "Federal Trade Commission, Bureau of Consumer Protection, Division of Privacy and Identity Protection — consumer privacy and identity protection enforcement (Cora Han’s prior division).",
+      url: "https://www.ftc.gov/about-ftc/bureaus-offices/bureau-consumer-protection/division-privacy-and-identity-protection",
+    },
+    {
+      id: 3,
+      text: "Centers for Medicare & Medicaid Services. Transforming Episode Accountability Model (TEAM) — mandatory episode accountability program overview.",
+      url: "https://www.cms.gov/priorities/innovation/innovation-models/team-model",
+    },
+    {
+      id: 4,
+      text: "Centers for Medicare & Medicaid Services. (2024, August 28). Medicare Program: Hospital Inpatient Prospective Payment Systems… FY2025 IPPS Final Rule, Section X — TEAM Model (42 CFR Part 512). Federal Register, 89(166), 68986–69178.",
+      url: "https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems",
+    },
+    {
+      id: 5,
+      text: "Rainfall Health. RAIN Compliant™ platform — CMS TEAM compliance and episode coordination.",
+      url: "https://www.rainfallhealth.com/team/",
+    },
+  ]}
+/>
+
+---
+
+_Cora Han is Chief Health Data Officer at the University of California Health (UC Health) and former senior enforcement attorney in the Federal Trade Commission’s Division of Privacy and Identity Protection._
+
+_Ahmed "Eddie" Qureshi is Founder and CEO of Rainfall Health and host of the Rainfall Health Podcast._
+
+_This article is for informational purposes only and is not legal, financial, or clinical advice. It reflects a Rainfall Health podcast conversation. CMS TEAM track rules, episode windows, and post-discharge benchmarks reflect Rainfall Health's analysis of CMS regulations. © 2026 Rainfall Health._
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hospitals-that-will-win-on-cms-team-have-already-started.html" class="blog-featured__link">
+                  <img src="/assets/media/mayo-team-readiness-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Hospitals That Will Win on CMS TEAM Have Already Started</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

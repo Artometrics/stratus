@@ -1,0 +1,242 @@
+---
+title: "The Clinical Conscience of a Tech Company"
+description: "Rainfall Health VP of Clinical Implementation on nursing as leadership, AI done right, and why the ripple effects of good healthcare work are never fully seen."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">Clinical Implementation</span> <span class="article-tag-pill">Healthcare Leadership</span> <span class="article-tag-pill">Nursing</span> <span class="article-tag-pill">Health Technology</span> <span class="article-tag-pill">CMS TEAM</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">The Clinical Conscience of a Tech Company</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Robby Wallace" class="author-avatar"> <span>Robby Wallace</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">June 04, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/general/clinical-conscience-banner.png" alt="The Clinical Conscience of a Tech Company" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+Our VP of Clinical Implementation on nursing as leadership, AI done right, and why the ripple effects of good healthcare work are never fully seen.
+
+<BlogLeadQuote>
+  I think of myself as a nurse detective. My strongest instinct is to follow the
+  clinical evidence wherever it leads, connect dots that aren't obviously
+  connected, and then build something that actually changes how care is
+  delivered — not just how it's documented.
+</BlogLeadQuote>
+
+<BlogQuestion
+  number={1}
+  question="How would you describe your specific job to someone who doesn't work in healthcare?"
+/>
+
+As VP of Clinical Implementation for Rainfall Health, I bridge technology and healthcare as the subject matter expert. I ensure health tech actually works in the real world.
+
+Imagine a software company builds a tool meant to help hospitals run better and treat patients more effectively. The engineers know how to build it, and the salespeople know how to sell it — but someone credible needs to deeply understand how doctors, nurses, and hospitals actually operate to ensure the product reflects that reality.
+
+I am that bridge between the tech side and the clinical side, translating clinician-speak into engineer-speak, and vice versa. When a hospital's leadership says, "this doesn't fit how our staff works," I step in to fix it. When the product team designs a new feature, I ensure it aligns with how care is actually delivered for industry standards guided by evidence-based practice.
+
+Beyond that, I am a performance coach for healthcare organizations — helping them measure improvement, identify shortcomings, and make recommendations to implement the right strategies to close those gaps. Think of it like being the clinical conscience of a tech company: equal parts expert advisor, translator, problem-solver, and strategic partner to some of the most senior people in healthcare.
+
+<BlogQuestion
+  number={2}
+  question="What's the best change you've made or seen at a place you've worked?"
+/>
+
+Early in my career, as a staff nurse, I noticed a pattern that concerned me. We saw an increase in at-risk exposures among patients and nursing staff, and I realized our existing infection control and safe handling processes had failure points that nobody had formally connected. Fail-safe measures that were supposed to protect staff were actually putting them at greater risk. The downstream effect was a rise in opportunistic infections that delayed care and extended patient length of stay.
+
+I had just completed my master's thesis in the area of quality improvement and prevention measures for safe handling in clinical settings, so I had both the clinical instincts and the analytical framework to address the issue. I didn't want to wait for someone above me to act — and fortunately, my biggest ally was my unit manager who wanted me to champion this initiative. I developed a new workflow for infection control and safe handling using evidence to support its execution and design. I brought in nurse informaticists and nursing leaders to lead a new design for tracking isolated patients in the EHR system, which improved decision-making in patient placement and tracking.
+
+The result was measurable reductions in both staff and patient exposure. But more than the numbers, what we built was a framework — a way of seeing risk before it became harm.
+
+That experience shaped how I approach every role I've held since. I think of myself as a nurse detective. My strongest instinct is to follow the clinical evidence wherever it leads, connect dots that aren't obviously connected, and then build something that actually changes how care is delivered — not just how it's documented.
+
+<BlogQuestion
+  number={3}
+  question="What's the biggest misconception people might have about your job?"
+/>
+
+That I'm _just_ a nurse. People hear about my clinical background and sometimes assume my value is in giving injections or placing an IV. And yes, albeit true, that is just a small piece. What nursing actually trained me to do is think critically under pressure, identify patterns in complex systems, identify critical gaps in clinical practice, advocate for people who can't advocate for themselves, and drive change in environments that are inherently resistant to it.
+
+The bedside is one of the best leadership schools in the world — you just don't get credit for it until you reframe what people think nursing really is. I don't leave my clinical identity at the door when I walk into an executive meeting. I intentionally bring it with me. I like to think it's my competitive advantage.
+
+<BlogQuestion
+  number={4}
+  question="What's the most fulfilling aspect of your job?"
+/>
+
+I know the work I do creates a ripple effect that I may never fully see, but I know it is real.
+
+At the bedside, it's immediate and personal. I can see the impact on the person in front of me, on their family, on the people who love them. That kind of direct human connection is something I carry with me every single day.
+
+But what drives me at this stage of my career is knowing that the work I do now extends far beyond any single patient. The frameworks I build, the programs I design, the care delivery changes I help implement — those decisions can touch hundreds of thousands of people across this country. People I will never meet. Families I will never know.
+
+That's an enormous responsibility. And it's the greatest privilege I've ever had.
+
+<blockquote class="blog-pull-quote">
+I think about the fact that my hands have touched humanity in ways that
+  compound over time — from one patient, to one protocol, to one health system,
+  to a national standard of care. That unending ripple effect is why I do this
+  work. It's not a job to me. It's purpose.
+</blockquote>
+
+<BlogQuestion
+  number={5}
+  question="What healthcare trend are you most optimistic about? Why?"
+/>
+
+AI — but with an important distinction that often gets lost in most conversations about it. I'm optimistic about AI as a tool and a resource. I'm not thinking about AI as a replacement — and I think that framing matters enormously for how we implement it responsibly.
+
+What excites me is what AI can do for the clinician and for our healthcare system. It can surface patterns in patient data that a human mind can't process at scale. It can reduce the burden that's burning out our workforce. It can flag risk earlier, close gaps in care faster, and give providers more time to do the thing that no algorithm will ever replicate — being present with another human being in a moment of vulnerability.
+
+But here's what I've learned from years of being in the clinical setting: **technology doesn't make health care. People do.** AI is only as good as the clinical judgment guiding how it's used, what it's measuring, and whose outcomes it's optimizing for.
+
+<BlogQuestion
+  number={6}
+  question="What healthcare trend are you least optimistic about? Why?"
+/>
+
+Running lean for financial gain. And I want to be clear about why — because this isn't an abstract concern for me. I've seen what it looks like at the bedside.
+
+When health systems make financial cuts, that cut hits staffing ratios, reduces resources, and strips away what is considered non-essential infrastructure in pursuit of margin. The consequences don't stay in the boardroom — they travel directly to the patient. To the person who waited too long. To the patient who fell through the cracks. To the family who didn't get the explanation they needed. To the nurse who had to choose which of their six patients needed her most in a moment when all six did.
+
+The cruel irony is that running lean often costs more in the long run. Preventable readmissions. Longer lengths of stay. Workforce burnout and turnover. Adverse events that generate liability. The short-term financial logic often undermines the outcomes that determine long-term sustainability.
+
+<blockquote class="blog-pull-quote">
+What concerns me most is when financial decisions are made without clinical
+  voices at the table. When the people designing the cuts have never stood at a
+  bedside and felt the weight of what those cuts actually mean in practice.
+</blockquote>
+
+I've dedicated my career to ensuring that the clinical perspective isn't an afterthought in those conversations — that quality and outcomes have a seat at the table when these strategies are being considered.
+
+<BlogQuestion
+  number={7}
+  question="Tell us one new or old health tech product or platform that's made your life easier, and why?"
+/>
+
+How much time do we have? I say that genuinely — because the honest answer is that this question may date me a bit. From Vocera and VoLTE to Epic Canto, continuous glucose monitoring, the Neulasta OnPro, the Apple Watch, and yes — even Claude. The list is long and it keeps growing.
+
+But here's the thread that connects all of them, and why they've mattered to me:
+
+Nurses only have two hands. Not four. And in clinical practice, the difference between a good outcome and a bad one can come down to seconds — to whether you could reach a physician during a crisis, chart a critical change in real time, or free a patient from a process that was consuming their day.
+
+Vocera and VoLTE gave me my voice when my hands were occupied — literally. Voice activation meant I could locate a teammate or escalate a concern without leaving a patient's side. That's not convenience. That's safety.
+
+Wrist-worn technology meant I could monitor, communicate, and respond without breaking the flow of care. Handheld charting meant documentation happened in the moment, not an hour later from memory — which means it was accurate, and accuracy in clinical documentation saves lives.
+
+Continuous glucose monitoring changed what was possible for patients managing complex conditions — it gave them data, autonomy, and time back in their day to spend on living rather than managing disease.
+
+The Neulasta OnPro meant a cancer patient didn't have to make an extra trip back to an infusion center or clinic the day after chemotherapy. One less burden during the hardest season of their life.
+
+<blockquote class="blog-pull-quote">
+What all of these have in common is that they gave time back — to clinicians,
+  to patients, to families. And time in healthcare isn't just efficiency. It's
+  dignity. It's presence.
+</blockquote>
+
+That's the standard I apply to every technology I evaluate in my work today, whether for personal practice or as professional recommendations. Not — is this innovative? But — does this give someone their time back? Does it make the clinician more human, or less? Does it serve the patient, or just the system? The tools that pass that test are the ones worth investing in.
+
+---
+
+**Further reading:** [What Is the CMS TEAM Model?](/cms-team/) · [R.A.I.N. Compliant™ Platform](/team/) · [Navigating the CMS TEAM Mandate](/post/navigating-the-cms-team-mandate-ebook/)
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

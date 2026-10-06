@@ -1,0 +1,325 @@
+---
+title: "Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data"
+description: "Orthopedic surgeon Dr. Steve Schutzer on why bundled payment analytics and physician-hospital co-management built a 20-year track record \u2014 and what it means for CMS TEAM and CJR-X."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">bundled payment analytics</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">CJR-X</span> <span class="article-tag-pill">value based care analytics</span> <span class="article-tag-pill">risk adjustment value based care</span> <span class="article-tag-pill">bundled payments</span> <span class="article-tag-pill">orthopedic surgery</span> <span class="article-tag-pill">co-management agreement</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed &quot;Eddie&quot; Qureshi" class="author-avatar"> <span>Ahmed "Eddie" Qureshi</span></span> <span class="author-chip"><img src="/assets/authors/steve-schutzer.jpg" alt="Dr. Steve Schutzer" class="author-avatar"> <span>Dr. Steve Schutzer</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">September 09, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_at_the_head_of_the_table_steve_schutzer.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/c3ff0e84"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Bundled payments fit episodic surgery naturally
+- Physician-hospital co-management outperforms fee-for-service
+- Credible registry data changes surgeon behavior
+- CJR-X adds 29 risk-adjustment factors
+- Rural hospitals get a 5% stop-loss
+- Physicians should lead value-based care
+</div></aside>
+
+---
+
+_Based on the Rainfall Health Podcast: [Dr. Steve Schutzer](https://www.linkedin.com/in/steve-schutzer-md-81616125), orthopedic surgeon and Co-Founder & Chief Medical Officer of Upswing Health, on 20 years of physician-led bundled payments at the Connecticut Joint Replacement Institute — and what it takes to make CMS TEAM and CJR-X work._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/R08Dldlf6Ow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+Most bundled-payment conversations start with the mandate. Dr. Steve Schutzer's starts twenty years earlier.
+
+In Episode 8 of the Rainfall Health Podcast, founder and CEO Ahmed "Eddie" Qureshi talks with [Dr. Steve Schutzer](https://www.linkedin.com/in/steve-schutzer-md-81616125) — orthopedic surgeon, Co-Founder and Chief Medical Officer of Upswing Health, and founding Medical Director of the Connecticut Joint Replacement Institute (CJRI). In 2006, a decade before BPCI existed, Schutzer helped build a physician-led bundled payment program from scratch.
+
+That experience is a real-world preview of what **bundled payment analytics** now require under [CMS TEAM](/cms-team/) and [CJR-X](/cjrx/).
+
+## Why Do Bundled Payments Fit Orthopedic Surgery So Well?
+
+Schutzer's answer starts with a framework, not a spreadsheet. He calls himself a "disciple" of Michael Porter and Robert Kaplan's Harvard Business School research on [value-based bundled payments](https://hbr.org/2016/07/how-to-pay-for-health-care). Their core argument is simple: healthcare is a $6 trillion industry, but it shouldn't be zero-sum. Fee-for-service pays for volume. It should pay for outcomes.
+
+Joint replacement, Schutzer argues, is a near-perfect fit for that model. It behaves like pregnancy — a defined, predictable episode with a known window for complications:
+
+> There are a few different outcomes, but largely it's a nine-month episode. And we know for joint replacement, most of the complications occur within 30 days, almost all within 90 days.
+>
+> — Dr. Steve Schutzer
+
+That predictability is exactly what makes a **30-day post-discharge episode** — and CJR-X's **90-day** window — tractable to price, track, and hold anyone accountable for.
+
+## How Did a Group of Independent Surgeons Build a Bundled Payment Program From Scratch?
+
+In 2006 — years before BPCI existed — Schutzer and nine other orthopedic surgeons from ten different practices formed a management company and entered a co-management agreement with their hospital partner, launching what became the Connecticut Joint Replacement Institute (CJRI) at Saint Francis Hospital in Hartford. It grew from roughly 1,000 cases in its first year to 4,000 cases annually by year two, using the same physicians and staff, and later expanded into sister institutes for spine, sports medicine, and trauma.
+
+The foundation, in Schutzer's telling, was alignment forged before a single patient was seen:
+
+> Right from day one, they bought into our vision, we bought into their vision, and it created that alignment. That's the key to everything we're going to talk about today.
+>
+> — Dr. Steve Schutzer
+
+That structure was a co-management agreement, not gain-sharing — a legal distinction Schutzer is careful to draw. Physicians were paid a stipend for managing the space and staff with their clinical expertise, not for referral volume.
+
+## What Makes Bundled-Payment Data Credible?
+
+Schutzer's clearest advice for anyone building an episode-based program: the database matters more than almost anything else. CJRI staffed a registry with four full-time equivalents from day one, and every patient operated on since July 2007 — more than 6,000 joint replacements — is in it. The registry has been validated by the American Board of Orthopedic Surgery and the Validation Institute.
+
+Getting there took sustained discipline. CJRI's research director ran a five-step adjudication process that included sharing complication data directly with the operating surgeon before it counted — a non-punitive review focused purely on verification. The team also called every patient at 90 days post-surgery to confirm outcomes CMS claims data would have missed entirely. That single step moved CJRI's tracked infection rate from 0.2% to a more credible 0.4%.
+
+> Once we had that level of credibility, I became Dr. Steve Schutzer, and then Dr. Smith and Dr. Jones, and you have a bad month, let's just talk about it. No shame, no blame.
+>
+> — Dr. Steve Schutzer
+
+CJRI also became ISO 9001 certified, turning a good program into an auditable, credentialed one. That is the same underlying principle behind [value-based care analytics](/team/): data only changes behavior once clinicians trust where it came from.
+
+## Why Is the Surgeon's Financial Share So Small — and Why Does the Quarterback Still Matter?
+
+Surgeons, Schutzer says, have historically captured only about 6% of every healthcare dollar spent on a joint replacement — anesthesia took roughly 3%, device makers and the hospital took the rest. Yet patients come to the surgeon first, not the hospital or the device brand.
+
+> Somebody's got to be at the top in control and leadership because the patients are really coming for the doctor, right?
+>
+> — Dr. Steve Schutzer
+
+That's the tension gain-share provisions in CMS TEAM and CJR-X are built to resolve: giving physicians a financial stake tied to outcomes, patient satisfaction, and total episode cost — not just the procedure fee.
+
+## How Did BPCI Become CJR — and Now CJR-X?
+
+Schutzer traces a direct line from BPCI to CJR to CJR-X, with each iteration getting incrementally smarter about the mechanics of bundled payment:
+
+| Model | Scope | Risk adjustment |
+| --- | --- | --- |
+| BPCI | Voluntary, joint replacement | Minimal |
+| CJR | Mandatory in select MSAs, joint replacement only | 3 factors |
+| CJR-X | Mandatory nationwide starting 2028, lower extremity joint replacement | 29 factors |
+
+CMS confirms both ends of that progression directly: [CJR-X applies 29 risk adjusters, up from 3 under CJR](https://www.cms.gov/priorities/innovation/innovation-models/cjr-x), plus a 5% stop-loss for rural and dually-eligible hospitals — the same protection Schutzer flags below.
+
+He credits CMS and CMMI with real progress, while noting how long structural change takes:
+
+> I'm impressed with Medicare, I'm impressed with CMS and CMI. It's not perfect, they tried to boil the ocean for years, but look how long it takes to change... each iteration of this episodic payment... they've gotten a little bit smarter.
+>
+> — Dr. Steve Schutzer
+
+## Why Is the Risk Asymmetrical Between Hospitals and Surgeons Under CJR-X?
+
+One of Schutzer's most candid observations concerns how risk is distributed: hospitals absorb nearly all downside risk under CJR and CJR-X, even though it's the surgeon's hands making the decisions — which implant to use, whether a patient goes home or to a skilled nursing facility.
+
+He raises a specific example from the CMS Access program: a per-member-per-month rate he expected to land near $300–$400 came in at roughly $180 (effectively closer to $150 after uncollected copays) — a figure he reads as a deliberate signal to bring hospitals and physicians together rather than have either operate alone.
+
+> I'm the risk. It's my hands that buy the $5,000 widget or the $2,000 widget. It's my hands to send a patient to an ECF or send them home. So it makes no sense at all, that asymmetrical [risk], unless their intent is to nudge both parties together.
+>
+> — Dr. Steve Schutzer
+
+That nudge is, in his view, by design: surgeons cannot sustain a practice on a bundled fee alone, and hospitals cannot absorb full downside risk alone — so gain-sharing under models like TEAM becomes the practical path to alignment instead of an optional extra.
+
+## What Should Rural and Safety-Net Hospitals Do With Fewer Post-Acute Partners?
+
+CMS selected the original 34 MSAs for CJR without regard to a hospital's resources — rural, safety-net, and large metro systems all landed in the same mandate. Schutzer's advice to resource-constrained hospitals is to lean into flexibility rather than try to replicate a large system's post-acute network:
+
+1. **CJR-X's built-in protections help.** A minimum quality bar gates reconciliation eligibility, and rural and dual-eligible hospitals get a 5% stop-loss cap.
+2. **Fewer post-acute vendors is a feature, not a limitation.** CJRI intentionally worked with only two or three extended care facilities, tying them closely into the care team rather than spreading thin across a dozen options.
+3. **Open capacity is an underused asset.** Schutzer's specific suggestion: petition CMS to convert unused beds into short-term recovery stays rather than leaving them fallow.
+
+CJRI's own length of stay had already dropped to 1.5 days, with more than 90% of patients discharged home before BPCI even existed — proof that a smaller, tightly coordinated post-acute network can outperform a larger, less coordinated one.
+
+## What Does Dr. Schutzer Want Physicians to Do Next?
+
+Schutzer's closing argument is a direct call to action for physicians who want a larger role in shaping how bundled payment models work in practice:
+
+> Physicians need to step up and lead... value and competition should be at the level of value to the patient. Period.
+>
+> — Dr. Steve Schutzer
+
+He points to MedPAC's own data showing physician-owned hospitals perform better, even as federal law currently precludes most physicians from owning one. His practical guidance for surgeons and hospital administrators alike: come to the table with credible data, assume some shared risk, and treat value-based care as an operating discipline rather than a talking point — because for the patient, it has always been the point.
+
+## The Bottom Line for Hospital Leaders
+
+Schutzer's 20-year experience predates CMS TEAM by nearly two decades, but the lesson transfers directly:
+
+1. Alignment between hospital and physician is best built before the first patient, rather than renegotiated once results are in.
+2. A validated, credible registry is the single highest-leverage investment a bundled-payment program can make.
+3. Asymmetrical risk is a signal to build gain-sharing infrastructure now, rather than wait for the model to evolve.
+4. Rural and safety-net hospitals should use CJR-X's built-in protections and lean into flexibility rather than mimic a large system's post-acute footprint.
+
+---
+
+**About [Dr. Steve Schutzer](https://www.linkedin.com/in/steve-schutzer-md-81616125):** Dr. Steve Schutzer is an orthopedic surgeon, Co-Founder and Chief Medical Officer of Upswing Health, and Physician Executive for the Orthopedic Service Line at Trinity Health of New England. He was the founding Medical Director of the Connecticut Joint Replacement Institute (CJRI) at Saint Francis Hospital from 2007 to 2021.
+
+## Frequently Asked Questions
+
+### Why do bundled payments work well for orthopedic surgery?
+
+Joint replacement has a predictable episode structure — most complications occur within 30 days and nearly all within 90 days — which makes it easier to price, track, and hold accountable under a bundled payment than an open-ended fee-for-service model.
+
+### What is a co-management agreement, and how is it different from gain-sharing?
+
+A co-management agreement pays physicians a stipend to manage clinical space, staff, and processes using their expertise. Gain-sharing ties physician compensation directly to cost savings. Dr. Schutzer's Connecticut Joint Replacement Institute operated under a co-management agreement, not gain-sharing.
+
+### Why does bundled-payment data need to be validated by a third party?
+
+Self-reported or payer-supplied data is often incomplete, and clinicians may reasonably question it. Third-party validation — CJRI's registry was validated by the American Board of Orthopedic Surgery and the Validation Institute — is what makes physicians willing to change behavior based on the numbers.
+
+### How is CJR-X different from CJR?
+
+CJR-X is mandatory nationwide starting January 1, 2028, versus CJR's limited set of mandatory metro areas. It adds a minimum quality bar hospitals must clear before reconciliation, [uses 29 risk-adjustment factors compared to 3 under CJR](https://www.cms.gov/priorities/innovation/innovation-models/cjr-x), and caps stop-loss at 5% for rural and dual-eligible hospitals.
+
+### Why is risk distributed unevenly between surgeons and hospitals under CJR-X?
+
+Hospitals bear most of the downside financial risk even though surgeons make the clinical decisions — implant selection, discharge disposition — that drive episode cost. Dr. Schutzer argues this asymmetry is intentional, designed to encourage shared gain-sharing arrangements between hospitals and surgeons rather than have each operate independently.
+
+### What can rural or safety-net hospitals do if they have limited post-acute care partners?
+
+CJR-X's 5% stop-loss cap for rural and dual-eligible hospitals provides a built-in safety net. Beyond that, Dr. Schutzer recommends concentrating volume with a small number of trusted post-acute partners and converting unused hospital beds into short-term recovery stays rather than trying to match a large system's network size.
+
+### How does Dr. Schutzer's experience apply to CMS TEAM?
+
+CJRI operated a physician-led bundled payment program for nearly 20 years before CMS TEAM existed. The same principles — early hospital-physician alignment, a credible validated registry, and gain-sharing tied to outcomes — are exactly what mandated hospitals need to build under TEAM's five surgical episodes.
+
+### What does Dr. Schutzer think physicians should do differently?
+
+He argues physicians should take an active leadership role in value-based care programs rather than wait to be directed by them — bringing credible data to the table, accepting some shared financial risk, and keeping the focus on value delivered to the patient above all other stakeholders.
+
+---
+
+## Download the eBook
+
+<a
+  href="/downloads/eBook_at_the_head_of_the_table_steve_schutzer.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download the eBook: At the Head of the Table
+</a>
+
+## Get Your Free CMS TEAM Analysis
+
+Rainfall will perform a free analysis of your 2024 and 2025 Medicare billings and build an individualized view of your potential upside and downside under TEAM.
+
+- **Schedule a demo + free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+
+## Further reading
+
+- [CMS TEAM Guide](/cms-team/) — hub overview
+- [CJR-X Model Guide](/cjrx/)
+- [What Is an Episode of Care?](/post/what-is-episode-of-care/)
+- [CMS TEAM vs. CJR-X Comparison](/post/cms-team-vs-cjr-x-comparison/)
+- [Market Discipline with Steve Ganyard](/post/market-discipline-steve-ganyard/)
+
+---
+
+_Dr. Steve Schutzer is an orthopedic surgeon, Co-Founder and Chief Medical Officer of Upswing Health, and the founding Medical Director of the Connecticut Joint Replacement Institute._
+
+_Ahmed "Eddie" Qureshi is Founder and CEO of Rainfall Health and host of the Rainfall Health Podcast._
+
+_This article is for informational purposes only and is not legal, financial, or clinical advice. It reflects a Rainfall Health podcast conversation; figures cited are as discussed and individual results vary. © 2026 Rainfall Health._
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hospitals-that-will-win-on-cms-team-have-already-started.html" class="blog-featured__link">
+                  <img src="/assets/media/mayo-team-readiness-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Hospitals That Will Win on CMS TEAM Have Already Started</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

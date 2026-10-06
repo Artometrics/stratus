@@ -1,0 +1,294 @@
+---
+title: "AI Won't Replace Nurses \u2014 It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI"
+description: "Two Bear Capital's Mark Adams on why AI won't replace clinicians, how guardrailed automation creates leverage, and why Rainfall's data has value beyond TEAM."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">AI in healthcare</span> <span class="article-tag-pill">value-based care</span> <span class="article-tag-pill">value-based care analytics</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">healthcare workforce</span> <span class="article-tag-pill">venture capital</span> <span class="article-tag-pill">care coordination</span> <span class="article-tag-pill">healthcare data</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed &quot;Eddie&quot; Qureshi" class="author-avatar"> <span>Ahmed "Eddie" Qureshi</span></span> <span class="author-chip"><img src="/assets/authors/mark-adams.webp" alt="Mark Adams" class="author-avatar"> <span>Mark Adams</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">September 01, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_ai_leverage_and_the_care_loop_mark_adams.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/02657e47"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- AI standardizes healthcare's messy data
+- Guardrails matter more than autonomy
+- Human care coordinators still decide
+- Narrow deployment compounds into broad impact
+- Rainfall's data has value beyond TEAM
+- Inaction is a decision too
+</div></aside>
+
+---
+
+_Based on the Rainfall Health Podcast: [Mark Adams](https://www.linkedin.com/in/rmarkadams/), partner at Two Bear Capital and former COO/CTO of Adaptive Biotechnologies, on where AI is actually moving the needle in healthcare — and why leverage, not replacement, is the right frame._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/1Zg7RHRnGy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+Healthcare has a data problem before it has an AI problem. In Episode 7 of the Rainfall Health Podcast, founder and CEO Ahmed "Eddie" Qureshi talks with [Mark Adams](https://www.linkedin.com/in/rmarkadams/) — a partner at Two Bear Capital, which led Rainfall Health's Series A, and formerly COO and CTO at Adaptive Biotechnologies — about where AI is genuinely changing healthcare, why guardrails matter more than autonomy, and why Rainfall's underlying data has value well beyond CMS TEAM. That data is the starting point for **value-based care analytics**: episode-level visibility hospitals can act on, which is what the [R.A.I.N. Compliant™ platform](/team/) is built to produce.
+
+## Where Is AI Actually Making an Impact in Healthcare Right Now?
+
+Two Bear Capital is making sizable bets on AI in drug discovery and development, but Adams is equally focused on a less glamorous problem: paperwork and the lack of a common language across providers. Large language models, he argues, have created a genuinely new opportunity to solve that — not by replacing clinical judgment, but by removing the administrative burden sitting on top of it.
+
+> A lot of these modern AI techniques, like large language models, have created some really interesting and unique opportunities. Mostly, just getting out from under the burden of paperwork complication and the lack of common language among all of the different providers.
+>
+> — Mark Adams
+
+## Why Doesn't Healthcare AI Just Replace Healthcare Workers?
+
+Adams is direct about this: healthcare is short on labor, not short on work. Nursing shortages and a scarcity of healthcare data expertise mean the opportunity isn't automation for its own sake — it's using AI to standardize the data flowing in and out of the system so the humans left in the loop can operate at a completely different scale.
+
+Historically, standardizing that data meant hiring medical transcriptionists and data-entry specialists — expensive, slow, and never fast enough to actually change a patient's care in the moment. The large language model shift changes the unit economics of that translation work entirely, from discovery research all the way through to the point of care.
+
+## What Does Value-Based Care Analytics Leverage Look Like in a Care Coordination Workflow?
+
+This is where the conversation gets specific to how Rainfall operates. Adams draws a direct line between AI's real value and a very particular kind of leverage: a human care coordinator who used to manage one call at a time can now effectively oversee an entire patient panel — as long as the AI handling the routine calls knows exactly when to hand off.
+
+> If the AI can literally make the routine calls itself, record that outcome, call for the human care coordinator if needed, but move on, that has two benefits. One is leverage... but also, it means the patient makes a phone call and it's picked up on the first ring.
+>
+> — Mark Adams
+
+He's explicit that this isn't a generic phone tree. The guardrails have to be airtight: no hallucination, no drifting outside the AI's mandate, and a deterministic path to a human the moment a conversation needs one.
+
+| What changed in 2025                             | What's different now                                     |
+| ------------------------------------------------ | -------------------------------------------------------- |
+| AI scribes freed up clinician documentation time | AI-driven outbound conversations reach patients directly |
+| Inbound-only automation                          | Structured, guardrailed two-way patient interaction      |
+| Manual data translation                          | Real-time standardization across formats and languages   |
+
+## Why Does Rainfall's "Narrow First" Approach Matter?
+
+Adams calls out something specific about Rainfall's design choice: the care coordination path itself is built by human experts using established best practices — not discovered by the AI. The AI executes a known script and process; it doesn't invent the clinical judgment behind it. When a conversation departs from that script, it hands off to a person.
+
+> Rainfall establishes the care coordination path from well-established best practices with human experts driving it... AI is merely implementing it, and instead of having to carefully guardrail against hallucination and everything, you've really said: here are the things that you can do.
+>
+> — Mark Adams
+
+Qureshi frames it as a deliberate trade-off: going narrow to eventually go broad. AI handles the routine, predictable parts of the interaction reliably, every time, in whatever language the patient speaks — freeing the human care team to handle the parts that actually require judgment.
+
+## Why Did a Venture Capital Firm Bet on Rainfall Specifically?
+
+Adams has personally been an investor in Rainfall for roughly five years, and he's candid about what venture capital is actually looking for: 10x returns for LPs. What made Rainfall stand out, in his view, is a rare combination of three things rarely found together in one business.
+
+1. **Genuine social good** — ensuring quality care for underserved Americans, with real knock-on benefits for families, communities, and the broader economy.
+2. **Near-term economic benefit for customers** — hospitals see the ROI quickly enough to shorten the sales cycle and drive real ARR growth.
+3. **A data asset that doesn't exist anywhere else** — the aggregated view of care across some of Medicare's highest-impact surgical episodes, across many hospital systems, which Adams says has rarely if ever been assembled before.
+
+That third point is where his venture lens goes furthest: the same data infrastructure built for TEAM compliance has long-term value for drug and medical device development, not just for episode reconciliation.
+
+## What Advice Does Mark Adams Have for Healthcare AI Founders?
+
+His advice to builders is blunt: the leverage available today is unlike anything he's seen since he started doing AI work in the mid-1980s. He points to Rainfall's own engineering velocity — feature requests categorized, specified, ticketed, QA'd, and shipped on timelines he says would have been unbelievable just a few years ago — as proof that the tooling has fundamentally changed what a small team can execute.
+
+> The amount of leverage that artificial intelligence tooling across the board... is quite spectacular. I can show you the door, but you have to walk through it.
+>
+> — Mark Adams
+
+## How Should Small-C-Conservative Health Systems Think About AI Risk?
+
+Qureshi raises the obvious tension: hospital executives and lawmakers are mission-driven but deliberately risk-averse, because mistakes in healthcare cost lives. Adams doesn't dismiss that caution — he reframes it. The real risk isn't just a bad decision. It's the compounding cost of _no_ decision, especially against a backdrop of workforce shortages and an aging population.
+
+His analogy is autonomous vehicles: Waymo didn't launch full self-driving everywhere at once. It deployed in a small, well-mapped geography, generated data, proved the guardrails held, and then expanded — which is exactly why self-driving cars showed up in Denver "really fast" once the San Francisco data existed to model it.
+
+> The story in Rainfall is the same. It's not just these five procedures or these limited hospitals. You're learning about the process, which can then be used to rapidly expand and improve lives beyond those narrow guardrails.
+>
+> — Mark Adams
+
+Every hospital already accepts risk by doing nothing differently — that's just an unexamined risk rather than a quantified one. Adams's challenge to conservative leaders: characterize the risk of a guardrailed AI deployment, compare it honestly to the risk of standing still, and decide from there.
+
+## What's Next: Beyond TEAM and Beyond Medicare
+
+Closing the conversation, Adams pushes Rainfall to think a layer up: where else could this narrow, guardrailed model move the needle for underserved patients — not just the current CMS TEAM population, but rural health, military health, and other Medicare-adjacent populations facing the same coordination gaps.
+
+> How do you take these learnings and the training and the data, and turn this into something that could be deployed even more broadly to help underserved communities?
+>
+> — Mark Adams
+
+## The Bottom Line for Hospital Leaders
+
+Adams's framing is a useful test for any AI vendor a hospital is evaluating under CMS TEAM: does the system extend human judgment with tight guardrails, or does it ask you to trust an unconstrained model? Rainfall's approach — human-designed care pathways, AI execution within a known script, deterministic hand-off to a person — is the version built for hospitals that are rightly cautious about where automation touches patient care.
+
+---
+
+**About [Mark Adams](https://www.linkedin.com/in/rmarkadams/):** Mark Adams is a partner at Two Bear Capital, which led Rainfall Health's Series A financing. He previously served as COO and CTO at Adaptive Biotechnologies, and has spent decades as an executive, founder, and investor across AI and life sciences.
+
+## Frequently Asked Questions
+
+### How is AI actually being used in healthcare today, according to Mark Adams?
+
+Beyond AI in drug discovery, Adams points to large language models solving a data standardization problem: translating and normalizing patient information across providers who lack common data standards, reducing the administrative burden that has historically required expensive manual transcription and data entry.
+
+### Will AI replace nurses or care coordinators?
+
+No. Adams argues the opportunity is leverage, not replacement — using AI to handle routine, scriptable parts of a care coordinator's workload so the human can effectively manage an entire patient panel instead of one conversation at a time, while remaining the decision-maker when a case needs judgment.
+
+### What makes Rainfall's approach to AI different, in Adams's view?
+
+Rainfall's care coordination path is designed by human experts using established best practices; AI executes that known script rather than inventing clinical judgment. When a conversation departs from the script, it hands off to a human — reducing the guardrail burden compared to open-ended AI systems.
+
+### Why did Two Bear Capital invest in Rainfall Health?
+
+Adams cites a rare combination of three factors: genuine social good (quality care for underserved patients), near-term economic benefit for hospital customers that shortens the sales cycle, and a data asset — aggregated episode-level care data — that he says has rarely, if ever, been assembled at this scale before.
+
+### How does the self-driving car analogy apply to healthcare AI?
+
+Adams compares Rainfall's approach to how autonomous vehicles scaled: deploy in a narrow, well-guardrailed geography first, generate data, and use that data to expand quickly elsewhere. He argues CMS TEAM's five procedures and initial hospital cohort are the "narrow geography" that will let Rainfall expand into broader use cases.
+
+### What should risk-averse health systems and lawmakers consider about AI adoption?
+
+Adams's core point: doing nothing is also a decision with a cost, particularly given nursing shortages and an aging population. He advises quantifying the risk of a guardrailed AI deployment and comparing it honestly to the risk of inaction or business-as-usual, rather than treating the status quo as risk-free.
+
+### Where does Mark Adams think this technology should go next?
+
+He challenges Rainfall to look beyond CMS TEAM's current scope — toward rural health, military health populations, and other underserved communities facing similar care-coordination gaps — using the data and training built from the initial guardrailed deployment.
+
+---
+
+## Download the eBook
+
+<a
+  href="/downloads/eBook_ai_leverage_and_the_care_loop_mark_adams.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download the eBook: AI, Leverage, and the Care Loop
+</a>
+
+## Get Your Free CMS TEAM Analysis
+
+Rainfall will perform a free analysis of your 2024 and 2025 Medicare billings and build an individualized view of your potential upside and downside under TEAM.
+
+- **Schedule a demo + free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+
+## Further reading
+
+- [CMS TEAM Guide](/cms-team/) — hub overview
+- [What Is TEAM?](/cms-team/what-is-team/) — canonical CMS TEAM model definition
+- [Market Discipline with Steve Ganyard](/post/market-discipline-steve-ganyard/)
+- [Closing Healthcare's How-To Gap](/post/why-medicare-patients-dont-follow-care-plans-how-to-gap/)
+- [Navigating the CMS TEAM Mandate](/post/navigating-the-cms-team-mandate-ebook/)
+
+---
+
+_Mark Adams is a partner at Two Bear Capital and former COO/CTO of Adaptive Biotechnologies. He has been an investor in Rainfall Health since its early days._
+
+_Ahmed "Eddie" Qureshi is Founder and CEO of Rainfall Health and host of the Rainfall Health Podcast._
+
+_This article is for informational purposes only and is not legal, financial, or clinical advice. It reflects a Rainfall Health podcast conversation; figures cited are as discussed and individual results vary. © 2026 Rainfall Health._
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hospitals-that-will-win-on-cms-team-have-already-started.html" class="blog-featured__link">
+                  <img src="/assets/media/mayo-team-readiness-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Hospitals That Will Win on CMS TEAM Have Already Started</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

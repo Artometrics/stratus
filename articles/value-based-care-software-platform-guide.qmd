@@ -1,0 +1,184 @@
+---
+title: "Value-Based Care Software: What to Look For in a CMS TEAM Platform"
+description: "Value-based care software for CMS TEAM: what capabilities hospitals need, how to evaluate platforms, and what questions to ask before signing a vendor\u2026"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">Value-Based Care Software</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Care Management</span> <span class="article-tag-pill">Healthcare Technology</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Value-Based Care Software: What to Look For in a CMS TEAM Platform</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">A guide for hospital procurement teams evaluating care management software for CMS TEAM compliance — the capabilities that matter, the questions to ask, and the red flags to avoid.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-vbc-software.jpg" alt="Value-Based Care Software: What to Look For in a CMS TEAM Platform" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- TEAM needs 30-day cost tracking
+- Fragmented data creates blind spots
+- Platforms must span care settings
+- Real-time visibility drives performance
+</div></aside>
+
+## Why generic care management software is insufficient for TEAM
+
+Most care management software was built for chronic disease management programs, Medicare ACO shared savings models, or HEDIS-driven quality reporting. These platforms are designed around longitudinal patient relationships, population-level risk stratification, and gaps in care — not around surgical episode cost windows and post-acute utilization tracking.
+
+CMS TEAM requires something different: **real-time visibility into total episode costs from the day of surgery through 30 days post-discharge**. The hospital must track what is being spent on SNF days, home health visits, rehab facility stays, outpatient follow-up, and readmissions for each TEAM-eligible patient — all of which appear in claims data that lags three to six months under standard Medicare billing cycles.
+
+Without purpose-built TEAM software, hospitals are flying blind. They cannot see their trajectory relative to target prices until the annual reconciliation statement arrives — by which point the performance year is over.
+
+## The five capabilities that matter
+
+**1. Real-time episode attribution.** The software must identify TEAM-eligible episodes at the time of admission, not retroactively. That requires integration with the hospital's EHR, ADT feeds, and scheduling systems to trigger episode tracking from the first qualifying surgical procedure.
+
+**2. Post-acute cost tracking.** Claim data from SNFs, home health agencies, and IRFs flows through Medicare Part A; outpatient follow-up flows through Part B. Effective TEAM software aggregates both streams and maps them to the 30-day episode window per patient. This requires either a real-time claims feed from a clearinghouse or CMS's TEAM data portal access.
+
+**3. Composite Quality Score (CQS) monitoring.** TEAM's reconciliation amount is adjusted up or down based on the CQS — a composite of hospital-wide readmission rate, PSI-90 complication measure, and patient experience scores. Platforms that only track episode cost without CQS monitoring give an incomplete picture of TEAM financial exposure.
+
+**4. EHR integration via FHIR.** CMS TEAM requires documentation of specific care coordination activities, including primary care follow-up within seven days of discharge. FHIR R4-based integrations allow the TEAM platform to read clinical data from the EHR and write TEAM compliance documentation back into the record.
+
+**5. Target price comparison and projection.** The most actionable feature: real-time comparison of current episode spending against the hospital's CMS-issued target prices, with projection to year-end reconciliation outcome. This requires the hospital to receive and load its CMS target price file — available through the TEAM participant portal after signing the Data Sharing Agreement.
+
+## Questions to ask every vendor
+
+1. How does your platform attribute TEAM episodes in real time — and what is the attribution lag from admission to episode tracking?
+2. Does your platform ingest post-acute claims (Part A and Part B) and map them to the 30-day episode window per patient? What is the claims latency?
+3. Does your platform calculate or display the Composite Quality Score alongside episode cost tracking?
+4. What EHR systems does your platform integrate with? Is the integration FHIR R4 certified?
+5. Can your platform ingest our CMS-issued target price file and generate reconciliation projections against it?
+6. What is your experience specifically with CMS TEAM, as distinct from BPCI Advanced, ACO models, or other bundled payment programs?
+
+<aside class="blog-callout blog-callout--default not-prose"><div class="blog-callout__body">
+
+R.A.I.N. Compliant™ is purpose-built for CMS TEAM: real-time episode attribution from EHR ADT triggers, FHIR R4 integration, post-acute claims aggregation, CQS monitoring, and target price projection. SOC 2 Type 1 compliant. Implementation in approximately 10 weeks.
+
+</div></aside>
+
+## Frequently asked questions
+
+### What is value-based care software?
+
+Value-based care software helps hospitals track, manage, and optimize performance under programs like CMS TEAM that tie Medicare payments to quality outcomes and total episode cost.
+
+### What does CMS TEAM software need to do?
+
+At minimum: real-time episode attribution, post-acute cost tracking across the 30-day window, Composite Quality Score monitoring, EHR integration via FHIR, and target price comparison and reconciliation projection.
+
+### Can a standard EHR replace TEAM-specific software?
+
+No. Standard EHRs do not aggregate post-acute Medicare claims, track episode costs across the 30-day post-discharge window, or compare spending against CMS target prices. TEAM requires software that extends beyond the hospital's four walls.
+
+<BlogReferences items={[{"id":1,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model overview and participant resources.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":2,"text":"CMS, TEAM Data Sharing Agreement and data portal documentation, 2025.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":3,"text":"HFMA, \"Hospitals can use 2026 to prepare for CMS TEAM bundled payment risk,\" March 2026.","url":"https://www.hfma.org/payment-reimbursement-and-managed-care/hospitals-need-to-know-team"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

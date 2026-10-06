@@ -1,0 +1,191 @@
+---
+title: "Fee-for-Service vs. Value-Based Care: A Hospital CFO's Guide"
+description: "Fee-for-service vs. value-based care explained for hospital CFOs. How FFS and VBC differ, what CMS TEAM changes, and how to navigate the 2026-2027\u2026"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">Value-Based Care</span> <span class="article-tag-pill">Fee-for-Service</span> <span class="article-tag-pill">Medicare Reimbursement</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Fee-for-Service vs. Value-Based Care: A Hospital CFO's Guide</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">How the two reimbursement models work, what CMS TEAM means for the shift away from fee-for-service, and what hospital finance leaders need to understand before 2027.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-fee-for-service-vs-vbc.jpg" alt="Fee-for-Service vs. Value-Based Care: A Hospital CFO's Guide" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Fee-for-service pays volume
+- Value-based care pays outcomes
+- TEAM forces episode accountability
+- Hospitals must redesign incentives
+</div></aside>
+
+## What is fee-for-service?
+
+Under fee-for-service (FFS), Medicare pays for each individual service delivered — a surgery, a hospital day, a specialist consult, a skilled nursing stay — separately and independently. Payment is volume-driven: more services equal more revenue, regardless of whether those services improve outcomes.
+
+The critique of FFS is structural. When a hospital is paid for each service in isolation, there is no financial incentive to coordinate care across settings or reduce the total number of services consumed. A patient readmitted 10 days after discharge generates new inpatient revenue under FFS — the readmission is not a cost; it is an additional billing event.
+
+## What is value-based care?
+
+Value-based care (VBC) ties payment to quality and total cost. The basic premise is that payers — primarily Medicare — should reward hospitals that achieve good outcomes efficiently and penalize those that achieve poor outcomes or generate excess costs.
+
+VBC takes many forms. The Medicare Shared Savings Program ties accountable care organizations to total beneficiary spending. HRRP penalizes hospitals for excess readmissions. CMS TEAM ties a single bundled payment to the total cost of a surgical episode from admission through 30 days after discharge.
+
+## CMS TEAM: the most significant mandatory FFS-to-VBC shift in history
+
+CMS TEAM — the Transforming Episode Accountability Model — is mandatory for **721 acute-care hospitals** in **188 Core-Based Statistical Areas (CBSAs)**, effective January 1, 2026. It does not eliminate FFS billing; hospitals still submit claims as usual. But it imposes a retrospective reconciliation: if the total Medicare spending on a patient's surgical episode (hospital stay + 30 days post-discharge) exceeds CMS's target price, the hospital owes a repayment. If spending comes in below the target price, the hospital receives a bonus.
+
+This is a direct behavioral shift. Under FFS, a high-cost SNF stay after hip replacement is a cost borne by Medicare, not the hospital. Under TEAM, that SNF cost falls within the hospital's episode window and directly affects reconciliation outcomes. The hospital now has a financial stake in post-discharge utilization that it did not have under pure FFS.
+
+## What changes in practice for hospital CFOs
+
+Four things change materially for finance leaders under TEAM. First, **post-acute spending becomes a hospital liability**. SNF, IRF, home health, and outpatient follow-up costs within 30 days are no longer external expenditures — they are part of the hospital's episode cost. Second, **physician coordination becomes a revenue variable**. How surgeons document cases, manage discharge, and coordinate PCP follow-up affects coding, risk adjustment, and ultimately whether an episode lands above or below the target price.
+
+Third, **quality scores affect payment amounts**. TEAM's Composite Quality Score adjusts reconciliation amounts — strong quality performance amplifies gains, weak performance reduces them. Fourth, **the baseline matters**. Target prices are set using each hospital's own historical spending, blended with regional data. Hospitals with historically efficient episode management face a lower bar to beat; historically high-cost hospitals face a harsher discount to their own baseline.
+
+## A worked example: the same patient, two payment systems
+
+Consider a 72-year-old Medicare beneficiary who undergoes an elective total knee replacement at a TEAM-mandated hospital. Here is how the same clinical scenario produces different financial outcomes under fee-for-service versus TEAM.
+
+**Under pure fee-for-service:** The hospital bills the anchor hospitalization DRG (~$15,000). The patient is discharged to a skilled nursing facility for 14 days (~$10,000, billed by the SNF directly to Medicare). The patient develops a urinary tract infection on day 18 post-discharge, is readmitted to the hospital for 2 days (~$8,000). Total Medicare cost: approximately $33,000 across three separate payments. The hospital's revenue includes the anchor admission and the readmission — two billing events for the same episode. There is no financial linkage between them from the hospital's perspective.
+
+**Under CMS TEAM Track 3:** CMS computes the total 30-day episode cost: the DRG anchor (~$15,000) + the SNF stay (~$10,000) + the readmission hospitalization (~$8,000) = approximately **$33,000 total episode cost**. The hospital's target price might be $24,049 (national LEJR average discounted 2.0%). The hospital's episode spending is $33,000 — $8,951 above target. Under Track 3 stop-loss (20%), the hospital owes CMS approximately $4,808 (20% of the $24,049 target). The readmission that was previously additional revenue is now a cost — and so is the SNF placement.
+
+This worked example illustrates why TEAM changes the behavioral calculus of discharge decisions. The SNF placement that a case manager chose because it was the path of least resistance (rather than the clinically optimal discharge) cost the hospital $4,808 in net TEAM penalty on top of any direct care costs. The appropriate home health discharge — which might have been harder to arrange and required more care management effort — would have reduced episode cost to perhaps $18,000, generating a $6,049 gain payment (minus the 2% discount).
+
+## The systemic transition: where the US is in the FFS-to-VBC journey
+
+CMS's own targets, set under the Medicare Access and CHIP Reauthorization Act (MACRA, 2015), aimed to tie 50% of Medicare payments to quality and value by 2018 — a target that has been met on paper but not in spirit, as many ACO and value-based arrangements carry minimal financial risk and produce modest savings. TEAM represents a different policy instrument: mandatory participation, multi-year financial accountability, and a five-procedure scope that captures a significant share of elective surgical volume.
+
+The question economists ask is whether TEAM's forced accountability produces the efficiency gains that voluntary programs have not. Finkelstein et al. (2018) found that mandatory CJR bundled payments reduced institutional post-acute care use without measurable changes in clinical outcomes — suggesting that the efficiency opportunity is real. But they also found that the financial gains accrued primarily to larger, better-resourced hospitals, while safety-net hospitals faced net financial losses — a distributional concern that TEAM's design partially addresses through the safety-net track structure but does not eliminate.
+
+(Source: [Finkelstein et al. (2018), JAMA, 320(9), 892–900.](https://doi.org/10.1001/jama.2018.12346))
+
+## Frequently asked questions
+
+### What is the primary difference between fee-for-service and value-based care?
+
+Under fee-for-service, hospitals are paid for each individual service delivered regardless of outcome. Under value-based care, payment is tied to quality outcomes and total cost efficiency. CMS TEAM applies value-based accountability to five surgical episode types through a 30-day bundled payment structure.
+
+### Is CMS TEAM fee-for-service or value-based care?
+
+TEAM is a value-based care model. Hospitals still bill fee-for-service, but CMS conducts a retrospective reconciliation comparing actual episode spending to a target price. The difference is paid as a bonus or owed as a repayment.
+
+### Which hospitals are affected by the shift from FFS to value-based care under TEAM?
+
+721 acute-care hospitals in 188 CBSAs are mandated to participate in CMS TEAM starting January 1, 2026. Participation is not optional for IPPS-paid hospitals in selected CBSAs.
+
+<BlogReferences items={[{"id":1,"text":"CMS, \"What is Value-Based Care?\" CMS.gov overview.","url":"https://www.cms.gov/priorities/innovation/innovation-models"},{"id":2,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model overview.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":3,"text":"HFMA, \"What is value-based care,\" healthcare finance overview.","url":"https://www.hfma.org"},{"id":4,"text":"CMS, FY2025 IPPS Final Rule, Section X — TEAM Model, 89 FR 68986.","url":"https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

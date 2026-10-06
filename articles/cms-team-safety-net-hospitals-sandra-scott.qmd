@@ -1,0 +1,330 @@
+---
+title: "How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?"
+description: "CMS TEAM model compliance hits safety net hospitals hardest. Dr. Sandra Scott of One Brooklyn Health on the infrastructure gap."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">safety net hospitals</span> <span class="article-tag-pill">value-based care</span> <span class="article-tag-pill">care coordination</span> <span class="article-tag-pill">CJR-X</span> <span class="article-tag-pill">healthcare leadership</span> <span class="article-tag-pill">health equity</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed &quot;Eddie&quot; Qureshi" class="author-avatar"> <span>Ahmed "Eddie" Qureshi</span></span> <span class="author-chip"><img src="/assets/authors/sandra-scott.jpg" alt="Dr. Sandra Scott" class="author-avatar"> <span>Dr. Sandra Scott</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">September 28, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_pull_up_a_chair_sandra_scott.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/f291908e"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- TEAM is mandatory for 721 hospitals
+- Safety-net hospitals can elect Track 2
+- CJR-X reaches most other hospitals in 2028
+- Most episode spend sits outside the hospital
+- Community groups need a way into the workflow
+- Faxes and phone calls cannot carry the episode
+</div></aside>
+
+---
+
+_Based on Episode 11 of the Rainfall Health Podcast: [Dr. Sandra Scott](https://www.linkedin.com/in/sandra-scott-md-55a962295), CEO of One Brooklyn Health, on leading a safety-net system through CMS TEAM, care coordination, and the infrastructure the policy still does not provide._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/S3f4-1sFW2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+[CMS TEAM](/cms-team/) is already mandatory for [721 hospitals](/cms-team/participating-hospitals/). It started January 1, 2026, covers five surgical episodes, and holds the hospital accountable for Medicare Part A and B spending through 30 days after discharge. For a well-capitalized system, that is a strategy problem. For a safety-net system, [Dr. Sandra Scott](https://www.linkedin.com/in/sandra-scott-md-55a962295) argues it is closer to survival math.
+
+Scott is an emergency physician who has spent her career in safety-net hospitals — Kings County, Lincoln Medical Center in the South Bronx, and Brookdale. In June 2021 she became executive director of Brookdale Hospital Medical Center, the first woman, first physician, and first person of color to lead the hospital in its 100-year history. She served as interim CEO of One Brooklyn Health from January 2024 and was appointed permanent CEO on May 8, 2025. The system — Brookdale, Interfaith Medical Center, and Kingsbrook Jewish Medical Center — serves central and east Brooklyn with more than 7,000 employees. She has also been a public voice on Black maternal health, including standing with Senator Chuck Schumer at Brookdale in support of the Black Maternal Health Momnibus Act.
+
+In this conversation with Rainfall Health founder and CEO Ahmed "Eddie" Qureshi, she is specific about what the mandate asks of leaders who cannot absorb early losses the way a larger system can.
+
+## What Changes When You Go From ER Physician to Health System CEO?
+
+Scott describes the shift as altitude. On an ER shift, the job is the 30 to 100 patients in front of you. As department chair, it widens to staff, process, and policy so bedside care stays consistent. As system CEO, it widens again to nearly everything that changes the quality of that care: operating-room temperature and humidity, whether environmental services staff stay engaged, and where the industry is moving.
+
+> If I had to use an analogy, it's like driving the car, then driving the plane, and then being in the spaceship looking down at the world.
+>
+> — Dr. Sandra Scott
+
+That is why she is emphatic that clinicians have to be at the table, not against the wall. Her reasons are practical. You do not know what you do not know. You have to stay open even in a room where you assume you are the expert — she said the TEAM conversation itself taught her something, and she is not an orthopedic surgeon. And you have to put a perspective forward at the risk of being wrong. She also flips the invitation: if someone takes a seat against the wall, she asks them to come sit at the table.
+
+That mindset maps onto how a safety-net leadership team has to treat TEAM. It is a new operating discipline, not an extension of fee-for-service case management.
+
+## How Does the CMS TEAM Model Affect Safety Net Hospitals Differently?
+
+TEAM's Year 1 track is upside-only for every mandated hospital. Starting in Performance Year 2 (2027), the tracks split. Hospitals that qualify — safety-net, rural, Medicare-dependent, sole community, and essential access community hospitals — may elect [Track 2](/post/cms-team-track-comparison/), with a 5% stop-gain and a 5% stop-loss. Everyone else moves to Track 3, at 20% on both sides. The lower cap is a buffer. It is not a subsidy that replaces the cost of coordinating care after discharge.
+
+[CJR-X](/post/cjr-x-mandatory-bundled-payment-2028/) starts January 1, 2028 and extends mandatory joint-replacement accountability to nearly all remaining IPPS hospitals paid under both IPPS and OPPS. Hospitals already in TEAM are exempt from CJR-X while TEAM is active, as are Maryland hospitals. Together, the two models are the closest thing Medicare has to a universal bundled-payment floor for major surgery. They are not the same program landing on every hospital at once.
+
+Scott's point is what that floor feels like when the margin is already thin. Safety-net and rural hospitals depend on government support, and reimbursement has not kept up with labor and supply costs. Her line: there is less money to go around, and there are more institutions that need it. The response she describes is collaboration instead of duplicated service lines — two nearby hospitals both offering orthopedics, for example, coordinating so the community's total cost of that care goes down. She is clear about the clock. These systems do not have a ten-year runway. The changes have to be incremental, and they have to start now.
+
+## Safety Net Hospitals vs. Larger Health Systems Under CMS TEAM
+
+<div class="blog-compare not-prose" aria-label="Safety-net hospitals compared with larger health systems under CMS TEAM">
+  <div class="blog-compare__heads">
+    <p class="blog-compare__head blog-compare__head--safety">Safety-net hospitals</p>
+    <p class="blog-compare__head blog-compare__head--system">Larger health systems</p>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Financial cushion</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Safety-net hospitals</p>
+      <p>Thin. Subsidies have not kept pace with labor and supply costs.</p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Larger health systems</p>
+      <p>Deeper reserves to absorb early losses.</p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">TEAM risk track</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Safety-net hospitals</p>
+      <p>May elect Track 2 in 2027–2030: 5% stop-gain and 5% stop-loss.</p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Larger health systems</p>
+      <p>Typically Track 3 from 2027: 20% stop-gain and 20% stop-loss.</p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Service overlap</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Safety-net hospitals</p>
+      <p>More often collaborative, so nearby hospitals do not duplicate the same service line.</p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Larger health systems</p>
+      <p>More often competitive.</p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Timeline</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Safety-net hospitals</p>
+      <p>Change has to be incremental, and it has to start now.</p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Larger health systems</p>
+      <p>More room to phase infrastructure investment.</p>
+    </div>
+  </div>
+  <div class="blog-compare__row">
+    <p class="blog-compare__kicker">Community partners</p>
+    <div class="blog-compare__cell">
+      <p class="blog-compare__who">Safety-net hospitals</p>
+      <p>High value, and hard to formalize without a shared workflow.</p>
+    </div>
+    <div class="blog-compare__cell blog-compare__cell--system">
+      <p class="blog-compare__who">Larger health systems</p>
+      <p>Often already have more formal referral networks.</p>
+    </div>
+  </div>
+</div>
+
+## Why Is Policy Uncertainty Creating So Much Anxiety in Healthcare Right Now?
+
+Scott is direct about the climate. Uncertainty, she said, is a breeding ground for fear and anxiety. Hospitals have some data on how TEAM and adjacent models will hit reimbursement. She still calls most of it uncharted, and she stacks AI and workforce questions on top of the payment change: how automation reshapes staffing, whether patients will use care differently, and how much regulation will eventually apply to the tools themselves.
+
+Her message to her own staff is blunt.
+
+> We are changing and we have no option not to change.
+>
+> — Dr. Sandra Scott
+
+For her, transformation means more than one front door. Some patients want telehealth. Some prefer an AI agent. Some still want the building. Some want the service to come to the house. A hundred-year-old institution that can only offer the historical visit, she argues, eventually stops being open — and a safety-net system has an obligation to stay fiscally sound so it can keep serving its community.
+
+## What Infrastructure Is Missing for Care Coordination Under CMS TEAM?
+
+Scott read the TEAM policy and agrees with the goal. Coordination across the episode makes sense to her as a clinician. What she does not see is the infrastructure that would let hospitals, post-acute providers, and community organizations actually hit it. She compares it to a workshop: capable people still need facilitation, or each institution invents its own version and the incentives stay misaligned.
+
+Two examples from the conversation are concrete.
+
+**Community-based organizations are underused.** Small local groups often provide the wraparound support patients need after discharge. Scott says they are frequently left out because they are small, or because they have no easy way to plug into a large health system's workflow. She wants a more sophisticated, technology-mediated way to put the hospital and those groups on the same goal.
+
+**Interoperability is still mostly manual.** "It can't be faxes and emails and phone calls, because that doesn't work," she said — and she does not think it ever really did.
+
+The 60% figure in this conversation is Eddie's framing of the episode, not a single CMS average. The procedure-level baseline is more precise, and it supports the same point. In CMS figures used in Rainfall's [episode analysis](/post/cms-team-episode-volume-analysis/), surgical hip and femur fracture treatment averages **$46,615**, and **63%** of that spend is post-discharge — the highest share of the five TEAM procedures. Lower-extremity joint replacement is lower, at about **40%** post-discharge. Coronary artery bypass graft is lower still, at **22%**, because the hospitalization itself dominates the cost. The infrastructure problem is largest where the dollars already leave the building. See the [five procedure categories](/post/cms-team-five-procedure-categories-explained/) for the clinical pattern behind those ratios.
+
+Rainfall's [R.A.I.N. Compliant™ platform](/team/) is built for that post-discharge coordination. Scott's argument does not depend on a vendor. The policy goal is clear. The shared workflow is not.
+
+## Where Does AI Fit Into the Future of Value-Based Care?
+
+Scott is optimistic, and specific, about where technology helps a safety-net system rather than only a well-funded one. She points to hospitals already using robots for repetitive logistics — moving specimens, delivering linens — so staff can spend time on work that still needs a person. She is implementing AI tools and exploring robotics at One Brooklyn Health now. Her framing is explicit: this is not only for the haves.
+
+The clinical picture she wants is an ER visit that does not die in a referral queue. A routine ankle sprain would trigger a follow-up appointment, notify primary care, send the prescription to the pharmacy, and have an AI agent check that the patient understands the plan at home — after a clinician reviews the protocol, not instead of one.
+
+> I believe we're reaching a point where that will be reality.
+>
+> — Dr. Sandra Scott
+
+That is a hope, not a claim that the click exists today. It is also a precise description of the gap TEAM is now paying hospitals to close.
+
+## Frequently asked questions
+
+### How many hospitals are mandated under the CMS TEAM model?
+
+721 IPPS hospitals are mandated under CMS TEAM as of its January 1, 2026 start date. The model covers five surgical episode types and a 30-day post-discharge window. Participation is not voluntary.
+
+### What is Track 2, and which safety-net hospitals can use it?
+
+Track 2 is available in Performance Years 2 through 5 (2027–2030) for safety-net hospitals, rural hospitals, Medicare-dependent hospitals, sole community hospitals, and essential access community hospitals. It caps both stop-gain and stop-loss at 5%. Hospitals that do not qualify move to Track 3, at 20% on both sides. Every mandated hospital starts in Track 1 for 2026, which is upside-only.
+
+### What is CJR-X, and does it include TEAM hospitals?
+
+CJR-X is the expanded Comprehensive Care for Joint Replacement model. CMS finalized it in the FY2027 IPPS final rule, and it starts January 1, 2028. It covers hip, knee, and ankle replacement for nearly all remaining hospitals paid under both IPPS and OPPS. Hospitals already in TEAM are exempt from CJR-X while TEAM is active. Maryland hospitals are also exempt.
+
+### Why is the CMS TEAM model harder for safety-net hospitals?
+
+Safety-net hospitals depend more heavily on government support and operate with thinner margins, so they have less room to absorb downside risk while they build the staffing and coordination TEAM requires. Track 2 lowers the cap. It does not build the post-acute workflow.
+
+### How much of a CMS TEAM episode happens outside the hospital?
+
+It depends on the procedure. In CMS baseline figures, 63% of surgical hip and femur fracture treatment spend is post-discharge, about 40% of lower-extremity joint replacement spend is post-discharge, and about 22% of coronary artery bypass graft spend is post-discharge. There is no single CMS figure of "60% of every episode."
+
+### Why can't hospitals coordinate CMS TEAM episodes by fax and phone?
+
+Scott's experience is that faxes, emails, and phone calls do not keep a hospital, a skilled nursing facility, a home health agency, and a community organization on the same patient in real time. Community-based organizations often provide the support patients need after discharge, and they are still frequently outside the formal workflow.
+
+## Download the eBook
+
+<a
+  href="/downloads/eBook_pull_up_a_chair_sandra_scott.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download the eBook: Pull Up a Chair with Dr. Sandra Scott
+</a>
+
+## Get your free CMS TEAM analysis
+
+Rainfall will review your 2024 and 2025 Medicare billings and build an individualized view of upside and downside under TEAM.
+
+- **Schedule a demo and free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+- **CJR-X guide:** [/cjrx/](/cjrx/)
+
+## Further reading
+
+- [CMS TEAM Guide](/cms-team/)
+- [TEAM Track 1 vs. Track 2 vs. Track 3](/post/cms-team-track-comparison/)
+- [CJR-X: the mandatory bundle for hospitals TEAM didn't reach](/post/cjr-x-mandatory-bundled-payment-2028/)
+- [Where TEAM episode dollars sit after discharge](/post/cms-team-episode-volume-analysis/)
+- [Rural hospitals and the infrastructure gap](/post/rural-america-and-disproportionate-access-to-healthcare-and-how-we-fix-the-infrastructure/)
+- [Podcast and press](/about/blogs-press-cms-team/)
+
+---
+
+_Dr. Sandra Scott is Chief Executive Officer of One Brooklyn Health. One Brooklyn Health announced her permanent appointment on May 8, 2025. Sources for the biography in this article include that announcement and a November 2021 Schumer press event at Brookdale Hospital on the Black Maternal Health Momnibus Act._
+
+_Ahmed "Eddie" Qureshi is Founder and CEO of Rainfall Health and host of the Rainfall Health Podcast._
+
+_This article is for informational purposes only and is not legal, financial, or clinical advice. It reflects a Rainfall Health podcast conversation. Track caps, episode windows, and post-discharge shares are Rainfall's reading of CMS program rules and baseline tables, not quotes from Dr. Scott. © 2026 Rainfall Health._
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hospitals-that-will-win-on-cms-team-have-already-started.html" class="blog-featured__link">
+                  <img src="/assets/media/mayo-team-readiness-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Hospitals That Will Win on CMS TEAM Have Already Started</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

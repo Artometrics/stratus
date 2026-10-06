@@ -1,0 +1,189 @@
+---
+title: "How to Prepare for CMS TEAM: A Step-by-Step Compliance Roadmap for Mandated Hospitals"
+description: "How to prepare for CMS TEAM: a 6-step compliance roadmap covering data, post-acute partnerships, and quality for mandated hospitals."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Compliance</span> <span class="article-tag-pill">Care Coordination</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">How to Prepare for CMS TEAM: A Step-by-Step Compliance Roadmap for Mandated Hospitals</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">Six concrete steps — from episode data to physician engagement — for hospitals building CMS TEAM readiness before two-sided risk begins in 2027.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Christina Keny, PhD, MHA, RN, CPHQ" class="author-avatar"> <span>Christina Keny, PhD, MHA, RN, CPHQ</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">June 24, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-roadmap-steps.jpg" alt="How to Prepare for CMS TEAM: A Step-by-Step Compliance Roadmap for Mandated Hospitals" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Baseline your episode data
+- Integrate the 30-day window
+- Align post-acute partners early
+- Choose a track with eyes open
+</div></aside>
+
+Six steps to **CMS TEAM** readiness:
+
+## Step 1 — Baseline your episode data
+
+Analyze historical performance on the five procedures — cost, readmissions, post-acute utilization. Documentation gaps are common: per Optum Advisory, "analysis of one facility found that two-thirds of episodes had zero HCCs coded, suggesting a major opportunity to improve documentation and coding practices."
+
+## Step 2 — Integrate the full 30-day episode
+
+Consolidate hospital, SNF, home health and outpatient data. Because claims data lags roughly six months, hospitals need near-real-time proxies to intervene while it still matters.
+
+## Step 3 — Build post-acute partnerships
+
+Identify high-performing SNFs and home health agencies. Reducing SNF length of stay and avoiding readmissions — which Milliman puts at "roughly $14,000" each — are the biggest financial levers in the episode.
+
+## Step 4 — Redesign discharge and primary-care referral workflows
+
+TEAM requires referral to primary care. HFMA reporting notes hospitals have found the mandatory PCP referral "more challenging than a lot of people thought," with ambiguity over what counts as a referral, the timeline, and which clinicians qualify.
+
+## Step 5 — Engage physicians
+
+Consider gainsharing/co-management arrangements with surgeons; integrate them into weekly huddles with patient- and population-level performance data.
+
+## Step 6 — Stand up real-time monitoring and quality tracking
+
+Track the CQS measures (Hospital-Wide Readmission, PSI 90, THA/TKA PRO-PM) and simulate financial and clinical outcomes of alternative care pathways.
+
+According to Rainfall Health, hospitals can reach R.A.I.N. Compliant™ status in approximately 10 weeks — a company claim.
+
+## Frequently asked questions
+
+### How long does it take to prepare for CMS TEAM?
+
+Rainfall Health claims hospitals using its platform can reach R.A.I.N. Compliant™ status in approximately 10 weeks — a company-stated timeline, not independently verified. Timelines vary by hospital based on existing data infrastructure.
+
+### What is the first step in preparing for CMS TEAM?
+
+The first step is baselining your episode data: analyzing historical cost, readmissions, and post-acute utilization for the five covered procedures.
+
+### Why do post-acute partnerships matter so much for CMS TEAM?
+
+Post-acute care and readmissions are the biggest financial levers inside a 30-day episode — Milliman estimates each avoided readmission saves roughly $14,000.
+
+### What is CMS TEAM's primary-care referral requirement?
+
+TEAM requires hospitals to refer patients to primary care after a covered procedure, though the definition of a qualifying referral and its timeline has caused confusion for many hospitals.
+
+### When does downside risk start under CMS TEAM?
+
+Downside risk begins in Performance Year 2, calendar year 2027.
+
+### Which quality measures matter most under CMS TEAM?
+
+The Composite Quality Score is built from the Hospital-Wide Readmission (HWR) measure, PSI 90, and the THA/TKA PRO-PM.
+
+<BlogReferences items={[{"id":1,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model resources.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":2,"text":"HFMA, \"Hospitals can use 2026 to prepare for CMS TEAM bundled payment risk,\" March 2026.","url":"https://www.hfma.org/payment-reimbursement-and-managed-care/hospitals-can-use-2026-to-prepare-for-cms-team-bundled-payment-risk"},{"id":3,"text":"Optum Advisory, \"What hospitals need to know about TEAM for 2026,\" November 2025.","url":"https://www.advisory.com/topics/policy-and-payment/hospitals-need-to-know-team"},{"id":4,"text":"Milliman, \"Turning CMS’s TEAM Model into a competitive advantage,\" November 2025.","url":"https://www.medinsight.com/healthcare-data-analytics-resources/blog/beyond-compliance-turning-cmss-team-model-into-a-competitive-advantage"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

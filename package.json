@@ -1,0 +1,11 @@
+{
+  "name": "stratus",
+  "version": "1.0.0",
+  "description": "Stratus: Rainfall Health Reports & Media Platform",
+  "scripts": {
+    "convert": "python3 tools/convert_articles.py",
+    "build": "quarto render",
+    "preview": "quarto preview",
+    "deploy": "npx -y firebase-tools@latest deploy --only hosting"
+  }
+}

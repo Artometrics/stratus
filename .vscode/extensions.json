@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "quarto.quarto",
+    "REditorSupport.r",
+    "ms-python.python",
+    "esbenp.prettier-vscode"
+  ]
+}

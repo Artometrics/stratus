@@ -1,0 +1,283 @@
+---
+title: "Why Don't Medicare Patients Follow Their Care Plans? Closing Healthcare's 'How-To Gap"
+description: "Value-based care depends on patients following care plans. Dr. Charlotte Yeh explains why Medicare patients don't \u2014 and what closes the how-to gap."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">value-based care</span> <span class="article-tag-pill">Medicare reimbursement</span> <span class="article-tag-pill">patient experience</span> <span class="article-tag-pill">health literacy</span> <span class="article-tag-pill">post-acute care coordination</span> <span class="article-tag-pill">AI in healthcare</span> <span class="article-tag-pill">geriatric care</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Why Don't Medicare Patients Follow Their Care Plans? Closing Healthcare's 'How-To Gap</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed &quot;Eddie&quot; Qureshi" class="author-avatar"> <span>Ahmed "Eddie" Qureshi</span></span> <span class="author-chip"><img src="/assets/authors/charlotte-yeh.png" alt="Dr. Charlotte Yeh" class="author-avatar"> <span>Dr. Charlotte Yeh</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">August 23, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_should_do_isnt_how_to_charlotte_yeh.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/how-to-gap-charlotte-yeh.jpg" alt="Why Don't Medicare Patients Follow Their Care Plans? Closing Healthcare's 'How-To Gap" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/24c360ee"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Healthcare tells patients what, not how
+- The how-to gap costs Medicare money
+- Loneliness and purpose raise episode costs
+- Dr. Charlotte Yeh on the gap
+- Joint replacement has avoidable Medicare spend
+</div></aside>
+
+---
+
+_Based on the Rainfall Health Podcast: [Dr. Charlotte Yeh](https://www.linkedin.com/in/charlotte-yeh-/) on closing healthcare's "how-to gap" — from AI's human-in-the-loop role to simple post-discharge questions that change outcomes._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/L7YPz2TzSzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+Healthcare doesn't have a knowledge problem. It has a translation problem.
+
+That's the premise behind the latest episode of the Rainfall Health Podcast, where founder and CEO Ahmed "Eddie" Qureshi sat down with [Dr. Charlotte Yeh](https://www.linkedin.com/in/charlotte-yeh-/), MD, FACEP, to talk about what she calls "the how-to gap" — the space between the clinically correct advice a patient receives and their actual ability to act on it. For any health system working through the shift to value-based care, that gap isn't a soft, patient-satisfaction issue. It's a line item — and it is most expensive in **post-acute care coordination**, when the patient is home and the hospital is still financially accountable. Rainfall's [R.A.I.N. Compliant™ platform](/team/) is built around that 30-day window.
+
+## What Is the "How-To Gap" in Healthcare?
+
+Dr. Yeh brings more than 30 years of perspective to this question — as a board-certified emergency physician and former Chief of Emergency Medicine at Tufts Medical Center and Newton-Wellesley Hospital, a former CMS Regional Administrator in Boston, a former Medicare Part B payer-side medical director, and most recently Chief Medical Officer at AARP Services, Inc. She's now Chief Experience Officer at Cherish and founder of Yeh Innovation.
+
+Her framing is simple: "Healthcare is so good at defining those should-do's," she said. Clinicians know the evidence, they know the guidelines, and they care. But when the _how_ — the specific, personalized instructions for fitting a should-do into a real person's actual life — gets skipped, "it affects the patients, it affects the families, it affects the caregivers, and that leads to frustration at best." At worst, it cascades into ER visits, non-adherence, and misdiagnoses.
+
+The gap isn't a failure of clinical knowledge. It's a failure of translation — and translation is exactly where value-based care models live or die, because they hold organizations accountable for what happens _after_ the visit, not just during it.
+
+## Why Are Patients Losing Trust in Their Healthcare System?
+
+Qureshi opened the conversation with a striking data point from the Edelman Trust Barometer: a majority of U.S. adults believe corporations and healthcare leaders are actively working to block access to quality care. Dr. Yeh didn't dispute the number — she contextualized it. As of the 2025 Edelman survey, 61% of adults believe healthcare corporations, institutions, and even NGOs are actively interfering with their ability to get quality care. A 2026 sentiment survey found only 21% of adults believe the next generation will be better off than today.
+
+"We live, and currently are in very challenging times," Dr. Yeh said, describing an environment of polarization, uncertainty, and information overload. But she pointed to research showing trust is earnable — through empathy, direct experience with a patient's actual situation, evidence that recommendations have worked for people like them, and communication that teaches rather than dictates. "You don't try and change my opinion," she said, "but you expose me, you teach me, you build the confidence, and you make it convenient."
+
+## What Happens When Patients Aren't Taught the "How"?
+
+Dr. Yeh illustrated the cost of skipping the how-to with two examples — one drawn from published research, one deeply personal.
+
+The research example: a review of diabetes self-management literature published from 2014 to 2024 found that fully following diabetes self-management guidance takes as much as 2.5 hours a week by some estimates, and as much as four hours a day by others. "If you are a working parent, if you are a single parent with two kids... do you have four hours a day to give up?" she asked. Half of the reviewed articles cited physical exercise specifically as the sticking point — yet most clinical encounters simply tell patients to exercise, without addressing time management at all.
+
+The personal example was harder to hear. Dr. Yeh's 95-year-old father — a long-distance care situation, with Dr. Yeh in Boston and her father in Pittsburgh — developed urinary retention and was sent to the ER, where he received a catheter. No one taught him or his 20-something niece how to manage it. He didn't know he could sit down to use it. He tried to manage it standing up, made a mess, was too embarrassed to ask for help, and ended up in bloody-urine distress that triggered a second ER visit, multiple diagnostic studies, and — eventually — a urologist who simply removed the catheter and confirmed nothing was actually wrong. "All because we never told him how to take care of a catheter," Dr. Yeh said. Two ER visits, multiple tests, and real trauma for a 95-year-old man, entirely preventable with a few minutes of instruction.
+
+## Why Are Patients Turning to AI Instead of Their Doctors?
+
+The conversation turned to where patients go when the how-to isn't provided. Citing Gallup survey data, Dr. Yeh noted that 59% of people search AI tools or ChatGPT before a doctor's visit, and 56% check afterward. The reasons matter: roughly 21% go to AI because they don't want to pay for care, 14% because they can't afford it — but 21% go because they felt dismissed or disrespected by a provider, and 18% because they're too embarrassed to ask.
+
+"If you don't understand why people are not using and coming back... you're not going to know this," she said. Her comparison: GPS navigation. "Did we have to do change management for GPS adoption? No way — because we understood the problem. We knew where people were challenged, and we made it simple and easy to follow and understand." That's the standard she believes healthcare communication should be held to.
+
+## Where Does AI Fit Into Closing the How-To Gap?
+
+Dr. Yeh was direct about both AI's value and its limits — a "human in the loop" framing that has direct relevance for any health system deploying AI tools under value-based care accountability.
+
+On the upside, she described AI's ability to synthesize scattered data, interpret patterns, and support ambient documentation as genuinely valuable. But she cautioned against over-trusting what AI can capture. She recounted treating an ER patient whose chief complaint was a common cold — clinically unremarkable — until she noticed something was off in his demeanor. Gentle, patient questioning revealed he'd lost his job three days earlier and was terrified about supporting his eight-year-old child. "Whether it was his voice, whether it was posture, whether it was how he stood... something that we don't capture in our written databases," she said. A cold visit became a two-patient crisis intervention — something a pattern-matching model, absent that human pause, would likely miss entirely.
+
+Her second example ran the other direction: technology filling a gap human judgment alone couldn't close. Her 97-year-old father began showing signs that looked like cognitive decline — withdrawal, irritability, disengagement. An ENT couldn't say whether it was dementia or simply worsening hearing loss, and a second cochlear implant procedure carried real risk for a patient that age. Rather than guess, Dr. Yeh — who works in health tech innovation — tried speech-to-text glasses as a diagnostic bridge. Within two days, her father refused to take them off, and communicated clearly with his doctor for the first time in months. It wasn't dementia. It was hearing loss. The subsequent cochlear implant procedure improved his hearing by over 30%, well enough that he was able to travel internationally to see family.
+
+## Should-Do vs. How-To: What the Gap Looks Like in Practice
+
+| Should-Do (what clinicians say)                 | How-To (what patients actually need)                                                                                                                                                                                     |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| "Elevate your hand to reduce swelling"          | "Above your heart" — patients without this detail elevated a hurt wrist above their _head_ while lying flat, missing the point entirely                                                                                  |
+| "You'll go home with a catheter for a few days" | Step-by-step instruction on sitting to urinate, taping the catheter, and emptying it discreetly                                                                                                                          |
+| "Manage your diabetes with diet and exercise"   | Concrete time-management guidance for people with 2.5–4 hours a week of competing caregiving and work demands                                                                                                            |
+| "Take your medication as prescribed"            | Asking patients to physically show their medicine cabinet or pill organization — revealing, for example, a patient combining three-times-daily and four-times-daily medications into a single noon dose out of confusion |
+| "Follow up if symptoms change"                  | Asking what patients wish they'd known _after_ a procedure — such as how challenging bathroom mobility is after a total knee replacement — so the next patient hears it beforehand                                       |
+
+## How Much Does the How-To Gap Cost Medicare?
+
+This is where the conversation moved from patient experience to hard economics. Dr. Yeh cited data on Rainfall's core population: in the Medicare supplemental population, patients without a sense of purpose cost 12% more; severely lonely patients without social support cost 20% more; and patients without hope, optimism, or a positive view of aging — roughly 40% of the population — cost 33% more. "These are translatable into the business case," she said.
+
+Qureshi connected this directly to the surgical episodes at the center of value-based care models like CMS TEAM. Joint replacement alone accounts for more than $20 billion in annual Medicare spend. Add roughly 20% in completely avoidable cost on top of that, and "that's a four to five billion dollar problem that we have... that it's completely avoidable," Qureshi noted. The same 30-day post-discharge accountability window that value-based care models hold hospitals financially responsible for is exactly where the how-to gap does its damage — in the hours and days after a patient leaves the building, when no one is standing over their shoulder to translate discharge instructions into daily life.
+
+## What Can Hospital and Health System Leaders Do Right Now on Post-Acute Care Coordination?
+
+Dr. Yeh's recommendations were concrete and low-cost to implement:
+
+- **Ask patients where they get their information**, not just whether they'd recommend the practice. If patients are searching AI for nutrition, sleep, or supplement questions the practice never addressed, that's a signal, not a failure.
+- **Ask "what do you know now that you wish you'd known before?"** after discharge or surgery — total knee replacement patients, for example, consistently report bathroom mobility challenges no one warned them about in advance.
+- **Use telehealth as a window into the home**, not just a video-call replacement for an office visit. Asking a patient to walk their phone around the bathroom, or show their medicine cabinet, surfaces fall risks and medication confusion that a clinical interview never would.
+- **Design instructions the way GPS designs directions** — anticipating the friction points before the patient hits them, not after.
+- **Recognize that AI needs a human in the loop on both ends** — to catch what data models miss (the ER patient with the "cold"), and to apply technology where human judgment alone can't resolve ambiguity (the hearing loss vs. cognitive decline case).
+
+Dr. Yeh also referenced a framing from the London School of Economics on the changing nature of work: earlier generations of jobs were built on _brawn_, today's jobs are built on _brains_, and — as LSE researchers and leadership have both suggested — the next generation of high-value work is increasingly about _people skills and engagement_. For healthcare, she argued, that's exactly the shift clinicians need to make as AI absorbs more of the "knowing everything" burden clinicians have historically carried.
+
+## The Bottom Line for Value-Based Care
+
+The how-to gap isn't a communication nicety — it's a measurable cost driver sitting directly inside the accountability window that value-based care models like CMS TEAM are built around. Hospitals mandated under CMS TEAM are already financially responsible for 30 days of post-discharge outcomes across five surgical episode types, with up to 20% of Medicare revenue at stake. Closing the how-to gap for exactly these patient populations — geriatric, often solo-aging, often managing multiple chronic conditions — is one of the more immediately actionable levers hospital leaders have, and it doesn't require new technology to start.
+
+As Dr. Yeh put it in closing: "Always wear the glasses of your patients. Don't be afraid to ask. It's amazing what you can learn."
+
+---
+
+**About [Dr. Charlotte Yeh](https://www.linkedin.com/in/charlotte-yeh-/):** Dr. Charlotte Yeh, MD, FACEP, has spent more than 30 years across nearly every part of the healthcare system — as a board-certified emergency physician and former Chief of Emergency Medicine at Tufts Medical Center and Newton-Wellesley Hospital, a former Regional Administrator for the Centers for Medicare & Medicaid Services in Boston, a former Medical Director for a Medicare Part B claims contractor, and most recently Chief Medical Officer at AARP Services, Inc. She is now Chief Experience Officer at Cherish and founder of Yeh Innovation.
+
+## Frequently Asked Questions
+
+### What is the "how-to gap" in healthcare?
+
+The how-to gap is the space between clinically correct advice — the "should-dos" — and a patient's actual ability to carry it out in daily life. It occurs when clinicians communicate what to do without addressing how to realistically do it given a patient's specific circumstances, mobility, cognitive status, or caregiving support.
+
+### How does the how-to gap affect Medicare costs?
+
+Patients who don't understand how to follow care instructions are more likely to experience ER visits, non-adherence, and complications that require additional treatment — all of which are exactly the outcomes value-based care models like CMS TEAM hold hospitals financially accountable for during the post-discharge episode window.
+
+### What did the Edelman Trust Barometer find about healthcare trust?
+
+As of 2025, 61% of U.S. adults believed healthcare corporations, institutions, and even NGOs were actively interfering with their ability to access quality care. A related 2026 survey found only 21% of adults believe the next generation will be better off than today.
+
+### Why do patients use AI or search engines instead of asking their doctor?
+
+According to Gallup survey data cited in the episode, 59% of people search AI tools before a doctor visit and 56% check afterward. Reasons include cost concerns, feeling dismissed or disrespected by a provider (21%), and embarrassment (18%) — not solely convenience.
+
+### How much does loneliness and lack of purpose cost Medicare?
+
+Within the Medicare supplemental population, patients without a sense of purpose cost 12% more, severely lonely patients without social support cost 20% more, and patients without hope or a positive view of aging — roughly 40% of the population — cost 33% more.
+
+### Does AI replace clinicians in closing the how-to gap?
+
+No. The episode emphasizes a "human in the loop" model: AI is valuable for synthesizing data and surfacing patterns, but human judgment remains essential for catching context AI data sets don't capture — such as a patient's tone, posture, or unspoken distress — and for making risk-benefit calls, like whether an elderly patient should undergo a procedure at all.
+
+### How does this connect to CMS TEAM and value-based care?
+
+CMS TEAM holds hospitals financially accountable for outcomes across a 30-day post-discharge window following five surgical episode types, with up to 20% of Medicare revenue at stake. The how-to gap directly drives the readmissions, complications, and non-adherence that occur in exactly that window — making patient experience and health literacy a direct financial lever, not just a satisfaction metric.
+
+### What is one simple change hospitals can make to close the how-to gap?
+
+Ask patients directly what they wish they'd known before a procedure or after discharge, and use that feedback to change what the next patient is told in advance — a low-cost, high-yield practice cited repeatedly in the episode.
+
+---
+
+## Download the eBook
+
+<a
+  href="/downloads/eBook_should_do_isnt_how_to_charlotte_yeh.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download the eBook: Should-Do Isn't How-To
+</a>
+
+## Get Your Free CMS TEAM Analysis
+
+Rainfall will perform a free analysis of your 2024 and 2025 Medicare billings and build an individualized view of your potential upside and downside under TEAM.
+
+- **Schedule a demo + free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+
+## Further reading
+
+- [CMS TEAM Guide](/cms-team/) — hub overview
+- [What Is TEAM?](/cms-team/what-is-team/) — episode accountability vs. fee-for-service
+- [Geriatric Patients & Hidden Cost Drivers in CMS TEAM](/post/geriatric-patients-cms-team-episode-costs/)
+- [R.A.I.N. Compliant™](/team/) — post-acute care coordination
+- [Market Discipline with Steve Ganyard](/post/market-discipline-steve-ganyard/)
+
+---
+
+Rainfall Health is the first and only recognized standard for Medicare-mandated models like CMS TEAM. Learn how your hospital can quantify and maximize Medicare reimbursement under the mandate: explore the [CMS TEAM Guide](/cms-team/), read [what CMS TEAM requires](/cms-team/what-is-team/), or see how geriatric patients specifically affect episode costs in our related post, [Geriatric Patients & Hidden Cost Drivers in CMS TEAM](/post/geriatric-patients-cms-team-episode-costs/).
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

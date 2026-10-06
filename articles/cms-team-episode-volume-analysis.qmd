@@ -1,0 +1,210 @@
+---
+title: "CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries"
+description: "CMS TEAM episode volume breakdown: 204,014 Medicare episodes in 2023 across five procedures. LEJR accounts for 58%. Data from ACS/IAC analysis of IPPS\u2026"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Episode Volume</span> <span class="article-tag-pill">Bundled Payments</span> <span class="article-tag-pill">Data Analysis</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">A data-first breakdown of the 2023 Medicare episode volume across all five CMS TEAM procedure types — what the numbers mean for mandated hospitals going into 2027.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-episode-volume.jpg" alt="CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Over 200k TEAM episodes in 2023
+- Orthopedics dominate volume
+- Lower-volume CABG carries high cost
+- Volume shapes risk exposure
+</div></aside>
+
+Five surgical procedures. 721 mandated hospitals. One number that ties them together: **204,014** — the total Medicare fee-for-service episodes recorded at CMS TEAM-participating hospitals in 2023, the final full year before the model went live.
+
+That figure comes from the Institute for Accountable Care and the American College of Surgeons, which analyzed CMS claims data from the 188 selected Core-Based Statistical Areas to model what the TEAM mandate would actually look like at scale. The short answer: it is not evenly distributed.
+
+<BlogChartFigure src={"/charts/team-episode-volume.png"} alt={"Bar chart showing 2023 CMS TEAM episode volume by procedure type"} caption={"LEJR accounts for 118,155 episodes — 58% of total TEAM volume. CABG represents only 5% but carries the highest per-episode cost at $52,934."} source={"Institute for Accountable Care / ACS analysis of CMS IPPS FY2025 claims data. Rainfall Health."} />
+
+## LEJR is the TEAM mandate in practical terms
+
+Lower extremity joint replacement — hip and knee arthroplasty — accounts for **118,155 cases**, or **58% of all TEAM episodes**. For most mandated hospitals, TEAM is, operationally, a hip and knee program. The other four procedures matter financially, but LEJR is where volume concentrates and where the majority of reconciliation outcomes will be determined.
+
+That concentration has a direct implication for preparation strategy. Hospitals that have strong post-acute discharge protocols for joint replacement patients — coordinated SNF partnerships, home health networks, surgeon-aligned care pathways — are better positioned under TEAM than those that have historically treated LEJR as a high-volume, routine service requiring minimal post-discharge coordination.
+
+## Spinal fusion and SHFFT: smaller volume, bigger per-episode swings
+
+Spinal fusion ranks second at 30,689 cases (15% of total). The procedure carries an average baseline episode cost of $51,237 — more than twice LEJR's average of $24,540. That means a spinal fusion episode that runs above the CMS target price generates a larger dollar penalty per case than an equivalent LEJR miss.
+
+SHFFT (surgical hip and femur fracture treatment) represents 12% of volume at 25,427 cases. These are largely unplanned admissions — a patient with a fall-related fracture, not an elective procedure — which makes the 30-day episode window significantly harder to manage. Post-discharge spending runs 63% of the total average episode cost of $46,615, the highest post-discharge ratio of the five procedure types.
+
+## Major bowel: the procedural wildcard
+
+Major bowel procedures — colorectal resections and related surgeries — account for 19,723 cases (10%). The patient mix is heterogeneous, ranging from elective colorectal surgery to emergency bowel resections. That variability makes benchmarking harder. CMS applies a 1.5% discount factor to major bowel target prices (vs. 2.0% for LEJR), a concession to the complexity of the patient population.
+
+<BlogChartFigure src={"/charts/team-post-discharge-share.png"} alt={"Stacked bar chart showing post-discharge spending share by procedure"} caption={"SHFFT episodes have the highest post-discharge cost ratio at 63% — those are fracture patients whose rehabilitation needs extend far beyond the hospital walls. LEJR post-discharge spending averages 40% of the total episode cost."} source={"CMS IPPS FY2025 Final Rule preamble (89 FR 68986), Table X.A.3.a. Rainfall Health."} />
+
+## CABG: smallest volume, highest average cost
+
+Coronary artery bypass graft surgery represents only **5% of TEAM episodes** at 10,020 cases, but it carries the highest average episode cost at **$52,934**. The post-discharge cost share for CABG (22%) is lower than SHFFT or LEJR — the acute hospitalization itself drives most of the episode cost. But when CABG episodes exceed the CMS target price, the average loss is $15,142 per episode, the largest average loss of the five procedure types.
+
+Hospitals with CABG programs should note that their total TEAM exposure per over-target episode is roughly 6× higher than LEJR. Even a small number of high-cost CABG episodes can meaningfully shift annual reconciliation outcomes.
+
+## What the distribution means for 2027 and downside risk
+
+Performance Year 1 (2026) carries no downside financial risk — hospitals can only gain. PY2 and beyond introduce two-sided risk for most participants, with stop-loss limits of up to 20% of the target price. The 2023 episode volume data tells hospitals exactly where that risk will concentrate.
+
+For a typical 400-bed mandated hospital with 350 LEJR episodes, 80 spinal fusions, 60 SHFFT cases, 50 bowel procedures, and 20 CABG procedures annually, the TEAM reconciliation will be dominated by LEJR outcomes — but a single bad quarter on CABG can offset months of LEJR gains.
+
+## Methodology: how CMS TEAM episode counts are derived
+
+The 2023 episode volume figures in this analysis are drawn from the Institute for Accountable Care and American College of Surgeons (ACS) analysis of CMS claims data for the 188 TEAM-selected Core-Based Statistical Areas (CBSAs), published in conjunction with ACS advocacy materials on the TEAM Final Rule (FY2025 IPPS, 89 FR 68986). CMS identified episodes using Medicare Standard Analytic Files (SAFs) — claims-based administrative data, not clinical registries — with MS-DRG and ICD-10-PCS procedure codes to attribute each episode to one of the five TEAM procedure categories.
+
+A critical methodological note: these counts reflect **2023 claims data** — the most recent year for which complete episode-level analysis is publicly available prior to the January 1, 2026 TEAM start date. Actual 2026 episode volumes will differ for several reasons: post-acute care utilization patterns have been shifting toward ambulatory surgery center (ASC) settings for LEJR in particular, which may reduce inpatient episode attributions; coding practices evolve with ICD-10-PCS updates; and some hospitals in the 741-hospital September 2024 list subsequently closed, merged, or changed IPPS payment status, reducing the March 2026 active participant count to 721.
+
+For planning purposes, the 2023 data provides the most granular public benchmark available. Individual hospital TEAM target price files — distributed through the CMS Innovation Center participant portal after executing a Data Sharing Agreement — contain hospital-specific historical episode counts and costs that supersede these national estimates for financial modeling.
+
+(Source: [American College of Surgeons. (2024). TEAM episode volume analysis. ACS advocacy materials.](https://www.facs.org/advocacy/transforming-episode-accountability-model/))
+(Source: [Centers for Medicare & Medicaid Services. (2024). FY2025 IPPS Final Rule, 89 FR 68986.](https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems))
+
+## Policy implications: volume concentration creates strategy asymmetry
+
+The concentration of 58% of TEAM volume in a single procedure type (LEJR) has a policy implication that extends beyond financial modeling. It means that **TEAM is, in practical operational terms, primarily a joint replacement accountability program with four ancillary episode types**. Hospital leaders who treat TEAM as a comprehensive surgical quality initiative will build very different infrastructure than those who correctly identify it as primarily a hip-and-knee episode management challenge.
+
+The Finkelstein et al. (2018) JAMA analysis of mandatory LEJR bundled payments found that discharge to institutional post-acute care fell 3.6 percentage points — an 11.4% relative reduction — in CBSAs where the bundled payment was mandatory, with no statistically significant change in patient outcomes. This finding suggests that a meaningful share of current LEJR SNF placements are clinically substitutable with home health, and that the financial incentive of TEAM will accelerate what clinical judgment alone has not.
+
+For the four remaining procedure types — spinal fusion (15%), SHFFT (12%), major bowel (10%), and CABG (5%) — the volume concentration is lower but the per-episode financial stakes are higher. A hospital that optimizes LEJR episode management without addressing CABG may miss the highest-leverage individual episode improvement opportunity in its portfolio. Strategic TEAM preparation requires a procedure-type-specific analysis, not a single aggregate approach.
+
+(Source: [Finkelstein, A., Ji, Y., Mahoney, N., & Skinner, J. S. (2018). JAMA, 320(9), 892–900.](https://doi.org/10.1001/jama.2018.12346))
+
+## Frequently asked questions
+
+### How many CMS TEAM episodes happened in 2023?
+
+204,014 Medicare FFS episodes were recorded at TEAM-mandated hospitals in 2023, according to the Institute for Accountable Care / ACS analysis of IPPS FY2025 data.
+
+### Which procedure has the highest TEAM episode volume?
+
+LEJR (lower extremity joint replacement — hip and knee) accounts for 58% of all TEAM episodes — 118,155 cases in 2023.
+
+### Which TEAM procedure has the highest average episode cost?
+
+CABG (coronary artery bypass graft) has the highest average episode cost at $52,934, based on 2021 baseline data from the CMS IPPS FY2025 Final Rule.
+
+### Why does SHFFT have the highest post-discharge cost ratio?
+
+SHFFT (surgical hip and femur fracture treatment) averages 63% of its $46,615 episode cost in the post-discharge period — the highest of the five procedures. These are largely unplanned admissions (fall injuries) with complex post-acute needs.
+
+<BlogReferences items={[{"id":1,"text":"Institute for Accountable Care / ACS, TEAM 2023 episode volume analysis, published in ACS TEAM advocacy materials.","url":"https://www.facs.org/advocacy/transforming-episode-accountability-model/"},{"id":2,"text":"CMS, FY2025 IPPS Final Rule, Section X.A.3 — TEAM episode types and baseline costs, 89 FR 68986.","url":"https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems"},{"id":3,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model overview.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

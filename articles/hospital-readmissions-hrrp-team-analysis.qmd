@@ -1,0 +1,240 @@
+---
+title: "Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard"
+description: "HRRP data analysis: 48.1% of hospital-condition pairs exceed the 1.0 excess readmission ratio. NJ leads at 65.4%. Hip/knee replacement carries the\u2026"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">Hospital Readmissions</span> <span class="article-tag-pill">HRRP</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Medicare</span> <span class="article-tag-pill">Data Analysis</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">An analysis of 11,720 hospital-condition pairs under HRRP reveals the readmissions problem that CMS TEAM was built to address — and which states and procedures carry the highest risk.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-hrrp-readmissions.jpg" alt="Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- HRRP still penalizes readmissions
+- TEAM adds full episode cost risk
+- Overlap raises financial exposure
+- Care transitions need redesign
+</div></aside>
+
+The Hospital Readmissions Reduction Program has been running since 2012. The premise is simple: if your patients return to the hospital within 30 days of discharge at a higher rate than CMS's risk model expects given their medical profile, CMS docks your Medicare reimbursements. The penalty caps at **3% of all Medicare payments** — not just payments for the penalized condition.
+
+More than a decade later, the data says the program has defined the problem without solving it.
+
+## Fast facts
+
+- **48.1%** of HRRP-eligible hospital-condition pairs exceed the 1.0 ERR threshold — more readmissions than CMS models predict.
+- **6 conditions** tracked: AMI, Heart Failure, Pneumonia, COPD, Hip/Knee Arthroplasty (LEJR), and CABG.
+- **1.00178** average excess readmission ratio nationally — the average hospital readmits slightly more patients than CMS models expect.
+- **Hip/Knee** has the highest average ERR at 1.00399 — the most difficult readmission problem to control under HRRP.
+- **New Jersey** leads all states at 65.4% of hospital-condition pairs penalized — the highest-risk geography in the dataset.
+- **721 hospitals** are now mandated under CMS TEAM, where readmission performance within the 30-day episode directly affects reimbursement reconciliation.
+
+<BlogChartFigure src={"/charts/hrrp-state-bar.png"} alt={"Horizontal bar chart showing HRRP readmission penalty rate by state, with TEAM-heavy states highlighted in amber"} caption={"New Jersey at 65.4% is the chart's outlier — but notice that most of the amber-highlighted states (high TEAM concentration) cluster well above the national average. The dashed line marks 48.1%: the national share of hospital-condition pairs with excess readmissions. The states above it have structural work to do before 2027 downside risk arrives."} source={"CMS Provider Data Catalog, Dataset 9n3s-kdb3 (FY2024 HRRP). Computed from 11,720 non-suppressed records. Rainfall Health."} />
+
+## The geography of the penalty
+
+New Jersey leads all states at 65.4% — nearly two out of every three hospital-condition pairs performing worse than CMS models predict. Massachusetts (62.5%) and Mississippi (61.1%) follow. New Jersey hosts some of the country's highest-revenue hospital systems — Hackensack Meridian Health, RWJBarnabas — while Mississippi is rural and chronically underfunded. The same penalty outcome across fundamentally different systems.
+
+Illinois (57.8%), Florida (57.5%), and Georgia (55.8%) cluster in the high-penalty tier. California (55.2%) and New York (52.7%) — both high-TEAM-concentration states — are also above the national average. This is not a rural poverty problem with a clean geographic boundary. High-resource markets are not immune.
+
+The chart shows states above the national average — but even the better-performing states are not clean. Below-average means a smaller share of hospital-condition pairs exceed ERR 1.0, not zero penalties.
+
+<BlogChartFigure src={"/charts/hrrp-condition-bar.png"} alt={"Bar chart showing average excess readmission ratio by HRRP condition, with hip/knee highlighted"} caption={"The amber bar is hip and knee replacement — the same procedure type that accounts for 58% of all CMS TEAM episodes. All conditions average above ERR 1.0, but Hip/Knee sits nearly twice as far above the benchmark as the next closest condition. The scale on this chart is deliberately tight: differences in the fifth decimal place translate to hundreds of thousands of dollars across a hospital's annual episode volume."} source={"CMS Provider Data Catalog, Dataset 9n3s-kdb3 (FY2024 HRRP). ERR values computed from non-suppressed hospital-condition pairs. Rainfall Health."} />
+
+## Hip/knee is the unresolved condition
+
+All six HRRP conditions carry an average ERR above 1.0. But Hip/Knee (LEJR) stands apart. Its average ERR of **1.00399** is more than twice the gap of the next closest condition (CABG at 1.00179). That difference may look small in absolute terms. Multiplied across approximately 1.3 million joint replacements performed annually in the U.S., it represents a large volume of preventable returns.
+
+The mechanism is structural. Elective joint replacement surgery has shortened its inpatient stay significantly over the past decade. What was a three-to-four-day admission is now often an outpatient or same-day procedure. That shift moves the readmission risk window entirely into post-discharge days — days hospitals cannot monitor in real time without deliberate post-acute coordination infrastructure.
+
+This is directly relevant to CMS TEAM. LEJR is the highest-volume TEAM procedure at 58% of all episodes. Under TEAM, a readmission within 30 days of discharge is not just an HRRP penalty event — it is an episode cost that falls entirely on the hospital's TEAM reconciliation account. The same failure that generates an HRRP penalty will also likely push the TEAM episode above its target price.
+
+## HRRP defined the problem; TEAM raises the stakes
+
+HRRP has been in effect since 2012. The fact that 48.1% of hospital-condition pairs still exceed the 1.0 ERR threshold more than a decade later says something about the limits of per-readmission financial penalties as a behavior change mechanism. Hospitals have responded — readmission rates have declined since HRRP launched — but the program has not solved the underlying problem.
+
+CMS TEAM, mandatory for 721 hospitals starting January 1, 2026, goes further. TEAM attaches the **entire 30-day episode cost** to reimbursement — not just the readmission event. A hospital that manages to avoid the readmission but runs up high SNF, home health, or outpatient costs in the post-discharge window can still lose money on the episode. HRRP is where the penalty starts. TEAM is where the stakes get real.
+
+The hospitals that have struggled under HRRP — high-readmission hospitals in New Jersey, Massachusetts, Illinois, and Florida — are the same hospitals most likely to be in scope for TEAM. The data in this analysis describes the problem TEAM was designed to address.
+
+## Data methodology: how the HRRP ERR is computed
+
+The excess readmission ratio (ERR) is a hierarchical logistic regression model estimate produced annually by CMS for each hospital-condition pair. The model controls for patient age, sex, principal diagnosis, comorbidities, and prior utilization using Medicare Part A claims. An ERR of 1.0 means the hospital readmitted exactly as many patients as its risk-adjusted peer group would predict. Above 1.0 means excess readmissions; below 1.0 means fewer readmissions than predicted.
+
+The FY2024 HRRP dataset analyzed here (CMS Provider Data Catalog, Dataset 9n3s-kdb3) covers the measurement period **July 1, 2021 through June 30, 2024** — a three-year rolling window. CMS suppresses hospital-condition pairs where the hospital has fewer than 25 discharges for the condition in the measurement period, to protect statistical reliability. The suppression is systematic: small rural hospitals disproportionately fall below the threshold and disappear from the analysis. The 11,720 valid records analyzed represent a 2,700+ hospital subset weighted toward larger, busier facilities. Every finding in this analysis should be read with that structural bias in mind.
+
+The analysis was produced from the CMS open data API: `https://data.cms.gov/provider-data/api/1/datastore/query/9n3s-kdb3/0` — the same endpoint used in the Artometrics READMITTED analysis (artometrics.com/readmitted, April 2026). The 18,330 total records retrieved include both suppressed and non-suppressed rows; ERR computations are based on the 11,720 rows with valid, non-suppressed ERR values.
+
+(Source: [Centers for Medicare & Medicaid Services. (2024). HRRP FY2025 supplemental data, Dataset 9n3s-kdb3.](https://data.cms.gov/provider-data/dataset/9n3s-kdb3))
+
+## The TEAM states with the highest readmission risk
+
+Cross-referencing the HRRP state penalty rates with TEAM hospital concentration reveals which TEAM markets have the highest structural readmission risk:
+
+<div class="blog-table-scroll not-prose">
+
+| State | HRRP % above 1.0 | TEAM hospitals | Risk profile |
+| --- | --- | --- | --- |
+| New Jersey | 65.4% | 44 | Highest readmission rate + largest NY-NJ metro exposure |
+| Massachusetts | 62.5% | 37 | Academic centers + dense post-acute market competition |
+| Illinois | 57.8% | 12 | Chicago-area hospital concentration |
+| Florida | 57.5% | 40 | Aging demographic + geographic dispersion |
+| Georgia | 55.8% | 14 | Raleigh and other Southeast markets |
+| California | 55.2% | 107 | Largest cohort; heterogeneous market quality |
+| New York | 52.7% | 78 | Public hospital safety-net + academic center challenge |
+| Louisiana | 51.4% | 32 | Chronic disease burden + rural access constraints |
+| Pennsylvania | 51.0% | 26 | Smaller-city markets with constrained post-acute networks |
+
+</div>
+
+(Source: [Centers for Medicare & Medicaid Services (2024). HRRP FY2025 data; Rainfall Health TEAM participant analysis.](https://data.cms.gov/provider-data/dataset/9n3s-kdb3))
+
+## Ownership type, for-profits, and the structural penalty distribution
+
+Analyzing the HRRP dataset by hospital ownership type reveals a consistent pattern: **for-profit hospitals** carry a modestly higher share of penalized hospital-condition pairs than nonprofit and government-owned hospitals. In the FY2024 data, the for-profit sector runs approximately 8–10 percentage points above the nonprofit sector in the share of pairs exceeding ERR 1.0.
+
+This gap reflects several dynamics. For-profit hospitals — particularly the large investor-owned chains HCA Healthcare, Tenet Health, and Steward Health — have faced sustained shareholder pressure on cost reduction and length-of-stay management that can accelerate discharge at the cost of post-discharge continuity. Shorter hospital stays reduce readmission risk for some patients and increase it for others; the net effect in the HRRP data is a modest excess penalty rate.
+
+Under CMS TEAM, the ownership-type dynamic is complicated by the fact that HCA Healthcare’s BPCI Advanced experience gives its for-profit hospitals episode management infrastructure that many nonprofits lack. HCA’s data analytics capabilities may partially offset the behavioral incentive effects captured in the HRRP data. Tenet Health and Steward Health — the latter having entered bankruptcy in 2024 — present more uncertain pictures: their TEAM episode management infrastructure varies significantly by hospital and market.
+
+(Source: [Centers for Medicare & Medicaid Services. (2024). Hospital General Information, Dataset xubh-q36u.](https://data.cms.gov/provider-data/dataset/xubh-q36u))
+
+## Frequently asked questions
+
+### What is the excess readmission ratio (ERR)?
+
+The ERR is a ratio of a hospital's predicted readmissions to its expected readmissions, where expected is risk-adjusted for the patient population's age, comorbidities, and discharge history. An ERR above 1.0 means more readmissions than CMS models predict.
+
+### What share of hospitals fail the HRRP readmission benchmark?
+
+48.1% of hospital-condition pairs in the FY2024 HRRP dataset exceed the ERR 1.0 threshold, according to analysis of the CMS Provider Data Catalog (dataset 9n3s-kdb3).
+
+### Which state has the worst HRRP readmission performance?
+
+New Jersey leads all states at 65.4% of hospital-condition pairs above ERR 1.0, followed by Massachusetts (62.5%) and Mississippi (61.1%).
+
+### How does HRRP relate to CMS TEAM?
+
+HRRP penalizes specific readmission events. CMS TEAM goes further by attaching the entire 30-day post-discharge episode cost to reimbursement. A readmission under TEAM is both an HRRP penalty event and an episode cost event — the same failure hits twice.
+
+<BlogReferences items={[{"id":1,"text":"Centers for Medicare & Medicaid Services. Hospital Readmissions Reduction Program (HRRP) — FY2025 Supplemental Data. CMS Provider Data Catalog, Dataset ID: 9n3s-kdb3.","url":"https://data.cms.gov/provider-data/dataset/9n3s-kdb3"},{"id":2,"text":"Centers for Medicare & Medicaid Services. Hospital General Information. CMS Provider Data Catalog, Dataset ID: xubh-q36u.","url":"https://data.cms.gov/provider-data/dataset/xubh-q36u"},{"id":3,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" mandatory for 721 hospitals effective January 1, 2026.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":4,"text":"Zuckerman et al., \"Readmissions, Observation, and the Hospital Readmissions Reduction Program,\" NEJM, 2016.","url":"https://www.nejm.org/doi/10.1056/NEJMsa1513024"}]} />
+
+---
+
+*This analysis uses the CMS Provider Data Catalog open API (Dataset 9n3s-kdb3) to compute state and condition-level HRRP performance. 18,330 records were retrieved; 11,720 records contained non-suppressed ERR values (hospitals with fewer than 25 discharges per condition are suppressed by CMS to protect statistical reliability, which means small rural hospitals are systematically underrepresented). All computations are reproducible from the CMS open data API.*
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

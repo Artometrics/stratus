@@ -1,0 +1,193 @@
+---
+title: "What Hospitals Are Getting Wrong About CMS TEAM: An Analysis"
+description: "An analysis of what hospitals are getting wrong about the CMS TEAM model \u2014 from data gaps to PCP referral confusion \u2014 and how to fix it."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Implementation</span> <span class="article-tag-pill">Value-Based Care</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">What Hospitals Are Getting Wrong About CMS TEAM: An Analysis</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">More than six months in, the most common CMS TEAM mistakes are operational, not strategic — from episode data gaps to PCP referral confusion.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Rainfall Health Research Team" class="author-avatar"> <span>Rainfall Health Research Team</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 11, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-myths-warning.jpg" alt="What Hospitals Are Getting Wrong About CMS TEAM: An Analysis" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Mistakes are operational, not policy
+- Post-acute partners get overlooked
+- Data arrives too late to act
+- Track strategy needs ownership
+</div></aside>
+
+The **CMS TEAM model** has been live since January 1, 2026, and early reporting reveals recurring implementation gaps.
+
+## Gap 1: Underinvesting in episode data
+
+Because claims data lags roughly six months, hospitals relying on retrospective reporting discover problems too late to intervene. Documentation is a related weak spot: per Optum Advisory, "analysis of one facility found that two-thirds of episodes had zero HCCs coded" — under-documented comorbidities produce lower target prices that don’t reflect true episode cost.
+
+## Gap 2: Treating the PCP referral as an afterthought
+
+HFMA reporting quotes hospital leaders that the mandatory primary-care referral has been "more challenging than a lot of people thought," with confusion over what counts as a referral, the timeline, and which clinicians qualify — a problem compounded when patients report no PCP.
+
+## Gap 3: Mis-timing patient attribution
+
+HFMA reporting notes the lack of a precise crosswalk between clinical workflows and DRG-based billing constructs makes it hard to identify TEAM patients early enough to begin care navigation and discharge planning.
+
+## Gap 4: Assuming 2026 buys time
+
+An upside-only Performance Year 1 lulls some hospitals into delay, but two-sided risk begins in 2027 and the required infrastructure takes months to build.
+
+## Gap 5: Ignoring safety-net exposure
+
+Peer-reviewed research shows safety-net hospitals were disproportionately penalized under CJR because of lower, harder-to-meet spending targets; the same structural risk exists under TEAM.
+
+## Gap 6: Underweighting quality
+
+The Composite Quality Score can flip a projected savings into a repayment — up to a 15% swing on negative reconciliation amounts.
+
+## How should hospitals correct course?
+
+Invest in real-time data, operationalize the PCP referral, solve attribution early, act in 2026 rather than waiting, and treat quality as a financial lever — not a compliance checkbox.
+
+<aside class="blog-callout blog-callout--default not-prose"><div class="blog-callout__body">
+
+Rainfall Health is the first and only recognized standard for Medicare-mandated models like CMS TEAM.
+
+</div></aside>
+
+## Frequently asked questions
+
+### Is CMS TEAM currently live?
+
+Yes. CMS TEAM has been live since January 1, 2026.
+
+### What's the biggest data gap hospitals face under CMS TEAM?
+
+Reliance on lagging claims data, which trails roughly six months, leaving hospitals unable to intervene on episodes in real time.
+
+### Why has the CMS TEAM PCP referral requirement been difficult?
+
+Hospital leaders report ambiguity over what counts as a qualifying referral, the required timeline, and which clinicians satisfy the requirement — compounded when patients report having no primary care provider.
+
+### Does the upside-only design of Performance Year 1 buy hospitals time?
+
+No. Two-sided financial risk begins in 2027, and the infrastructure needed to manage it takes months to build — delaying preparation in 2026 is a common and costly mistake.
+
+### Are safety-net hospitals at higher risk under CMS TEAM?
+
+Research on the predecessor CJR model suggests yes — safety-net hospitals were disproportionately penalized because of lower, harder-to-meet spending targets, a structural risk that carries into TEAM.
+
+<BlogReferences items={[{"id":1,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model overview.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":2,"text":"Optum Advisory, \"What hospitals need to know about TEAM for 2026,\" 2025.","url":"https://www.advisory.com/topics/policy-and-payment/hospitals-need-to-know-team"},{"id":3,"text":"HFMA, \"Hospitals can use 2026 to prepare for CMS TEAM bundled payment risk,\" March 2026.","url":"https://www.hfma.org/payment-reimbursement-and-managed-care/hospitals-can-use-2026-to-prepare-for-cms-team-bundled-payment-risk"},{"id":4,"text":"Brandeis University / Institute for Accountable Care, TEAM hospital readiness research.","url":"https://heller.brandeis.edu"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

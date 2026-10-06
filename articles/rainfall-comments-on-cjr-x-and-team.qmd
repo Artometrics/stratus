@@ -1,0 +1,186 @@
+---
+title: "Rainfall Health Submits Comments on CMS Proposed Rules for CJR-X and TEAM, Applauding the Continued Move to Value-Based Payment"
+description: "On June 8, 2026, Rainfall Health submitted formal comment letters to CMS on the proposed CJR-X model and FY 2027 IPPS proposed rule changes to TEAM, supporting mandatory episode-based accountability for surgical care."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS</span> <span class="article-tag-pill">TEAM</span> <span class="article-tag-pill">CJR-X</span> <span class="article-tag-pill">value-based care</span> <span class="article-tag-pill">Medicare</span> <span class="article-tag-pill">episode payment</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Rainfall Health Submits Comments on CMS Proposed Rules for CJR-X and TEAM, Applauding the Continued Move to Value-Based Payment</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Christina Keny" class="author-avatar"> <span>Christina Keny</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">June 17, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/cms-cjr-x-team-comments.png" alt="Rainfall Health Submits Comments on CMS Proposed Rules for CJR-X and TEAM, Applauding the Continued Move to Value-Based Payment" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+On June 8, 2026, Rainfall Health submitted formal comment letters to the Centers for Medicare & Medicaid Services (CMS) on two proposed rules that together represent the next chapter of Medicare's transition from fee-for-service to episode value-based accountability: the proposed [CJR-X Model](/cjrx/) and the FY 2027 IPPS/LTCH PPS Proposed Rule (CMS-1849-P), which includes proposed changes to the [Transforming Episode Accountability Model (TEAM)](/cms-team/) Composite Quality Score (CQS) methodology and a Request for Information on extending TEAM to ambulatory surgery centers (ASCs).
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Rainfall supports mandatory CJR-X and TEAM accountability
+- Comments urge stronger risk adjustment and PRO-PM weighting
+- TEAM CQS should reward timely improvement, not lag alone
+- ASC expansion needs clear attribution before PY3
+- Full PDF letters are linked at the end of this article
+</div></aside>
+
+We applaud CMS's continued leadership in advancing value-based payment. Both rules reflect a federal commitment to rewarding healthcare systems that deliver coordinated, patient-centered surgical care across the full perioperative episode, and both create a meaningful opportunity to improve outcomes for Medicare beneficiaries, particularly those served by safety-net, rural, Medicare-Dependent, and Sole Community Hospitals.
+
+## Underscoring the Importance of Mandatory VBC Models
+
+The stakes of getting these models right have never been higher. The Medicare population is aging rapidly, and with that demographic shift comes a proportional rise in surgical volume among older adults. Older adults face an elevated risk of mortality and morbidity following surgery owing to comorbidities and age-related physiological changes. These are not the lower-acuity surgical patients of a decade ago — they are patients whose recovery trajectory is determined as much by what happens in the 30 to 90 days after surgical discharge, at the SNF, at home, in the primary care follow-up, as by what happens in the operating room. They require specialized perioperative pathways, structured care coordination across multiple settings, and reliable information transfer between every clinician who touches the episode of care. Fee-for-service reimbursement was never designed to pay for that work. Mandatory, episode-based, value-based payment models are.
+
+That is why the mandatory nature of CJR-X and TEAM matters. Voluntary models will not propel the changes needed to support all patients — particularly those with the greatest medical and social complexity. Mandatory, nationwide participation closes that gap. It ensures that the safety-net, rural, Medicare-Dependent, and Sole Community Hospitals serving the most complex Medicare beneficiaries are brought into the same accountability of quality care framework.
+
+Equally important, both CJR-X and TEAM reflect a deliberate elevation of patient-reported outcomes alongside traditional surgical quality metrics. Through the THA/TKA PRO-PM, the Information Transfer PRO-PM, and the broader emphasis on functional recovery, CMS is signaling that surgical success is no longer measured solely by 30-day readmissions or mortality. It is measured by whether the patient can climb their stairs, manage their medications, and live independently in the weeks and months after surgery. That is the right standard for an aging population, and it is the standard Rainfall Health is built to help healthcare systems meet through their AI platform.
+
+## Rainfall Health's CJR-X Comments: Explained
+
+Rainfall Health supports the proposed nationwide, mandatory expansion of CJR-X, including the preservation of the 90-day episode window, the differentiated stop-loss/stop-gain limits (5% for safety-net, rural, Medicare-Dependent, and Sole Community Hospitals; 20% for all others), and the inclusion of outpatient lower-extremity joint replacement procedures. An independent CJR evaluation found that participating hospitals reduced average episode payments by approximately $1,000 per episode, driven primarily by more appropriate post-acute utilization rather than reductions in clinical quality, and the 90-day window is the structural feature most responsible for that measured behavior change. Shortening it would create incentives for premature discharge and truncate accountability before most complications surface.
+
+To strengthen the model further, Rainfall Health recommended that CMS:
+
+1. Strengthen risk adjustment for medically and socially complex beneficiaries by adopting peer-group benchmarking based on dual-eligible share and incorporating frailty indicators.
+2. Protect first-time mandatory participants through a downside-risk glide path and targeted technical assistance for safety-net and rural hospitals.
+3. Heavily weight the THA/TKA PRO-PM in the Composite Quality Score and standardize PROM instruments and EHR-extractable specifications.
+4. Improve data timeliness and target-price transparency, including monthly claims feedback with ≤60-day lag and prospective target prices published before each performance year.
+5. Align CJR-X with age-friendly and geriatric surgery priorities by extending the proposed in-home telehealth G-codes to 4Ms-aligned services (Mentation, Mobility, Medications, What Matters).
+
+## Rainfall Health's TEAM Comments: Explained
+
+On TEAM, Rainfall Health strongly supports CMS's proposed shift from a fixed historical baseline to a rolling baseline CQS methodology and the decision to build the CQS from data hospitals already submit under the IQR, OQR, and HAC Reduction programs. Surgical quality improves continuously, not in five-year intervals, and aligning the measurement framework with how clinical improvement actually occurs at the bedside is the right answer for Medicare beneficiaries. Reusing existing reporting infrastructure also preserves TEAM's promise of reducing administrative burden, where every hour clinical staff spend on duplicative reporting is an hour not spent on the bedside coordination that drives 30-day outcomes.
+
+We recommended three amendments to strengthen the patient-care impact of the CQS:
+
+1. Shorten the lag between performance and CQS updates so that within-year improvements in readmissions, safety events, and care transitions are captured through hybrid claims plus eCQM data already submitted under IQR, and are reflected in the same Performance Year's reconciliation.
+2. Preserve both achievement and improvement scoring for at least Performance Years 1–3, with a minimum CQS floor for hospitals demonstrating defined year-over-year improvement, so that safety-net and high-acuity hospitals are not penalized for starting further behind.
+3. Incorporate at least one cross-setting care coordination measure, such as documented 30-day home-time outcome, given that approximately 34% of total inpatient TEAM episode costs are incurred after discharge.
+
+On the Request for Information regarding ASC inclusion, we support extending TEAM to ASCs beginning no earlier than PY3 (CY 2028), but only after CMS resolves four structural issues: adverse selection driven by site-of-care migration, ASC-specific risk-adjusted episode benchmarks, ASC-adapted quality measure development, and clear prospective episode attribution rules. We also urged CMS to publish a comprehensive TEAM Year 1 analysis before finalizing ASC expansion.
+
+## How Rainfall Health Powers Success in TEAM and the Next Generation of Value Based Care
+
+The shift to episode-based payment models like TEAM is exposing a fundamental gap in how healthcare systems collect quality and care coordination data as well as how they manage performance. Traditional manual data collection and retrospective reporting built on delayed claims and fragmented data cannot support real time clinical and operational decision making. By the time performance gaps are identified, the opportunity to impact outcomes and costs has already passed.
+
+Rainfall Health closes this gap with an AI native platform designed for real time episode management. By continuously integrating clinical and operational data, Rainfall delivers live visibility into patient trajectories, projected episode costs, and quality performance, enabling care teams to take action when it matters most during the episode itself.
+
+At the core of the platform is a unified approach to clinical operations and value-based performance. Rainfall combines episode cost analytics, quality measure monitoring, post-acute network optimization, and seamless care coordination across hospitals, skilled nursing facilities, home health, and primary care. This transforms the 30- and 90-day surgical episode from a disconnected series of retroactive encounters into a continuously managed, real-time data driven care journey.
+
+The platform identifies the within episode drivers of performance such as readmission risk, post-acute placement decisions, care transition gaps, and PROM completion, and translates them into point of care guidance for clinicians and operational teams. Rainfall Health partners with hospitals across all five TEAM procedures and a diverse range of care environments, from large health systems to safety net, rural, Medicare Dependent, and Sole Community Hospitals. The AI platform is built to align with real world workflows, enabling organizations to operationalize value-based care and not just report on it.
+
+As CMS accelerates the move toward episode-based accountability, success will depend on the ability to manage risk in real time, coordinate care across settings, and act on insights at the point of care. Rainfall Health is purpose built to help hospitals do exactly that, turning value-based care from a reporting exercise into a core operational capability.
+
+## Read the Full Comments
+
+Read Rainfall Health's full comment letters to CMS:
+
+<BlogCommentLetterLinks />
+
+---
+
+_Christina Keny, PhD, MHA, RN, CPHQ, MBBLSS, is Vice President of Clinical AI Strategy at Rainfall Health and Associate Faculty at the University of California, San Francisco. Comment letters co-authored with Marla Merkle, Vice President of Compliance & Care Coordination, and Jessica Ohlssen, Senior Vice President of Revenue._
+
+---
+
+**Further reading:** [What Is the CMS TEAM Model?](/cms-team/) · [CJR-X Model Guide](/cjrx/) · [CMS TEAM vs. CJR](/cms-team/team-vs-cjr/) · [Navigating the CMS TEAM Mandate](/post/navigating-the-cms-team-mandate-ebook/)
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

@@ -1,0 +1,414 @@
+---
+title: "Why Did CMS TEAM Turn Mandatory? A Former VA Secretary Explains the Calendar and the Math"
+description: "Why did CMS TEAM turn mandatory? Dr. David Shulkin on the 2030 value-based care deadline, Medicare trust-fund math, and what CEOs must do before 2027 downside risk."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Medicare reimbursement</span> <span class="article-tag-pill">value-based care solutions</span> <span class="article-tag-pill">value-based payment models</span> <span class="article-tag-pill">bundled payment analytics</span> <span class="article-tag-pill">hospital compliance</span> <span class="article-tag-pill">value-based care software</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Why Did CMS TEAM Turn Mandatory? A Former VA Secretary Explains the Calendar and the Math</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/david-shulkin.png" alt="Dr. David Shulkin" class="author-avatar"> <span>Dr. David Shulkin</span></span> <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Christina Keny" class="author-avatar"> <span>Christina Keny</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 23, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_TEAM_from_the_top_a_policy_conversation.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/cms-team-shulkin-banner.png" alt="Why Did CMS TEAM Turn Mandatory? A Former VA Secretary Explains the Calendar and the Math" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/f9f39f40"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- TEAM turned mandatory for a reason
+- CMS targets value-based care by 2030
+- Medicare trust fund faces 2034 insolvency
+- Shulkin: clearest payment signal yet
+- 2026 glides into 2027 risk
+- Build infrastructure now, not later
+</div></aside>
+
+---
+
+_Based on Rainfall Health Webinar Episode 3: TEAM from the Top — A Policy Conversation. Featuring Dr. David Shulkin, 9th U.S. Secretary of Veterans Affairs, in conversation with Christina Keny, PhD, MHA, RN, VP of Clinical AI, Rainfall Health._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/Mjxu7fQJt0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+## Introduction: CMS TEAM Is Not Just Another Payment Model
+
+On January 1, 2026, CMS launched the Transforming Episode Accountability Model — TEAM — the first mandatory bundled-payment program in Medicare's history. It runs through December 31, 2030. It covers 721 hospitals across 188 core-based statistical areas. It holds those hospitals financially and clinically accountable for five high-volume surgical episodes and everything that happens in a 30-day post-discharge window. In other words, TEAM is not a side experiment; it is one of the clearest **value-based payment models** CMS has put on a national calendar. For the CFO view of capturing that payment, see [how hospitals maximize TEAM revenue](/cms-team/maximize-revenue/).
+
+Many systems still read this as one more payment model. Dr. David Shulkin — a physician, former Under Secretary for Health at the VA, and the 9th U.S. Secretary of Veterans Affairs — reads it as something bigger.
+
+> Hospital leaders actually need to be ahead of that curve and the envelope.
+>
+> — Dr. David Shulkin, 9th U.S. Secretary of Veterans Affairs
+
+This post distills his conversation with Christina Keny, PhD, MHA, RN, VP of Clinical AI at Rainfall Health, into a working map of the moment: why TEAM turned mandatory, what it now requires, where Medicare payment is headed, and what every hospital CEO must do before 2027.
+
+---
+
+## Why Did CMS TEAM Turn Mandatory? Value-Based Payment Models, a Calendar, and a Math Problem
+
+Asked why voluntary bundle payments finally became mandatory, Dr. Shulkin's answer was direct.
+
+> I think it's simply a calendar issue and a math problem.
+>
+> — Dr. David Shulkin
+
+### The Calendar
+
+CMS has committed to putting every Medicare beneficiary in a value-based payment model by 2030. Halfway through 2026, voluntary enrollment rates make that impossible. The [CMS TEAM model](https://www.cms.gov/priorities/innovation/innovation-models/team-model) is the live national expression of that calendar.
+
+> There's no way that's going to happen on a voluntary basis, or if we continue to enroll beneficiaries in these programs at the rate that we're enrolling them. So you're going to have to start forcing more hospitals, more providers, more beneficiaries into these models if you're going to remain committed to that goal.
+>
+> — Dr. David Shulkin
+
+### The Math
+
+The Medicare trust fund is projected to become insolvent by 2034. With roughly 10,000 Americans turning 65 every day, and a declining birth rate shrinking the pool of younger workers paying in, Medicare cannot be financed the way it is today.
+
+> With more people turning 65 every day and the birth rate in the country going down, this is an unsustainable model. If you're going to address that problem, you're going to have to change the way that the government pays for healthcare.
+>
+> — Dr. David Shulkin
+
+| The Numbers                                          | What They Mean                                                    |
+| ---------------------------------------------------- | ----------------------------------------------------------------- |
+| **721** hospitals in TEAM, across 188 core areas     | The mandate is already active for these systems                   |
+| **2030** — every beneficiary in a value-based model  | CMS's public commitment; the reason voluntary was never enough    |
+| **2034** — Medicare trust fund projected insolvent   | The fiscal deadline driving mandatory payment reform              |
+| **10,000** Americans turning 65 every single day     | The demographic pressure that makes the math unsustainable        |
+| **2027** — downside financial risk begins under TEAM | The operational deadline every mandated hospital must prepare for |
+| **2,500+** hospitals proposed under CJR-X            | The next wave of mandatory models already in the pipeline         |
+
+Dr. Shulkin also noted that despite this policy originating under the Biden administration, the current administration has not walked it back — precisely because the math makes it unavoidable regardless of political preference.
+
+---
+
+## What CMS TEAM Actually Requires: Responsibility That Doesn't End at the Hospital Door
+
+Christina Keny framed the operational reality of TEAM for hospital leaders: this is not a reimbursement tweak. It is a wholesale redesign of how a hospital thinks about care after the patient leaves.
+
+Under TEAM, the hospital is financially and clinically responsible for a 30-day post-discharge window that extends well beyond its own walls — a period historically treated as someone else's problem.
+
+> Hospitals have simply not thought about that as their responsibility. But under this model, they are financially and clinically responsible for it.
+>
+> — Dr. David Shulkin, on the redesign of post-surgical care
+
+| Episode Stage   | What It Covers                                                                                     | What's at Stake                                                                                                                                           |
+| --------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **In hospital** | The surgical episode — joint replacement, hip and femur fracture, CABG, spinal fusion, major bowel | Enhanced-recovery protocols already shorten stays; but the episode cost clock starts here                                                                 |
+| **Transition**  | Discharge to the next setting — home, skilled nursing, or post-acute                               | Handoffs where information has historically been lost between organizations that don't share a record                                                     |
+| **30 days out** | Full arc of recovery at home                                                                       | Where readmissions and complications decide whether the episode lands above or below target price — and where the hospital now bears the financial result |
+
+The 30-day window is where most of the episode's cost is determined — and where hospitals have had the least visibility and control. That is precisely what TEAM is designed to change.
+
+> How do healthcare systems need to seamlessly support care all the way into the home, so that patients and their caregivers are fully prepared to optimize recovery?
+>
+> — Christina Keny, PhD, MHA, RN, on coordinating beyond the four walls
+
+---
+
+## The Patient at the Center: Older Adults, Into the Home
+
+The population TEAM touches most — adults 65 and older — arrives with real complexity. An acute surgical event superimposed on two or more chronic conditions is the norm, not the exception, for this group. And their recovery increasingly happens in a place hospitals don't control: the home.
+
+Three realities define this population under TEAM:
+
+**Surgery on complexity.** Most older adult surgical patients are managing multiple chronic conditions simultaneously. The surgery is one acute event layered on top of an already complex medical picture — which is why pre-operative optimization, not just technical surgical skill, determines episode outcomes.
+
+**The caregiver factor.** Recovery at home often depends on an older-adult spouse as caregiver — adding fragility to the very support system the post-discharge plan relies on. When that caregiver is also elderly and managing their own health conditions, the system has no visibility into how fragile that support structure actually is.
+
+**Home as care setting.** Sending patients home sooner improved outcomes and saved money — but it also exposed how little infrastructure existed to support them once they got there. Under TEAM, the hospital is now financially accountable for what happens in that gap.
+
+---
+
+## Where AI Creates Value in CMS TEAM Episode Management
+
+Healthcare has spent decades digitizing information. AI's greatest promise is to make that information actionable at the moment it matters — shifting from retrospective quality reporting built on outdated data to real-time insight that enables earlier intervention.
+
+> The model can be mind-blowing, but where the rubber meets the road is integration, implementation, adoption, and change management. The technology will keep getting better. The harder work is redesigning systems to actually use it.
+>
+> — Rainfall Health Webinar, TEAM from the Top
+
+Today AI is used mostly in administrative and back-office functions. But it is moving quickly toward the point of care, where it can directly support clinical decisions, care coordination, and patient outcomes. Four specific applications are most relevant to TEAM episode management:
+
+| AI Application                         | What It Does Under TEAM                                                                                                                                                       |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Patient identification & selection** | Matches evidence-based algorithms to available data to find who is appropriate for a procedure, and who needs pre-operative optimization first — before they enter an episode |
+| **Predictive analytics**               | Provides individualized answers to what setting and what care each patient needs after discharge — not a generic pathway applied to everyone                                  |
+| **Real-time monitoring**               | Catches a patient drifting off the expected recovery course early, enabling intervention with far fewer resources than an ER visit or readmission                             |
+| **Closing the blind spots**            | Bridges the gaps between settings where the post-acute provider, the home, DME, and pharmacy have never shared a full view of the patient                                     |
+
+The key constraint is not the technology — it is the change management required to integrate it into clinical workflows. Systems that invest in both the technology and the implementation will be positioned to use AI as a genuine episode management lever, not just a reporting dashboard.
+
+---
+
+## What's Next: Follow the Incentives
+
+Technology follows incentives, and innovation follows opportunity. The direction of those incentives is now clear.
+
+Most past CMMI experiments never hit their savings targets. Only a few worked. Bundled payments were among them. The signal from CMS is less about experimenting and more about doubling down on what's proven.
+
+> For at least the next five years, the innovation center's clear push is toward mandatory, value-based models.
+>
+> — Christina Keny, PhD, MHA, RN
+
+### CJR-X: The Next Wave
+
+Rather than being sunset, CJR was expanded. CJR-X, proposed for 2027, looks much like TEAM — with a reported **2,500+ hospitals** mandated to participate and an episode window expected to extend to **90 days** post-discharge. The systems building TEAM infrastructure now are building it for CJR-X at the same time.
+
+The areas where investment is being concentrated:
+
+- Remote monitoring across the care continuum
+- Care management in the home — often the most cost-efficient setting
+- Tools that lower barriers to full continuity of care across settings
+- Evidence-driven care that eliminates spend without value
+
+TEAM's first reconciliation results land roughly a year out. Success means expansion into new high-cost categories. The direction is set.
+
+---
+
+## What the VA Model Teaches Us About Long-Term Accountability
+
+Dr. Shulkin's perspective on TEAM is shaped by eight years leading the nation's largest integrated health system. The VA operates under a fundamentally different payment logic than fee-for-service Medicare — one that looks remarkably like where TEAM is trying to go.
+
+At the VA, Congress provides a defined budget. The VA is accountable for delivering value from those resources for a defined population of veterans — for their entire lives.
+
+> When you think about investing dollars in healthcare, you can think about not only the immediate impact it has on a veteran, but also the long-term impact that prevention has on future costs — sometimes decades down the road.
+>
+> — Dr. David Shulkin
+
+This is the logic CMS is trying to replicate at scale through mandatory bundled payments: create a defined episode, assign accountability for its full cost and quality to a single entity, and let the incentives do the work of driving better care. TEAM is version 1.0 of that model at national scale. CJR-X and the models that follow are version 2.0.
+
+---
+
+## What Every Hospital CEO Must Know
+
+Dr. Shulkin's two closing points for hospital leaders were direct.
+
+### On leadership under TEAM
+
+> If you're leading a healthcare system, you have to have a current impatience and a desire to get better every day. Getting better every day means not relying on the status quo, but learning how you can more effectively deliver care. Today that is going to require pushing systems to the point that they become a little bit uncomfortable — always doing it with the patient's interest at heart. If a system is not affordable, you're not going to be there to provide access to your community.
+>
+> — Dr. David Shulkin
+
+### On the biggest blind spot
+
+> The healthcare system is so large and complicated that it really does take its lead from government policy. Watching what's coming, and participating in it, is now an essential part of the job.
+>
+> — Dr. David Shulkin, on the 340B ripple effect and staying ahead
+
+Christina Keny sharpened the practical version of this blind spot:
+
+> It's really mind-blowing that some healthcare systems are not even aware, or they're not moving very quickly — and it's really surprising to me that there are a good number that didn't even know their hospital was a mandated TEAM participant.
+>
+> — Christina Keny, PhD, MHA, RN
+
+The cost of that blind spot is concrete: missed reconciliation targets, avoidable penalties, and scrambling to comply once downside risk is already live in 2027.
+
+| The Blind Spot                                           | The Real Cost                                                                                          |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Not knowing your hospital is a mandated TEAM participant | No infrastructure being built during the 2026 glide path                                               |
+| Treating TEAM as a quiet Year 1                          | Arriving at 2027 downside risk without case management, post-acute coordination, or episode monitoring |
+| Ignoring CJR-X in the pipeline                           | Missing the 2,500+ hospital mandate that looks like TEAM with a 90-day window                          |
+| Treating policy engagement as optional                   | Missing what's coming until it's too late to prepare cost-effectively                                  |
+
+---
+
+## How Rainfall Health Helps Mandated Hospitals Win Under CMS TEAM
+
+Rainfall Health is the first and only recognized standard for Medicare-mandated models like CMS TEAM. The R.A.I.N. Compliant™ platform closes the blind spots Dr. Shulkin describes and keeps the clinician in the driver's seat across the whole 30-day post-discharge episode.
+
+| Pillar                                    | What It Delivers                                                                                                                                                                          |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Compliance**                            | Six-step compliance journey mapped to each mandated model, driving adherence in 2–4 months, not years                                                                                     |
+| **Case management**                       | Augments your team so no episode, and no older high-risk patient, is left unattended across the continuum                                                                                 |
+| **Care coordination & patient education** | Brings the post-acute network, the home, and the hospital onto the same page — equipping patients and caregivers with the education to recover where most of the episode actually happens |
+| **AI-enabled care design**                | Personalizes each episode with predictive analytics and real-time monitoring, with a human in the loop on every decision                                                                  |
+
+R.A.I.N. Compliant™ status is achievable in approximately 10 weeks. The platform is SOC 2 Type 1 and HIPAA Security Risk Analysis certified. Rainfall will perform a free analysis of your 2024 and 2025 Medicare billings to build an individualized view of your potential upside and downside under TEAM.
+
+---
+
+## Frequently Asked Questions: CMS TEAM, Medicare Payment Policy, and What's Next
+
+### Why did CMS TEAM become mandatory instead of voluntary?
+
+According to Dr. David Shulkin, it comes down to a calendar and a math problem. CMS has committed to putting every Medicare beneficiary in a value-based payment model by 2030, and voluntary enrollment rates make that impossible. Simultaneously, the Medicare trust fund is projected to become insolvent by 2034. Voluntary participation was never going to deliver the cost containment required in time.
+
+### What does CMS TEAM require hospitals to do?
+
+CMS TEAM requires 721 mandated hospitals to take financial and clinical responsibility for five high-volume surgical episodes — including all Medicare Part A and B spending in a 30-day post-discharge window. Hospitals are accountable for outcomes, coordination, and recovery after the patient leaves — a period historically treated as someone else's problem.
+
+### When does downside financial risk begin under CMS TEAM?
+
+Downside financial risk under CMS TEAM begins in 2027. The 2026 performance year is a glide path — an upside-only Track 1 year designed for hospitals to build infrastructure before two-sided risk goes live. Hospitals that treat 2026 as preparation will be ready when penalties become real.
+
+### What is the Medicare trust fund insolvency deadline?
+
+The Medicare trust fund is projected to become insolvent by 2034. With roughly 10,000 Americans turning 65 every day and a declining birth rate reducing younger workers paying in, Medicare cannot be financed the way it is today. This is a primary driver behind CMS's push toward mandatory value-based payment models.
+
+### What is CJR-X and how does it relate to CMS TEAM?
+
+CJR-X is the proposed successor to the Comprehensive Joint Replacement program, expected to launch in 2027. Rather than being sunset, CJR was expanded into CJR-X, which is structured similarly to TEAM and is reported to mandate 2,500+ hospitals. CJR-X is also expected to extend the episode window to 90 days post-discharge, compared to TEAM's current 30-day window.
+
+### How should hospital CEOs prepare for CMS TEAM?
+
+Dr. Shulkin's guidance: carry a genuine impatience to improve, stay ahead of what's coming from Washington, and treat policy engagement as essential — not optional. Specifically for TEAM: build the infrastructure for post-discharge coordination now, during the 2026 glide path, before downside risk goes live in 2027.
+
+### What is the biggest blind spot hospitals have about CMS TEAM?
+
+Many hospital leaders do not know their hospital is a mandated TEAM participant. Others are aware but treating 2026 as a quiet year. The risk is concrete: missed reconciliation targets, avoidable penalties, and scrambling to comply once downside financial risk is already live in 2027.
+
+### Where is Medicare payment policy headed after CMS TEAM?
+
+Dr. Shulkin and Christina Keny see mandatory value-based models as the sustained direction of Medicare payment. Most past CMMI experiments failed to hit savings targets, but bundled payments were among the few that worked. CMS is doubling down on what's proven. TEAM's first reconciliation results land roughly a year out; success means expansion into new high-cost categories and the mandatory CJR-X model in 2027.
+
+### How does the VA model relate to value-based care under CMS TEAM?
+
+The VA operates as a closed, accountable care system — Congress provides a defined budget, and the VA is responsible for delivering value from those resources for veterans' entire lives. Dr. Shulkin notes this enables long-term thinking about prevention and cost: investments today reduce costs decades down the road. CMS TEAM borrows this accountability logic by making hospitals financially responsible for full episode outcomes, not just procedures.
+
+---
+
+---
+
+## Download the eBook
+
+<a
+  href="/downloads/eBook_TEAM_from_the_top_a_policy_conversation.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download the eBook: TEAM from the Top
+</a>
+
+## Get Your Free CMS TEAM Analysis
+
+Rainfall will perform a free analysis of your 2024 and 2025 Medicare billings and build an individualized view of your potential upside and downside under TEAM.
+
+- **Schedule a demo + free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+
+## Further reading
+
+- [CMS TEAM Guide](/cms-team/) — hub overview
+- [What Is TEAM?](/cms-team/what-is-team/) — canonical CMS TEAM model definition
+- [Maximize TEAM Revenue](/cms-team/maximize-revenue/) — CFO playbook for value-based payment models
+- [Hospital List](/cms-team/participating-hospitals/list/) — search mandated hospitals
+- [TEAM vs BPCI Advanced](/cms-team/team-vs-bpci-advanced/)
+- [TEAM vs CJR](/cms-team/team-vs-cjr/)
+
+---
+
+_Dr. David Shulkin served as the 9th U.S. Secretary of Veterans Affairs and previously as Under Secretary for Health, leading the nation's largest integrated health system. He is a physician, healthcare executive, and advisor at the intersection of medicine, policy, and innovation._
+
+_Christina Keny, PhD, MHA, RN is VP of Clinical AI at Rainfall Health. She is a registered nurse and research scientist with 25 years of experience in healthcare leadership, quality improvement, patient safety, and clinical transformation. Her research career has spanned Samsung Research America, UCSF, Stanford, and VA Palo Alto._
+
+_This article is for informational purposes only and is not legal, financial, or clinical advice. It reflects a Rainfall Health webinar conversation; figures cited are as discussed and individual results vary. © 2026 Rainfall Health._
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

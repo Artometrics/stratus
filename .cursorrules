@@ -1,0 +1,35 @@
+# Stratus Project - Cursor Rules
+
+You are working on **Stratus**, Rainfall Health's data intelligence and media platform for the CMS TEAM model and bundled payments.
+
+## Architecture
+- **Framework**: Quarto Website (`project: type: website` configured in `_quarto.yml`)
+- **Output Directory**: `_site/`
+- **Hosting**:
+  - Live on Firebase Hosting (`stratus-510519.web.app`)
+  - Live on GitHub Pages (`https://artometrics.github.io/stratus/`)
+- **Key Sections**:
+  - `index.qmd`: Platform overview, featured media, and state whitepaper links
+  - `media.qmd`: Filterable media index matching Screenshot 1 (`[All]`, `[Podcast]`, `[Report]`)
+  - `articles/*.qmd`: 48+ converted executive research articles with 2-column layout and sticky right-hand "Featured" sidebar (Screenshots 2-4)
+  - `states/`: State whitepapers with live CMS baseline data (California has full audio narration player + R graphics)
+  - `regions/`: Regional deep dives (Northeast, NorCal & Rockies, South & Midwest, SoCal & Gulf)
+  - `newsletter/`: Targeted investigative briefs (e.g. Modesto, One-Hospital Towns, CJR history)
+
+## Key Commands
+- `npm run preview` or `quarto preview`: Run local development server with hot reload
+- `npm run build` or `quarto render`: Compile entire static website into `_site/`
+- `npm run convert` or `python3 tools/convert_articles.py`: Sync & re-generate `.qmd` articles and `media.qmd`
+- `npm run deploy`: Deploy static site to Firebase Hosting
+
+## Design System (`styles/stratus-media.css`)
+- **Brand Colors**:
+  - Primary Blue: `#2b62e7` (`--color-brand-blue`)
+  - Navy: `#1e293b` (`--color-brand-navy`)
+  - Light Sky: `#eff6ff` (`--color-brand-sky`)
+  - Gray Border: `#e2e8f0` (`--color-brand-gray-200`)
+- **Typography**: `DM Sans`, -apple-system, sans-serif
+- **Article Layout**:
+  - `.blog-article-grid`: 2-column layout (Left: content, Right: sticky `.blog-featured` sidebar)
+  - Author bylines use circular badges (`.author-avatar` + `.author-chip`)
+  - Embeds use responsive Transistor FM and YouTube containers

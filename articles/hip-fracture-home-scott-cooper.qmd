@@ -1,0 +1,318 @@
+---
+title: "Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode"
+description: "Orthopedic surgeon Dr. Scott Cooper on why hip fracture patients still default to skilled nursing \u2014 and what the 30-day TEAM and 90-day CJR-X episodes change."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">CJR-X</span> <span class="article-tag-pill">SHFFT</span> <span class="article-tag-pill">hip fracture</span> <span class="article-tag-pill">post-acute care</span> <span class="article-tag-pill">bundled payments</span> <span class="article-tag-pill">orthopedic surgery</span> <span class="article-tag-pill">patient-reported outcomes</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed &quot;Eddie&quot; Qureshi" class="author-avatar"> <span>Ahmed "Eddie" Qureshi</span></span> <span class="author-chip"><img src="/assets/authors/scott-cooper.png" alt="Dr. Scott Cooper" class="author-avatar"> <span>Dr. Scott Cooper</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">September 23, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_patients_do_better_at_home_scott_cooper.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/c983c6c4"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Patient-reported outcomes are the quality test
+- TEAM is 30 days; CJR-X is 90
+- Hip fracture patients can go home
+- Family support is the discharge variable
+- Independent groups face harder alignment
+- Post-acute partners will take direction
+</div></aside>
+
+---
+
+_Based on the Rainfall Health Podcast: [Dr. Scott Cooper](https://www.linkedin.com/in/scotty-cooper-md-faaos-324a15b9), board-certified orthopedic surgeon at Mercy and R.A.I.N. Advisory Committee member, on surgical quality, home discharge after hip fracture, and what a 90-day episode asks of hospitals._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/xLRqjlpfMkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+Elective hip and knee patients at Mercy in Northwest Arkansas go home the day of surgery. Hip fracture patients, in Dr. Scott Cooper's experience, often stay in the hospital just long enough to qualify for inpatient post-acute care. That gap is now a financial variable.
+
+In Episode 9 of the Rainfall Health Podcast, founder and CEO Ahmed "Eddie" Qureshi talks with [Dr. Scott Cooper, MD, FAAOS](https://www.linkedin.com/in/scotty-cooper-md-faaos-324a15b9) — a board-certified orthopedic surgeon at Mercy with nearly three decades in practice spanning private practice and health system leadership. He also serves on Rainfall Health's [R.A.I.N. Advisory Committee](/post/advisor-scott-cooper/).
+
+His argument for hospital leaders is specific. Under [CMS TEAM](/cms-team/), surgical hip and femur fracture (SHFFT) episodes already put post-discharge spend on the hospital's reconciliation. Under [CJR-X](/cjrx/), the window for joint replacement lengthens from 30 days to 90. The patients who can go home should go home. The ones who cannot still need a skilled nursing or rehab partner the hospital can actually direct.
+
+## What Does Quality Mean Once the X-Ray Looks Fine?
+
+Cooper's punchline on surgical quality is patient-reported outcomes. Alignment on a postoperative film and a technically elegant operation correlate with a good result. They are not the result.
+
+> It's fairly recent that focus has been placed on patient-reported outcomes. That's the bottom line. That's where the rubber meets the road. We can talk about how pretty our hip replacement looks, or how well aligned our knee replacement is, but the patient doesn't care about that. How's the patient doing?
+>
+> — Dr. Scott Cooper
+
+Infection, emergency visits, and other complications still matter. He treats them as necessary measures that stopped being sufficient once the question became whether the patient is actually better. He dates the shift toward patient-reported outcomes to roughly the last five to ten years, and he welcomes it.
+
+That is a clinical standard, not a claim that a survey score replaces TEAM's Composite Quality Score or CJR-X's quality-first reconciliation rule. CJR-X still requires a minimum composite quality score before a hospital can receive a reconciliation payment. See [how CJR-X pays and scores quality](/cjrx/payments-quality/).
+
+## Why Does 90 Days Change the Job?
+
+TEAM holds [721 mandated hospitals](/cms-team/participating-hospitals/) accountable for five surgical episodes through **30 days after discharge**. CJR-X, finalized in the FY2027 IPPS final rule, starts **January 1, 2028** and holds most other acute-care hospitals paid under both IPPS and OPPS accountable for lower-extremity joint replacement through **90 days**. TEAM hospitals are excluded from CJR-X while TEAM is active. CMS describes both models on its [TEAM](https://www.cms.gov/priorities/innovation/innovation-models/team-model) and [CJR-X](https://www.cms.gov/priorities/innovation/innovation-models/cjr-x) pages. For the verified comparison, see [CJR-X: the mandatory bundle for hospitals TEAM didn't reach](/post/cjr-x-mandatory-bundled-payment-2028/).
+
+|                     | CMS TEAM                                      | CJR-X                                     |
+| ------------------- | --------------------------------------------- | ----------------------------------------- |
+| Status              | Active since January 1, 2026                  | Starts January 1, 2028                    |
+| Who is in           | 721 hospitals in selected markets             | Most other IPPS/OPPS acute-care hospitals |
+| Orthopedic episodes | LEJR and SHFFT, plus three non-ortho episodes | Hip, knee, and ankle replacement          |
+| Window              | 30 days post-discharge                        | 90 days post-discharge                    |
+| Accountable entity  | The acute-care hospital                       | The acute-care hospital                   |
+
+Cooper's worry about the longer window is variability, not the idea of a bundle. A 90-day, all-cause construct can pull in events the operating surgeon did not cause.
+
+> Going from TEAM to CJR-X, it goes from a 30-day episode to a 90-day episode. That introduces a lot of variability. Typically when you see something like that, it's all-cause readmissions. That gives us physicians a headache when we're held accountable for, say, I do a hip replacement, and two and a half months later somebody has a car wreck and breaks their ankle.
+>
+> — Dr. Scott Cooper
+
+Day zero is still the operation. The next 90 days belong to skilled nursing facilities, outpatient therapy, primary care, families, and whoever notices that recovery is going off the rails. The acute-care hospital often does not employ those partners. Under both models, it is still the entity Medicare reconciles.
+
+## Why Do Hip Fracture Patients Still Go to Post-Acute Care?
+
+Cooper separates two pathways that hospitals often run with the same surgeons and the same implants.
+
+Elective primary hip and knee replacement at Mercy in Northwest Arkansas is same-day surgery for a large majority of patients, not an outpatient stay that stretches overnight. COVID accelerated a trend already underway: patients did not want a hospital bed, beds were scarce, and operating rooms were open for cases that would not spend the night. Quality and satisfaction, in his account, stayed high.
+
+Hip and femur fracture is the opposite default. Patients are often kept in the hospital as long as they need to be to qualify for inpatient post-acute care. He thinks that default is the efficiency opportunity inside orthopedics, and he is careful about who it applies to. A high-activity patient is not a frail 87-year-old. Post-acute inpatient care does not go to zero.
+
+The proof he offers is personal. About a year and a half before this conversation, his father in Little Rock had an intertrochanteric hip fracture. Surgery went well. He went home the next day. The clinical course was not exotic. What was unusual was the surround: a spouse who could provide care, adult children in town, and a son who is an orthopedic surgeon and could call the operating surgeon directly.
+
+> Patients do better at home. Not everybody has family around to do it, but I think we can be better at directing patients home after a couple-day hospital stay after hip fracture.
+>
+> — Dr. Scott Cooper
+
+He draws the same line inside the operating room. A femoral neck fracture treated with total hip arthroplasty is the same operation as an elective total hip. Elective patients have been coached, and they often wake up feeling better than they walked in. Fracture patients were fine until they fell. They are harder to send home the same day, and they should not be. The mindset around the second group is what he wants to bend, not the operation.
+
+Rainfall's own read of CMS baseline data puts a number on why this episode punishes a SNF default. SHFFT averages **$46,615** per episode, and **63%** of that spend lands after discharge — the highest post-discharge share of TEAM's five procedure categories. The breakdown is in [TEAM episode volume and where the dollars sit](/post/cms-team-episode-volume-analysis/). The clinical pattern — frailty, delirium, and skilled-nursing defaults — is laid out in [the five TEAM procedure categories](/post/cms-team-five-procedure-categories-explained/).
+
+## What Actually Makes a Home Discharge Possible?
+
+Eddie reframed Cooper's story as a social-needs problem: caregivers in that example were not delivering clinical care. They had access to information, a plan, and someone to call. Cooper agreed, then added the clinical reason early mobility matters.
+
+For normal-risk elective joint replacement, his group no longer uses the stronger blood thinners that used to be routine. Patients typically take a baby aspirin twice a day. He tells them that most of the work of preventing a clot is leaving the hospital the same day, because they have to get up, walk to the bathroom, and walk to the kitchen. Weight bearing as tolerated is the usual rule after the hip fractures he treats, so the restriction is the injury and the surgery, not a non-weight-bearing order.
+
+The population is heterogeneous. Some patients his age, or a few years older, can do for themselves at home. A frail 87-year-old often cannot. The opportunity is to stop treating every hip fracture as if it were the frail end of that range.
+
+Families are the constraint he respects. Patients usually want to go home. Families are less sure, often for a good reason: people work, and someone cannot sit with a parent all day. Getting fracture patients home earlier will take the same kind of persuasion that retired the continuous passive motion machine after knee replacement. Cooper practiced through that change. The evidence said CPM did not improve outcomes. Patients who had used one on the first knee still believed it was why that knee felt better.
+
+## Why Do Surgeons Resist a Model That Is Not a New Operation?
+
+Cooper does not treat resistance as a mystery, and he does not locate most of it inside large employed medical groups. At Mercy, the surgeons can keep operating. The system can point people and budget at episode design. He thinks that is easier than the version he would have faced in private practice.
+
+> I would venture a guess that the resistance is less from system surgeons than from private practice surgeons. It's the uncertainty. When it's a bundled payment and it's an episode of 90 days, who bears the risk the most? I don't know if it will be prescriptive. This percentage goes to the surgeon. This percentage goes to the facility. Who is the accountable entity?
+>
+> — Dr. Scott Cooper
+
+Medicare has already answered the last of those questions. The participant is the acute-care hospital, whether the surgeons are employed, independent, or in a hybrid. Compensation inside that arrangement is not prescribed the same way. Small communities with one hospital and a small orthopedic group have to invent the split. Cooper's example is Batesville, Arkansas, where the orthopedic group he knew moved from private practice into an integrated model. He reads CJR-X as one more force, alongside reimbursement, pushing physicians toward health-system employment. He still has a soft spot for private practice. He does not think this model makes independence easier.
+
+His advice to physicians who do take leadership roles is to drop the plan to shake the place up. Constraints are real once you see them from the administrative side. Patients come first, then the physicians, and the way either gets protected is cooperation with the operators who already run the system.
+
+For the physician-side version of this argument — why the surgeon's share of the dollar is small and why alignment still has to be built on purpose — see Episode 8 with [Dr. Steve Schutzer](/post/bundled-payment-analytics-steve-schutzer/).
+
+## Who Directs Skilled Nursing When the Hospital Holds the Risk?
+
+Less post-acute institutional care is not the same as none. Facilities that expect to be paid will want the volume. They will also, in Cooper's view, have to take direction from the hospital that now owns the episode.
+
+Mercy has an acute rehab hospital in Northwest Arkansas, and even that relationship is constrained. Accreditation limits how many straightforward orthopedic patients it can take, because the unit also has to serve stroke and other rehabilitation diagnoses. Most of the hip fracture patients he sees go to independent skilled nursing facilities. He does not yet know how that partnership gets written, and he does not think there is a lot of time to find out.
+
+A practical version of the same problem, from a program that already ran a 90-day joint bundle, is to concentrate volume in a few facilities rather than a long preferred-provider list. That is Schutzer's experience at the Connecticut Joint Replacement Institute, and it is the pattern CJR's own savings mostly came from: less skilled nursing, more home, without a rise in complications. The sourcing is in the [CJR-X briefing](/post/cjr-x-mandatory-bundled-payment-2028/).
+
+## What Should Hospitals Do Before January 2028?
+
+Cooper's timing advice is blunt: start six months ago. Large systems such as Mercy are already looking at CJR-X. Smaller hospitals do not get a smaller episode. They get the same 90 days with fewer people to run them.
+
+What he would actually do with the time:
+
+1. **Separate elective joints from hip fracture.** Same-day home discharge for prepared elective patients is already operating in many orthopedic programs. Fracture pathways need their own rule for who can go home after a short stay and who still needs inpatient post-acute care.
+2. **Treat family capacity as a clinical input.** A safe home discharge in his father's case depended on people in town and a direct line to the surgeon. Build the education, the advocacy, and the call path for families who are not related to an orthopedist.
+3. **Decide who bears downside before the first reconciliation.** The hospital is the accountable entity. Surgeon compensation, facility share, and post-acute rates still have to be negotiated locally, especially with independent groups.
+4. **Pick post-acute partners you can direct.** Independent SNFs will want the cases. Write the expectations now: which patients, what therapy, who gets called when recovery stalls.
+5. **Use a platform that can see 90 days of variation.** Cooper's view is that technology is no longer optional for this work. Pen-and-paper quality programs from earlier payer efforts in Arkansas measured what was easy to report, not what predicted a good outcome. Episode data across 30 or 90 days is the job. Rainfall's [R.A.I.N. Compliant™ platform](/team/) is built for that visibility. One size still does not fit Mercy and a 100-bed community hospital the same way.
+
+He is explicit about the motive. The talk is about patients. The forcing function is that Medicare spending has to come down, and there is not a new pile of money coming into the system. The standard he wants is to do the clinical work better and do it with less waste.
+
+## Where Is He Optimistic?
+
+He is optimistic because several changes that helped patients were unpopular when they arrived. Dropping CPM was one. Shortening the hospital stay after joint replacement was another. Sending appropriate hip fracture patients home earlier will be a third, and it will be a harder conversation with families than with patients.
+
+He is also watching a rehab idea he has not adopted: the "quiet knee," which treats the first couple of weeks after knee replacement more like a bad ankle sprain — rest, ice, compression, elevation — instead of immediate outpatient therapy. A former partner had his own knee replaced that way and was convinced. Early data is accumulating. If it holds, it is both a patient-experience change and a spending change, because those first therapy visits are inside the episode.
+
+The pattern he trusts is modest. Measure what the patient reports. Send people home when the home can hold them. Keep post-acute care for the patients who actually need it. Use the months before CJR-X, and the TEAM performance years already underway, to build that split on purpose.
+
+## Frequently Asked Questions
+
+### Who is Dr. Scott Cooper?
+
+Dr. Scott Cooper is a board-certified orthopedic surgeon at Mercy and a member of Rainfall Health's R.A.I.N. Advisory Committee, with nearly three decades in orthopedic practice spanning both private practice and health system leadership roles.
+
+### What is the difference between TEAM and CJR-X for orthopedic patients?
+
+TEAM is already in effect for 721 hospitals and includes both lower-extremity joint replacement and surgical hip/femur fracture treatment inside a 30-day post-discharge episode. CJR-X starts January 1, 2028, covers hip, knee, and ankle replacement for most other IPPS/OPPS hospitals, and uses a 90-day window. TEAM hospitals are not in CJR-X while TEAM is active.
+
+### Why do hip fracture episodes cost so much after discharge?
+
+In CMS baseline figures used in Rainfall's episode analysis, SHFFT averages $46,615, and 63% of that spend is post-discharge — the highest share of the five TEAM procedures. These are mostly unplanned admissions. Many patients still default to skilled nursing even when a shorter hospital stay and a capable home would be safer and cheaper.
+
+### Can hip fracture patients go home instead of a skilled nursing facility?
+
+Some can. Cooper's elective joint patients already go home the day of surgery, and his father went home the day after hip-fracture surgery because family support and a direct line to the surgeon were in place. Frail patients will still need inpatient post-acute care. The work is telling those groups apart before the default becomes a SNF stay.
+
+### Who is financially accountable during the 90 days?
+
+The acute-care hospital. Skilled nursing facilities, outpatient therapy, primary care, and families all touch the recovery. Medicare reconciles the hospital. How the hospital shares that risk with surgeons and post-acute partners is a local contract question, not a CMS prescription.
+
+### What should independent orthopedic groups do differently from employed groups?
+
+Employed groups inside a system can leave episode operations to the system and keep practicing. Independent groups have to negotiate who carries downside, how the facility and the surgeons split savings or losses, and how a small hospital and a small group cooperate. Cooper expects that pressure to push more groups toward integration.
+
+### What is the quiet-knee approach?
+
+It is a newer rehab strategy Cooper has not adopted yet. Instead of starting outpatient therapy immediately after knee replacement, the first couple of weeks look like treatment for a severe ankle sprain: rest, ice, compression, and elevation. He is watching the data because it may improve outcomes and reduce early therapy spend inside the episode.
+
+---
+
+## Download the eBook
+
+<a
+  href="/downloads/eBook_patients_do_better_at_home_scott_cooper.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download the eBook: Patients Do Better at Home
+</a>
+
+## Get Your Free CMS TEAM Analysis
+
+Rainfall will perform a free analysis of your 2024 and 2025 Medicare billings and build an individualized view of your potential upside and downside under TEAM.
+
+- **Schedule a demo + free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+- **CJR-X guide:** [/cjrx/](/cjrx/)
+
+## Further reading
+
+- [CMS TEAM Guide](/cms-team/)
+- [CJR-X Model Guide](/cjrx/)
+- [Five TEAM procedure categories](/post/cms-team-five-procedure-categories-explained/)
+- [Where TEAM episode dollars sit after discharge](/post/cms-team-episode-volume-analysis/)
+- [CJR-X mandatory bundled payment, 2028](/post/cjr-x-mandatory-bundled-payment-2028/)
+- [Physician-led bundled payments with Dr. Steve Schutzer](/post/bundled-payment-analytics-steve-schutzer/)
+
+---
+
+_Dr. Scott Cooper is a board-certified orthopedic surgeon at Mercy and a member of Rainfall Health's R.A.I.N. Advisory Committee._
+
+_Ahmed "Eddie" Qureshi is Founder and CEO of Rainfall Health and host of the Rainfall Health Podcast._
+
+_This article is for informational purposes only and is not legal, financial, or clinical advice. It reflects a Rainfall Health podcast conversation; figures cited are as discussed and individual results vary. Discharge decisions, anticoagulation, and rehabilitation should follow the treating clinician's judgment and current evidence. © 2026 Rainfall Health._
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hospitals-that-will-win-on-cms-team-have-already-started.html" class="blog-featured__link">
+                  <img src="/assets/media/mayo-team-readiness-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Hospitals That Will Win on CMS TEAM Have Already Started</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

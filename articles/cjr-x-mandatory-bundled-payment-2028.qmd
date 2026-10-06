@@ -1,0 +1,232 @@
+---
+title: "CJR-X: The $725 Million Bet Coming for Every Hospital Not Already Under CMS TEAM"
+description: "CMS TEAM's mandatory sibling, CJR-X, will cover nearly every U.S. hospital by 2028. Here's what the verified CMS numbers actually show."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">CJR-X</span> <span class="article-tag-pill">Medicare reimbursement</span> <span class="article-tag-pill">value-based care</span> <span class="article-tag-pill">bundled payments</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">CJR-X: The $725 Million Bet Coming for Every Hospital Not Already Under CMS TEAM</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Christina Keny" class="author-avatar"> <span>Christina Keny</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">August 10, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/cjr-x-mandatory-bundled-payment-2028-banner.png" alt="CJR-X: The $725 Million Bet Coming for Every Hospital Not Already Under CMS TEAM" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- CMS finalized CJR-X on July 31, 2026 in the FY2027 IPPS Final Rule
+- Mandatory nationwide LEJR bundles launch January 1, 2028
+- Hospitals already under CMS TEAM are exempt from CJR-X
+- CMS projects $725 million in Medicare savings over five years
+- CJR-X covers one procedure type but outprojects TEAM's savings estimate
+</div></aside>
+
+---
+
+## A Second Mandatory Bundle, Built for the Hospitals TEAM Didn't Reach
+
+Eighteen months after CMS made bundled payments mandatory for [721 hospitals](/cms-team/participating-hospitals/) under the Transforming Episode Accountability Model, it has done it again — this time for almost everyone else.
+
+On July 31, 2026, the Centers for Medicare & Medicaid Services released the Fiscal Year 2027 Inpatient Prospective Payment System (IPPS) Final Rule (CMS-1849-F). Buried inside a 1,500-plus page annual payment update is the Comprehensive Care for Joint Replacement Expanded Model — CJR-X — a mandatory, nationwide bundled-payment program for lower extremity joint replacement (LEJR) surgery. It takes effect January 1, 2028.
+
+The headline number CMS is using to sell it: **$725 million** in projected net Medicare savings over the model's first five performance years, including $128 million in year one alone.
+
+That figure is worth pausing on. **CMS TEAM** — which covers five surgical procedure types across 721 hospitals — is projected to save Medicare **roughly $500 million** over its own five-year run, on close to $30 billion in episode spending. CJR-X covers exactly one procedure category. It's projected to outsave TEAM anyway.
+
+## What We Verified
+
+Rainfall Health's own July 31 statement on CJR-X cited several figures from CMS. We checked each one against CMS's official CJR-X model page, the CMS fact sheet for the FY2027 final rule, and independent trade press coverage, rather than simply repeating them.
+
+- **$112.7 million in CJR savings — confirmed, with one precision correction.** The original CJR Model, tested in 34 Metropolitan Statistical Areas from April 2016 through December 2024, produced an estimated $112.7 million in net Medicare savings while maintaining quality of care for more than 98,000 knee and hip replacement patients across 323 hospitals — all figures CMS itself publishes. What needs correcting: this is not, as some coverage implies, "savings in the model's last two years." CMS attributes the $112.7 million specifically to its most recent formal evaluation, covering performance years 6 and 7 (2021–2023) — the final full evaluation period before the model ended in December 2024.
+- **$725 million CJR-X projection — confirmed.** This is CMS's own figure, repeated consistently across the proposed and final rule.
+- **January 1, 2028 launch date — confirmed, and later than originally proposed.** CMS's April 2026 proposed rule targeted an October 1, 2027 start. The final rule pushed CJR-X back three months, to January 1, 2028.
+- **"CMMI's first expanded model implemented by the Trump Administration" — partially confirmed.** CMS itself describes CJR-X as the Innovation Center's first mandatory *expansion* of an existing tested model. The administration attribution is Rainfall's own framing, not language CMS uses in its official materials.
+- **TEAM participant count — 721, not 741.** Early 2026 coverage of TEAM cites roughly 741 hospitals; CMS's own participant list, updated July 6, 2026, puts the mandated figure at 721 following removal of 20 hospitals ahead of launch. Use 721.
+
+## CJR vs. TEAM vs. CJR-X, Side by Side
+
+| | CJR (2016–2024) | CMS TEAM (2026– ) | CJR-X (2028– ) |
+|---|---|---|---|
+| **Status** | Ended Dec. 31, 2024 | Active | Not yet started |
+| **Participation** | Mandatory, select markets | Mandatory, select markets | Mandatory, nationwide |
+| **Geographic scope** | 34 MSAs | 188 CBSAs | Nationwide, with exemptions |
+| **Hospitals** | 323 | 721 | Nearly all remaining IPPS hospitals |
+| **Procedures** | Hip & knee replacement, inpatient only | 5 episodes: CABG, LEJR, major bowel, hip/femur fracture, spinal fusion | Hip, knee & ankle replacement — inpatient *and* outpatient |
+| **Episode window** | 90 days post-discharge | 30 days post-discharge | 90 days post-discharge |
+| **Medicare savings** | $112.7M (verified, PY6–7 eval.) | ~$500M projected, 5 yrs | $725M projected, 5 yrs ($128M Yr. 1) |
+| **Exempt** | — | — | TEAM hospitals, Maryland hospitals, non-IPPS/OPPS facilities |
+| **SNF 3-day waiver** | Yes | — | Yes |
+
+## The Detail Everyone Glosses Over: These Models Don't Stack
+
+The most consequential line in the final rule isn't the savings projection — it's the exemption. **Hospitals already participating in CMS TEAM are exempt from CJR-X.** So are hospitals in Maryland (which runs its own all-payer model) and facilities not paid under both IPPS and the Outpatient Prospective Payment System.
+
+That reframes what "nationwide mandatory" actually means. CJR-X isn't layering a second bundle on top of TEAM's 721 hospitals — it's extending mandatory episode accountability to the roughly several thousand acute-care hospitals TEAM's 188-CBSA footprint didn't reach. Combined, the two programs are the closest thing Medicare has to a universal mandatory bundled-payment floor for major surgery. Almost no non-Maryland, IPPS-and-OPPS-paid acute-care hospital in the country will sit outside one program or the other once CJR-X launches.
+
+For a hospital CFO, the practical question isn't "will we face a mandatory bundle" — for most, that's already settled. It's *which one*, and that's determined entirely by TEAM's 188-CBSA map, not by choice.
+
+## Where CJR's Savings Actually Came From
+
+CMS's own evaluation attributes CJR's savings primarily to reduced post-acute care spending — specifically, a documented shift away from skilled nursing facility (SNF) stays toward home health and outpatient rehabilitation. Complication rates, mortality, and readmissions showed no adverse change. CJR-X keeps the same 3-day SNF waiver that let CJR hospitals admit eligible beneficiaries to a SNF without a prior three-day inpatient stay — a policy lever hospitals used heavily to manage post-acute costs under the original model.
+
+The expansion to outpatient joint replacement is the structural change most likely to move CJR-X's numbers. Lower extremity joint replacement has migrated meaningfully into outpatient and ambulatory settings since CJR was designed in 2016; CJR-X is the first version of this model built to capture that shift rather than exclude it.
+
+## The Industry Didn't Ask for This
+
+CMS finalized CJR-X largely unchanged from its April 2026 proposal, despite organized opposition. The American Hospital Association asked CMS to make participation voluntary, or at minimum treat the first year as data-sharing only, with no downside financial risk for two years and upside-only risk for specially designated hospitals for the model's full duration. The Federation of American Hospitals called the accompanying 2.3% IPPS payment update insufficient against inflation and rising uncompensated care costs. America's Essential Hospitals went further, telling CMS directly not to mandate CJR-X participation at all.
+
+None of it changed the outcome. The model is mandatory, nationwide, and starts in under 18 months.
+
+## What Hospital Leaders Should Do Before January 1, 2028
+
+1. **Confirm your TEAM status first.** If your hospital sits in one of TEAM's 188 CBSAs and is among the 721 mandated participants, you are exempt from CJR-X — don't build compliance infrastructure for a program that won't apply to you.
+2. **If you're not in TEAM, assume CJR-X applies to you by default.** The exemption list is short: TEAM participants, Maryland hospitals, and facilities outside standard IPPS/OPPS payment. Everyone else is in scope.
+3. **Model the post-acute shift now.** CJR's savings came from SNF-to-home-health substitution. That requires post-acute network relationships and referral-pattern data most hospitals don't currently track at the episode level.
+4. **Watch for the outpatient expansion in your own case mix.** If a meaningful share of your joint replacement volume has already moved outpatient, CJR-X's inclusion of outpatient episodes changes your exposure calculation from what CJR ever measured.
+
+---
+
+## Frequently Asked Questions
+
+**What is CJR-X and when does it start?**
+CJR-X (Comprehensive Care for Joint Replacement Expanded Model) is a mandatory, nationwide Medicare bundled-payment model for hip, knee, and ankle replacement episodes. It was finalized in the FY2027 IPPS Final Rule on July 31, 2026, and its first performance year begins January 1, 2028.
+
+**Is CJR-X the same as CMS TEAM?**
+No. They are separate models. CMS TEAM covers five surgical episode types across 721 hospitals in 188 designated markets, with a 30-day post-discharge window. CJR-X covers only lower extremity joint replacement, applies nationwide, and uses a 90-day window. Hospitals participate in one or the other, not both.
+
+**Which hospitals are exempt from CJR-X?**
+Hospitals already participating in CMS TEAM, hospitals located in Maryland, and hospitals not paid under both the Inpatient and Outpatient Prospective Payment Systems.
+
+**How much did the original CJR model save Medicare?**
+CMS's most recent formal evaluation, covering performance years 6 and 7 (2021–2023), estimated $112.7 million in net Medicare savings while maintaining quality of care for more than 98,000 knee and hip replacement patients across 323 hospitals.
+
+**Why is CJR-X's savings projection higher than TEAM's if it covers fewer procedures?**
+CMS projects $725 million in net savings for CJR-X over five years, versus roughly $500 million for TEAM over a comparable period, even though CJR-X addresses one procedure category against TEAM's five. The larger participant base (nationwide vs. 188 CBSAs) and the addition of outpatient episodes are the likely drivers, though CMS has not published a full methodological breakdown of the gap.
+
+**What procedures does CJR-X cover that the original CJR did not?**
+Ankle replacement, added for the first time. CJR-X also extends coverage to outpatient hospital procedures; the original CJR Model covered inpatient cases only.
+
+**How long is a CJR-X episode of care?**
+90 days, beginning with the inpatient admission or outpatient procedure and continuing through 90 days post-discharge — three times the length of a CMS TEAM episode.
+
+**Did the American Hospital Association support CJR-X?**
+No. The AHA formally asked CMS to make participation voluntary or phased, with a no-downside-risk data-sharing period in year one. The Federation of American Hospitals and America's Essential Hospitals raised similar objections. CMS finalized the model largely as originally proposed.
+
+**Will hospitals already in TEAM also have to join CJR-X?**
+No. TEAM participation is an explicit exemption from CJR-X under the final rule.
+
+**When was CJR-X finalized and what rule is it part of?**
+July 31, 2026, as part of the FY2027 Hospital Inpatient Prospective Payment System and Long-Term Care Hospital Prospective Payment System Final Rule (CMS-1849-F).
+
+**What is the 3-day SNF waiver under CJR-X?**
+A policy carried over from the original CJR Model that allows eligible beneficiaries to be admitted to a skilled nursing facility without a prior three-day inpatient hospital stay — a tool CJR hospitals used to manage post-acute costs.
+
+**How should hospital leaders prepare before January 1, 2028?**
+Confirm whether your hospital falls under TEAM's 188-CBSA footprint (exempt) or not (in scope by default), then begin tracking post-acute referral patterns and outpatient joint replacement volume now — the two levers CMS data shows moved the needle under the original CJR Model.
+
+---
+
+*Sources: CMS.gov CJR-X Model overview; CMS Newsroom, "CMS Announces Nationwide Expansion of Proven Joint Replacement Program"; CMS Fact Sheet, FY 2027 Hospital IPPS/LTCH PPS Final Rule (CMS-1849-F); Federal Register, 2026-15833; American Hospital Association comment letters, April–June 2026; Bass, Berry & Sims LLP; HFMA; Fierce Healthcare; TechTarget RevCycle Intelligence.*
+
+*Christina Keny, PhD, MHA, RN, CPHQ, MBBLSS, is Vice President of Clinical AI at Rainfall Health and Associate Faculty at the University of California, San Francisco.*
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

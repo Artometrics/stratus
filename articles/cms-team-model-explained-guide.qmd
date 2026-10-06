@@ -1,0 +1,195 @@
+---
+title: "CMS TEAM for Mandated Hospitals: Who Is In, What Is Covered, How to Prepare"
+description: "A hospital playbook for the 721 CMS TEAM participants: five procedures, 30-day episodes, tracks, and how to prepare. Full definition: /cms-team/what-is-team/."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Bundled Payments</span> <span class="article-tag-pill">Medicare Reimbursement</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">CMS TEAM for Mandated Hospitals: Who Is In, What Is Covered, How to Prepare</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">The Transforming Episode Accountability Model holds 721 hospitals financially accountable for five surgical episodes — here is who is mandated, what is covered, and how to prepare.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Christina Keny, PhD, MHA, RN, CPHQ" class="author-avatar"> <span>Christina Keny, PhD, MHA, RN, CPHQ</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">June 15, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-pathway-guide.jpg" alt="CMS TEAM for Mandated Hospitals: Who Is In, What Is Covered, How to Prepare" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- TEAM is mandatory bundled payment
+- Covers 721 hospitals nationwide
+- Five surgical episodes, 30-day window
+- Up to 20% revenue at stake
+</div></aside>
+
+The **CMS TEAM model** is the most consequential shift in surgical reimbursement in a decade. The full definition lives on Rainfall’s [What Is the CMS TEAM Model?](/cms-team/what-is-team/) page. Finalized by the Centers for Medicare & Medicaid Services in the FY2025 IPPS Final Rule and launched on **January 1, 2026**, it forces hospitals — for the first time on a mandatory, broad geographic basis — to own the total cost and quality of an entire surgical episode, not just the operation itself. According to CMS, the model runs five performance years through December 31, 2030.
+
+## What is the CMS TEAM model and why did CMS create it?
+
+Under traditional fee-for-service Medicare, hospitals, surgeons, skilled nursing facilities and home health agencies are each paid separately, which CMS argues drives fragmented care, duplicative spending and avoidable readmissions. TEAM replaces that logic for five surgeries with a single, retrospectively reconciled target price covering the anchor procedure plus 30 days of post-discharge care. CMS’s stated goal is to improve care transitions and lower spending; per the CMS FY2025 IPPS Final Rule, TEAM "will save the Medicare program approximately $481 million over the 5 performance years (2026 through 2030)."
+
+## Which hospitals are mandated to participate?
+
+Participation is mandatory for acute care hospitals paid under the Inpatient Prospective Payment System (IPPS) whose CMS Certification Number (CCN) primary address sits in one of **188 selected Core-Based Statistical Areas (CBSAs)** — roughly a quarter of all CBSAs nationwide. CMS’s TEAM webpage lists **721 participants**. Maryland hospitals are excluded (due to the Maryland Total Cost of Care Model), as are certain hospital types not paid under both IPPS and OPPS.
+
+## What are the 5 procedures and the 30-day window?
+
+The five episode categories, per CMS, are: **lower extremity joint replacement (LEJR); surgical hip and femur fracture treatment (SHFFT); spinal fusion; coronary artery bypass graft (CABG); and major bowel procedure.** Each episode begins with the inpatient admission or outpatient procedure and ends **30 days after discharge**, capturing nearly all Medicare Part A and B services in between.
+
+## How does the money work? Tracks and risk
+
+TEAM uses three tracks. **Track 1** (Performance Year 1, all participants) is upside-only with a 10% stop-gain and no downside. **Track 2** (limited to safety-net, rural, Medicare-dependent, sole community and essential access community hospitals in PY2–5) carries 5% stop-gain/stop-loss limits. **Track 3** is two-sided with 20% limits. A Composite Quality Score (CQS) then adjusts reconciliation amounts. Hospitals that begin in Track 1 generally move to Track 3 in PY2 unless they qualify for Track 2.
+
+## What is at stake financially?
+
+According to Rainfall Health, up to 20% of Medicare revenue is at stake for mandated hospitals, and the company estimates up to $85 million in upside over five years for a health system that captures TEAM incentives — figures the company attributes to its own analysis rather than independently verified benchmarks. Independent analyses confirm real downside risk: Optum Advisory reports that "56% of mandatory participants are projected to lose money under current criteria unless they meaningfully improve performance," with losses averaging $1.2 million per facility. Separately, Brandeis University and the Institute for Accountable Care anticipate that up to two-thirds of participating hospitals will lose revenue on net under TEAM.
+
+## How should mandated hospitals prepare?
+
+Preparation centers on data integration across the 30-day episode, post-acute partnerships, discharge planning, primary-care referral workflows, and quality-measure performance. A detailed step-by-step roadmap is covered in our companion how-to guide, and a full readiness checklist is available for teams building out their compliance plan.
+
+## Frequently asked questions
+
+### When did the CMS TEAM model start?
+
+The CMS TEAM model started January 1, 2026.
+
+### How long does TEAM last?
+
+TEAM runs for five performance years, from January 1, 2026 through December 31, 2030.
+
+### How many hospitals are mandated under CMS TEAM?
+
+CMS’s official TEAM webpage lists 721 participants. That is the authoritative figure, though some trade sources cite slightly different counts (714, ~740, 741, or 742) that include voluntary opt-ins or predate CMS list updates.
+
+### What are the five procedures covered by CMS TEAM?
+
+The five episode categories are lower extremity joint replacement (LEJR), surgical hip and femur fracture treatment (SHFFT), spinal fusion, coronary artery bypass graft (CABG), and major bowel procedure.
+
+### How long is a CMS TEAM episode?
+
+Each TEAM episode runs from the anchor hospitalization or procedure through 30 days after discharge.
+
+### Is participation in CMS TEAM optional?
+
+No. Participation is mandatory for IPPS hospitals whose CMS Certification Number sits within one of the 188 selected Core-Based Statistical Areas (CBSAs) — there is no opt-out.
+
+### Are Maryland hospitals included in CMS TEAM?
+
+No. Maryland hospitals are excluded because they operate under the separate Maryland Total Cost of Care Model.
+
+### Can hospitals lose money under CMS TEAM?
+
+Yes. Performance Year 1 (2026) is upside-only under Track 1, but hospitals in Tracks 2 and 3 face downside financial risk beginning in Performance Year 2 (2027).
+
+<BlogReferences items={[{"id":1,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model overview and participant list.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":2,"text":"CMS, FY2025 Inpatient Prospective Payment System Final Rule, Section X — TEAM Model, 89 FR 68986, August 2024.","url":"https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems"},{"id":3,"text":"Optum Advisory, \"What hospitals need to know about TEAM for 2026,\" November 2025.","url":"https://www.advisory.com/topics/policy-and-payment/hospitals-need-to-know-team"},{"id":4,"text":"HFMA, \"Hospitals can use 2026 to prepare for CMS TEAM bundled payment risk,\" March 2026.","url":"https://www.hfma.org/payment-reimbursement-and-managed-care/hospitals-can-use-2026-to-prepare-for-cms-team-bundled-payment-risk"},{"id":5,"text":"American College of Surgeons, \"Transforming Episode Accountability Model (TEAM),\" advocacy overview.","url":"https://www.facs.org/advocacy/transforming-episode-accountability-model/"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

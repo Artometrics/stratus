@@ -1,0 +1,190 @@
+---
+title: "Stratus | Rainfall Health Reports & Media"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="page-container" style="max-width:1100px; margin:0 auto; padding: 2rem 1.5rem 5rem;">
+  <header style="margin-bottom: 3.5rem;">
+    <p style="font-size:0.8125rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--color-brand-blue); margin-bottom:0.75rem;">
+      CMS TEAM Model &middot; Bundled Payments &middot; Intelligence
+    </p>
+    <h1 style="font-size: clamp(2.25rem, 4vw, 3.25rem); font-weight:800; color:var(--color-brand-navy); line-height:1.15; letter-spacing:-0.025em; margin-bottom:1rem;">
+      Stratus Intelligence &amp; Reports
+    </h1>
+    <p style="font-size:1.18rem; color:var(--color-brand-gray-600); max-width:760px; line-height:1.6; margin:0;">
+      Independent data analysis of the CMS TEAM model and related bundled-payment programs — full state and regional whitepapers, interactive listen-along research, and executive media.
+    </p>
+  </header>
+
+  <!-- Featured Media & Blog Section -->
+  <section style="margin-bottom: 4rem;">
+    <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      <h2 style="font-size:1.125rem; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; color:var(--color-brand-navy); margin:0;">
+        Latest Media &amp; Podcasts
+      </h2>
+      <a href="media.html" style="font-size:0.875rem; font-weight:600; color:var(--color-brand-blue); text-decoration:none;">
+        View All Media &rarr;
+      </a>
+    </div>
+
+    <div class="media-cards-grid" style="grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));">
+      <a href="articles/hip-fracture-home-scott-cooper.html" class="media-card">
+        <div class="media-card__image-wrap">
+          <img src="assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="Dr. Scott Cooper" class="media-card__image" loading="lazy">
+        </div>
+        <div class="media-card__content">
+          <time class="media-card__date">September 23, 2026</time>
+          <h3 class="media-card__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</h3>
+          <p class="media-card__description">Orthopedic surgeon Dr. Scott Cooper on why hip fracture patients still default to skilled nursing — and what the 30-day TEAM and 90-day CJR-X episodes change.</p>
+          <span class="media-card__readmore">Read more &rarr;</span>
+        </div>
+      </a>
+
+      <a href="articles/cms-team-safety-net-hospitals-sandra-scott.html" class="media-card">
+        <div class="media-card__image-wrap">
+          <img src="assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="Dr. Sandra Scott" class="media-card__image" loading="lazy">
+        </div>
+        <div class="media-card__content">
+          <time class="media-card__date">September 28, 2026</time>
+          <h3 class="media-card__title">How Is the CMS TEAM Model Reshaping Leadership at Safety-Net Hospitals?</h3>
+          <p class="media-card__description">Dr. Sandra Scott on safety-net survival under mandatory episode bundles, emergency room operations, and margin protection.</p>
+          <span class="media-card__readmore">Read more &rarr;</span>
+        </div>
+      </a>
+
+      <a href="articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="media-card">
+        <div class="media-card__image-wrap">
+          <img src="assets/media/rain-ecosystem-partners-banner.jpg" alt="Rainfall Partners" class="media-card__image" loading="lazy">
+        </div>
+        <div class="media-card__content">
+          <time class="media-card__date">September 22, 2026</time>
+          <h3 class="media-card__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem</h3>
+          <p class="media-card__description">Expanding post-acute network capabilities and clinical adherence tools under the R.A.I.N. compliance framework.</p>
+          <span class="media-card__readmore">Read more &rarr;</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <!-- State Whitepapers Section -->
+  <section style="margin-bottom: 4rem;">
+    <div style="display:flex; align-items:baseline; justify-content:space-between; margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      <h2 style="font-size:1.125rem; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; color:var(--color-brand-navy); margin:0;">
+        State Whitepapers
+      </h2>
+      <span style="font-size:0.875rem; color:var(--color-brand-gray-500);">Verified Against Live CMS Baseline Data</span>
+    </div>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(320px, 1fr)); gap:1.25rem;">
+      <a href="states/california/california.html" class="rf-card">
+        <span class="rf-card-kicker" style="color:var(--color-brand-blue); font-weight:700; font-size:0.75rem; letter-spacing:0.06em; text-transform:uppercase;">Flagship Whitepaper &middot; Interactive Audio</span>
+        <h3 style="font-size:1.25rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">California</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0;">
+          The largest state roster in the TEAM model, with complete hospital-by-hospital analysis, readmissions concentration, and full listen-along narration.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:600; font-size:0.875rem; margin-top:0.75rem;">Explore California &rarr;</span>
+      </a>
+
+      <a href="states/new-york/index.html" class="rf-card">
+        <span class="rf-card-kicker" style="color:var(--color-brand-gray-500); font-weight:700; font-size:0.75rem; letter-spacing:0.06em; text-transform:uppercase;">State Whitepaper</span>
+        <h3 style="font-size:1.25rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">New York</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0;">
+          The second-largest state roster in the TEAM model — and where the conventional readmission narrative breaks down under scrutiny.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:600; font-size:0.875rem; margin-top:0.75rem;">Explore New York &rarr;</span>
+      </a>
+
+      <a href="states/florida/index.html" class="rf-card">
+        <span class="rf-card-kicker" style="color:var(--color-brand-gray-500); font-weight:700; font-size:0.75rem; letter-spacing:0.06em; text-transform:uppercase;">State Whitepaper</span>
+        <h3 style="font-size:1.25rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">Florida</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0;">
+          High-volume orthopedic procedures meet heavy Medicare Advantage penetration and seasonal patient migration dynamics.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:600; font-size:0.875rem; margin-top:0.75rem;">Explore Florida &rarr;</span>
+      </a>
+
+      <a href="states/new-jersey/index.html" class="rf-card">
+        <span class="rf-card-kicker" style="color:var(--color-brand-gray-500); font-weight:700; font-size:0.75rem; letter-spacing:0.06em; text-transform:uppercase;">State Whitepaper</span>
+        <h3 style="font-size:1.25rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">New Jersey</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0;">
+          The most challenging readmission profile among large state rosters, analyzed against live CMS baseline metrics.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:600; font-size:0.875rem; margin-top:0.75rem;">Explore New Jersey &rarr;</span>
+      </a>
+
+      <a href="states/colorado/index.html" class="rf-card">
+        <span class="rf-card-kicker" style="color:var(--color-brand-gray-500); font-weight:700; font-size:0.75rem; letter-spacing:0.06em; text-transform:uppercase;">State Whitepaper</span>
+        <h3 style="font-size:1.25rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">Colorado</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0;">
+          Front Range health system consolidation and rural transfer corridor performance under mandatory bundled targets.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:600; font-size:0.875rem; margin-top:0.75rem;">Explore Colorado &rarr;</span>
+      </a>
+
+      <a href="states/massachusetts/index.html" class="rf-card">
+        <span class="rf-card-kicker" style="color:var(--color-brand-gray-500); font-weight:700; font-size:0.75rem; letter-spacing:0.06em; text-transform:uppercase;">State Whitepaper</span>
+        <h3 style="font-size:1.25rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">Massachusetts</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0;">
+          Exceptional performance in elective joint replacement contrasted with acute episode pressure across academic medical centers.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:600; font-size:0.875rem; margin-top:0.75rem;">Explore Massachusetts &rarr;</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Regional Briefings & Newsletter Section -->
+  <section style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:2.5rem; margin-top:2rem;">
+    <div>
+      <h2 style="font-size:1.125rem; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; color:var(--color-brand-navy); margin:0 0 1.25rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+        Regional Briefings
+      </h2>
+      <div style="display:flex; flex-direction:column; gap:0.75rem;">
+        <a href="regions/northeast/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">Northeast Region</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">New York, New Jersey, Massachusetts, Pennsylvania, Rhode Island</p>
+        </a>
+        <a href="regions/norcal-pnw-rockies/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">NorCal, PNW &amp; Rockies</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">Northern California, Washington, Oregon, Colorado, Utah</p>
+        </a>
+        <a href="regions/south-midwest/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">South &amp; Midwest</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">Texas, Tennessee, Ohio, Illinois, Minnesota, Missouri</p>
+        </a>
+        <a href="regions/socal-southwest-gulf/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">SoCal, Southwest &amp; Gulf</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">Southern California, Arizona, Nevada, Florida, Louisiana</p>
+        </a>
+      </div>
+    </div>
+
+    <div>
+      <h2 style="font-size:1.125rem; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; color:var(--color-brand-navy); margin:0 0 1.25rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+        Investigation Briefs
+      </h2>
+      <div style="display:flex; flex-direction:column; gap:0.75rem;">
+        <a href="newsletter/cjr-history-team-selection/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">CJR History &amp; TEAM Selection</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">How CMS designed the mandatory selection criteria and who got pulled in.</p>
+        </a>
+        <a href="newsletter/the-one-hospital-towns/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">The One-Hospital Towns</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">Sole community providers thrust into mandatory episode risk.</p>
+        </a>
+        <a href="newsletter/why-la-one-team-hospital/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">Why Los Angeles Has Only One TEAM Hospital</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">The MSA sampling methodology paradox in the largest county in America.</p>
+        </a>
+        <a href="newsletter/modesto-the-market-that-lost-twice/index.html" class="rf-card" style="padding:1rem 1.25rem;">
+          <h4 style="margin:0 0 0.25rem; font-size:1.05rem; font-weight:700; color:var(--color-brand-navy);">Modesto: The Market That Lost Twice</h4>
+          <p style="margin:0; font-size:0.875rem; color:var(--color-brand-gray-600);">Target pricing penalties compound across successive CMMI models.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+</div>
+```

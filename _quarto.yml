@@ -1,0 +1,67 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "assets"
+    - "fonts"
+    - "images"
+
+website:
+  title: "Stratus"
+  favicon: assets/rainfall-logo.svg
+  navbar:
+    logo: assets/rainfall-logo.svg
+    search: true
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: media.qmd
+        text: Media & Blog
+      - text: "State Reports"
+        menu:
+          - href: states/california/california.qmd
+            text: "California (White Paper)"
+          - href: states/new-york/index.qmd
+            text: "New York"
+          - href: states/florida/index.qmd
+            text: "Florida"
+          - href: states/new-jersey/index.qmd
+            text: "New Jersey"
+          - href: states/colorado/index.qmd
+            text: "Colorado"
+          - href: states/massachusetts/index.qmd
+            text: "Massachusetts"
+          - href: states/pennsylvania/index.qmd
+            text: "Pennsylvania"
+      - text: "Regions"
+        menu:
+          - href: regions/northeast/index.qmd
+            text: "Northeast"
+          - href: regions/norcal-pnw-rockies/index.qmd
+            text: "NorCal & Rockies"
+          - href: regions/south-midwest/index.qmd
+            text: "South & Midwest"
+          - href: regions/socal-southwest-gulf/index.qmd
+            text: "SoCal & Southwest"
+      - text: "Newsletter"
+        menu:
+          - href: newsletter/cjr-history-team-selection/index.qmd
+            text: "CJR History & TEAM"
+          - href: newsletter/the-one-hospital-towns/index.qmd
+            text: "One-Hospital Towns"
+          - href: newsletter/why-la-one-team-hospital/index.qmd
+            text: "Why LA Has One Hospital"
+          - href: newsletter/modesto-the-market-that-lost-twice/index.qmd
+            text: "Modesto Market Analysis"
+    right:
+      - text: "Request a Demo"
+        href: "https://www.rainfallhealth.com/schedule-a-demo/"
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - styles/report.css
+      - styles/stratus-media.css
+    smooth-scroll: true

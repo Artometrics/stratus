@@ -1,0 +1,181 @@
+---
+title: "What Is an Episode of Care? How CMS TEAM Defines the 30-Day Window"
+description: "What is an episode of care under CMS TEAM? Definition, start date, end date, included costs, and why the 30-day post-discharge window defines hospital financial risk in 2026."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Episode of Care</span> <span class="article-tag-pill">Bundled Payments</span> <span class="article-tag-pill">Medicare</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">What Is an Episode of Care? How CMS TEAM Defines the 30-Day Window</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">A plain-language explanation of what a CMS TEAM episode of care is, when it starts, when it ends, what costs are included, and why the 30-day post-discharge window is the financial fulcrum.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/imported/banner-episode-of-care.jpg" alt="What Is an Episode of Care? How CMS TEAM Defines the 30-Day Window" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Episode starts on surgery day
+- Includes 30 days post-discharge
+- Covers Part A and B spend
+- Hospital owns the full window
+</div></aside>
+
+## When does a TEAM episode start?
+
+A CMS TEAM episode begins on the date of the qualifying surgical procedure. For inpatient procedures, that is the date of admission associated with the anchor hospitalization. For qualifying outpatient procedures, it is the date of the procedure itself.
+
+The five qualifying procedure types are: lower extremity joint replacement (LEJR), surgical hip and femur fracture treatment (SHFFT), spinal fusion, coronary artery bypass graft (CABG), and major bowel procedure. CMS uses the MS-DRG and ICD-10-PCS procedure code on the claim to identify whether a hospitalization qualifies.
+
+## When does a TEAM episode end?
+
+The episode ends **30 days after the patient is discharged** from the anchor hospitalization. This is a firm window — not 30 days from surgery, but 30 days from discharge. A patient who spends four days in the hospital has an episode window extending 34 days from admission. A patient discharged the same day has a 30-day window from that day.
+
+The 30-day window is not arbitrary. CMS selected it based on analysis of where the highest-cost complications, readmissions, and post-acute utilization occur. Most preventable returns happen within the first two weeks post-discharge; the 30-day window captures nearly all of that risk.
+
+## What costs are inside the episode?
+
+The TEAM episode captures virtually all Medicare Part A and Part B spending attributable to the patient during the episode window. This includes:
+
+- **The anchor hospitalization** — DRG payment for the inpatient stay (including operating room, ICU days, implants)
+- **Skilled nursing facility (SNF) care** — Part A SNF days within the 30-day window
+- **Inpatient rehabilitation facility (IRF) stays** — if applicable within the window
+- **Home health agency (HHA) visits** — Part A home health within the window
+- **Outpatient follow-up** — Part B physician visits, physical therapy, outpatient procedures
+- **Readmission hospitalizations** — a readmission within 30 days is a Part A cost inside the episode
+- **Durable medical equipment** — walkers, braces, CPAP related to the surgical episode
+
+What is excluded: care that is clearly unrelated to the surgical episode (a new cancer diagnosis, an unrelated emergency), hospice care, and services at Maryland hospitals (excluded from the model entirely).
+
+## Why the post-discharge window is the financial fulcrum
+
+The anchor hospitalization itself — the DRG payment — is relatively fixed. CMS sets it through the standard IPPS rate schedule. The variable cost that determines whether a hospital beats or misses its TEAM target price is almost entirely in the **post-discharge window**.
+
+For LEJR episodes, post-discharge costs account for approximately 40% of the average $24,540 episode cost. For SHFFT episodes, post-discharge costs run 63% of the $46,615 average. SNF placement decisions made at discharge are the single largest lever hospitals have on their TEAM episode cost. A patient inappropriately placed in an IRF vs. home health represents a $15,000–$25,000 swing in episode cost for that single patient.
+
+## Frequently asked questions
+
+### What is a CMS TEAM episode of care?
+
+A CMS TEAM episode begins on the date of a qualifying surgical procedure and ends 30 days after the patient is discharged. It captures virtually all Medicare Part A and Part B spending during that window.
+
+### How long is a CMS TEAM episode?
+
+The episode ends 30 days after discharge from the anchor hospitalization — not 30 days from surgery. A patient hospitalized for four days and then discharged has an episode window ending 34 days after admission.
+
+### Does a readmission within 30 days count against the hospital under TEAM?
+
+Yes. A readmission within the 30-day episode window adds a new hospitalization cost to the episode total, directly increasing the risk of exceeding the target price. Under HRRP, it also generates a separate readmission penalty.
+
+<BlogReferences items={[{"id":1,"text":"CMS, \"Transforming Episode Accountability Model (TEAM),\" model overview and episode definition.","url":"https://www.cms.gov/priorities/innovation/innovation-models/team-model"},{"id":2,"text":"CMS, FY2025 IPPS Final Rule, Section X — TEAM episode definition and included services, 89 FR 68986.","url":"https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-program-hospital-inpatient-prospective-payment-systems"}]} />
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

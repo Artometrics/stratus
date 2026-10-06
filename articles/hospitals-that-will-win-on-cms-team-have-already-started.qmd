@@ -1,0 +1,188 @@
+---
+title: "The Hospitals That Will Win on CMS TEAM Have Already Started"
+description: "Nine months into CMS TEAM, the gap between ready hospitals and the rest is about investment\u2014not strategy. What winners share, and Mayo Clinic Jacksonville's move."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Mayo Clinic</span> <span class="article-tag-pill">hospital readiness</span> <span class="article-tag-pill">Medicare reimbursement</span> <span class="article-tag-pill">value-based care</span> <span class="article-tag-pill">post-acute care</span> <span class="article-tag-pill">TEAM reconciliation</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">The Hospitals That Will Win on CMS TEAM Have Already Started</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/rainfall-logo.svg" alt="Rainfall Health" class="author-avatar"> <span>Rainfall Health</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">September 01, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/mayo-team-readiness-banner.jpg" alt="The Hospitals That Will Win on CMS TEAM Have Already Started" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Readiness is investment, not strategy
+- Post-discharge visibility comes first
+- Name one accountable executive owner
+- Quality score multiplies reconciliation
+- Model upside, not just penalties
+- Performance year one is accruing now
+</div></aside>
+
+Nine months into a mandatory model, the gap between the hospitals that are ready and the hospitals that aren't is no longer about strategy. It's about investment in the future of healthcare.
+
+The Transforming Episode Accountability Model went live on January 1, 2026. That date has come and gone, and with it a distinction that will define the next five years for the hospitals CMS selected: some of them spent 2025 strategizing, and some of them spent it waiting for more clarity.
+
+The clarity is here. Performance year one is more than half over. Surgical episodes are accruing right now, and they will be reconciled against cost and quality benchmarks whether or not the infrastructure to manage them exists.
+
+What we've seen working with health systems across the country is that the ones positioned to succeed under TEAM aren't necessarily the largest, the best resourced, or the most experienced in bundled payment. They share a much smaller set of traits and every one of them is a decision someone made early. It is an investment in a new way to scale care.
+
+## They treated the 30 days after discharge as in-scope
+
+This is the single biggest predictor of readiness, and it's the one that separates TEAM from most of what hospitals have done before.
+
+A TEAM episode doesn't end at discharge. It runs 30 days past it, and it absorbs skilled nursing stays, home health, readmissions, and follow-up care that happens entirely outside the hospital's walls. For most organizations, that period has historically been a blind spot not because anyone was negligent, but because there was never a financial reason to instrument it. The patient left, and the data left with them.
+
+Hospitals that got ahead of TEAM built visibility into that window first. Not the reporting layer, not the dashboards the actual data connection to the post-acute partners handling their patients. Everything downstream depends on it. A hospital can have immaculate surgical outcomes and still miss its benchmark on a readmission it never saw coming. This is what it means to be truly responsible for a full 30 day surgical episode: coordination to outcomes.
+
+The systems still treating post-acute coordination as a phase-two problem are, in practice, managing a 30-day episode with visibility into the first two days of it.
+
+## They put a name on it, not a committee
+
+Where TEAM readiness is "part of everyone's job," it reliably becomes no one's.
+
+The proactive systems assigned a single accountable executive with actual budget authority, most often the CFO, a VP of value-based care, or in a few cases a chief quality officer who could speak to both sides of the reconciliation equation. That person owned the timeline, the vendor decisions, and the internal reporting line to the board. It is not "yet another mandate" mentality but rather the belief in better infrastructure that is possible through innovation.
+
+This sounds like an organizational detail. It isn't. TEAM cuts across surgery, quality, finance, care coordination, IT, and post-acute relationships. Any one of those functions can stall the work indefinitely by treating it as someone else's deadline. A named owner is the mechanism that prevents that.
+
+## They understood the quality score is a multiplier, not a checkbox
+
+A common early misread of TEAM was that it's a cost containment program with a quality overlay. It isn't. The Composite Quality Score adjusts the reconciliation amount in both directions, meaning a hospital can generate real episode savings and still see them reduced if quality performance lags.
+
+Hospitals that modeled this correctly stopped treating cost and quality as separate workstreams with separate owners. The ones that didn't are running a cost reduction program and will find out at reconciliation that they optimized half of the equation.
+
+## They modeled the upside, not just the penalty
+
+Most of the industry conversation about TEAM has been defensive, and understandably so. CMS selected 721 hospitals for the first cohort, participation is mandatory, and hospitals that fall short of cost and quality benchmarks face steep financial penalties.
+
+But the same structure runs the other way. Reconciliation bonuses are built into CMS's incentive design, and Rainfall's own modeling of the mandate puts the opportunity at up to $85 million in new revenue for hospitals that hit their benchmarks.
+
+The organizations we'd describe as genuinely forward-thinking are the ones that ran both models — downside exposure and upside capture — and staffed accordingly. A hospital that only builds to avoid penalties will, at best, avoid penalties.
+
+## What that looks like in practice
+
+The hospitals making these moves are slowly but surely setting themselves up for success in a new era of healthcare and pulling in partners for infrastructure that help scale what they already do best: Deliver patient care. They're signing infrastructure decisions, connecting data to post-acute partners, and building the reporting capability that reconciliation will require.
+
+Today [Rainfall Health announced](https://www.prnewswire.com/news-releases/rainfall-health-announces-new-health-system-customer-to-support-cms-team-model-implementation-302866896.html) that Mayo Clinic in Jacksonville, Florida will implement Rainfall's platform to support care coordination and compliance activities associated with TEAM. Read the full announcement here.
+
+It's one example of a broader pattern we're seeing across the health systems we work with: the operational work of TEAM readiness is being done now, by organizations that would rather build the capability than absorb the exposure.
+
+As Paul Uhrig, Senior Strategic Advisor at The Healthcare Trust Institute and member of Rainfall's R.A.I.N. Advisory Committee, put it in today's announcement: "The opportunity to align financial incentives with quality patient outcomes has never been greater across our healthcare system."
+
+## The window that's actually closing
+
+TEAM runs through December 31, 2030. There is time to improve. What there isn't time for is a first performance year spent building the thing that was supposed to measure the first performance year.
+
+Every episode triggered between now and December is data that will be reconciled. Hospitals that stand up coordination and reporting infrastructure in the back half of 2026 will still be better positioned than those that wait for year two — but they'll be doing it while the clock runs, and they'll be reconciling a baseline they didn't manage.
+
+The hospitals that will clear TEAM cleanly made a decision in 2025 that this was real. The ones still deciding are making a decision too.
+
+---
+
+Rainfall Health is an AI-driven compliance and reimbursement platform that helps hospitals and medical groups navigate value-based care models, including CMS's Transforming Episode Accountability Model. Learn more about how we support TEAM readiness.
+
+**Further reading:** [CMS TEAM Guide](/cms-team/) · [What Is TEAM?](/cms-team/what-is-team/) · [CMS TEAM Explained for Hospital CEOs](/post/cms-team-explained-for-hospital-ceos/) · [How to Prepare for CMS TEAM](/post/how-to-prepare-for-cms-team/)
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```

@@ -1,0 +1,282 @@
+---
+title: "Market Discipline Finally Arrives: Steve Ganyard on CMS TEAM, Carrots and Sticks, and AI That Stays Human-First"
+description: "Steve Ganyard on why CMS TEAM and CJR-X finally bring market discipline to federal healthcare spend \u2014 and why AI must stay human-first for hospitals."
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="blog-shell">
+  <div class="blog-article-grid">
+    <div class="blog-prose-column">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">CJR-X</span> <span class="article-tag-pill">Medicare reimbursement</span> <span class="article-tag-pill">value-based care</span> <span class="article-tag-pill">bundled payments</span> <span class="article-tag-pill">bundled payment analytics</span> <span class="article-tag-pill">AI in healthcare</span> <span class="article-tag-pill">hospital accountability</span> <span class="article-tag-pill">market discipline</span> <span class="article-tag-pill">Rainfall Health Podcast</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Market Discipline Finally Arrives: Steve Ganyard on CMS TEAM, Carrots and Sticks, and AI That Stays Human-First</h1>
+        
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Ahmed &quot;Eddie&quot; Qureshi" class="author-avatar"> <span>Ahmed "Eddie" Qureshi</span></span> <span class="author-chip"><img src="/assets/authors/steve-ganyard.jpg" alt="Steve Ganyard" class="author-avatar"> <span>Steve Ganyard</span></span>
+          </div>
+          <span class="byline-dot">&middot;</span>
+          <span class="byline-date">August 31, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            
+            <a href="/downloads/eBook_market_discipline_steve_ganyard.pdf" class="btn-download-ebook" target="_blank" rel="noopener noreferrer">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Download eBook</span>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="/assets/media/market-discipline-steve-ganyard.jpg" alt="Market Discipline Finally Arrives: Steve Ganyard on CMS TEAM, Carrots and Sticks, and AI That Stays Human-First" class="article-hero-image">
+
+      <div class="article-body">
+```
+
+
+
+
+
+
+<div class="my-4"><iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/9ed03e6d"></iframe></div>
+
+<aside class="blog-tldr not-prose"><div class="blog-tldr__label">TL;DR</div><div class="blog-tldr__body">
+- Washington finally adds market discipline
+- Carrots and sticks drive adoption
+- TEAM is bipartisan by construction
+- Accountability should spread further
+- AI is the path, not the point
+- Keep humans first with AI tools
+</div></aside>
+
+---
+
+_Based on the Rainfall Health Podcast: [Steve Ganyard](https://www.linkedin.com/in/steve-ganyard-766b0810) on innovation, CMS TEAM accountability, and why AI belongs behind people — not in front of them._
+
+<div class="ratio ratio-16x9 my-4"><iframe src="https://www.youtube.com/embed/XKwtMOSHRiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe></div>
+
+---
+
+Federal healthcare programs have long funded good intentions without forcing market discipline. In Episode 6 of the Rainfall Health Podcast, founder and CEO Ahmed "Eddie" Qureshi sits down with [Steve Ganyard](https://www.linkedin.com/in/steve-ganyard-766b0810) — Marine fighter pilot, former Deputy Assistant Secretary of State, Oliver Wyman vice president, China Beige Book founder, investor, and Rainfall Health board member — for a different read on [CMS TEAM](/cms-team/) and [CJR-X](/cjrx/).
+
+His thesis is blunt: for the first time he can point to, something coming out of Washington pairs public spending with real upside and real downside. That is what **bundled payments** finally add — and why **bundled payment analytics** matter for CFOs who have to see episode performance before reconciliation. For the hospital finance view, see [how to maximize TEAM revenue](/cms-team/maximize-revenue/).
+
+## How Does Innovation Actually Get Adopted?
+
+Ganyard has watched technology land at very different speeds across aerospace, defense, diplomacy, and consulting. In traditional aerospace and defense, companies are often small-c conservative — they wait for the federal government to fund R&D and tell them what to buy. Innovation arrives when the buyer asks for it.
+
+That pattern is breaking. Neo-defense startups and battlefield lessons from Ukraine and elsewhere are forcing the U.S. government to adapt faster. Ganyard's point for hospital leaders is parallel: [mandatory episode models](/cms-team/what-is-team/) are a forcing function. Best practices, controls, and market incentives are no longer optional add-ons — they are the payment design.
+
+> For the first time that I can think of, something coming out of Washington actually has market discipline.
+>
+> — Steve Ganyard
+
+## What Are the Carrots and Sticks Under CMS TEAM Bundled Payments?
+
+Congress often passes programs without clear KPIs. Ideas that start well can become "zombie programs" — still funded, no longer delivering. Ganyard argues CMS TEAM is different because hospitals face both sides of the ledger:
+
+| If hospitals…                                   | Market consequence                               |
+| ----------------------------------------------- | ------------------------------------------------ |
+| Coordinate well across the episode              | Meaningful upside under TEAM tracks              |
+| Let patients fall through post-discharge cracks | Downside exposure and reconciliation risk        |
+| Treat accountability as admin burden            | Lost reimbursement and operational scramble      |
+| Treat accountability as infrastructure          | Better outcomes, healthier seniors, stronger P&L |
+
+That is Mr. Market entering Medicare surgical care: do the work well and you are rewarded; do it poorly and it costs you. For mandated hospitals, that logic now sits inside the [30-day post-discharge window](/cms-team/) across five high-volume surgical episodes.
+
+## Why Did Accountability Take This Long — and How Fast Will It Stick?
+
+Healthcare is one of the largest GDP line items in the country, yet meaningful accountability arrived late. Ganyard's explanation is institutional: Congress builds bills it believes voters want, but often without the checks, balances, and performance gates private markets use — the Series A / Series B logic of "show the KPIs before you get the next round."
+
+Now that carrots and sticks exist, he expects the pattern to stick for a simple reason: nobody on Capitol Hill is eager to vote against better care for seniors, better taxpayer value, or longer health span. The same pressure shows up in [CJR-X](/cjrx/), which is moving through payment-schedule channels rather than only innovation-center experiments — a signal of broader, bipartisan durability.
+
+The fiscal backdrop matters too. With roughly $40 trillion in federal debt, Ganyard argues Washington cannot keep spending without discipline. Programs that prove they improve outcomes _and_ steward taxpayer dollars are the ones that survive.
+
+## Where Does Market Discipline Go Next?
+
+If the model works for Medicare surgical episodes, why wouldn't similar accountability apply elsewhere in federal healthcare spend?
+
+Ganyard flags the Veterans Health Administration as an obvious next surface: a veteran needing a hip replacement at age 50 is not yet on Medicare, but still deserves the same protections against falling through the cracks. Defense Health Agency and other large federal healthcare outlays face the same logic. He is clear that those crossovers have not fully landed yet — he cannot point to Interior, Commerce, or Defense applying this style of incentive design at scale — but he sees TEAM and CJR-X as a springboard, not a ceiling.
+
+The through-line is health span. Keeping seniors productive after a procedure — able to volunteer, drive, stay connected — is not soft social policy. It is the return on getting the first 30 days right so complications, readmissions, and cascade failures never start.
+
+## Is AI the Point — or Just the Path?
+
+The second half of the conversation turns to AI. Ganyard's framing matches how Rainfall builds product: AI-forward, patient-facing, humans first.
+
+He is candid that parts of Congress and the public still fear AI in healthcare. Some patients will dump their history into a chatbot; others hear "cloud" and freeze. The job is education — for patients and for lawmakers — that the goal is not AI for its own sake. The goals are outcomes, quality, satisfaction, and cost. AI is a toolkit to reach those targets at the scale TEAM and CJR-X require.
+
+> Healthcare is human beings helping human beings… people first, people forward, with AI in your toolkit.
+>
+> — Steve Ganyard
+
+That distinction matters for hospital leaders evaluating vendors under mandatory models. Widget-on-widget stacks that never touch a care team are not the same as systems designed so clinicians and coordinators can keep patients from falling through cracks at day 7, day 30, and — under CJR-X — day 90.
+
+## The Bottom Line for Hospital Leaders
+
+Market discipline is no longer a theory document. Under CMS TEAM it is already the payment design for 721 mandated hospitals. CJR-X extends the same accountability logic. Ganyard's counsel to operators is practical:
+
+1. Treat carrots and sticks as the operating system, not a compliance side quest.
+2. Expect the model to broaden — Medicare is the largest payer, not the only federal healthcare spend.
+3. Deploy AI as infrastructure for accountable care, with humans kept firmly in front.
+4. Tell the story on Capitol Hill and at the bedside: better health span, better taxpayer value, better hospital economics.
+
+As Ganyard put it, Rainfall and peers are just getting started — but the forcing function is already live.
+
+---
+
+**About [Steve Ganyard](https://www.linkedin.com/in/steve-ganyard-766b0810):** Steve Ganyard's career spans the Marine Corps as a fighter pilot, the State Department as Deputy Assistant Secretary, and management consulting as a vice president at Oliver Wyman. He is founder of the China Beige Book, an investor and innovator, and a board member at Rainfall Health.
+
+## Frequently Asked Questions
+
+### What does "market discipline" mean for CMS TEAM?
+
+Market discipline means hospitals face real upside when they manage surgical episodes well and real downside when patients fall through post-discharge cracks. Under CMS TEAM, that incentive design is built into Medicare payment — not left as voluntary guidance.
+
+### Why does Steve Ganyard say CMS TEAM is bipartisan?
+
+Because the program aligns with priorities both parties can defend: better care for seniors, better value for taxpayer dollars, and longer health span. Ganyard notes the idea began under a Democratic administration and has been embraced under a Republican administration for the same fiscal and outcomes reasons.
+
+### How do CMS TEAM and CJR-X relate to this argument?
+
+CMS TEAM is the live mandatory surgical episode model. CJR-X extends similar accountability logic — including through payment-schedule pathways — which Ganyard reads as evidence the approach is durable and expanding, not a one-off experiment.
+
+### Why didn't federal healthcare programs have this discipline earlier?
+
+Ganyard argues Congress often funds ideas without KPIs or Series A / Series B-style performance gates. Without carrots and sticks, programs can become "zombie" spend — still appropriated, no longer delivering intended outcomes.
+
+### Where else could this model apply?
+
+He points to other large federal healthcare outlays, especially the Veterans Health Administration and potentially Defense Health Agency settings, where patients deserve the same protection against falling through care gaps after major procedures.
+
+### How should hospitals think about AI under TEAM?
+
+AI should be the path to accountable care at scale — not the point of the program. Keep humans first: use AI tools so care teams can coordinate episodes, while educating patients and lawmakers that the aim is outcomes and cost control, not replacing clinical judgment.
+
+### What is "health span" in this conversation?
+
+Health span is the period seniors remain healthy, mobile, and socially productive after procedures. Getting the first post-discharge window right protects that span — and avoids the cascade of complications that drive Medicare spend and patient harm.
+
+### What should CEOs do with this episode?
+
+Treat TEAM accountability as market design, build post-acute coordination infrastructure now, evaluate AI vendors on human-forward episode operations, and engage policy stakeholders with the bipartisan case for accountable Medicare spend.
+
+---
+
+## Download the eBook
+
+<a
+  href="/downloads/eBook_market_discipline_steve_ganyard.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download the eBook: Market Discipline Finally Arrives
+</a>
+
+## Get Your Free CMS TEAM Analysis
+
+Rainfall will perform a free analysis of your 2024 and 2025 Medicare billings and build an individualized view of your potential upside and downside under TEAM.
+
+- **Schedule a demo + free analysis:** [/schedule-a-demo/](/schedule-a-demo/)
+- **TEAM product:** [/team/](/team/)
+
+## Further reading
+
+- [CMS TEAM Guide](/cms-team/) — hub overview
+- [What Is TEAM?](/cms-team/what-is-team/) — canonical CMS TEAM model definition
+- [Maximize TEAM Revenue](/cms-team/maximize-revenue/) — bundled payment analytics for CFOs
+- [CJR-X Model Guide](/cjrx/)
+- [Why Did CMS TEAM Turn Mandatory? Shulkin](/post/why-cms-team-turned-mandatory-shulkin/)
+- [Closing Healthcare's How-To Gap](/post/why-medicare-patients-dont-follow-care-plans-how-to-gap/)
+- [Navigating the CMS TEAM Mandate](/post/navigating-the-cms-team-mandate-ebook/)
+
+---
+
+_Steve Ganyard is a Rainfall Health board member, Oliver Wyman vice president, former Deputy Assistant Secretary of State, and former Marine Corps fighter pilot._
+
+_Ahmed "Eddie" Qureshi is Founder and CEO of Rainfall Health and host of the Rainfall Health Podcast._
+
+_This article is for informational purposes only and is not legal, financial, or clinical advice. It reflects a Rainfall Health podcast conversation; figures cited are as discussed and individual results vary. © 2026 Rainfall Health._
+
+
+```{=html}
+      </div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+```
