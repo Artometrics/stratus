@@ -15,6 +15,7 @@ newsletter/*/index_files/
 states/california/california.html
 states/california/california_files/
 **/*.pdf
+!downloads/*.pdf
 **/*.typ
 !**/styles/preamble.typ
 !**/styles/typst-show.typ

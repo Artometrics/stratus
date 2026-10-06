@@ -1,0 +1,1018 @@
+---
+title: "Podcast Knowledge Hub & Inventory | Rainfall Health"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
+<div class="hub-container">
+
+  <!-- Header Banner -->
+  <header class="hub-header">
+    <div class="hub-kicker">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+      Knowledge Hub &amp; Asset Management
+    </div>
+    <h1 class="hub-title">Rainfall Health Podcast Inventory</h1>
+    <p class="hub-subtitle">
+      The definitive operational registry, asset audit, and distribution clearinghouse for the Rainfall Health Podcast series. Direct access to high-resolution masters, broadcast audio stems, companion eBooks, transcripts, and Google Drive production vaults.
+    </p>
+
+    <div class="hub-cta-bar">
+      <a href="https://drive.google.com/drive/folders/1IyOcWZkaPzQNK_6Qe34mBF4HEMQAtkhF" target="_blank" rel="noopener noreferrer" class="hub-btn hub-btn-primary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+        Open Master Google Drive Repository
+      </a>
+      <a href="#audit-action-items" class="hub-btn hub-btn-drive">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+        View Production Audit &amp; Action Items
+      </a>
+    </div>
+  </header>
+
+  <!-- Metric Stat Cards -->
+  <div class="hub-stats-grid">
+    <div class="hub-stat-card">
+      <div class="hub-stat-label">Total Episodes</div>
+      <div class="hub-stat-value">11</div>
+      <div class="hub-stat-hint">10 Published &bull; 1 Ready to Air</div>
+    </div>
+    <div class="hub-stat-card">
+      <div class="hub-stat-label">Companion eBooks</div>
+      <div class="hub-stat-value">11 / 11</div>
+      <div class="hub-stat-hint">100% Policy Guides Available</div>
+    </div>
+    <div class="hub-stat-card">
+      <div class="hub-stat-label">Thumbnails Synced</div>
+      <div class="hub-stat-value">11 / 11</div>
+      <div class="hub-stat-hint">16:9 Standardized PNGs</div>
+    </div>
+    <div class="hub-stat-card">
+      <div class="hub-stat-label">Broadcast Audio Masters</div>
+      <div class="hub-stat-value">11 / 11</div>
+      <div class="hub-stat-hint">320kbps MP3 &amp; 24-bit WAV</div>
+    </div>
+    <div class="hub-stat-card">
+      <div class="hub-stat-label">Total Master Data</div>
+      <div class="hub-stat-value">27.6 GB</div>
+      <div class="hub-stat-hint">Staged &amp; Cloud Archived</div>
+    </div>
+  </div>
+
+  <!-- Search & View Filters -->
+  <div class="hub-controls-bar">
+    <div class="hub-search-wrap">
+      <svg class="hub-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="hub-search" class="hub-search-input" placeholder="Search by guest name, topic, episode #, or hospital..." oninput="filterHub(this.value)">
+    </div>
+    <div class="hub-view-toggles" id="hub-filter-pills">
+      <button class="hub-pill-btn active" onclick="setFilter('all', this)">All Episodes (11)</button>
+      <button class="hub-pill-btn" onclick="setFilter('complete', this)">Complete Packs</button>
+      <button class="hub-pill-btn" onclick="setFilter('pending', this)">Action Needed</button>
+    </div>
+  </div>
+
+  <!-- Master Inventory Table -->
+  <section class="hub-table-section">
+    <div class="hub-section-title">
+      <span>Master Episode Matrix</span>
+      <span style="font-size: 0.875rem; font-weight: 500; color: var(--hub-slate);">Click any column icon for direct cloud access</span>
+    </div>
+
+    <div class="hub-table-wrapper">
+      <table class="hub-table" id="hub-master-table">
+        <thead>
+          <tr>
+            <th>Ep #</th>
+            <th>Thumbnail</th>
+            <th>Guest &amp; Affiliation</th>
+            <th>Episode Title &amp; Topic</th>
+            <th>Video Master</th>
+            <th>Audio Stems</th>
+            <th>Transcript / SRT</th>
+            <th>eBook Guide</th>
+            <th>Google Drive</th>
+            <th>Channels</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Ep 01 -->
+          <tr data-guest="Bradley Heiges Jessica Ohlssen Orthopedics" data-status="pending">
+            <td><strong>Ep 01</strong></td>
+            <td><a href="/assets/thumbnails/ep01-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep01-thumbnail.png" alt="Ep 01 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Bradley Heiges, MD</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">w/ Jessica Ohlssen</span>
+            </td>
+            <td>
+              <a href="articles/navigating-the-cms-team-mandate-ebook.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Navigating the CMS TEAM Mandate</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Webinar &amp; Mandate Overview</span>
+            </td>
+            <td><span class="hub-badge hub-badge-info">Staged (625 MB)</span></td>
+            <td><span class="hub-badge hub-badge-success">MP3 + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT Ready</span></td>
+            <td><a href="/downloads/eBook_01_Bradley_Heiges_Navigating_CMS_TEAM_Mandate.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (3.0 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1o4y4LCbrSR8OBpTSjz_WHTtS76BYuojt" target="_blank" class="hub-icon-link" title="Open Ep 01 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://share.transistor.fm/s/2b8f1726" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/navigating-the-cms-team-mandate-ebook.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 02 -->
+          <tr data-guest="Hemant Keny Surgery Geriatric" data-status="complete">
+            <td><strong>Ep 02</strong></td>
+            <td><a href="/assets/thumbnails/ep02-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep02-thumbnail.png" alt="Ep 02 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Dr. Hemant Keny</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Vascular &amp; General Surgeon</span>
+            </td>
+            <td>
+              <a href="articles/geriatric-patients-cms-team-episode-costs.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Geriatric Patients &amp; Cost Drivers</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Episode Cost Variations</span>
+            </td>
+            <td><span class="hub-badge hub-badge-success">Drive (7.95 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">MP3 + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT + TXT</span></td>
+            <td><a href="/downloads/eBook_02_Dr_Hemant_Keny_Geriatric_Surgical_Patients.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (2.0 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1LFFAHL6pvVMrviLhY2iupxBpsjB1Ab00" target="_blank" class="hub-icon-link" title="Open Ep 02 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=yMv1x7drTgU" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/184c60db" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/geriatric-patients-cms-team-episode-costs.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 03 -->
+          <tr data-guest="David Shulkin VA Veterans Affairs Policy" data-status="complete">
+            <td><strong>Ep 03</strong></td>
+            <td><a href="/assets/thumbnails/ep03-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep03-thumbnail.png" alt="Ep 03 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Dr. David Shulkin</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">9th Secretary of Veterans Affairs</span>
+            </td>
+            <td>
+              <a href="articles/why-cms-team-turned-mandatory-shulkin.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Why Did CMS TEAM Turn Mandatory?</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Policy, Math &amp; Mandatory Bundles</span>
+            </td>
+            <td><span class="hub-badge hub-badge-success">Drive (2.63 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">MP3 + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT + TXT</span></td>
+            <td><a href="/downloads/eBook_03_Dr_David_Shulkin_TEAM_from_the_Top.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (2.2 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1lmoogW-sAG6GACRBtjyiCsX7343z6f9N" target="_blank" class="hub-icon-link" title="Open Ep 03 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=Mjxu7fQJt0w" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/f9f39f40" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/why-cms-team-turned-mandatory-shulkin.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 04 -->
+          <tr data-guest="Paul Uhrig Surescripts Legal Compliance" data-status="pending">
+            <td><strong>Ep 04</strong></td>
+            <td><a href="/assets/thumbnails/ep04-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep04-thumbnail.png" alt="Ep 04 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Paul Uhrig</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Former GC &amp; CLO, Surescripts</span>
+            </td>
+            <td>
+              <a href="articles/compliance-risk-hiding-in-plain-sight-under-team.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Compliance Risk Hiding in Plain Sight</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Gainsharing &amp; Governance</span>
+            </td>
+            <td><span class="hub-badge hub-badge-warning">Riverside Master</span></td>
+            <td><span class="hub-badge hub-badge-success">MP3 + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT Ready</span></td>
+            <td><a href="/downloads/eBook_04_Paul_Uhrig_Compliance_Risk_Hiding_in_Plain_Sight.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (2.5 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1MERTs97GTyR0EtYYPe1yDuBi7LWc-Dvl" target="_blank" class="hub-icon-link" title="Open Ep 04 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=kr4R_XrG3ec" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/d434fe38" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/compliance-risk-hiding-in-plain-sight-under-team.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 05 -->
+          <tr data-guest="Charlotte Yeh AARP Care Plans How-To Gap" data-status="complete">
+            <td><strong>Ep 05</strong></td>
+            <td><a href="/assets/thumbnails/ep05-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep05-thumbnail.png" alt="Ep 05 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Dr. Charlotte Yeh</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Former CMO, AARP Services</span>
+            </td>
+            <td>
+              <a href="articles/why-medicare-patients-dont-follow-care-plans-how-to-gap.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Closing Healthcare's "How-To Gap"</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Patient Adherence &amp; Post-Acute</span>
+            </td>
+            <td><span class="hub-badge hub-badge-info">Staged (4.06 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">M4A Master</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT + TXT</span></td>
+            <td><a href="/downloads/eBook_05_Dr_Charlotte_Yeh_Should_Do_Isnt_How_To.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (1.2 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1vNa7XzF7Ev3lj54N1_prFbdlzJDkqlKE" target="_blank" class="hub-icon-link" title="Open Ep 05 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=L7YPz2TzSzw" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/24c360ee" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/why-medicare-patients-dont-follow-care-plans-how-to-gap.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 06 -->
+          <tr data-guest="Steve Ganyard State Department Market Discipline" data-status="pending">
+            <td><strong>Ep 06</strong></td>
+            <td><a href="/assets/thumbnails/ep06-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep06-thumbnail.png" alt="Ep 06 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Steve Ganyard</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Col USMC (Ret.), Former DAS of State</span>
+            </td>
+            <td>
+              <a href="articles/market-discipline-steve-ganyard.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Market Discipline Finally Arrives</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Carrots, Sticks &amp; Human-First AI</span>
+            </td>
+            <td><span class="hub-badge hub-badge-info">Staged (4.4 GB 4K)</span></td>
+            <td><span class="hub-badge hub-badge-warning">Stem in Staging</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT Ready</span></td>
+            <td><a href="/downloads/eBook_06_Steve_Ganyard_Market_Discipline.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (1.6 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1BzBsJ9dmkhvupw9iC6q4EvZgaErcVOt8" target="_blank" class="hub-icon-link" title="Open Ep 06 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=XKwtMOSHRiY" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/9ed03e6d" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/market-discipline-steve-ganyard.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 07 -->
+          <tr data-guest="Mark Adams Two Bear Capital AI Nursing" data-status="complete">
+            <td><strong>Ep 07</strong></td>
+            <td><a href="/assets/thumbnails/ep07-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep07-thumbnail.png" alt="Ep 07 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Mark Adams</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">MD, Two Bear Capital</span>
+            </td>
+            <td>
+              <a href="articles/ai-leverage-mark-adams-two-bear-capital.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">AI Won't Replace Nurses — Leverage</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Care Loop &amp; Healthcare AI</span>
+            </td>
+            <td><span class="hub-badge hub-badge-info">Staged (6.6 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">WAV (246 MB)</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT Ready</span></td>
+            <td><a href="/downloads/eBook_07_Mark_Adams_AI_Leverage_and_the_Care_Loop.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (1.9 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/13uEfMdWGx8w4XmOUTl_ccatcYdomB6lg" target="_blank" class="hub-icon-link" title="Open Ep 07 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=1Zg7RHRnGy4" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/02657e47" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/ai-leverage-mark-adams-two-bear-capital.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 08 -->
+          <tr data-guest="Steve Schutzer CJRI Bundled Payments Joint Replacement" data-status="complete">
+            <td><strong>Ep 08</strong></td>
+            <td><a href="/assets/thumbnails/ep08-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep08-thumbnail.png" alt="Ep 08 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Dr. Steve Schutzer</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Founding Director, CJRI</span>
+            </td>
+            <td>
+              <a href="articles/bundled-payment-analytics-steve-schutzer.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Physician-Led Bundled Payments Work</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">20 Years of Joint Replacement Data</span>
+            </td>
+            <td><span class="hub-badge hub-badge-info">Local (6.3 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">M4A + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT + TXT</span></td>
+            <td><a href="/downloads/eBook_08_Dr_Steve_Schutzer_At_the_Head_of_the_Table.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (2.4 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1bb-SBSCW40zaO4Af6nVglDFxjW1ycB2U" target="_blank" class="hub-icon-link" title="Open Ep 08 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=R08Dldlf6Ow" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/c3ff0e84" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/bundled-payment-analytics-steve-schutzer.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 09 -->
+          <tr data-guest="Scott Cooper Mercy Orthopedic Hip Fracture CJR-X" data-status="complete">
+            <td><strong>Ep 09</strong></td>
+            <td><a href="/assets/thumbnails/ep09-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep09-thumbnail.png" alt="Ep 09 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Dr. Scott Cooper</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Orthopedic Surgeon, Mercy Health</span>
+            </td>
+            <td>
+              <a href="articles/hip-fracture-home-scott-cooper.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Patients Do Better at Home</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Hip Fractures, TEAM &amp; 90-Day CJR-X</span>
+            </td>
+            <td><span class="hub-badge hub-badge-success">Drive (4.29 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">MP3 + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT + TXT</span></td>
+            <td><a href="/downloads/eBook_09_Dr_Scott_Cooper_Patients_Do_Better_at_Home.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (2.1 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1vSJdJkMNW9fTsYwT48J68ey9Jgzizjf4" target="_blank" class="hub-icon-link" title="Open Ep 09 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=xLRqjlpfMkQ" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/c983c6c4" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/hip-fracture-home-scott-cooper.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 10 -->
+          <tr data-guest="Sandra Scott One Brooklyn Health Safety Net" data-status="complete">
+            <td><strong>Ep 10</strong></td>
+            <td><a href="/assets/thumbnails/ep10-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep10-thumbnail.png" alt="Ep 10 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Dr. Sandra Scott</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">CEO, One Brooklyn Health</span>
+            </td>
+            <td>
+              <a href="articles/cms-team-safety-net-hospitals-sandra-scott.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">Leading Safety Nets Through TEAM</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Health Equity &amp; Infrastructure</span>
+            </td>
+            <td><span class="hub-badge hub-badge-success">Drive (1.27 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">MP3 + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT + TXT</span></td>
+            <td><a href="/downloads/eBook_10_Dr_Sandra_Scott_Pull_Up_a_Chair.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (2.0 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/15rXQpfnpS4rxGTka00LkqiDXskEVvXch" target="_blank" class="hub-icon-link" title="Open Ep 10 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <a href="https://www.youtube.com/watch?v=S3f4-1sFW2s" target="_blank" class="hub-badge hub-badge-warning" title="YouTube" style="text-decoration: none;">YouTube</a>
+                <a href="https://share.transistor.fm/s/f291908e" target="_blank" class="hub-badge hub-badge-info" title="Transistor.fm" style="text-decoration: none;">Podcast</a>
+                <a href="articles/cms-team-safety-net-hospitals-sandra-scott.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Ep 11 -->
+          <tr data-guest="Cora Han UC Health Data Governance Responsible AI" data-status="complete">
+            <td><strong>Ep 11</strong></td>
+            <td><a href="/assets/thumbnails/ep11-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep11-thumbnail.png" alt="Ep 11 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td>
+              <strong>Cora Han, JD</strong><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Chief Health Data Officer, UC Health</span>
+            </td>
+            <td>
+              <a href="articles/the-trust-gap-health-data-governance-cora-han.html" style="font-weight: 600; color: var(--hub-navy-dark); text-decoration: none;">The Trust Gap: Health Data &amp; AI</a><br>
+              <span style="font-size: 0.75rem; color: var(--hub-slate);">Responsible AI &amp; Care Transitions</span>
+            </td>
+            <td><span class="hub-badge hub-badge-success">Drive (3.26 GB)</span></td>
+            <td><span class="hub-badge hub-badge-success">MP3 + WAV</span></td>
+            <td><span class="hub-badge hub-badge-success">SRT + TXT</span></td>
+            <td><a href="/downloads/eBook_11_Cora_Han_The_Trust_Gap.pdf" target="_blank" class="hub-badge hub-badge-purple" style="text-decoration: none;">PDF (2.1 MB)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1AO6uJBSaCrz4o0o1cAF1ZYkU6Tq2PSKB" target="_blank" class="hub-icon-link" title="Open Ep 11 in Google Drive"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg></a></td>
+            <td>
+              <div style="display: flex; gap: 4px;">
+                <span class="hub-badge hub-badge-info" title="Publish Kit Ready">Kit Ready</span>
+                <a href="articles/the-trust-gap-health-data-governance-cora-han.html" class="hub-badge hub-badge-neutral" title="Read Article" style="text-decoration: none;">Blog</a>
+              </div>
+            </td>
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Deep Dive Episode Knowledge Cards -->
+  <section>
+    <div class="hub-section-title">
+      <span>Episode Knowledge Dossiers</span>
+      <span style="font-size: 0.875rem; font-weight: 500; color: var(--hub-slate);">Comprehensive metadata, downloads &amp; cloud staging</span>
+    </div>
+
+    <div class="hub-cards-grid" id="hub-cards-container">
+
+      <!-- CARD 11: Cora Han -->
+      <article class="hub-card" data-card-guest="Cora Han UC Health Data Governance Responsible AI" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep11-thumbnail.png" alt="Ep 11 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 11</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Cora Han, JD</span>
+            <span class="hub-badge hub-badge-info">Kit Ready to Air</span>
+          </div>
+          <div class="hub-card-role">Chief Health Data Officer &bull; University of California Health</div>
+          <div class="hub-card-title">
+            "The Trust Gap: Health Data Governance, Responsible AI, and Care Transitions"
+          </div>
+
+          <!-- Quick Action Buttons -->
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1AO6uJBSaCrz4o0o1cAF1ZYkU6Tq2PSKB" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_11_Cora_Han_The_Trust_Gap.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (2.1 MB)
+            </a>
+            <a href="articles/the-trust-gap-health-data-governance-cora-han.html" class="hub-action-btn hub-action-article">
+              Read Strategic Analysis &amp; Transcript in Stratus &rarr;
+            </a>
+          </div>
+
+          <!-- Asset Chips Matrix -->
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 3.26 GB MP4</div>
+            <div class="hub-asset-chip ready">Audio: MP3 + WAV</div>
+            <div class="hub-asset-chip ready">Captions: SRT + VTT</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 10: Sandra Scott -->
+      <article class="hub-card" data-card-guest="Sandra Scott One Brooklyn Health Safety Net" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep10-thumbnail.png" alt="Ep 10 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 10</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Dr. Sandra Scott</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Chief Executive Officer &bull; One Brooklyn Health</div>
+          <div class="hub-card-title">
+            "From the ER to the C-Suite: Leading a Safety Net System Through CMS TEAM"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/15rXQpfnpS4rxGTka00LkqiDXskEVvXch" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_10_Dr_Sandra_Scott_Pull_Up_a_Chair.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (2.0 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=S3f4-1sFW2s" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/f291908e" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/cms-team-safety-net-hospitals-sandra-scott.html" class="hub-action-btn hub-action-article">
+              Read Full Article &amp; Executive Summary in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 1.27 GB MP4</div>
+            <div class="hub-asset-chip ready">Audio: MP3 + WAV</div>
+            <div class="hub-asset-chip ready">Transcript: Synced</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 09: Scott Cooper -->
+      <article class="hub-card" data-card-guest="Scott Cooper Mercy Orthopedics Hip Fracture" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep09-thumbnail.png" alt="Ep 09 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 09</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Dr. Scott Cooper</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Orthopedic Surgeon &bull; Mercy Health</div>
+          <div class="hub-card-title">
+            "Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1vSJdJkMNW9fTsYwT48J68ey9Jgzizjf4" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_09_Dr_Scott_Cooper_Patients_Do_Better_at_Home.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (2.1 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=xLRqjlpfMkQ" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/c983c6c4" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/hip-fracture-home-scott-cooper.html" class="hub-action-btn hub-action-article">
+              Read Surgical Perspective in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 4.29 GB MP4</div>
+            <div class="hub-asset-chip ready">Audio: MP3 + WAV</div>
+            <div class="hub-asset-chip ready">Clips: 4 Cut &amp; Synced</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 08: Steve Schutzer -->
+      <article class="hub-card" data-card-guest="Steve Schutzer CJRI Bundled Payments" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep08-thumbnail.png" alt="Ep 08 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 08</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Dr. Steve Schutzer</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Founding Director &bull; Connecticut Joint Replacement Institute</div>
+          <div class="hub-card-title">
+            "Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1bb-SBSCW40zaO4Af6nVglDFxjW1ycB2U" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_08_Dr_Steve_Schutzer_At_the_Head_of_the_Table.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (2.4 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=R08Dldlf6Ow" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/c3ff0e84" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/bundled-payment-analytics-steve-schutzer.html" class="hub-action-btn hub-action-article">
+              Read 20-Year Bundled Data in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 6.3 GB Master</div>
+            <div class="hub-asset-chip ready">Audio: M4A + WAV</div>
+            <div class="hub-asset-chip ready">Clip: Master Cut</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 07: Mark Adams -->
+      <article class="hub-card" data-card-guest="Mark Adams Two Bear Capital AI Nursing" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep07-thumbnail.png" alt="Ep 07 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 07</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Mark Adams</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Managing Director &bull; Two Bear Capital</div>
+          <div class="hub-card-title">
+            "AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/13uEfMdWGx8w4XmOUTl_ccatcYdomB6lg" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_07_Mark_Adams_AI_Leverage_and_the_Care_Loop.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (1.9 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=1Zg7RHRnGy4" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/02657e47" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/ai-leverage-mark-adams-two-bear-capital.html" class="hub-action-btn hub-action-article">
+              Read VC &amp; AI Analysis in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 6.6 GB Master</div>
+            <div class="hub-asset-chip ready">Audio: 246 MB WAV</div>
+            <div class="hub-asset-chip ready">Captions: SRT Synced</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 06: Steve Ganyard -->
+      <article class="hub-card" data-card-guest="Steve Ganyard State Department Market Discipline" data-card-status="pending">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep06-thumbnail.png" alt="Ep 06 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 06</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Steve Ganyard</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Col. USMC (Ret.) &bull; Former DAS of State</div>
+          <div class="hub-card-title">
+            "Market Discipline Finally Arrives: Steve Ganyard on CMS TEAM, Carrots and Sticks, and AI That Stays Human-First"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1BzBsJ9dmkhvupw9iC6q4EvZgaErcVOt8" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_06_Steve_Ganyard_Market_Discipline.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (1.6 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=XKwtMOSHRiY" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/9ed03e6d" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/market-discipline-steve-ganyard.html" class="hub-action-btn hub-action-article">
+              Read Geopolitical Analysis in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 4.4 GB 4K</div>
+            <div class="hub-asset-chip ready">Captions: SRT Ready</div>
+            <div class="hub-asset-chip missing">Clips: Pending</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 05: Charlotte Yeh -->
+      <article class="hub-card" data-card-guest="Charlotte Yeh AARP Care Plans How-To Gap" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep05-thumbnail.png" alt="Ep 05 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 05</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Dr. Charlotte Yeh</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Former CMO, AARP Services &bull; Former CMS Admin</div>
+          <div class="hub-card-title">
+            "Why Don't Medicare Patients Follow Their Care Plans? Closing Healthcare's 'How-To Gap'"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1vNa7XzF7Ev3lj54N1_prFbdlzJDkqlKE" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_05_Dr_Charlotte_Yeh_Should_Do_Isnt_How_To.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (1.2 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=L7YPz2TzSzw" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/24c360ee" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/why-medicare-patients-dont-follow-care-plans-how-to-gap.html" class="hub-action-btn hub-action-article">
+              Read Behavior Science Feature in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 4.06 GB Master</div>
+            <div class="hub-asset-chip ready">Audio: 24 MB M4A</div>
+            <div class="hub-asset-chip ready">Clips: Master Cut</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 04: Paul Uhrig -->
+      <article class="hub-card" data-card-guest="Paul Uhrig Surescripts Legal Compliance Gainsharing" data-card-status="pending">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep04-thumbnail.png" alt="Ep 04 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 04</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Paul Uhrig</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Former General Counsel &bull; Surescripts</div>
+          <div class="hub-card-title">
+            "The Compliance Risk Hiding in Plain Sight Under CMS TEAM"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1MERTs97GTyR0EtYYPe1yDuBi7LWc-Dvl" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_04_Paul_Uhrig_Compliance_Risk_Hiding_in_Plain_Sight.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (2.5 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=kr4R_XrG3ec" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/d434fe38" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/compliance-risk-hiding-in-plain-sight-under-team.html" class="hub-action-btn hub-action-article">
+              Read Gainsharing Legal Guide in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip missing">Video: Export Pending</div>
+            <div class="hub-asset-chip ready">Audio: 284 MB WAV</div>
+            <div class="hub-asset-chip ready">Captions: SRT Ready</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 03: David Shulkin -->
+      <article class="hub-card" data-card-guest="David Shulkin VA Veterans Affairs Policy" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep03-thumbnail.png" alt="Ep 03 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 03</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Dr. David Shulkin</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">9th Secretary of Veterans Affairs</div>
+          <div class="hub-card-title">
+            "Why Did CMS TEAM Turn Mandatory? A Former VA Secretary Explains the Calendar and the Math"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1lmoogW-sAG6GACRBtjyiCsX7343z6f9N" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_03_Dr_David_Shulkin_TEAM_from_the_Top.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (2.2 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=Mjxu7fQJt0w" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/f9f39f40" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/why-cms-team-turned-mandatory-shulkin.html" class="hub-action-btn hub-action-article">
+              Read Policy Whitepaper in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 2.63 GB MP4</div>
+            <div class="hub-asset-chip ready">Audio: MP3 + WAV</div>
+            <div class="hub-asset-chip ready">Clips: Master Cut</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 02: Hemant Keny -->
+      <article class="hub-card" data-card-guest="Hemant Keny Surgery Geriatric Cost Drivers" data-card-status="complete">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep02-thumbnail.png" alt="Ep 02 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 02</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Dr. Hemant Keny</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">General &amp; Vascular Surgeon</div>
+          <div class="hub-card-title">
+            "What Do Geriatric Patients Cost Under CMS TEAM — and What Can Hospitals Do About It?"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1LFFAHL6pvVMrviLhY2iupxBpsjB1Ab00" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_02_Dr_Hemant_Keny_Geriatric_Surgical_Patients.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (2.0 MB)
+            </a>
+            <a href="https://www.youtube.com/watch?v=yMv1x7drTgU" target="_blank" class="hub-action-btn hub-action-yt">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              Watch on YouTube
+            </a>
+            <a href="https://share.transistor.fm/s/184c60db" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/geriatric-patients-cms-team-episode-costs.html" class="hub-action-btn hub-action-article">
+              Read Clinical Economics in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: 7.95 GB Master</div>
+            <div class="hub-asset-chip ready">Audio: MP3 + WAV</div>
+            <div class="hub-asset-chip ready">Clips: 3 Cuts Ready</div>
+          </div>
+        </div>
+      </article>
+
+      <!-- CARD 01: Bradley Heiges -->
+      <article class="hub-card" data-card-guest="Bradley Heiges Jessica Ohlssen Orthopedics" data-card-status="pending">
+        <div class="hub-card-thumb-wrap">
+          <img src="/assets/thumbnails/ep01-thumbnail.png" alt="Ep 01 Thumbnail" loading="lazy">
+          <span class="hub-card-ep-pill">Episode 01</span>
+        </div>
+        <div class="hub-card-body">
+          <div class="hub-card-guest-row">
+            <span class="hub-card-guest">Bradley Heiges, MD</span>
+            <span class="hub-badge hub-badge-success">Published</span>
+          </div>
+          <div class="hub-card-role">Orthopedic Surgeon &bull; w/ Jessica Ohlssen</div>
+          <div class="hub-card-title">
+            "Navigating the CMS TEAM Mandate: A Hospital Leader's Webinar Guide"
+          </div>
+
+          <div class="hub-card-actions">
+            <a href="https://drive.google.com/drive/folders/1o4y4LCbrSR8OBpTSjz_WHTtS76BYuojt" target="_blank" rel="noopener noreferrer" class="hub-action-btn hub-action-drive">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              Google Drive Folder
+            </a>
+            <a href="/downloads/eBook_01_Bradley_Heiges_Navigating_CMS_TEAM_Mandate.pdf" target="_blank" class="hub-action-btn hub-action-ebook">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download eBook (3.0 MB)
+            </a>
+            <a href="https://share.transistor.fm/s/2b8f1726" target="_blank" class="hub-action-btn hub-action-transistor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+              Listen on Transistor
+            </a>
+            <a href="articles/navigating-the-cms-team-mandate-ebook.html" class="hub-action-btn hub-action-article">
+              Read Mandate Guide in Stratus &rarr;
+            </a>
+          </div>
+
+          <div class="hub-asset-mini-grid">
+            <div class="hub-asset-chip ready">Thumbnail: HD PNG</div>
+            <div class="hub-asset-chip ready">Video: Staged 1080p</div>
+            <div class="hub-asset-chip ready">Audio: MP3 + WAV</div>
+            <div class="hub-asset-chip ready">Captions: SRT Ready</div>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- Production Audit & Action Items Box -->
+  <section id="audit-action-items" class="hub-audit-box">
+    <h3>
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: -3px; margin-right: 6px;"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+      Comprehensive Production Audit &amp; Outstanding Action Items
+    </h3>
+    <p style="font-size: 0.9375rem; color: var(--hub-slate); margin-bottom: 1.25rem;">
+      Result of complete audit comparing Google Drive (<code>Shared drives/Marketing/Podcasts eBooks/Rainfall Podcast/</code>) against local source archives.
+    </p>
+
+    <div class="hub-audit-checklist">
+      <div class="hub-audit-item">
+        <span class="hub-badge hub-badge-success hub-audit-icon">DONE</span>
+        <div>
+          <strong>Cora Han (Ep 11) Cloud Sync Complete</strong><br>
+          <span style="font-size: 0.8125rem; color: var(--hub-slate);">Master video (3.26 GB), WAV (306 MB), MP3 (69 MB), and 16:9 Thumbnail synced to Drive.</span>
+        </div>
+      </div>
+
+      <div class="hub-audit-item">
+        <span class="hub-badge hub-badge-success hub-audit-icon">DONE</span>
+        <div>
+          <strong>Dr. Scott Cooper (Ep 09) Cloud Sync Complete</strong><br>
+          <span style="font-size: 0.8125rem; color: var(--hub-slate);">Master MP3 broadcast audio (35 MB) and complete transcript (<code>Ep09_Scotty_Cooper_Transcript.txt</code>) synced to Drive.</span>
+        </div>
+      </div>
+
+      <div class="hub-audit-item">
+        <span class="hub-badge hub-badge-warning hub-audit-icon">ACTION</span>
+        <div>
+          <strong>Ep 11 (Cora Han) Distribution Broadcast</strong><br>
+          <span style="font-size: 0.8125rem; color: var(--hub-slate);">Ready for upload to YouTube and Transistor.fm using completed Publish Kit (<code>Ep11_YouTube_Transistor_Publish_Kit.md</code>).</span>
+        </div>
+      </div>
+
+      <div class="hub-audit-item">
+        <span class="hub-badge hub-badge-info hub-audit-icon">STAGED</span>
+        <div>
+          <strong>Video Masters Ready for Google Drive Upload</strong><br>
+          <span style="font-size: 0.8125rem; color: var(--hub-slate);">Ep 06 Ganyard (4.4 GB), Ep 07 Adams (6.6 GB), Ep 08 Schutzer (6.3 GB), and Ep 05 Yeh (4.06 GB) staged in local repository.</span>
+        </div>
+      </div>
+
+      <div class="hub-audit-item">
+        <span class="hub-badge hub-badge-warning hub-audit-icon">ACTION</span>
+        <div>
+          <strong>Paul Uhrig (Ep 04) Full Master Video Export</strong><br>
+          <span style="font-size: 0.8125rem; color: var(--hub-slate);">Full Riverside master video export pending from Riverside studio (audio and clip are fully archived).</span>
+        </div>
+      </div>
+
+      <div class="hub-audit-item">
+        <span class="hub-badge hub-badge-info hub-audit-icon">CLIPS</span>
+        <div>
+          <strong>Social Highlight Clips Creation (Ep 10 &amp; 11)</strong><br>
+          <span style="font-size: 0.8125rem; color: var(--hub-slate);">Cut 2-3 viral 60-second vertical/horizontal clips for Sandra Scott and Cora Han for LinkedIn distribution.</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+function filterHub(query) {
+  const q = query.toLowerCase().trim();
+  
+  // Filter table rows
+  const rows = document.querySelectorAll('#hub-master-table tbody tr');
+  rows.forEach(row => {
+    const text = (row.getAttribute('data-guest') + ' ' + row.innerText).toLowerCase();
+    row.style.display = text.includes(q) ? '' : 'none';
+  });
+
+  // Filter cards
+  const cards = document.querySelectorAll('#hub-cards-container article');
+  cards.forEach(card => {
+    const text = (card.getAttribute('data-card-guest') + ' ' + card.innerText).toLowerCase();
+    card.style.display = text.includes(q) ? '' : 'none';
+  });
+}
+
+function setFilter(type, btn) {
+  // Update active pill button
+  document.querySelectorAll('#hub-filter-pills .hub-pill-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  const rows = document.querySelectorAll('#hub-master-table tbody tr');
+  const cards = document.querySelectorAll('#hub-cards-container article');
+
+  rows.forEach(row => {
+    if (type === 'all') {
+      row.style.display = '';
+    } else {
+      const status = row.getAttribute('data-status');
+      row.style.display = (status === type) ? '' : 'none';
+    }
+  });
+
+  cards.forEach(card => {
+    if (type === 'all') {
+      card.style.display = '';
+    } else {
+      const status = card.getAttribute('data-card-status');
+      card.style.display = (status === type) ? '' : 'none';
+    }
+  });
+}
+</script>
+```

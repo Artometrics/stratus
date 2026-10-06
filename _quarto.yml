@@ -5,6 +5,7 @@ project:
     - "assets"
     - "fonts"
     - "images"
+    - "downloads"
 
 website:
   title: "Stratus"
@@ -18,6 +19,8 @@ website:
         text: Overview
       - href: media.qmd
         text: Media & Blog
+      - href: inventory.qmd
+        text: Inventory
       - text: "State Reports"
         menu:
           - href: states/california/california.qmd
@@ -64,4 +67,5 @@ format:
     css:
       - styles/report.css
       - styles/stratus-media.css
+      - styles/inventory.css
     smooth-scroll: true
