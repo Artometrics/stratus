@@ -1,0 +1,90 @@
+# ---------------------------------------------------------------------
+# Netlify configuration — Rainfall Health, CMS TEAM California report
+#
+# IMPORTANT: this site is PRE-RENDERED locally, not built on Netlify.
+# Netlify's build image has no R, no Quarto, and no access to the
+# vendored CMS files, so there is deliberately no build command. You
+# run `./deploy-netlify.sh` on your machine, which renders the report
+# and stages everything into the netlify/ folder. Netlify only serves
+# what is already there.
+#
+# Two ways to deploy:
+#   1. Drag-and-drop  — drop the whole netlify/ folder onto Netlify.
+#   2. Git-connected  — publish directory e.g. states/california/netlify
+# ---------------------------------------------------------------------
+
+[build]
+  # Serve the pre-rendered output as-is.
+  publish = "."
+  command = ""
+
+# --- Security headers -------------------------------------------------
+# Sensible defaults for a public document. Nothing here is exotic; it
+# keeps the page from being framed by third parties and stops browsers
+# guessing at content types.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+    X-Robots-Tag = "noindex, nofollow"
+
+# --- Data companion ---------------------------------------------------
+# Force the CSVs to download rather than render as text in the browser,
+# and label them correctly so Excel and R both open them cleanly.
+[[headers]]
+  for = "/data-companion/*"
+  [headers.values]
+    Content-Type = "text/csv; charset=utf-8"
+    Content-Disposition = "attachment"
+    Cache-Control = "public, max-age=3600"
+
+# --- Listen-along script (ElevenLabs) ---------------------------------
+[[headers]]
+  for = "/california-narration.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+
+# --- Narration audio --------------------------------------------------
+[[headers]]
+  for = "/audio/*"
+  [headers.values]
+    Content-Type = "audio/mpeg"
+    Cache-Control = "public, max-age=86400"
+
+# --- PDF --------------------------------------------------------------
+# Open the PDF in the browser's viewer rather than forcing a download.
+[[headers]]
+  for = "/california.pdf"
+  [headers.values]
+    Content-Type = "application/pdf"
+    Content-Disposition = "inline"
+
+# --- Static assets ----------------------------------------------------
+# Figures and supporting files are regenerated with each render, so a
+# modest cache window is appropriate. Do not raise this without also
+# versioning filenames.
+[[headers]]
+  for = "/california_files/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+# --- Convenience redirects -------------------------------------------
+# Anyone who lands on /california, /report, or the raw HTML filename
+# ends up at the paper rather than a 404.
+[[redirects]]
+  from = "/california"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/california.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/report"
+  to = "/"
+  status = 301

@@ -1,0 +1,954 @@
+/* =====================================================================
+   STRATUS MEDIA & ARTICLE DESIGN SYSTEM
+   Faithfully reproduces Rainfall Health Corporate UI:
+   - Header & navigation bar
+   - Media index 3-column card grid with filter pills (Screenshot 1)
+   - Article 2-column layout with dual-author badges & Featured sidebar (Screenshots 2-4)
+   ===================================================================== */
+
+#title-block-header {
+  display: none !important;
+}
+
+:root {
+  --color-brand-blue: #2b62e7;
+  --color-brand-blue-dark: #1d4ed8;
+  --color-brand-blue-light: #3b82f6;
+  --color-brand-navy: #1e293b;
+  --color-brand-navy-dark: #0f172a;
+  --color-brand-deep-night: #1e3254;
+  --color-brand-sky: #eff6ff;
+  --color-brand-gray-50: #f8fafc;
+  --color-brand-gray-100: #f1f5f9;
+  --color-brand-gray-200: #e2e8f0;
+  --color-brand-gray-300: #cbd5e1;
+  --color-brand-gray-400: #94a3b8;
+  --color-brand-gray-500: #64748b;
+  --color-brand-gray-600: #475569;
+  --color-brand-gray-700: #334155;
+  --color-brand-gray-800: #1e293b;
+  --color-brand-gray-900: #0f172a;
+
+  --radius-card: 0.75rem;
+  --radius-button: 0.5rem;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-card-hover: 0 12px 24px -4px rgba(43, 98, 231, 0.18), 0 4px 8px -2px rgba(43, 98, 231, 0.12);
+}
+
+/* Global Typography & Body overrides */
+body {
+  font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--color-brand-gray-900);
+  background-color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Quarto Navbar Styling Overrides (Corporate White Look) */
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid var(--color-brand-gray-200) !important;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.03) !important;
+  padding: 0.75rem 1.5rem !important;
+}
+
+.navbar .navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.75rem !important;
+}
+
+.navbar .navbar-brand img {
+  max-height: 38px !important;
+  width: auto !important;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-family: "DM Sans", sans-serif !important;
+  color: var(--color-brand-navy) !important;
+  font-weight: 500 !important;
+  font-size: 0.9375rem !important;
+  padding: 0.5rem 0.875rem !important;
+  transition: color 0.15s ease !important;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .nav-link.active {
+  color: var(--color-brand-blue) !important;
+}
+
+/* "Request a Demo" button on right side of nav */
+.nav-btn-demo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.45rem 1rem;
+  border: 1px solid var(--color-brand-navy);
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-brand-navy) !important;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  margin-left: 0.75rem;
+}
+
+.nav-btn-demo:hover {
+  background-color: var(--color-brand-navy);
+  color: #ffffff !important;
+}
+
+/* Main Site Container */
+.page-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+/* =====================================================================
+   MEDIA INDEX PAGE (Screenshot 1)
+   ===================================================================== */
+.media-header {
+  margin-bottom: 2.5rem;
+}
+
+.media-header h1 {
+  font-size: clamp(2.25rem, 4vw, 3rem);
+  font-weight: 800;
+  color: var(--color-brand-navy);
+  letter-spacing: -0.025em;
+  margin-bottom: 0.5rem;
+}
+
+.media-header p {
+  font-size: 1.125rem;
+  color: var(--color-brand-gray-600);
+  margin-bottom: 1.5rem;
+}
+
+.filter-pills-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.research-filter-pill {
+  border: 1px solid var(--color-brand-gray-200);
+  background: #ffffff;
+  color: var(--color-brand-gray-700);
+  border-radius: 9999px;
+  padding: 0.375rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: all 0.15s ease;
+}
+
+.research-filter-pill:hover {
+  border-color: var(--color-brand-blue);
+  color: var(--color-brand-blue);
+}
+
+.research-filter-pill--active {
+  border-color: var(--color-brand-blue);
+  background: var(--color-brand-blue);
+  color: #ffffff !important;
+}
+
+/* Media Cards 3-Column Grid */
+.media-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 2rem;
+}
+
+.media-card {
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border-radius: var(--radius-card);
+  border: 1px solid var(--color-brand-gray-200);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.media-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(43, 98, 231, 0.35);
+  box-shadow: var(--shadow-card-hover);
+}
+
+.media-card__image-wrap {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  overflow: hidden;
+  background-color: var(--color-brand-gray-100);
+}
+
+.media-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.media-card:hover .media-card__image {
+  transform: scale(1.03);
+}
+
+.media-card__content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 1.5rem;
+}
+
+.media-card__date {
+  font-size: 0.8125rem;
+  color: var(--color-brand-gray-400);
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.media-card__title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--color-brand-navy);
+  margin-bottom: 0.75rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: color 0.15s ease;
+}
+
+.media-card:hover .media-card__title {
+  color: var(--color-brand-blue);
+}
+
+.media-card__description {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--color-brand-gray-500);
+  margin-bottom: 1.25rem;
+  flex-grow: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.media-card__readmore {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-brand-blue);
+}
+
+/* =====================================================================
+   ARTICLE 2-COLUMN LAYOUT (Screenshots 2-4)
+   ===================================================================== */
+.blog-shell {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 5rem;
+}
+
+.blog-article-grid {
+  display: grid;
+  gap: 2.5rem;
+}
+
+@media (min-width: 1024px) {
+  .blog-article-grid {
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 3rem 4rem;
+    align-items: start;
+  }
+}
+
+@media (min-width: 1280px) {
+  .blog-article-grid {
+    grid-template-columns: minmax(0, 1fr) 350px;
+    gap: 3rem 5rem;
+  }
+}
+
+.blog-prose-column {
+  min-width: 0;
+  max-width: 48rem;
+}
+
+.article-back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-brand-blue);
+  text-decoration: none;
+  margin-bottom: 1.75rem;
+  transition: opacity 0.15s ease;
+}
+
+.article-back-link:hover {
+  text-decoration: underline;
+}
+
+/* Top Tags Pills */
+.article-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.article-tag-pill {
+  border-radius: 9999px;
+  background-color: var(--color-brand-gray-100);
+  padding: 0.25rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--color-brand-gray-700);
+}
+
+.article-kicker {
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-brand-blue);
+  margin-bottom: 0.75rem;
+}
+
+.article-h1 {
+  font-size: clamp(2rem, 3.5vw, 2.75rem);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--color-brand-blue);
+  margin-bottom: 1.25rem;
+}
+
+/* Byline with Avatars + Date + Share */
+.article-byline {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.875rem;
+  color: var(--color-brand-gray-600);
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-brand-gray-200);
+  margin-bottom: 2rem;
+}
+
+.byline-authors {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.author-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  color: var(--color-brand-navy);
+}
+
+.author-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--color-brand-gray-200);
+  background: #ffffff;
+}
+
+.byline-dot {
+  color: var(--color-brand-gray-400);
+}
+
+.byline-date {
+  color: var(--color-brand-gray-500);
+}
+
+/* Social Share Bar & Download eBook Button */
+.article-share-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: auto;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-button);
+  border: 1px solid var(--color-brand-gray-200);
+  background: #ffffff;
+  color: var(--color-brand-gray-600);
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.share-btn:hover {
+  border-color: var(--color-brand-blue);
+  color: var(--color-brand-blue);
+}
+
+.btn-download-ebook {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-button);
+  border: 1px solid var(--color-brand-gray-200);
+  background: #ffffff;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--color-brand-gray-700);
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.btn-download-ebook:hover {
+  border-color: var(--color-brand-blue);
+  color: var(--color-brand-blue);
+}
+
+/* Hero Image in Article */
+.article-hero-image {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+  margin-bottom: 2.5rem;
+}
+
+/* Article Prose Content Styling */
+.article-body {
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: var(--color-brand-gray-700);
+}
+
+.article-body h2 {
+  font-size: clamp(1.5rem, 2.5vw, 1.875rem);
+  font-weight: 700;
+  color: var(--color-brand-blue);
+  letter-spacing: -0.015em;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.article-body h3 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--color-brand-navy);
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.article-body p {
+  margin-bottom: 1.5rem;
+}
+
+.article-body ul, .article-body ol {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.article-body li {
+  margin-bottom: 0.5rem;
+}
+
+.article-body blockquote {
+  border-left: 4px solid var(--color-brand-blue);
+  background-color: var(--color-brand-sky);
+  padding: 1rem 1.5rem;
+  border-radius: 0 var(--radius-button) var(--radius-button) 0;
+  margin: 2rem 0;
+  font-style: normal;
+  color: var(--color-brand-gray-700);
+}
+
+/* Featured Right Sidebar (Screenshots 2-4) */
+.blog-featured {
+  position: sticky;
+  top: 6rem;
+}
+
+.blog-featured__heading {
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--color-brand-navy-dark);
+  display: inline-block;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-brand-navy-dark);
+}
+
+.blog-featured__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.blog-featured__list li {
+  border-top: 1px solid var(--color-brand-gray-200);
+}
+
+.blog-featured__list li:first-child {
+  border-top: none;
+}
+
+.blog-featured__link {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  gap: 0.875rem;
+  align-items: start;
+  padding: 1rem 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+.blog-featured__thumb {
+  width: 4.5rem;
+  height: 4.5rem;
+  border-radius: 6px;
+  object-fit: cover;
+  background: var(--color-brand-gray-100);
+}
+
+.blog-featured__title {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--color-brand-navy-dark);
+  transition: color 0.15s ease;
+}
+
+.blog-featured__link:hover .blog-featured__title {
+  color: var(--color-brand-blue);
+}
+
+/* TL;DR Box */
+.blog-tldr {
+  margin: 0 0 2rem;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid var(--color-brand-blue);
+  border-radius: 0 var(--radius-card) var(--radius-card) 0;
+  background: var(--color-brand-sky);
+  color: var(--color-brand-gray-700);
+}
+
+.blog-tldr__label {
+  margin: 0 0 0.75rem;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-brand-blue);
+}
+
+.blog-tldr__body ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  list-style-type: disc;
+}
+
+.blog-tldr__body li {
+  margin: 0.4rem 0;
+  line-height: 1.55;
+  color: var(--color-brand-gray-700);
+}
+
+.blog-tldr__body li::marker {
+  color: var(--color-brand-blue);
+}
+
+  /* Editorial blog — opening lead quote (left rule only, no box) */
+  .blog-lead-quote {
+    margin: 1.5rem 0 2.5rem;
+    padding: 0 0 0 1.5rem;
+    border: none;
+    border-left: 3px solid var(--color-brand-blue);
+    border-radius: 0;
+    background: transparent;
+    color: var(--color-brand-blue);
+    font-size: 1.125rem;
+    line-height: 1.65;
+    font-style: normal;
+  }
+
+  @media (min-width: 768px) {
+    .blog-lead-quote {
+      padding-left: 2rem;
+      font-size: 1.25rem;
+    }
+  }
+
+  .blog-lead-quote p {
+    margin: 0;
+    color: inherit;
+  }
+
+  /* Editorial blog — centered serif pull quotes (black, italic, regular weight) */
+  .blog-pull-quote {
+    margin: 2.5rem auto;
+    max-width: 36rem;
+    padding-inline: 1.5rem;
+    border: none;
+    background: transparent;
+    text-align: center;
+    font-family: var(--font-serif);
+    font-size: 1.125rem;
+    line-height: 1.65;
+    font-style: italic;
+    font-weight: 400 !important;
+    font-synthesis: none;
+    color: var(--color-brand-gray-900) !important;
+  }
+
+  .blog-pull-quote p {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-style: inherit;
+    font-weight: 400 !important;
+    color: inherit !important;
+  }
+
+  .blog-post-prose p.not-prose {
+    margin-block: 1.25rem;
+    line-height: 1.625;
+    color: var(--color-brand-gray-700);
+  }
+
+  /*
+   * Markdown blockquotes often end with an attribution line ("— Name").
+   * Tailwind Typography wraps open/close quotes around first/last <p>, which
+   * puts the closing mark after the name. Keep quotes on the quote body only,
+   * and italicize the attribution.
+   */
+  .blog-post-prose blockquote:has(> p + p) > p:first-of-type::after {
+    content: close-quote;
+  }
+
+  .blog-post-prose blockquote:has(> p + p) > p:last-of-type::after {
+    content: none;
+  }
+
+  .blog-post-prose blockquote > p:last-of-type:not(:first-of-type) {
+    margin-top: 0.5rem;
+    font-style: italic;
+  }
+
+  /* Per-link hover/visited — avoids hover:prose-a:* underlining every link at once */
+  .blog-post-prose a {
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  .blog-post-prose a:hover {
+    text-decoration: underline;
+  }
+
+  .blog-post-prose a:visited {
+    color: #6b21a8;
+  }
+
+  .blog-post-prose a:visited:hover {
+    color: #581c87;
+  }
+
+  .blog-post-prose a:focus-visible {
+    outline: 2px solid var(--color-brand-blue);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  .blog-comment-letter-links {
+    margin-block: 0.5rem 0;
+  }
+
+  .blog-comment-letter-links__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.375rem;
+  }
+
+  .blog-comment-letter-links__link {
+    color: var(--color-brand-blue);
+    font-weight: 500;
+    font-size: inherit;
+    line-height: 1.5;
+    text-decoration: none;
+    width: fit-content;
+    border-radius: 2px;
+  }
+
+  .blog-comment-letter-links__link:hover {
+    text-decoration: underline;
+  }
+
+  .blog-comment-letter-links__link.is-read,
+  .blog-comment-letter-links__link:visited {
+    color: #6b21a8;
+  }
+
+  .blog-comment-letter-links__link.is-read:hover,
+  .blog-comment-letter-links__link:visited:hover {
+    color: #581c87;
+  }
+
+  .blog-comment-letter-links__link:focus-visible {
+    outline: 2px solid var(--color-brand-blue);
+    outline-offset: 2px;
+  }
+
+  .blog-pull-quote :is(strong, b, em, i) {
+    color: var(--color-brand-gray-900) !important;
+    font-weight: 400 !important;
+    font-style: italic;
+  }
+
+  .blog-pull-quote__attribution {
+    margin: -1.25rem auto 2.5rem;
+    max-width: 36rem;
+    padding-inline: 1.5rem;
+    text-align: center;
+    font-size: 0.875rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--color-brand-gray-500);
+  }
+
+  .blog-emphasis {
+    margin: 2rem 0;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    text-align: left;
+    color: var(--color-brand-gray-700);
+  }
+
+  .blog-emphasis strong {
+    font-weight: 700;
+    color: var(--color-brand-gray-900);
+  }
+
+  /* TL;DR callout — brand-sky box (same family as prose blockquotes) */
+  .blog-transistor-embed {
+    margin-block: 0 1.5rem;
+    overflow: hidden;
+    border-radius: var(--radius-card);
+    border: 1px solid var(--color-brand-gray-200);
+    background: white;
+    box-shadow: var(--shadow-card);
+  }
+
+  .blog-transistor-embed iframe {
+    display: block;
+    width: 100%;
+    border: 0;
+  }
+
+  .blog-tldr {
+    margin: 0 0 2rem;
+    padding: 1.25rem 1.5rem;
+    border-left: 4px solid var(--color-brand-blue);
+    border-radius: 0 var(--radius-card) var(--radius-card) 0;
+    background: var(--color-brand-sky);
+    color: var(--color-brand-gray-700);
+  }
+
+  .blog-tldr__label {
+    margin: 0 0 0.75rem;
+    font-size: inherit;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-brand-blue);
+  }
+
+  .blog-tldr__body > :first-child {
+    margin-top: 0;
+  }
+
+  .blog-tldr__body > :last-child {
+    margin-bottom: 0;
+  }
+
+  .blog-tldr__body ul {
+    margin: 0;
+    padding-left: 1.25rem;
+    list-style-type: disc;
+  }
+
+  .blog-tldr__body li {
+    margin: 0.4rem 0;
+    line-height: 1.55;
+    color: var(--color-brand-gray-700);
+  }
+
+  .blog-tldr__body li::marker {
+    color: var(--color-brand-blue);
+  }
+
+  @media (min-width: 768px) {
+    .blog-pull-quote {
+      padding-inline: 2.5rem;
+      font-size: 1.3125rem;
+    }
+
+    .blog-pull-quote__attribution {
+      padding-inline: 2.5rem;
+    }
+  }
+
+  /* PDF-style eBook reader — stacked page spreads */
+  .blog-ebook {
+    margin: 0 -1rem;
+    padding: 1.5rem 1rem 3rem;
+    background: #eaf1fd;
+    border-radius: var(--radius-card);
+  }
+
+  @media (min-width: 640px) {
+    .blog-ebook {
+      margin: 0;
+      padding: 2rem 1.5rem 3.5rem;
+    }
+  }
+
+  .blog-ebook__toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem 1rem;
+    max-width: 52rem;
+    margin: 0 auto 1.5rem;
+    padding: 0 0.25rem;
+  }
+
+  .blog-ebook__hint {
+    margin: 0;
+    font-size: 0.875rem;
+    color: var(--color-brand-gray-600);
+  }
+
+  .blog-ebook__download {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-button);
+    border: 1px solid var(--color-brand-blue);
+    background: var(--color-brand-white);
+    color: var(--color-brand-blue);
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition:
+      background-color 0.15s ease,
+      color 0.15s ease;
+  }
+
+  .blog-ebook__download:hover {
+    background: var(--color-brand-blue);
+    color: var(--color-brand-white);
+    text-decoration: none;
+  }
+
+  .blog-ebook__pages {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    max-width: 52rem;
+    margin: 0 auto;
+  }
+
+  .blog-ebook__page {
+    margin: 0;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    background: var(--color-brand-white);
+    box-shadow:
+      0 4px 24px rgba(23, 23, 23, 0.08),
+      0 1px 3px rgba(23, 23, 23, 0.06);
+  }
+
+  .blog-ebook__page-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
+
+  /* Blog — click-to-enlarge figures (full-screen toggle) */
+  .blog-expandable-image {
+    margin: 2rem 0;
+  }
+
+  .blog-expandable-image__trigger {
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: none;
+    background: transparent;
+    cursor: zoom-in;
+    text-align: left;
+  }
+
+  .blog-expandable-image__trigger:focus-visible {
+    outline: 2px solid var(--color-brand-blue);
+    outline-offset: 4px;
+    border-radius: var(--radius-card);
+  }
+
+  .blog-expandable-image__dialog {
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    margin: 0;
+    padding: 1.5rem;
+    border: none;
+    background: rgba(15, 23, 42, 0.92);
+    cursor: zoom-out;
+  }
+
+  .blog-expandable-image__dialog::backdrop {
+    background: transparent;
+  }
+
+  .blog-expandable-image__dialog[open] {
+    display: flex;
+    align-items: center;

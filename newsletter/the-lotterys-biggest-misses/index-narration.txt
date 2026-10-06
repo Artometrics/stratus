@@ -1,0 +1,49 @@
+Why Do Miami, Tampa, and Los Angeles Each Have Only One Hospital in Medicare's TEAM Model?
+
+Three of the country's biggest, most recognizable hospital markets came up almost empty in Medicare's newest mandatory payment program. In every case, the same kind of hospital volunteered to fill the gap.
+
+Los Angeles has one hospital in Medicare's newest mandatory payment program. That fact alone is strange enough to write about, it's the country's second largest metro area, and it's represented by a single hospital that didn't even have to be there.
+
+It turns out Los Angeles isn't alone in being alone. Miami has exactly one hospital in the same program. So does Tampa. All three are among the biggest, best known hospital markets in the country. All three came up with a single participant. And in all three cases, that one hospital is there because it volunteered, not because Medicare required it.
+
+Three cities, three near total absences, three volunteers. That's not a coincidence anymore. It's a pattern, and the pattern has a specific, traceable cause.
+
+What the program asks of a hospital.
+
+The program is the Transforming Episode Accountability Model, TEAM for short. It's a five year Medicare initiative that makes a hospital financially responsible for everything that happens to a patient for thirty days after five kinds of surgery: hip and knee replacement, spinal fusion, heart bypass, hip fracture repair, and major bowel surgery. Spend more than Medicare expected across that window, or have the patient come back in, and the hospital's number moves. It is mandatory for the hospitals selected, and there is no opting out once selected.
+
+Seven hundred twenty hospitals were selected this way. None of them applied. Medicare simply divided the country into metropolitan and micropolitan areas and drew one hundred eighty-eight of roughly eight hundred three eligible ones, using stratified random sampling weighted by a handful of characteristics. Every hospital sitting inside a drawn area was in. Every hospital outside one wasn't, with one narrow exception: a small number of hospitals outside the selected areas were allowed to join anyway, if they qualified. Ten did, nationwide.
+
+Three of those ten volunteers are the one hospital cities this piece is about.
+
+The same shape, three times.
+
+Cedars-Sinai Medical Center represents all of Los Angeles. Keralty Hospital represents all of Miami. Morton Plant Hospital represents all of Tampa. Each metro area has dozens of acute care hospitals. Each has exactly one on the TEAM roster, and in each case it's the same story: the metro's area wasn't drawn into the mandatory list, and one hospital opted in through the program's narrow voluntary pathway.
+
+That pathway has a specific eligibility rule, and it's the same rule behind all three cases. A hospital can volunteer only if its metro area is outside the mandatory list, and only if it already ran a mandatory bundle of its own, either the Comprehensive Care for Joint Replacement model, CJR, through its last day, December thirty-first, twenty twenty-four, or a related program called BPCI Advanced through December thirty-first, twenty twenty-five. All three hospitals here qualify on the CJR side.
+
+This is where the pattern gets harder to wave off as chance. CMS's own CJR hospital list spreadsheets, cross checked directly rather than taken from a summary, show all three hospitals were mandatory CJR participants for years, right up to the program's final months. Cedars-Sinai Medical Center is on both the pre twenty eighteen list and CMS's July twenty twenty-four list, nine straight years. Morton Plant Hospital is on both. Keralty Hospital is on both too, though it shows up under a different name on the earlier one: it was Westchester General Hospital before the Keralty Group acquired it in twenty twenty.
+
+So all three were mandatory CJR hospitals for essentially the program's entire run, in metro areas that CMS's twenty eighteen restructuring specifically kept mandatory, the tier reserved for the markets with the highest historical episode spending in the country. Then, when TEAM's lottery drew its one hundred eighty-eight areas, none of these three metros came up. And in every one of the three, a hospital that had just spent nine years under one mandatory bundle used the narrow window CMS left open to step into the next one, voluntarily, while the market around it sat out.
+
+The scale of what one hospital is standing in for.
+
+It's worth being precise about how much ground a single hospital is covering in each case, because the three cities aren't the same size.
+
+Los Angeles is the second largest metro area in the country, behind only New York. Miami is sixth largest, ahead of Atlanta and Washington, D.C. Tampa is seventeenth. Measured by Medicare enrollment across the counties each metro area covers, Los Angeles' footprint runs to roughly two point three million beneficiaries, Miami's to about one point three million, and Tampa's to about seven hundred seventy thousand. Three very different scales, and in every one of them, TEAM's entire footprint is a single hospital's participation.
+
+That's the part that makes this more than a quirky coincidence. A lottery that happens to skip one huge market is a story. A lottery that skips three of the country's biggest markets, in a way that traces back to the exact same eligibility mechanism each time, is a pattern in how the selection interacts with prior bundled payment history, even though nothing about the draw itself targeted these cities by name.
+
+No hospital has said why.
+
+None of the three has published anything explaining the decision. Medicare doesn't release hospital level results from CJR, and none of Cedars-Sinai Medical Center, Morton Plant Hospital, or Keralty Hospital has said publicly why it chose to keep going under a new program the moment the old one ended. That's true across all three cases, not just one, which suggests the honest answer isn't a hospital specific secret. It's a structural one: nine years of running discharge planning and cost tracking under a mandatory bundle leaves a hospital with the infrastructure to do it again cheaply, whatever the individual reasoning was.
+
+The one that got them all excluded is coming for them anyway.
+
+None of the three markets actually escaped anything. Medicare has already finalized a second mandatory bundled payment program, this one specifically for joint replacement, starting January first, twenty twenty-eight, nationwide, on a ninety day window instead of thirty. It reaches essentially every acute care hospital not already in TEAM, which is precisely the hospitals in Los Angeles, Miami, and Tampa that the lottery passed over the first time.
+
+The three volunteers are exempt from that program, because participating in TEAM already excludes a hospital from it. So the practical effect of all three lottery misses is the same: a two year deferral, then a landing in a longer, harder version of the same idea, for every hospital in these three markets except the one that already opted into the shorter one.
+
+Put the pieces together and none of it reads as coincidence. A stratified lottery skipped three of the biggest hospital markets in the country. All three had spent nine years under the same prior mandatory program, in the tier CMS had deliberately weighted away from resampling. In every one, a single hospital used the same narrow rule to opt back in anyway, without explaining why. And in every one, the market it stepped in for is now deferred, not exempt, from a longer program arriving in twenty twenty-eight. Three cities, one mechanism, working exactly the way it was built to work, just not the way most people would guess from the outside.
+
+The full article, with sources and the underlying hospital roster, is on the Rainfall Health site.

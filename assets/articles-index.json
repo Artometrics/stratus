@@ -1,0 +1,959 @@
+[
+  {
+    "slug": "the-trust-gap-health-data-governance-cora-han",
+    "title": "The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions",
+    "description": "Why care transitions stall even when everyone wants them to work \u2014 and why lawyers belong in the room early. UC Health's Cora Han on governance and AI.",
+    "subtitle": "",
+    "author": "Ahmed \"Eddie\" Qureshi & Cora Han, JD",
+    "publishDate": "2026-10-05T09:00:00",
+    "displayDate": "October 05, 2026",
+    "image": "/assets/media/the-trust-gap-cora-han-banner.jpg",
+    "tags": [
+      "[",
+      "Health Data Governance",
+      "Responsible AI",
+      "CMS TEAM",
+      "care coordination",
+      "interoperability",
+      "healthcare leadership",
+      "UC Health",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_the_trust_gap_cora_han.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "cms-team-safety-net-hospitals-sandra-scott",
+    "title": "How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?",
+    "description": "CMS TEAM model compliance hits safety net hospitals hardest. Dr. Sandra Scott of One Brooklyn Health on the infrastructure gap.",
+    "subtitle": "",
+    "author": "Ahmed \"Eddie\" Qureshi & Dr. Sandra Scott",
+    "publishDate": "2026-09-28T12:00:00",
+    "displayDate": "September 28, 2026",
+    "image": "/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "safety net hospitals",
+      "value-based care",
+      "care coordination",
+      "CJR-X",
+      "healthcare leadership",
+      "health equity",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_pull_up_a_chair_sandra_scott.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "hip-fracture-home-scott-cooper",
+    "title": "Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode",
+    "description": "Orthopedic surgeon Dr. Scott Cooper on why hip fracture patients still default to skilled nursing \u2014 and what the 30-day TEAM and 90-day CJR-X episodes change.",
+    "subtitle": "",
+    "author": "Ahmed \"Eddie\" Qureshi & Dr. Scott Cooper",
+    "publishDate": "2026-09-23",
+    "displayDate": "September 23, 2026",
+    "image": "/assets/media/hip-fracture-home-scott-cooper-banner.jpg",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "CJR-X",
+      "SHFFT",
+      "hip fracture",
+      "post-acute care",
+      "bundled payments",
+      "orthopedic surgery",
+      "patient-reported outcomes",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_patients_do_better_at_home_scott_cooper.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "rainfall-health-adds-three-new-rain-compliant-partners",
+    "title": "Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates",
+    "description": "HNI Healthcare, Goldfinch Health, and LainaHealth join Rainfall's R.A.I.N. Compliant ecosystem to support CMS TEAM and CJR-X care coordination.",
+    "subtitle": "",
+    "author": "Rainfall Health",
+    "publishDate": "2026-09-22",
+    "displayDate": "September 22, 2026",
+    "image": "/assets/media/rain-ecosystem-partners-banner.jpg",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "CJR-X",
+      "R.A.I.N.",
+      "partners",
+      "value-based care",
+      "post-acute care"
+    ],
+    "ebook": "",
+    "blogGroup": "other"
+  },
+  {
+    "slug": "bundled-payment-analytics-steve-schutzer",
+    "title": "Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data",
+    "description": "Orthopedic surgeon Dr. Steve Schutzer on why bundled payment analytics and physician-hospital co-management built a 20-year track record \u2014 and what it means for CMS TEAM and CJR-X.",
+    "subtitle": "",
+    "author": "Ahmed \"Eddie\" Qureshi & Dr. Steve Schutzer",
+    "publishDate": "2026-09-09",
+    "displayDate": "September 09, 2026",
+    "image": "/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg",
+    "tags": [
+      "[",
+      "bundled payment analytics",
+      "CMS TEAM",
+      "CJR-X",
+      "value based care analytics",
+      "risk adjustment value based care",
+      "bundled payments",
+      "orthopedic surgery",
+      "co-management agreement",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_at_the_head_of_the_table_steve_schutzer.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "ai-leverage-mark-adams-two-bear-capital",
+    "title": "AI Won't Replace Nurses \u2014 It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI",
+    "description": "Two Bear Capital's Mark Adams on why AI won't replace clinicians, how guardrailed automation creates leverage, and why Rainfall's data has value beyond TEAM.",
+    "subtitle": "",
+    "author": "Ahmed \"Eddie\" Qureshi & Mark Adams",
+    "publishDate": "2026-09-01",
+    "displayDate": "September 01, 2026",
+    "image": "/assets/media/ai-leverage-mark-adams.jpg",
+    "tags": [
+      "[",
+      "AI in healthcare",
+      "value-based care",
+      "value-based care analytics",
+      "CMS TEAM",
+      "healthcare workforce",
+      "venture capital",
+      "care coordination",
+      "healthcare data",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_ai_leverage_and_the_care_loop_mark_adams.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "hospitals-that-will-win-on-cms-team-have-already-started",
+    "title": "The Hospitals That Will Win on CMS TEAM Have Already Started",
+    "description": "Nine months into CMS TEAM, the gap between ready hospitals and the rest is about investment\u2014not strategy. What winners share, and Mayo Clinic Jacksonville's move.",
+    "subtitle": "",
+    "author": "Rainfall Health",
+    "publishDate": "2026-09-01",
+    "displayDate": "September 01, 2026",
+    "image": "/assets/media/mayo-team-readiness-banner.jpg",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "Mayo Clinic",
+      "hospital readiness",
+      "Medicare reimbursement",
+      "value-based care",
+      "post-acute care",
+      "TEAM reconciliation"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "market-discipline-steve-ganyard",
+    "title": "Market Discipline Finally Arrives: Steve Ganyard on CMS TEAM, Carrots and Sticks, and AI That Stays Human-First",
+    "description": "Steve Ganyard on why CMS TEAM and CJR-X finally bring market discipline to federal healthcare spend \u2014 and why AI must stay human-first for hospitals.",
+    "subtitle": "",
+    "author": "Ahmed \"Eddie\" Qureshi & Steve Ganyard",
+    "publishDate": "2026-08-31",
+    "displayDate": "August 31, 2026",
+    "image": "/assets/media/market-discipline-steve-ganyard.jpg",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "CJR-X",
+      "Medicare reimbursement",
+      "value-based care",
+      "bundled payments",
+      "bundled payment analytics",
+      "AI in healthcare",
+      "hospital accountability",
+      "market discipline",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_market_discipline_steve_ganyard.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "why-medicare-patients-dont-follow-care-plans-how-to-gap",
+    "title": "Why Don't Medicare Patients Follow Their Care Plans? Closing Healthcare's 'How-To Gap",
+    "description": "Value-based care depends on patients following care plans. Dr. Charlotte Yeh explains why Medicare patients don't \u2014 and what closes the how-to gap.",
+    "subtitle": "",
+    "author": "Ahmed \"Eddie\" Qureshi & Dr. Charlotte Yeh",
+    "publishDate": "2026-08-23",
+    "displayDate": "August 23, 2026",
+    "image": "/assets/media/how-to-gap-charlotte-yeh.jpg",
+    "tags": [
+      "[",
+      "value-based care",
+      "Medicare reimbursement",
+      "patient experience",
+      "health literacy",
+      "post-acute care coordination",
+      "AI in healthcare",
+      "geriatric care",
+      "CMS TEAM",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_should_do_isnt_how_to_charlotte_yeh.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "cjr-x-mandatory-bundled-payment-2028",
+    "title": "CJR-X: The $725 Million Bet Coming for Every Hospital Not Already Under CMS TEAM",
+    "description": "CMS TEAM's mandatory sibling, CJR-X, will cover nearly every U.S. hospital by 2028. Here's what the verified CMS numbers actually show.",
+    "subtitle": "",
+    "author": "Christina Keny",
+    "publishDate": "2026-08-10",
+    "displayDate": "August 10, 2026",
+    "image": "/assets/media/cjr-x-mandatory-bundled-payment-2028-banner.png",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "CJR-X",
+      "Medicare reimbursement",
+      "value-based care",
+      "bundled payments"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "compliance-risk-hiding-in-plain-sight-under-team",
+    "title": "The Compliance Risk Hiding in Plain Sight Under CMS TEAM",
+    "description": "What compliance risks hide under CMS TEAM? Gain sharing, vendor data governance, and AI oversight \u2014 plus a 90-day checklist for hospital legal and compliance teams.",
+    "subtitle": "",
+    "author": "Paul Uhrig & Marla Merkle & Robby Wallace",
+    "publishDate": "2026-08-05",
+    "displayDate": "August 05, 2026",
+    "image": "/assets/media/cms-team-compliance-risk-banner.png",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "hospital compliance",
+      "CMS TEAM compliance checklist",
+      "gain sharing",
+      "data governance",
+      "value-based care solutions",
+      "bundled payment analytics",
+      "AI governance",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_compliance_risk_hiding_in_plain_sight_under_TEAM.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "why-cms-team-turned-mandatory-shulkin",
+    "title": "Why Did CMS TEAM Turn Mandatory? A Former VA Secretary Explains the Calendar and the Math",
+    "description": "Why did CMS TEAM turn mandatory? Dr. David Shulkin on the 2030 value-based care deadline, Medicare trust-fund math, and what CEOs must do before 2027 downside risk.",
+    "subtitle": "",
+    "author": "Dr. David Shulkin & Christina Keny",
+    "publishDate": "2026-07-23",
+    "displayDate": "July 23, 2026",
+    "image": "/assets/media/cms-team-shulkin-banner.png",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "Medicare reimbursement",
+      "value-based care solutions",
+      "value-based payment models",
+      "bundled payment analytics",
+      "hospital compliance",
+      "value-based care software",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/eBook_TEAM_from_the_top_a_policy_conversation.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "adventhealth-cms-team-network-guide",
+    "title": "AdventHealth Under CMS TEAM: Florida Density and Sun Belt Episode Strategy",
+    "description": "AdventHealth CMS TEAM guide: ~16 name-matched hospitals, Florida Core-Based Statistical Area (CBSA) exposure, ambulatory/PAC advantages, and\u2026",
+    "subtitle": "AdventHealth is one of the clearest multi-hospital nonprofit brands on the TEAM roster \u2014 roughly 16 name-matched sites \u2014 with Florida at the center of its bundled-payment exposure.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-state-florida.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Hospital Network",
+      "AdventHealth",
+      "Florida",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "networks"
+  },
+  {
+    "slug": "bpci-advanced-outcomes-vs-team",
+    "title": "BPCI Advanced Saved Medicare $465 Million: What TEAM Can Learn",
+    "description": "BPCI Advanced generated $464.7M in net Medicare savings by Model Year 5 (2022). Here's what the data says about hospital performance under bundled\u2026",
+    "subtitle": "Five years of BPCI Advanced outcomes data shows what bundled payments can achieve \u2014 and what the predecessor model's gains and losses mean for hospitals entering TEAM in 2026.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-bpci-vs-team.jpg",
+    "tags": [
+      "CMS TEAM",
+      "BPCI Advanced",
+      "Bundled Payments",
+      "Medicare Savings",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "data"
+  },
+  {
+    "slug": "cms-team-episode-costs-analysis",
+    "title": "What a CMS TEAM Episode Actually Costs: $24K to $53K Depending on Procedure",
+    "description": "CMS TEAM episode costs range from $24,540 for LEJR to $52,934 for CABG. Understand target price math, discount factors, stop-loss limits, and what\u2026",
+    "subtitle": "The financial math behind CMS TEAM target prices, discount factors, and stop-loss limits \u2014 what each procedure type costs on average and how those costs translate to hospital risk.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-episode-costs.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Medicare Reimbursement",
+      "Episode Cost",
+      "Financial Risk",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "data"
+  },
+  {
+    "slug": "cms-team-episode-volume-analysis",
+    "title": "CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries",
+    "description": "CMS TEAM episode volume breakdown: 204,014 Medicare episodes in 2023 across five procedures. LEJR accounts for 58%. Data from ACS/IAC analysis of IPPS\u2026",
+    "subtitle": "A data-first breakdown of the 2023 Medicare episode volume across all five CMS TEAM procedure types \u2014 what the numbers mean for mandated hospitals going into 2027.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-episode-volume.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Episode Volume",
+      "Bundled Payments",
+      "Data Analysis",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "data"
+  },
+  {
+    "slug": "cms-team-five-procedure-categories-explained",
+    "title": "CMS TEAM\u2019s Five Procedure Categories Explained for Surgeons and CFOs",
+    "description": "CMS TEAM five procedures explained: LEJR, SHFFT/hip fracture, spinal fusion, CABG, major bowel \u2014 clinical scope, cost ranges, and prep priorities for\u2026",
+    "subtitle": "LEJR, spinal fusion, hip fracture, CABG, and major bowel \u2014 what each episode includes, why the financial risk differs, and how hospitals should staff the work.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-episode-volume.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Episodes",
+      "Surgery",
+      "Hospital Finance",
+      "Prep",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "cms-team-track-comparison",
+    "title": "CMS TEAM Track 1 vs. Track 2 vs. Track 3: Which Is Right for Your Hospital?",
+    "description": "CMS TEAM Track 1 vs Track 2 vs Track 3 comparison. Risk levels, stop-loss limits, eligibility, and which track is right for your hospital in 2026 and 2027.",
+    "subtitle": "A complete comparison of the three CMS TEAM participation tracks \u2014 risk levels, stop-gain/stop-loss limits, eligibility criteria, and how to decide which track your hospital should be in.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-track-comparison.jpg",
+    "tags": [
+      "CMS TEAM",
+      "TEAM Tracks",
+      "Bundled Payments",
+      "Hospital Compliance",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "fee-for-service-vs-value-based-care",
+    "title": "Fee-for-Service vs. Value-Based Care: A Hospital CFO's Guide",
+    "description": "Fee-for-service vs. value-based care explained for hospital CFOs. How FFS and VBC differ, what CMS TEAM changes, and how to navigate the 2026-2027\u2026",
+    "subtitle": "How the two reimbursement models work, what CMS TEAM means for the shift away from fee-for-service, and what hospital finance leaders need to understand before 2027.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-fee-for-service-vs-vbc.jpg",
+    "tags": [
+      "Value-Based Care",
+      "Fee-for-Service",
+      "Medicare Reimbursement",
+      "CMS TEAM",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "hca-healthcare-cms-team-network-guide",
+    "title": "HCA Healthcare Under CMS TEAM: Multi-State Density and the TriStar Playbook",
+    "description": "HCA Healthcare CMS TEAM exposure: ~29 name-matched hospitals across TriStar, HealthONE, and other brands. Nashville density, competitor implications,\u2026",
+    "subtitle": "HCA-family brands \u2014 including TriStar in Tennessee and HealthONE in Colorado \u2014 form the largest for-profit name cluster on the 721-hospital TEAM roster. Here is what competitors and affiliates should learn from that density.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-state-tennessee.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Hospital Network",
+      "HCA Healthcare",
+      "Tennessee",
+      "Florida",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "networks"
+  },
+  {
+    "slug": "hospital-networks-cms-team-advantage",
+    "title": "Which Hospital Networks Benefit Most Under CMS TEAM?",
+    "description": "Hospital networks advantaged under CMS TEAM: HCA, AdventHealth, Kaiser, Ascension, NJ systems, Northwell, Twin Cities, Denver systems \u2014 approximate\u2026",
+    "subtitle": "Multi-hospital systems with shared EHRs, employed specialists, and controlled post-acute pathways are structurally advantaged in a 30-day bundled model \u2014 here is who shows up most on the 721-hospital roster.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-pathway-guide.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Hospital Network",
+      "Value-Based Care",
+      "Bundled Payments",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "networks"
+  },
+  {
+    "slug": "hospital-readmissions-hrrp-team-analysis",
+    "title": "Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard",
+    "description": "HRRP data analysis: 48.1% of hospital-condition pairs exceed the 1.0 excess readmission ratio. NJ leads at 65.4%. Hip/knee replacement carries the\u2026",
+    "subtitle": "An analysis of 11,720 hospital-condition pairs under HRRP reveals the readmissions problem that CMS TEAM was built to address \u2014 and which states and procedures carry the highest risk.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-hrrp-readmissions.jpg",
+    "tags": [
+      "Hospital Readmissions",
+      "HRRP",
+      "CMS TEAM",
+      "Medicare",
+      "Data Analysis",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "data"
+  },
+  {
+    "slug": "medicare-reimbursement-cms-team-2026",
+    "title": "Medicare Reimbursement in 2026: What CMS TEAM Changes for Your Hospital",
+    "description": "Medicare reimbursement in 2026 under CMS TEAM: how target prices work, what the reconciliation process looks like, and how 721 hospitals should manage\u2026",
+    "subtitle": "How the CMS Transforming Episode Accountability Model restructures Medicare reimbursement for surgical procedures \u2014 what mandated hospitals need to know about target prices, reconciliation, and the path to 2027.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-medicare-reimbursement.jpg",
+    "tags": [
+      "Medicare Reimbursement",
+      "CMS TEAM",
+      "Bundled Payments",
+      "Hospital Finance",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "value-based-care-software-platform-guide",
+    "title": "Value-Based Care Software: What to Look For in a CMS TEAM Platform",
+    "description": "Value-based care software for CMS TEAM: what capabilities hospitals need, how to evaluate platforms, and what questions to ask before signing a vendor\u2026",
+    "subtitle": "A guide for hospital procurement teams evaluating care management software for CMS TEAM compliance \u2014 the capabilities that matter, the questions to ask, and the red flags to avoid.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-vbc-software.jpg",
+    "tags": [
+      "Value-Based Care Software",
+      "CMS TEAM",
+      "Care Management",
+      "Healthcare Technology",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "what-is-episode-of-care",
+    "title": "What Is an Episode of Care? How CMS TEAM Defines the 30-Day Window",
+    "description": "What is an episode of care under CMS TEAM? Definition, start date, end date, included costs, and why the 30-day post-discharge window defines hospital financial risk in 2026.",
+    "subtitle": "A plain-language explanation of what a CMS TEAM episode of care is, when it starts, when it ends, what costs are included, and why the 30-day post-discharge window is the financial fulcrum.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-episode-of-care.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Episode of Care",
+      "Bundled Payments",
+      "Medicare",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "why-cms-team-hospital-counts-dont-match",
+    "title": "Why CMS TEAM Hospital Counts Don\u2019t Match: 741, 721, and the Roster Confusion",
+    "description": "Why CMS TEAM hospital counts disagree: September 2024 list (~741), March 2026 active roster (721), trade-press variants, and how closed/merged/IPPS exits create 717\u2013720-style tallies.",
+    "subtitle": "Press clips, CMS pages, and internal spreadsheets still disagree on how many hospitals are in TEAM. Here is what each number means \u2014 and which figure Rainfall treats as source of truth.",
+    "author": "Jennifer Tim-Diamond",
+    "publishDate": "2026-07-22",
+    "displayDate": "July 22, 2026",
+    "image": "/assets/media/imported/banner-myths-warning.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Hospital Roster",
+      "Data Explainer",
+      "Compliance",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "geriatric-patients-cms-team-episode-costs",
+    "title": "What Do Geriatric Patients Cost Under CMS TEAM \u2014 and What Can Hospitals Do About It?",
+    "description": "What do geriatric patients cost under CMS TEAM? How frailty, delirium, and readmissions drive episode losses \u2014 and what hospitals can do before surgery.",
+    "subtitle": "",
+    "author": "Dr. Hemant Keny & Ahmed Qureshi",
+    "publishDate": "2026-07-21",
+    "displayDate": "July 21, 2026",
+    "image": "/assets/media/geriatric-cms-team-banner.png",
+    "tags": [
+      "[",
+      "CMS TEAM",
+      "Medicare reimbursement",
+      "hospital readmissions",
+      "value-based care",
+      "risk adjustment in value-based care",
+      "bundled payment analytics",
+      "geriatric surgery",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/Geriatric_surgical_patients_and_the_hidden_cost_driver_inside_TEAM_episodes.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "reflections-from-two-days-on-capitol-hill",
+    "title": "Reflections from Two Days on Capitol Hill",
+    "description": "Jessica Ohlssen reflects on two days on Capitol Hill advocating for mandatory value-based programs like TEAM and CJR-X, and why hospitals need practical partners as Medicare moves beyond fee-for-service.",
+    "subtitle": "",
+    "author": "Jessica Ohlssen",
+    "publishDate": "2026-07-16",
+    "displayDate": "July 16, 2026",
+    "image": "/assets/media/capitol-hill-reflections-banner.jpg",
+    "tags": [
+      "[",
+      "Capitol Hill",
+      "CMS TEAM",
+      "CJR-X",
+      "value-based care",
+      "Medicare",
+      "healthcare policy",
+      "rural hospitals"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "what-hospitals-get-wrong-about-cms-team",
+    "title": "What Hospitals Are Getting Wrong About CMS TEAM: An Analysis",
+    "description": "An analysis of what hospitals are getting wrong about the CMS TEAM model \u2014 from data gaps to PCP referral confusion \u2014 and how to fix it.",
+    "subtitle": "More than six months in, the most common CMS TEAM mistakes are operational, not strategic \u2014 from episode data gaps to PCP referral confusion.",
+    "author": "Rainfall Health Research Team",
+    "publishDate": "2026-07-11",
+    "displayDate": "July 11, 2026",
+    "image": "/assets/media/imported/banner-myths-warning.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Implementation",
+      "Value-Based Care",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "cms-team-explained-for-hospital-ceos",
+    "title": "CMS TEAM Explained for Hospital CEOs: What It Means, What\u2019s at Stake, and What to Do",
+    "description": "CMS TEAM explained for hospital CEOs in plain English: what it means, what\u2019s at stake, and the three moves to make now.",
+    "subtitle": "Plain-English, CEO to CEO: your hospital is now financially accountable for five surgeries and the 30 days after each \u2014 whether you opted in or not.",
+    "author": "Ahmed \\\"Eddie\\\" Qureshi, CEO",
+    "publishDate": "2026-07-09",
+    "displayDate": "July 09, 2026",
+    "image": "/assets/media/imported/banner-pathway-guide.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Hospital CEO",
+      "Value-Based Care",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "the-week-in-bundled-payments",
+    "title": "The Week in Bundled Payments",
+    "description": "A briefing on CMS TEAM, CJR-X, and the companies chasing them.",
+    "subtitle": "A briefing on CMS TEAM, CJR-X, and the companies chasing them.",
+    "author": "Rainfall Research",
+    "publishDate": "2026-07-08",
+    "displayDate": "July 08, 2026",
+    "image": "/assets/media/imported/bundled-payments-banner.jpg",
+    "tags": [
+      "sandbox-news"
+    ],
+    "ebook": "",
+    "blogGroup": "other"
+  },
+  {
+    "slug": "cms-team-compliance-checklist",
+    "title": "CMS TEAM Compliance Checklist: 12 Things Every Mandated Hospital Must Have in Place",
+    "description": "CMS TEAM compliance checklist: 12 essential data, clinical, and financial items every mandated hospital needs for hospital compliance.",
+    "subtitle": "Twelve concrete data, clinical, and financial items mandated hospitals need to operationalize CMS TEAM before two-sided risk begins in 2027.",
+    "author": "Christina Keny, PhD, MHA, RN, CPHQ",
+    "publishDate": "2026-07-06",
+    "displayDate": "July 06, 2026",
+    "image": "/assets/media/imported/banner-checklist-clipboard.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Compliance",
+      "Checklist",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "cms-team-update-fy2027-rule-cjr-x",
+    "title": "CMS TEAM Update: What the Latest Medicare Reimbursement Guidance Means for Mandated Hospitals",
+    "description": "CMS TEAM update: the FY2027 proposed rule and CJR-X proposal signal where Medicare reimbursement is heading for mandated hospitals.",
+    "subtitle": "The FY2027 IPPS proposed rule updates TEAM\u2019s target-price and quality policies and introduces the nationwide CJR-X model \u2014 here is what changed and what it means.",
+    "author": "Ahmed \\\"Eddie\\\" Qureshi, CEO",
+    "publishDate": "2026-07-03",
+    "displayDate": "July 03, 2026",
+    "image": "/assets/media/imported/banner-comparison-docs.jpg",
+    "tags": [
+      "CMS TEAM",
+      "CJR-X",
+      "Regulatory Update",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "cms-team-hospital-leaders-qa-shulkin",
+    "title": "What CMS TEAM Means for Hospital Leaders: A Q&A with Dr. David Shulkin",
+    "description": "A Q&A framework on what the CMS TEAM model means for hospital leaders, informed by Dr. David Shulkin's value-based care record.",
+    "subtitle": "A Q&A framework exploring what the CMS TEAM model means for hospital leaders, grounded in Dr. David Shulkin\u2019s public record on value-based and coordinated care.",
+    "author": "Rainfall Health Research Team",
+    "publishDate": "2026-07-01",
+    "displayDate": "July 01, 2026",
+    "image": "/assets/media/imported/banner-qa-people.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Value-Based Care",
+      "Hospital Leadership",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "cms-team-common-misconceptions",
+    "title": "5 Common Misconceptions About CMS TEAM That Could Cost Your Hospital Millions",
+    "description": "5 myths about the CMS TEAM model debunked \u2014 from \\\"no risk in 2026\\\" to \\\"only orthopedics matters\\\" \u2014 that could cost hospitals millions.",
+    "subtitle": "From \\\"it\u2019s optional\\\" to \\\"only orthopedics matters,\\\" these five myths about the CMS TEAM model are the ones most likely to cost hospitals money.",
+    "author": "Rainfall Health Research Team",
+    "publishDate": "2026-06-29",
+    "displayDate": "June 29, 2026",
+    "image": "/assets/media/imported/banner-myths-warning.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Compliance",
+      "Value-Based Care",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "cms-team-statistics-by-the-numbers",
+    "title": "CMS TEAM by the Numbers: Key Statistics Every Mandated Hospital Should Know",
+    "description": "CMS TEAM model by the numbers: 721 hospitals, 188 CBSAs, 5 procedures, 30-day episodes, and $481M in projected savings.",
+    "subtitle": "721 hospitals, 188 Core-Based Statistical Areas (CBSAs), 5 procedures, and $481M in projected Medicare savings \u2014 the verified statistics behind the CMS TEAM model.",
+    "author": "Kyle McAuliffe",
+    "publishDate": "2026-06-26",
+    "displayDate": "June 26, 2026",
+    "image": "/assets/media/imported/banner-financial-chart.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Data",
+      "Bundled Payments",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "how-to-prepare-for-cms-team",
+    "title": "How to Prepare for CMS TEAM: A Step-by-Step Compliance Roadmap for Mandated Hospitals",
+    "description": "How to prepare for CMS TEAM: a 6-step compliance roadmap covering data, post-acute partnerships, and quality for mandated hospitals.",
+    "subtitle": "Six concrete steps \u2014 from episode data to physician engagement \u2014 for hospitals building CMS TEAM readiness before two-sided risk begins in 2027.",
+    "author": "Christina Keny, PhD, MHA, RN, CPHQ",
+    "publishDate": "2026-06-24",
+    "displayDate": "June 24, 2026",
+    "image": "/assets/media/imported/banner-roadmap-steps.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Compliance",
+      "Care Coordination",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "navigating-the-cms-team-mandate-ebook",
+    "title": "Navigating the CMS TEAM Mandate: A Hospital Leader's Webinar Guide",
+    "description": "Webinar guide for mandated hospitals: five surgical episodes, three risk tracks, and how to maximize Medicare reimbursement under CMS TEAM. Full definition lives on the CMS TEAM model page.",
+    "subtitle": "",
+    "author": "Jessica Ohlssen & Robby Wallace",
+    "publishDate": "2026-06-23",
+    "displayDate": "June 23, 2026",
+    "image": "/assets/media/webinar-team-mandate/hero-journey.png",
+    "tags": [
+      "[",
+      "CMS TEAM model",
+      "Medicare reimbursement",
+      "value-based care solutions",
+      "value-based care implementation",
+      "bundled payment analytics",
+      "hospital compliance",
+      "TEAM",
+      "Rainfall Health Podcast"
+    ],
+    "ebook": "/downloads/navigating-cms-team-mandate-ebook.pdf",
+    "blogGroup": "podcast"
+  },
+  {
+    "slug": "cms-team-medicare-reimbursement-cfo-guide",
+    "title": "How CMS TEAM Affects Medicare Reimbursement: What Hospital CFOs Need to Know in 2026",
+    "description": "How CMS TEAM affects Medicare reimbursement in 2026: quantifying revenue at risk, target prices, and CFO strategy.",
+    "subtitle": "Target prices, stop-gain/stop-loss math, and the real revenue at stake as CMS TEAM converts fee-for-service payment into performance-based risk.",
+    "author": "Ahmed \\\"Eddie\\\" Qureshi, CEO",
+    "publishDate": "2026-06-22",
+    "displayDate": "June 22, 2026",
+    "image": "/assets/media/imported/banner-financial-chart.jpg",
+    "tags": [
+      "Medicare Reimbursement",
+      "CMS TEAM",
+      "Hospital Finance",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "prep"
+  },
+  {
+    "slug": "cms-team-vs-cjr-x-comparison",
+    "title": "CMS TEAM vs. CJR-X: What's the Difference and Which Hospitals Are Affected?",
+    "description": "CMS TEAM vs. CJR-X compared: participation, episodes, 30-day vs 90-day windows, risk, and which hospitals each model affects.",
+    "subtitle": "TEAM is live and regional; CJR-X is proposed and nationwide. Here is how the two mandatory bundled-payment models compare on episodes, risk, and timing.",
+    "author": "Ahmed \\\"Eddie\\\" Qureshi, CEO",
+    "publishDate": "2026-06-17",
+    "displayDate": "June 17, 2026",
+    "image": "/assets/media/imported/banner-comparison-docs.jpg",
+    "tags": [
+      "CMS TEAM",
+      "CJR-X",
+      "Bundled Payments",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "rainfall-comments-on-cjr-x-and-team",
+    "title": "Rainfall Health Submits Comments on CMS Proposed Rules for CJR-X and TEAM, Applauding the Continued Move to Value-Based Payment",
+    "description": "On June 8, 2026, Rainfall Health submitted formal comment letters to CMS on the proposed CJR-X model and FY 2027 IPPS proposed rule changes to TEAM, supporting mandatory episode-based accountability for surgical care.",
+    "subtitle": "",
+    "author": "Christina Keny",
+    "publishDate": "2026-06-17",
+    "displayDate": "June 17, 2026",
+    "image": "/assets/media/cms-cjr-x-team-comments.png",
+    "tags": [
+      "[\"CMS",
+      "TEAM",
+      "CJR-X",
+      "value-based care",
+      "Medicare",
+      "episode payment"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "cms-team-model-explained-guide",
+    "title": "CMS TEAM for Mandated Hospitals: Who Is In, What Is Covered, How to Prepare",
+    "description": "A hospital playbook for the 721 CMS TEAM participants: five procedures, 30-day episodes, tracks, and how to prepare. Full definition: /cms-team/what-is-team/.",
+    "subtitle": "The Transforming Episode Accountability Model holds 721 hospitals financially accountable for five surgical episodes \u2014 here is who is mandated, what is covered, and how to prepare.",
+    "author": "Christina Keny, PhD, MHA, RN, CPHQ",
+    "publishDate": "2026-06-15",
+    "displayDate": "June 15, 2026",
+    "image": "/assets/media/imported/banner-pathway-guide.jpg",
+    "tags": [
+      "CMS TEAM",
+      "Bundled Payments",
+      "Medicare Reimbursement",
+      "sandbox-blog"
+    ],
+    "ebook": "",
+    "blogGroup": "explainers"
+  },
+  {
+    "slug": "the-clinical-conscience-of-a-tech-company",
+    "title": "The Clinical Conscience of a Tech Company",
+    "description": "Rainfall Health VP of Clinical Implementation on nursing as leadership, AI done right, and why the ripple effects of good healthcare work are never fully seen.",
+    "subtitle": "",
+    "author": "Robby Wallace",
+    "publishDate": "2026-06-04",
+    "displayDate": "June 04, 2026",
+    "image": "/assets/media/general/clinical-conscience-banner.png",
+    "tags": [
+      "[",
+      "Clinical Implementation",
+      "Healthcare Leadership",
+      "Nursing",
+      "Health Technology",
+      "CMS TEAM"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "cms-issues-letters-to-nearly-15-of-hospitals-nationwide-outlining-pricing-targets-and-quality-scores-for-team-implementation",
+    "title": "CMS Issues Letters to Nearly 15% of Hospitals Nationwide Outlining Pricing Targets and Quality Scores for TEAM Implementation",
+    "description": "CMS issued letters to 721 mandated TEAM hospitals outlining 2026 pricing targets and Composite Quality Scores. Learn what the letters included and what your hospital must do now.",
+    "subtitle": "",
+    "author": "Rainfall Health",
+    "publishDate": "2025-11-17",
+    "displayDate": "November 17, 2025",
+    "image": "/assets/media/cms-issues-letters.jpg",
+    "tags": [
+      "CMS",
+      "TEAM",
+      "compliance",
+      "Medicare"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "the-team-playbook-what-healthcare-executives-can-learn-from-nfl-coaches",
+    "title": "The TEAM Playbook: What Healthcare Executives Can Learn from NFL Coaches",
+    "description": "The CMS TEAM model holds 721 hospitals financially accountable for five surgical episodes. What NFL coaching strategy teaches healthcare executives about mandatory episode accountability and winning under TEAM.",
+    "subtitle": "",
+    "author": "Paul Hammer",
+    "publishDate": "2025-10-01",
+    "displayDate": "October 01, 2025",
+    "image": "/assets/media/team-playbook.jpg",
+    "tags": [
+      "TEAM",
+      "CMS",
+      "healthcare leadership",
+      "value-based care"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "revolutionizing-healthcare-frameworks-with-generative-ai",
+    "title": "Revolutionizing Healthcare Frameworks with Generative AI",
+    "description": "How generative AI is transforming Medicare reimbursement and CMS TEAM compliance \u2014 from documentation automation to real-time episode tracking and care coordination for mandated hospitals.",
+    "subtitle": "",
+    "author": "Ahmed Qureshi",
+    "publishDate": "2024-09-20",
+    "displayDate": "September 20, 2024",
+    "image": "/assets/media/revolutionizing-healthcare.jpg",
+    "tags": [
+      "AI",
+      "generative AI",
+      "healthcare",
+      "standardization"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "bridging-the-gap-rural-health-needs-technology-tools-too",
+    "title": "Bridging the Gap: Rural Health Needs Technology Tools, Too",
+    "description": "Rural healthcare faces provider shortages and limited access, but technology offers a path forward. Beyond telehealth, integrated digital networks connecting patients, providers, and payors enable seamless coordinated care with tailored solutions improving outcomes and equity.",
+    "subtitle": "",
+    "author": "Ahmed Qureshi",
+    "publishDate": "2024-06-15",
+    "displayDate": "June 15, 2024",
+    "image": "/assets/media/bridging-the-gap.jpg",
+    "tags": [
+      "rural health",
+      "technology",
+      "telehealth",
+      "digital health"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  },
+  {
+    "slug": "rural-america-and-disproportionate-access-to-healthcare-and-how-we-fix-the-infrastructure",
+    "title": "Rural America and Disproportionate Access to Healthcare and How We Fix The Infrastructure!",
+    "description": "Access to quality healthcare depends on geography, leaving rural communities behind. Fixing this requires national standards, cross-sector collaboration, and accessible technologies like telehealth as equitable care becomes a right, not privilege.",
+    "subtitle": "",
+    "author": "Ahmed Qureshi",
+    "publishDate": "2024-04-10",
+    "displayDate": "April 10, 2024",
+    "image": "/assets/media/rural-america.jpg",
+    "tags": [
+      "rural health",
+      "healthcare access",
+      "equity",
+      "infrastructure"
+    ],
+    "ebook": "",
+    "blogGroup": "article"
+  }
+]

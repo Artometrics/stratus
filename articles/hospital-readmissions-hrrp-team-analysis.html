@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="HRRP data analysis: 48.1% of hospital-condition pairs exceed the 1.0 excess readmission ratio. NJ leads at 65.4%. Hip/knee replacement carries the…">
+
+<title>Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard – Stratus</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../assets/rainfall-logo.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+<link rel="stylesheet" href="../styles/report.css">
+<link rel="stylesheet" href="../styles/stratus-media.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/rainfall-logo.svg" alt="" class="navbar-logo light-content">
+    <img src="../assets/rainfall-logo.svg" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Stratus</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Overview</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../media.html"> 
+<span class="menu-text">Media &amp; Blog</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-state-reports" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">State Reports</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-state-reports">    
+        <li>
+    <a class="dropdown-item" href="../states/california/california.html">
+ <span class="dropdown-text">California (White Paper)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../states/new-york/index.html">
+ <span class="dropdown-text">New York</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../states/florida/index.html">
+ <span class="dropdown-text">Florida</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../states/new-jersey/index.html">
+ <span class="dropdown-text">New Jersey</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../states/colorado/index.html">
+ <span class="dropdown-text">Colorado</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../states/massachusetts/index.html">
+ <span class="dropdown-text">Massachusetts</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../states/pennsylvania/index.html">
+ <span class="dropdown-text">Pennsylvania</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-regions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Regions</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-regions">    
+        <li>
+    <a class="dropdown-item" href="../regions/northeast/index.html">
+ <span class="dropdown-text">Northeast</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../regions/norcal-pnw-rockies/index.html">
+ <span class="dropdown-text">NorCal &amp; Rockies</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../regions/south-midwest/index.html">
+ <span class="dropdown-text">South &amp; Midwest</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../regions/socal-southwest-gulf/index.html">
+ <span class="dropdown-text">SoCal &amp; Southwest</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-newsletter" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Newsletter</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-newsletter">    
+        <li>
+    <a class="dropdown-item" href="../newsletter/cjr-history-team-selection/index.html">
+ <span class="dropdown-text">CJR History &amp; TEAM</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../newsletter/the-one-hospital-towns/index.html">
+ <span class="dropdown-text">One-Hospital Towns</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../newsletter/why-la-one-team-hospital/index.html">
+ <span class="dropdown-text">Why LA Has One Hospital</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../newsletter/modesto-the-market-that-lost-twice/index.html">
+ <span class="dropdown-text">Modesto Market Analysis</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.rainfallhealth.com/schedule-a-demo/"> 
+<span class="menu-text">Request a Demo</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content page-columns page-full column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard</h1>
+</div>
+
+<div>
+  <div class="description">
+    HRRP data analysis: 48.1% of hospital-condition pairs exceed the 1.0 excess readmission ratio. NJ leads at 65.4%. Hip/knee replacement carries the…
+  </div>
+</div>
+
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="blog-shell page-columns page-full">
+  <div class="blog-article-grid page-columns page-full">
+    <div class="blog-prose-column page-columns page-full">
+      <a href="../media.html" class="article-back-link">
+        <svg width="16" height="16" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        Back to Blogs &amp; Media
+      </a>
+
+      <header class="mb-8">
+        <div class="article-tags">
+          <span class="article-tag-pill">Hospital Readmissions</span> <span class="article-tag-pill">HRRP</span> <span class="article-tag-pill">CMS TEAM</span> <span class="article-tag-pill">Medicare</span> <span class="article-tag-pill">Data Analysis</span> <span class="article-tag-pill">sandbox-blog</span>
+        </div>
+        <div class="article-kicker">Media</div>
+        <h1 class="article-h1">Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard</h1>
+        <p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">An analysis of 11,720 hospital-condition pairs under HRRP reveals the readmissions problem that CMS TEAM was built to address — and which states and procedures carry the highest risk.</p>
+
+        <div class="article-byline">
+          <div class="byline-authors">
+            <span class="author-chip"><img src="../assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+          </div>
+          <span class="byline-dot">·</span>
+          <span class="byline-date">July 22, 2026</span>
+
+          <div class="article-share-actions">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on LinkedIn">
+              <svg width="15" height="15" viewbox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"></path></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Share on X">
+              <svg width="14" height="14" viewbox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      <img src="../assets/media/imported/banner-hrrp-readmissions.jpg" alt="Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard" class="article-hero-image">
+
+      <div class="article-body page-columns page-full">
+<aside class="blog-tldr not-prose">
+<div class="blog-tldr__label">
+TL;DR
+</div>
+<div class="blog-tldr__body">
+<ul>
+<li>HRRP still penalizes readmissions</li>
+<li>TEAM adds full episode cost risk</li>
+<li>Overlap raises financial exposure</li>
+<li>Care transitions need redesign</li>
+</ul>
+</div>
+</aside>
+<p>The Hospital Readmissions Reduction Program has been running since 2012. The premise is simple: if your patients return to the hospital within 30 days of discharge at a higher rate than CMS’s risk model expects given their medical profile, CMS docks your Medicare reimbursements. The penalty caps at <strong>3% of all Medicare payments</strong> — not just payments for the penalized condition.</p>
+<p>More than a decade later, the data says the program has defined the problem without solving it.</p>
+<section id="fast-facts" class="level2">
+<h2 class="anchored" data-anchor-id="fast-facts">Fast facts</h2>
+<ul>
+<li><strong>48.1%</strong> of HRRP-eligible hospital-condition pairs exceed the 1.0 ERR threshold — more readmissions than CMS models predict.</li>
+<li><strong>6 conditions</strong> tracked: AMI, Heart Failure, Pneumonia, COPD, Hip/Knee Arthroplasty (LEJR), and CABG.</li>
+<li><strong>1.00178</strong> average excess readmission ratio nationally — the average hospital readmits slightly more patients than CMS models expect.</li>
+<li><strong>Hip/Knee</strong> has the highest average ERR at 1.00399 — the most difficult readmission problem to control under HRRP.</li>
+<li><strong>New Jersey</strong> leads all states at 65.4% of hospital-condition pairs penalized — the highest-risk geography in the dataset.</li>
+<li><strong>721 hospitals</strong> are now mandated under CMS TEAM, where readmission performance within the 30-day episode directly affects reimbursement reconciliation.</li>
+</ul>
+<p>&lt;BlogChartFigure src={“/charts/hrrp-state-bar.png”} alt={“Horizontal bar chart showing HRRP readmission penalty rate by state, with TEAM-heavy states highlighted in amber”} caption={“New Jersey at 65.4% is the chart’s outlier — but notice that most of the amber-highlighted states (high TEAM concentration) cluster well above the national average. The dashed line marks 48.1%: the national share of hospital-condition pairs with excess readmissions. The states above it have structural work to do before 2027 downside risk arrives.”} source={“CMS Provider Data Catalog, Dataset 9n3s-kdb3 (FY2024 HRRP). Computed from 11,720 non-suppressed records. Rainfall Health.”} /&gt;</p>
+</section>
+<section id="the-geography-of-the-penalty" class="level2">
+<h2 class="anchored" data-anchor-id="the-geography-of-the-penalty">The geography of the penalty</h2>
+<p>New Jersey leads all states at 65.4% — nearly two out of every three hospital-condition pairs performing worse than CMS models predict. Massachusetts (62.5%) and Mississippi (61.1%) follow. New Jersey hosts some of the country’s highest-revenue hospital systems — Hackensack Meridian Health, RWJBarnabas — while Mississippi is rural and chronically underfunded. The same penalty outcome across fundamentally different systems.</p>
+<p>Illinois (57.8%), Florida (57.5%), and Georgia (55.8%) cluster in the high-penalty tier. California (55.2%) and New York (52.7%) — both high-TEAM-concentration states — are also above the national average. This is not a rural poverty problem with a clean geographic boundary. High-resource markets are not immune.</p>
+<p>The chart shows states above the national average — but even the better-performing states are not clean. Below-average means a smaller share of hospital-condition pairs exceed ERR 1.0, not zero penalties.</p>
+<p>&lt;BlogChartFigure src={“/charts/hrrp-condition-bar.png”} alt={“Bar chart showing average excess readmission ratio by HRRP condition, with hip/knee highlighted”} caption={“The amber bar is hip and knee replacement — the same procedure type that accounts for 58% of all CMS TEAM episodes. All conditions average above ERR 1.0, but Hip/Knee sits nearly twice as far above the benchmark as the next closest condition. The scale on this chart is deliberately tight: differences in the fifth decimal place translate to hundreds of thousands of dollars across a hospital’s annual episode volume.”} source={“CMS Provider Data Catalog, Dataset 9n3s-kdb3 (FY2024 HRRP). ERR values computed from non-suppressed hospital-condition pairs. Rainfall Health.”} /&gt;</p>
+</section>
+<section id="hipknee-is-the-unresolved-condition" class="level2">
+<h2 class="anchored" data-anchor-id="hipknee-is-the-unresolved-condition">Hip/knee is the unresolved condition</h2>
+<p>All six HRRP conditions carry an average ERR above 1.0. But Hip/Knee (LEJR) stands apart. Its average ERR of <strong>1.00399</strong> is more than twice the gap of the next closest condition (CABG at 1.00179). That difference may look small in absolute terms. Multiplied across approximately 1.3 million joint replacements performed annually in the U.S., it represents a large volume of preventable returns.</p>
+<p>The mechanism is structural. Elective joint replacement surgery has shortened its inpatient stay significantly over the past decade. What was a three-to-four-day admission is now often an outpatient or same-day procedure. That shift moves the readmission risk window entirely into post-discharge days — days hospitals cannot monitor in real time without deliberate post-acute coordination infrastructure.</p>
+<p>This is directly relevant to CMS TEAM. LEJR is the highest-volume TEAM procedure at 58% of all episodes. Under TEAM, a readmission within 30 days of discharge is not just an HRRP penalty event — it is an episode cost that falls entirely on the hospital’s TEAM reconciliation account. The same failure that generates an HRRP penalty will also likely push the TEAM episode above its target price.</p>
+</section>
+<section id="hrrp-defined-the-problem-team-raises-the-stakes" class="level2">
+<h2 class="anchored" data-anchor-id="hrrp-defined-the-problem-team-raises-the-stakes">HRRP defined the problem; TEAM raises the stakes</h2>
+<p>HRRP has been in effect since 2012. The fact that 48.1% of hospital-condition pairs still exceed the 1.0 ERR threshold more than a decade later says something about the limits of per-readmission financial penalties as a behavior change mechanism. Hospitals have responded — readmission rates have declined since HRRP launched — but the program has not solved the underlying problem.</p>
+<p>CMS TEAM, mandatory for 721 hospitals starting January 1, 2026, goes further. TEAM attaches the <strong>entire 30-day episode cost</strong> to reimbursement — not just the readmission event. A hospital that manages to avoid the readmission but runs up high SNF, home health, or outpatient costs in the post-discharge window can still lose money on the episode. HRRP is where the penalty starts. TEAM is where the stakes get real.</p>
+<p>The hospitals that have struggled under HRRP — high-readmission hospitals in New Jersey, Massachusetts, Illinois, and Florida — are the same hospitals most likely to be in scope for TEAM. The data in this analysis describes the problem TEAM was designed to address.</p>
+</section>
+<section id="data-methodology-how-the-hrrp-err-is-computed" class="level2">
+<h2 class="anchored" data-anchor-id="data-methodology-how-the-hrrp-err-is-computed">Data methodology: how the HRRP ERR is computed</h2>
+<p>The excess readmission ratio (ERR) is a hierarchical logistic regression model estimate produced annually by CMS for each hospital-condition pair. The model controls for patient age, sex, principal diagnosis, comorbidities, and prior utilization using Medicare Part A claims. An ERR of 1.0 means the hospital readmitted exactly as many patients as its risk-adjusted peer group would predict. Above 1.0 means excess readmissions; below 1.0 means fewer readmissions than predicted.</p>
+<p>The FY2024 HRRP dataset analyzed here (CMS Provider Data Catalog, Dataset 9n3s-kdb3) covers the measurement period <strong>July 1, 2021 through June 30, 2024</strong> — a three-year rolling window. CMS suppresses hospital-condition pairs where the hospital has fewer than 25 discharges for the condition in the measurement period, to protect statistical reliability. The suppression is systematic: small rural hospitals disproportionately fall below the threshold and disappear from the analysis. The 11,720 valid records analyzed represent a 2,700+ hospital subset weighted toward larger, busier facilities. Every finding in this analysis should be read with that structural bias in mind.</p>
+<p>The analysis was produced from the CMS open data API: <code>https://data.cms.gov/provider-data/api/1/datastore/query/9n3s-kdb3/0</code> — the same endpoint used in the Artometrics READMITTED analysis (artometrics.com/readmitted, April 2026). The 18,330 total records retrieved include both suppressed and non-suppressed rows; ERR computations are based on the 11,720 rows with valid, non-suppressed ERR values.</p>
+<p>(Source: <a href="https://data.cms.gov/provider-data/dataset/9n3s-kdb3">Centers for Medicare &amp; Medicaid Services. (2024). HRRP FY2025 supplemental data, Dataset 9n3s-kdb3.</a>)</p>
+</section>
+<section id="the-team-states-with-the-highest-readmission-risk" class="level2">
+<h2 class="anchored" data-anchor-id="the-team-states-with-the-highest-readmission-risk">The TEAM states with the highest readmission risk</h2>
+<p>Cross-referencing the HRRP state penalty rates with TEAM hospital concentration reveals which TEAM markets have the highest structural readmission risk:</p>
+<div class="blog-table-scroll not-prose">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>State</th>
+<th>HRRP % above 1.0</th>
+<th>TEAM hospitals</th>
+<th>Risk profile</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>New Jersey</td>
+<td>65.4%</td>
+<td>44</td>
+<td>Highest readmission rate + largest NY-NJ metro exposure</td>
+</tr>
+<tr class="even">
+<td>Massachusetts</td>
+<td>62.5%</td>
+<td>37</td>
+<td>Academic centers + dense post-acute market competition</td>
+</tr>
+<tr class="odd">
+<td>Illinois</td>
+<td>57.8%</td>
+<td>12</td>
+<td>Chicago-area hospital concentration</td>
+</tr>
+<tr class="even">
+<td>Florida</td>
+<td>57.5%</td>
+<td>40</td>
+<td>Aging demographic + geographic dispersion</td>
+</tr>
+<tr class="odd">
+<td>Georgia</td>
+<td>55.8%</td>
+<td>14</td>
+<td>Raleigh and other Southeast markets</td>
+</tr>
+<tr class="even">
+<td>California</td>
+<td>55.2%</td>
+<td>107</td>
+<td>Largest cohort; heterogeneous market quality</td>
+</tr>
+<tr class="odd">
+<td>New York</td>
+<td>52.7%</td>
+<td>78</td>
+<td>Public hospital safety-net + academic center challenge</td>
+</tr>
+<tr class="even">
+<td>Louisiana</td>
+<td>51.4%</td>
+<td>32</td>
+<td>Chronic disease burden + rural access constraints</td>
+</tr>
+<tr class="odd">
+<td>Pennsylvania</td>
+<td>51.0%</td>
+<td>26</td>
+<td>Smaller-city markets with constrained post-acute networks</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>(Source: <a href="https://data.cms.gov/provider-data/dataset/9n3s-kdb3">Centers for Medicare &amp; Medicaid Services (2024). HRRP FY2025 data; Rainfall Health TEAM participant analysis.</a>)</p>
+</section>
+<section id="ownership-type-for-profits-and-the-structural-penalty-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="ownership-type-for-profits-and-the-structural-penalty-distribution">Ownership type, for-profits, and the structural penalty distribution</h2>
+<p>Analyzing the HRRP dataset by hospital ownership type reveals a consistent pattern: <strong>for-profit hospitals</strong> carry a modestly higher share of penalized hospital-condition pairs than nonprofit and government-owned hospitals. In the FY2024 data, the for-profit sector runs approximately 8–10 percentage points above the nonprofit sector in the share of pairs exceeding ERR 1.0.</p>
+<p>This gap reflects several dynamics. For-profit hospitals — particularly the large investor-owned chains HCA Healthcare, Tenet Health, and Steward Health — have faced sustained shareholder pressure on cost reduction and length-of-stay management that can accelerate discharge at the cost of post-discharge continuity. Shorter hospital stays reduce readmission risk for some patients and increase it for others; the net effect in the HRRP data is a modest excess penalty rate.</p>
+<p>Under CMS TEAM, the ownership-type dynamic is complicated by the fact that HCA Healthcare’s BPCI Advanced experience gives its for-profit hospitals episode management infrastructure that many nonprofits lack. HCA’s data analytics capabilities may partially offset the behavioral incentive effects captured in the HRRP data. Tenet Health and Steward Health — the latter having entered bankruptcy in 2024 — present more uncertain pictures: their TEAM episode management infrastructure varies significantly by hospital and market.</p>
+<p>(Source: <a href="https://data.cms.gov/provider-data/dataset/xubh-q36u">Centers for Medicare &amp; Medicaid Services. (2024). Hospital General Information, Dataset xubh-q36u.</a>)</p>
+</section>
+<section id="frequently-asked-questions" class="level2">
+<h2 class="anchored" data-anchor-id="frequently-asked-questions">Frequently asked questions</h2>
+<section id="what-is-the-excess-readmission-ratio-err" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-the-excess-readmission-ratio-err">What is the excess readmission ratio (ERR)?</h3>
+<p>The ERR is a ratio of a hospital’s predicted readmissions to its expected readmissions, where expected is risk-adjusted for the patient population’s age, comorbidities, and discharge history. An ERR above 1.0 means more readmissions than CMS models predict.</p>
+</section>
+<section id="what-share-of-hospitals-fail-the-hrrp-readmission-benchmark" class="level3">
+<h3 class="anchored" data-anchor-id="what-share-of-hospitals-fail-the-hrrp-readmission-benchmark">What share of hospitals fail the HRRP readmission benchmark?</h3>
+<p>48.1% of hospital-condition pairs in the FY2024 HRRP dataset exceed the ERR 1.0 threshold, according to analysis of the CMS Provider Data Catalog (dataset 9n3s-kdb3).</p>
+</section>
+<section id="which-state-has-the-worst-hrrp-readmission-performance" class="level3">
+<h3 class="anchored" data-anchor-id="which-state-has-the-worst-hrrp-readmission-performance">Which state has the worst HRRP readmission performance?</h3>
+<p>New Jersey leads all states at 65.4% of hospital-condition pairs above ERR 1.0, followed by Massachusetts (62.5%) and Mississippi (61.1%).</p>
+</section>
+<section id="how-does-hrrp-relate-to-cms-team" class="level3">
+<h3 class="anchored" data-anchor-id="how-does-hrrp-relate-to-cms-team">How does HRRP relate to CMS TEAM?</h3>
+<p>HRRP penalizes specific readmission events. CMS TEAM goes further by attaching the entire 30-day post-discharge episode cost to reimbursement. A readmission under TEAM is both an HRRP penalty event and an episode cost event — the same failure hits twice.</p>
+<p>&lt;BlogReferences items={[{“id”:1,“text”:“Centers for Medicare &amp; Medicaid Services. Hospital Readmissions Reduction Program (HRRP) — FY2025 Supplemental Data. CMS Provider Data Catalog, Dataset ID: 9n3s-kdb3.”,“url”:“https://data.cms.gov/provider-data/dataset/9n3s-kdb3”},{“id”:2,“text”:“Centers for Medicare &amp; Medicaid Services. Hospital General Information. CMS Provider Data Catalog, Dataset ID: xubh-q36u.”,“url”:“https://data.cms.gov/provider-data/dataset/xubh-q36u”},{“id”:3,“text”:“CMS, "Transforming Episode Accountability Model (TEAM)," mandatory for 721 hospitals effective January 1, 2026.”,“url”:“https://www.cms.gov/priorities/innovation/innovation-models/team-model”},{“id”:4,“text”:“Zuckerman et al., "Readmissions, Observation, and the Hospital Readmissions Reduction Program," NEJM, 2016.”,“url”:“https://www.nejm.org/doi/10.1056/NEJMsa1513024”}]} /&gt;</p>
+<hr>
+<p><em>This analysis uses the CMS Provider Data Catalog open API (Dataset 9n3s-kdb3) to compute state and condition-level HRRP performance. 18,330 records were retrieved; 11,720 records contained non-suppressed ERR values (hospitals with fewer than 25 discharges per condition are suppressed by CMS to protect statistical reliability, which means small rural hospitals are systematically underrepresented). All computations are reproducible from the CMS open data API.</em></p>
+      </section></section></div>
+    </div>
+
+    <!-- Sticky Right Featured Sidebar (Screenshots 2-4) -->
+    <aside class="blog-featured not-prose" aria-labelledby="blog-featured-heading">
+      <h2 id="blog-featured-heading" class="blog-featured__heading anchored">Featured</h2>
+      <ul class="blog-featured__list">
+        
+              <li>
+                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="../assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="../assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="../assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="../assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="../assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
+                </a>
+              </li>
+            
+
+              <li>
+                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="../assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                  <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
+                </a>
+              </li>
+            
+      </ul>
+    </aside>
+  </div>
+</div>
+
+
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

@@ -1,0 +1,105 @@
+Why Does Los Angeles Have Only One Hospital in Medicare's TEAM Model?
+
+The country's largest hospital market almost entirely sat out Medicare's newest mandatory payment program. The reason isn't policy, and it isn't politics. It's a lottery.
+
+Medicare launched a new payment program in January called the Transforming Episode Accountability Model. Hospitals in it are required to be in it. There is no application and no opting out, and it runs for five years.
+
+The program pulled in 720 hospitals across 45 states. 107 of them are in California, more than any other state. Those California hospitals sit in eleven metropolitan areas. The San Francisco Bay Area has 37. The Inland Empire has 30. San Diego has 15.
+
+Los Angeles has one.
+
+Not one per hospital system, and not one per county. One hospital, Cedars-Sinai Medical Center, in a metropolitan area of roughly thirteen million people with more than a hundred acute care hospitals. And here is the part that makes it strange rather than merely lopsided: Cedars-Sinai is not there because Medicare required it. It volunteered.
+
+So Los Angeles is not just underrepresented in the program. It was left out of it, and the single Los Angeles hospital on the roster is there because it raised its hand.
+
+First, what the program actually does.
+
+Understanding why the omission matters requires a short detour into what hospitals are being signed up for.
+
+Traditionally, Medicare pays for surgery in pieces. The operation is one bill. The hospital stay is another. If the patient then spends two weeks in a nursing facility, gets home health visits, and turns up in the emergency room three weeks later, each of those is billed and paid separately, by whoever provided it. No single organization is on the hook for the total.
+
+This program collapses that. For five kinds of surgery: hip and knee replacement, spinal fusion, heart bypass, surgical repair of a broken hip, and major bowel surgery, the hospital becomes financially accountable for everything that happens to the patient for thirty days after the operation. If the total runs above what Medicare expected, the hospital pays some of the difference back. If it comes in under, the hospital keeps some of the savings. Care that used to be somebody else's cost is now the hospital's problem.
+
+That is a significant change in how a hospital has to think, and it is not optional for the hospitals selected. Which is what makes the absence of the nation's second largest metropolitan area worth explaining.
+
+The three explanations that don't hold up.
+
+The intuitive answers all fail, and it is worth watching them fail, because the real answer is not obvious until they do.
+
+It isn't size. If Medicare had picked the places with the most hospitals or the most Medicare patients, Los Angeles would be at the top of the list rather than absent from it. The Bay Area, with roughly half the population, has 37 participating hospitals.
+
+It isn't performance. Nothing in the selection process measured how good or bad a hospital is. Quality scores affect what participating hospitals are eventually paid, but they played no part in deciding which hospitals participate. A market cannot be excluded for being too good, and it cannot be excluded for being too bad.
+
+It isn't politics. The selection was made by formula and published in a federal rule well before anyone knew which hospitals would be affected. There was no list of exemptions to lobby your way onto.
+
+Each of these assumes that somebody looked at Los Angeles and made a decision about it. Nobody did.
+
+Medicare drew the map at random.
+
+Here is the mechanism, and it is genuinely surprising for a program that is compulsory: Medicare did not choose the cities. It sampled them.
+
+The federal government divides the country into metropolitan and micropolitan areas, roughly, a population center plus the surrounding counties that commute into it. For this program, 803 of them were eligible. Medicare selected 188, about 23 percent, using what statisticians call stratified random sampling.
+
+Stratified means the areas were first sorted into groups with similar characteristics. Random means that within each group, the selection was a draw. Depending on which group an area landed in, its chance of being picked ran somewhere between 20 and 50 percent.
+
+Los Angeles was eligible. Los Angeles was not drawn.
+
+That is the whole answer, and it is worth sitting with how unusual it is. A mandatory federal payment program, one that will govern how hospitals are paid for five years and reaches 720 of them, has a geographic footprint that was settled by a weighted coin flip.
+
+What moved the odds.
+
+The grouping was not arbitrary, even if the final draw was. Areas were sorted using four characteristics: how much Medicare had historically spent per surgical episode there, how many hospitals the area contained, how many of those were safety net hospitals serving large low income populations, and how much exposure the area had already had to Medicare's earlier experiments in this style of payment.
+
+That last one matters for Los Angeles.
+
+Medicare has run this kind of program before. From twenty sixteen through the end of twenty twenty-four, it operated a mandatory bundled payment model for hip and knee replacement, and Los Angeles was in it, one of only three California metro areas required to participate. In twenty eighteen, when Medicare allowed hospitals in most of those markets to withdraw, Los Angeles was in the group that had to stay, because it was among the thirty-four markets with the highest episode spending in the country.
+
+So by the time the new program was being designed, Los Angeles hospitals had spent nine consecutive years under mandatory bundled payments. And Medicare had decided, deliberately, to weight this round toward places that had not been through that, oversampling areas with little prior exposure, and areas with more safety net hospitals, on the reasoning that the point of a test is to learn something new.
+
+Nine years of prior participation put Los Angeles in a group with lower odds. Then the draw came up against it.
+
+The proof that it's chance, not a rule.
+
+It would be easy to stop here and conclude Los Angeles was screened out for having already served its time. That's not quite right, and the correction runs the opposite direction from what it looks like at first.
+
+San Francisco and Oakland went through the same CJR lottery Los Angeles did, but not the same nine years. When Medicare narrowed CJR's mandatory list to the thirty-four highest spending markets in twenty eighteen, Los Angeles stayed in. San Francisco didn't, CMS's own hospital list records show it drop from thirty-five mandatory hospitals before that cut to zero by CJR's final year. San Francisco's mandatory exposure ended in twenty eighteen. Los Angeles' ran nine years straight through.
+
+So when TEAM's own, separate lottery ran, San Francisco actually carried less recent mandatory bundle history than Los Angeles, and it was drawn anyway, with thirty-seven hospitals, mandatorily, the largest single market in the state. That isn't a counterexample to the less exposure, better odds logic from the last section. It's that logic landing exactly where it predicted.
+
+The real evidence that Los Angeles' absence wasn't a rule comes from a wider look, not a single comparison. Of the thirty-four markets CJR kept mandatory in twenty eighteen, the tier Los Angeles was in, roughly a third landed on TEAM's mandatory list anyway, despite carrying the same kind of high prior exposure. High exposure lowered the odds. It didn't zero them out. Los Angeles was in the majority that didn't land, not because the outcome was fixed against markets like it, but because a low probability outcome still happens, just less often than a high probability one. A companion piece works through the full sixty-seven market picture, San Francisco and Los Angeles both included: San Francisco Got Let Off the Hook Under CJR. Under TEAM, It Became California's Biggest Market.
+
+Which leaves the honest version of the answer. Los Angeles was in a lower probability group, and it landed on the side of that probability that doesn't make the roster. There is no policy judgment underneath it to appeal or object to, the two largest hospital markets in California went opposite directions because they were sitting in different odds to begin with, and the draw did what draws do.
+
+The hospital that signed up anyway.
+
+Which brings us back to Cedars-Sinai.
+
+Medicare allowed a small number of hospitals outside the selected areas to join voluntarily. Ten nationwide did. Exactly one of them is in California, and it is the one Los Angeles hospital on the roster.
+
+That path had its own rule, and the rule matters here. Federal regulation allowed a hospital to opt in only if two things were both true: its metro area had to be outside the mandatory list, and the hospital had to have already been running a mandatory bundle of its own, either CJR through its last day, December thirty-first, twenty twenty-four, or a related program called BPCI Advanced through December thirty-first, twenty twenty-five. Cedars-Sinai satisfied both. Its metro area was never drawn, and its nine years in CJR carried straight through to the deadline. The opt-in path exists specifically for a hospital in exactly that position.
+
+It is worth being precise about what that means. Every other California hospital in this program was told to be there. Cedars-Sinai looked at a five-year commitment to absorb financial risk for a month of care after major surgery, in a market where no competitor was under the same obligation, and chose it.
+
+Scale the stakes for a moment. Los Angeles County has more Medicare beneficiaries than any other county in the country, one point seven million people, in the most recent federal count, nearly double the next highest county. For the purposes of this specific program, all of that runs through one hospital's participation.
+
+There are reasonable readings of that decision. A hospital with nine years of bundled payment experience already has the discharge planning, the post-acute relationships, and the cost data the model rewards, so the marginal cost of participating is low and the potential upside is real. There is also a strategic reading: the skills this program demands are ones Medicare has signaled it will require everywhere soon enough, and building them under a program you chose is easier than building them under one imposed on you.
+
+There's no public record of how CJR specifically performed for Cedars-Sinai, Medicare doesn't publish hospital-level results under that program, and the hospital hasn't said. What is on the record is a different bundle: Cedars-Sinai has run its own orthopedic program under BPCI Advanced, a related but separate Medicare model, since January twenty twenty-one, and has said publicly that it moved that program from a penalty to a bonus. That isn't evidence about CJR, and it isn't a stated reason for the TEAM decision, but it does mean the hospital had recent, direct, and by its own account successful experience with exactly the kind of financial structure TEAM asks for, on top of nine years spent living under CJR's version of the same idea.
+
+Los Angeles didn't escape. It got deferred.
+
+The last point is the one that matters most for anyone running a hospital in a market that was skipped, and it undercuts any sense of relief.
+
+Medicare has already finalized a second mandatory bundled payment program, this one specifically for joint replacement, starting January first, twenty twenty-eight. It is nationwide. It covers essentially every acute care hospital in the country that is not already in the current program, which is to say, it is aimed squarely at the markets the lottery passed over.
+
+The timing is worth laying out plainly, because it rules out one explanation before anyone raises it. Cedars-Sinai's CJR run ended December thirty-first, twenty twenty-four. The TEAM voluntary election window opened the next day and closed January thirty-first, twenty twenty-five. The program that will eventually reach the hospitals TEAM's lottery skipped was not proposed until April fourteenth, twenty twenty-six, and wasn't finalized until that July. When Cedars-Sinai signed on to TEAM, that program did not exist yet, not even as a draft.
+
+Its episode window is ninety days, not thirty.
+
+So the practical result of Los Angeles losing the draw is not exemption. It is a two-year delay, followed by enrollment in a program with an accountability window three times longer. Hospitals in the Bay Area will spend those two years learning to manage a thirty-day window. Hospitals in Los Angeles will start in twenty twenty-eight on a ninety-day one.
+
+The one Los Angeles hospital that volunteered is exempt from the twenty twenty-eight program, because participation in the current one excludes you from it.
+
+Put all of it together and the shape of the case is unusual, not sinister. A stratified lottery left Los Angeles off the mandatory list. A narrow eligibility rule, built around metro area status and prior bundled payment history, is what let one hospital back onto the roster anyway. That hospital has recent, documented experience turning a comparable bundle profitable, though not this one, and not for this reason. And the program it might otherwise look like it was avoiding did not exist yet when it signed the paperwork. What's left is a single hospital carrying the entire program's footprint for the country's largest Medicare enrollment county and its second largest metro area, an outcome nobody designed, that one hospital chose to be part of anyway.
+
+The full article, with sources and the underlying hospital roster, is on the Rainfall Health site.

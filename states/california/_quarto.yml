@@ -1,0 +1,17 @@
+# Standalone Quarto project — open this folder (california.Rproj) in RStudio or Cursor.
+# Shared data and R helpers live in the repo root two levels up; the .qmd finds them at render time.
+project:
+  type: default
+  output-dir: .
+  render:
+    - california.qmd
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  fig-format: png
+
+knitr:
+  opts_chunk:
+    dev: png

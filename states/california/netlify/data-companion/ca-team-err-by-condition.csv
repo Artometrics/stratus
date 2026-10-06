@@ -1,0 +1,7 @@
+condition,cohort,ca_team_mean_err,national_mean_err,ca_share_above_1_pct,national_share_above_1_pct
+Hip/knee replacement,TEAM surgical,0.9796,1.004,49.1,47.9
+CABG,TEAM surgical,0.9931,1.0018,42.4,49.9
+Heart attack (AMI),Medical,1.0084,1.0018,56.6,49.7
+Heart failure,Medical,1.0057,1.0014,54.3,48.9
+Pneumonia,Medical,1.014,1.0015,57.1,46.8
+COPD,Medical,1.0018,1.0011,48.7,47.2

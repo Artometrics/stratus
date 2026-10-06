@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1300 731">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        stroke-width: 2px;
+      }
+
+      .st0, .st2, .st4, .st9, .st6, .st10, .st11, .st12, .st7 {
+        stroke: #27ae60;
+      }
+
+      .st0, .st13, .st4, .st14, .st15, .st16, .st10, .st17 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st10 {
+        fill: #8ecfb2;
+      }
+
+      .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st11, .st55, .st56, .st57, .st58, .st59, .st60 {
+        isolation: isolate;
+      }
+
+      .st18, .st19, .st20, .st23, .st25, .st26, .st29, .st61, .st31, .st35, .st39, .st40, .st41, .st51, .st53, .st58 {
+        fill: #27ae60;
+      }
+
+      .st18, .st21 {
+        font-size: 10px;
+      }
+
+      .st18, .st27, .st44, .st55, .st56, .st59 {
+        font-family: HelveticaNeue, 'Helvetica Neue';
+      }
+
+      .st19 {
+        font-family: HelveticaNeue-Medium, 'Helvetica Neue';
+        font-size: 13.26px;
+        font-weight: 500;
+      }
+
+      .st20, .st21, .st22, .st23, .st24, .st26, .st28, .st30, .st32, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st42, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st57, .st58, .st60 {
+        font-weight: 700;
+      }
+
+      .st20, .st21, .st24, .st26, .st28, .st34, .st36, .st42, .st45, .st46, .st50, .st52, .st53, .st54, .st60 {
+        font-family: HelveticaNeue-Bold, 'Helvetica Neue';
+      }
+
+      .st20, .st25, .st26, .st31, .st34, .st42, .st43, .st50, .st54, .st59 {
+        font-size: 9px;
+      }
+
+      .st20, .st54 {
+        letter-spacing: .11em;
+      }
+
+      .st21, .st30, .st37, .st52, .st62, .st60 {
+        fill: #1a1a1a;
+      }
+
+      .st1 {
+        stroke: #7f8c8d;
+        stroke-dasharray: 6 4;
+      }
+
+      .st1, .st3, .st63, .st64, .st11 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: #edf7f1;
+      }
+
+      .st22, .st23, .st30, .st32, .st35, .st37, .st38, .st39, .st40, .st47, .st48, .st49, .st51, .st57, .st58 {
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .st22, .st27, .st39 {
+        font-size: 12px;
+      }
+
+      .st22, .st5, .st28, .st65, .st38, .st42, .st43, .st47, .st54, .st57, .st59 {
+        fill: #c0392b;
+      }
+
+      .st23, .st47 {
+        font-size: 18px;
+      }
+
+      .st13 {
+        fill: #f8a9a1;
+      }
+
+      .st13, .st14, .st15, .st17 {
+        stroke: #ce3f2b;
+        stroke-width: 3px;
+      }
+
+      .st24 {
+        fill: #004820;
+        font-size: 11px;
+      }
+
+      .st25 {
+        font-family: HelveticaNeue-Italic, 'Helvetica Neue';
+        font-style: italic;
+      }
+
+      .st3 {
+        stroke: #1a1a1a;
+      }
+
+      .st63 {
+        stroke: #888;
+      }
+
+      .st63, .st64, .st66, .st11, .st12 {
+        stroke-width: 1.5px;
+      }
+
+      .st4 {
+        fill: #7cb692;
+      }
+
+      .st67 {
+        fill: #1a2332;
+      }
+
+      .st27 {
+        fill: #333;
+      }
+
+      .st14 {
+        fill: #f280a1;
+      }
+
+      .st9 {
+        stroke-width: 2.5px;
+      }
+
+      .st9, .st6, .st12, .st7 {
+        fill: #f2faf5;
+      }
+
+      .st5 {
+        stroke: #922b21;
+      }
+
+      .st28, .st36, .st45, .st46, .st53, .st56, .st60 {
+        font-size: 9.5px;
+      }
+
+      .st64 {
+        stroke: #999;
+      }
+
+      .st15 {
+        fill: #f37e8d;
+      }
+
+      .st30 {
+        font-size: 26px;
+      }
+
+      .st31, .st43 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st32, .st44, .st49 {
+        font-size: 11.5px;
+      }
+
+      .st32, .st48 {
+        fill: #2ecc71;
+      }
+
+      .st68 {
+        fill: #f5f0e8;
+      }
+
+      .st34, .st36, .st69, .st49, .st55 {
+        fill: #fff;
+      }
+
+      .st35 {
+        font-size: 10.29px;
+      }
+
+      .st37 {
+        font-size: 16.68px;
+      }
+
+      .st38 {
+        font-size: 10.22px;
+      }
+
+      .st40 {
+        font-size: 11.95px;
+      }
+
+      .st41, .st11 {
+        opacity: .65;
+      }
+
+      .st6 {
+        stroke-dasharray: 5 3;
+      }
+
+      .st44 {
+        fill: #555;
+      }
+
+      .st45, .st50 {
+        fill: #2e0000;
+      }
+
+      .st46 {
+        fill: #006433;
+      }
+
+      .st48 {
+        font-size: 16px;
+      }
+
+      .st16 {
+        fill: #c03b2b;
+      }
+
+      .st16, .st8 {
+        stroke: #c0392b;
+      }
+
+      .st49 {
+        letter-spacing: .04em;
+      }
+
+      .st51 {
+        font-size: 11.39px;
+      }
+
+      .st17 {
+        fill: #f6a6ba;
+      }
+
+      .st52 {
+        font-size: 13.5px;
+      }
+
+      .st66 {
+        fill: #ede8df;
+        stroke: #d4ccc0;
+      }
+
+      .st11 {
+        stroke-dasharray: 5 4;
+      }
+
+      .st55 {
+        font-size: 10.5px;
+      }
+
+      .st56 {
+        fill: #666;
+      }
+
+      .st57, .st58 {
+        font-size: 13px;
+      }
+
+      .st8 {
+        fill: #fff0ee;
+      }
+    </style>
+  </defs>
+  <rect class="st68" width="1300" height="731"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st30" transform="translate(412.43 38)"><tspan x="0" y="0">Randy&apos;s Hip Replacement Journey</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st44" transform="translate(357.05 59)"><tspan x="0" y="0">Pre-TEAM Mandate vs. Post-TEAM Mandate · Same 68-year-old patient · Same surgery · Different episode</tspan></text>
+    </g>
+  </g>
+  <rect class="st66" x="25.2" y="68" width="1252" height="28" rx="6" ry="6"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st52" transform="translate(39.2 87)"><tspan x="0" y="0">Randy, 68</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st27" transform="translate(107.2 87)"><tspan x="0" y="0">HbA1c 8.2 · BMI 33 · Active smoker · Hgb 11.4 · Lives alone, 7 entry steps · Right hip OA, indicated for THA · Traditional Medicare</tspan></text>
+    </g>
+  </g>
+  <rect class="st8" x="29.81" y="108.31" width="175.64" height="199.38" rx="7" ry="7"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st54" transform="translate(60.71 120.71)"><tspan x="0" y="0">PRE-TEAM MANDATE</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st57" transform="translate(56.19 134.71)"><tspan x="0" y="0">Fee-for-Service Era</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st38" transform="translate(54.63 154.82)"><tspan x="0" y="0">No 30-day accountability</tspan></text>
+    </g>
+  </g>
+  <circle class="st65" cx="57.49" cy="164" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st59" transform="translate(63.49 168)"><tspan x="0" y="0">Hospital paid per admission</tspan></text>
+    </g>
+  </g>
+  <circle class="st65" cx="57.49" cy="178" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st59" transform="translate(63.49 182)"><tspan x="0" y="0">Surgeon paid per procedure</tspan></text>
+    </g>
+  </g>
+  <circle class="st65" cx="57.49" cy="192" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st59" transform="translate(63.49 196)"><tspan x="0" y="0">SNF, HH paid separately</tspan></text>
+    </g>
+  </g>
+  <circle class="st65" cx="57.49" cy="206" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st59" transform="translate(63.49 210)"><tspan x="0" y="0">No shared episode view</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st38" transform="translate(54.14 226.66)"><tspan x="0" y="0">Episode cost</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st47" transform="translate(54.89 248.72)"><tspan x="0" y="0">$42K–$55K</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st22" transform="translate(51.49 271.41)"><tspan x="0" y="0">30-day readmission</tspan></text>
+    </g>
+  </g>
+  <rect class="st2" x="30.95" y="353.43" width="175.64" height="206.6" rx="7" ry="7"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st22" transform="translate(51.49 285.41)"><tspan x="0" y="0">YES — SSI, Day 18</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st20" transform="translate(61.75 369.22)"><tspan x="0" y="0">POST-TEAM MANDATE</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st58" transform="translate(40.71 387.21)"><tspan x="0" y="0">Episode-Accountable Era</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st40" transform="translate(47.64 413.54)"><tspan x="0" y="0">Hospital owns 30 days</tspan></text>
+    </g>
+  </g>
+  <circle class="st61" cx="61.34" cy="425.61" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st18" transform="translate(67.34 429.61)"><tspan x="0" y="0">Single target price</tspan></text>
+    </g>
+  </g>
+  <circle class="st61" cx="61.34" cy="439.61" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st18" transform="translate(67.34 443.61)"><tspan x="0" y="0">Quality gates apply</tspan></text>
+    </g>
+  </g>
+  <circle class="st61" cx="61.34" cy="453.61" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st18" transform="translate(67.34 457.61)"><tspan x="0" y="0">Surgeon eligible for NPRA</tspan></text>
+    </g>
+  </g>
+  <circle class="st61" cx="61.34" cy="467.61" r="2"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st18" transform="translate(67.34 471.61)"><tspan x="0" y="0">Shared data, shared plan</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st35" transform="translate(48.13 491.1)"><tspan x="0" y="0">Episode cost</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st23" transform="translate(47.25 510)"><tspan x="0" y="0">$22K–$28K</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st51" transform="translate(47.25 531.43)"><tspan x="0" y="0">30-day readmission</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st39" transform="translate(47.25 545.33)"><tspan x="0" y="0">NO · PROMs above target</tspan></text>
+    </g>
+  </g>
+  <line class="st3" x1="941.49" y1="105" x2="941.49" y2="315"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st28" transform="translate(565.93 189.13)"><tspan x="0" y="0">Consult</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st28" transform="translate(566.64 202.13)"><tspan x="0" y="0">Day −45</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st28" transform="translate(549.43 215.13)"><tspan x="0" y="0">&quot;Get sugar down&quot;</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st28" transform="translate(795.4 197.35)"><tspan x="0" y="0">PCP clears</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st28" transform="translate(776.28 210.35)"><tspan x="0" y="0">A1c 8.0 · still smoking</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st21" transform="translate(954.5 191.85)"><tspan x="0" y="0">SURGERY</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st21" transform="translate(954.5 202.13)"><tspan x="0" y="0">Day 0</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st21" transform="translate(954.5 213.35)"><tspan x="0" y="0">Inpt 3d</tspan></text>
+    </g>
+  </g>
+  <polygon class="st65" points="1088.81 253.23 1091.71 261.23 1100.21 261.53 1093.61 266.73 1095.91 274.93 1088.81 270.23 1081.71 274.93 1084.01 266.73 1077.41 261.53 1085.91 261.23 1088.81 253.23"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st42" transform="translate(1038.3029 285.3301)"><tspan x="0" y="0">DAY 18: ED</tspan></text>
+    </g>
+    <g class="st33">
+      <text class="st43" transform="translate(1089.6528 285.3301)"><tspan x="0" y="0">→</tspan></text>
+    </g>
+    <g class="st33">
+      <text class="st42" transform="translate(1094.1528 285.3301)"><tspan x="0" y="0" xml:space="preserve">   Readmit</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st59" transform="translate(1029.8322 296.9225)"><tspan x="0" y="0">Deep SSI · I&amp;D · IV abx 6 wks</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st42" transform="translate(1197.1985 265.0562)"><tspan x="0" y="0">Day 42: 1st &amp; only</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st42" transform="translate(1219.3116 278.0562)"><tspan x="0" y="0">surgeon visit</tspan></text>
+    </g>
+  </g>
+  <rect class="st68" x="222.2" y="315" width="1055" height="40"/>
+  <line class="st64" x1="222.2" y1="335" x2="1277.2" y2="335"/>
+  <line class="st3" x1="941.49" y1="315" x2="941.49" y2="355"/>
+  <line class="st63" x1="222.2" y1="331" x2="222.2" y2="339"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st56" transform="translate(204.47 348)"><tspan x="0" y="0">Day −90</tspan></text>
+    </g>
+  </g>
+  <line class="st63" x1="462" y1="331" x2="462" y2="339"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st56" transform="translate(453.86 348)"><tspan x="0" y="0">−60</tspan></text>
+    </g>
+  </g>
+  <line class="st63" x1="701.7" y1="331" x2="701.7" y2="339"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st56" transform="translate(693.56 348)"><tspan x="0" y="0">−30</tspan></text>
+    </g>
+  </g>
+  <line class="st63" x1="1053.4" y1="331" x2="1053.4" y2="339"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st56" transform="translate(1045.2617 348)"><tspan x="0" y="0">+14</tspan></text>
+    </g>
+  </g>
+  <line class="st63" x1="1181.3" y1="331" x2="1181.3" y2="339"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st56" transform="translate(1143.1615 348)"><tspan x="0" y="0">+30 (episode end)</tspan></text>
+    </g>
+  </g>
+  <line class="st64" x1="222.2" y1="235" x2="1277.2" y2="235"/>
+  <line class="st63" x1="1277.2" y1="331" x2="1277.2" y2="339"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st56" transform="translate(1269.0619 348)"><tspan x="0" y="0">+42</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st37" transform="translate(796.05 362.64)"><tspan x="0" y="0">SURGERY (Day 0)</tspan></text>
+    </g>
+  </g>
+  <line class="st1" x1="941.49" y1="355" x2="941.49" y2="665"/>
+  <rect class="st17" x="819.35" y="224" width="122.15" height="22" rx="4" ry="4"/>
+  <path class="st0" d="M233.71,452h568.36c6.36,0,11.51,5.82,11.51,13h0c0,7.18-5.15,13-11.51,13H233.71c-6.36,0-11.51-5.82-11.51-13h0c0-7.18,5.15-13,11.51-13Z"/>
+  <circle class="st61" cx="222.2" cy="465" r="5.5"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(211.95 427.61)"><tspan x="0" y="0">Consult + risk-strat</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(211.95 439.61)"><tspan x="0" y="0">Day −90 · navigator joins</tspan></text>
+    </g>
+  </g>
+  <circle class="st7" cx="575.52" cy="465" r="5.5"/>
+  <g class="st33">
+    <text class="st45" transform="translate(835.12 238.6)"><tspan x="0" y="0">Pre-op visit</tspan></text>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st53" transform="translate(543.23 433.48)"><tspan x="0" y="0">PROM baseline</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st53" transform="translate(526.27 445.48)"><tspan x="0" y="0">HOOS Jr. pre-op score</tspan></text>
+    </g>
+  </g>
+  <circle class="st61" cx="769.25" cy="465" r="5.5"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(738.64 493.5)"><tspan x="0" y="0">Family meeting</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(733.5 506.5)"><tspan x="0" y="0">daughter on FMLA</tspan></text>
+    </g>
+  </g>
+  <circle class="st61" cx="369.33" cy="462.76" r="5.5"/>
+  <g class="st33">
+    <text class="st24" transform="translate(381.62 468.26)"><tspan x="0" y="0">76-Day Structured Prehab Program</tspan></text>
+  </g>
+  <g class="st33">
+    <text class="st46" transform="translate(340.72 420.48)"><tspan x="0" y="0">Endo + GLP-1</tspan></text>
+  </g>
+  <g class="st33">
+    <text class="st46" transform="translate(333.02 433.48)"><tspan x="0" y="0">tobacco cessation</tspan></text>
+  </g>
+  <g class="st33">
+    <text class="st46" transform="translate(346.3 446.48)"><tspan x="0" y="0">iron infusion</tspan></text>
+  </g>
+  <circle class="st61" cx="677.8" cy="465" r="5.5"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(651.75 420.64)"><tspan x="0" y="0">Sleep study</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(649.64 433.64)"><tspan x="0" y="0">CPAP started</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(631.85 446.64)"><tspan x="0" y="0">OT home assessment</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(781.59 418.62)"><tspan x="0" y="0">A1c 7.2 · Hgb 12.5</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(780.39 431.62)"><tspan x="0" y="0">5 wks tobacco-free</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(810.47 444.62)"><tspan x="0" y="0">down 12 lbs</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st60" transform="translate(947.2 431.47)"><tspan x="0" y="0">SURGERY</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st60" transform="translate(946.49 441.98)"><tspan x="0" y="0">· same day</tspan></text>
+    </g>
+  </g>
+  <rect class="st12" x="813.58" y="454.96" width="36.9" height="20" rx="3" ry="3"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st19" transform="translate(817.5 470)"><tspan x="0" y="0">Opt.</tspan></text>
+    </g>
+  </g>
+  <rect class="st0" x="951.01" y="453" width="94.39" height="24" rx="4" ry="4"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st36" transform="translate(960.74 468.6)"><tspan x="0" y="0">Home health</tspan></text>
+    </g>
+  </g>
+  <rect class="st4" x="1045.4" y="453" width="103.9" height="24" rx="4" ry="4"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st36" transform="translate(1063.0125 468.7228)"><tspan x="0" y="0">Outpatient PT</tspan></text>
+    </g>
+  </g>
+  <rect class="st6" x="1149.3" y="453" width="96" height="24" rx="4" ry="4"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st53" transform="translate(1170.7318 468.723)"><tspan x="0" y="0">Walking dog</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(957.94 487.12)"><tspan x="0" y="0">24h call</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(957.57 499)"><tspan x="0" y="0">72h call ·</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(947.43 508.35)"><tspan x="0" y="0">wound photo</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(1061.6694 493.6738)"><tspan x="0" y="0">Telehealth visit</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(1059.356 505.6738)"><tspan x="0" y="0">Day 14 · surgeon</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st26" transform="translate(1058.0916 517.6738)"><tspan x="0" y="0">PROM follow-up</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(1054.0551 529.6738)"><tspan x="0" y="0">HOOS Jr. at Day 30</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(1166.3645 419.7433)"><tspan x="0" y="0">Day 42 follow-up</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(1174.5099 431.7433)"><tspan x="0" y="0">walking the dog</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st46" transform="translate(1149.4897 443.7433)"><tspan x="0" y="0">hip ROM goal, 10 wks</tspan></text>
+    </g>
+  </g>
+  <path class="st11" d="M576.4,478c0,125.68,383.92,160.58,484.37,69.82"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st25" transform="translate(484.46 610.02)"><tspan x="0" y="0">PROM pair: pre-op baseline</tspan></text>
+    </g>
+    <g class="st33">
+      <text class="st31" transform="translate(598.8 610.02)"><tspan x="0" y="0">→</tspan></text>
+    </g>
+    <g class="st33">
+      <text class="st25" transform="translate(603.3 610.02)"><tspan x="0" y="0" xml:space="preserve"> Day 30 follow-up · drives the &quot;PROMs above target&quot; quality gate</tspan></text>
+    </g>
+  </g>
+  <rect class="st67" x="8.88" y="660.36" width="1268.32" height="54.11" rx="19" ry="19"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st49" transform="translate(25.2 681)"><tspan x="0" y="0">SAME PATIENT · SAME SURGERY · SAME SURGEON</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st55" transform="translate(25.2 695)"><tspan x="0" y="0">What changed: the 90 days before surgery, the discharge decision, and the 30 days after. None of it required operating differently.</tspan></text>
+    </g>
+  </g>
+  <polygon class="st41" points="1061.99 540.63 1049.92 550.56 1062.77 556.28 1061.99 540.63"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st48" transform="translate(871.24 681)"><tspan x="0" y="0">↓</tspan></text>
+      <text class="st32" transform="translate(879.24 681)"><tspan x="0" y="0" xml:space="preserve"> Episode cost: ~$20K · Readmission avoided · Quality gates met</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st55" transform="translate(835.12 697.19)"><tspan x="0" y="0">Surgeon eligible for NPRA / gainsharing · Hospital eligible for reconciliation payment</tspan></text>
+    </g>
+  </g>
+  <rect class="st13" x="581.9" y="224" width="239.8" height="22" rx="4" ry="4"/>
+  <g class="st33">
+    <text class="st45" transform="translate(630.2 238.6)"><tspan x="0" y="0">Schedule, wait, basic clearance</tspan></text>
+  </g>
+  <circle class="st65" cx="821.6" cy="235" r="5.5"/>
+  <rect class="st14" x="941.5" y="224" width="135.9" height="22" rx="4" ry="4"/>
+  <g class="st33">
+    <text class="st45" transform="translate(970.61 238.6)"><tspan x="0" y="0">SNF (default) · 14d</tspan></text>
+  </g>
+  <rect class="st15" x="1111.83" y="224" width="165.37" height="22" rx="4" ry="4"/>
+  <g class="st33">
+    <text class="st50" transform="translate(1138.4006 237.4648)"><tspan x="0" y="0">PICC + wound vac at home</tspan></text>
+  </g>
+  <path class="st16" d="M46.68,140.89h136.35"/>
+  <path class="st10" d="M47.25,393.66h136.35"/>
+  <circle class="st65" cx="581.9" cy="235" r="5.5"/>
+  <circle class="st62" cx="941.5" cy="235" r="13"/>
+  <circle class="st69" cx="941.5" cy="235" r="5"/>
+  <circle class="st65" cx="928.5" cy="235" r="5.5"/>
+  <rect class="st5" x="1067.64" y="221" width="48" height="28" rx="3" ry="3"/>
+  <g class="st33">
+    <g class="st33">
+      <text class="st34" transform="translate(1070.4631 233.0438)"><tspan x="0" y="0">READMIT</tspan></text>
+    </g>
+  </g>
+  <g class="st33">
+    <g class="st33">
+      <text class="st34" transform="translate(1075.0306 244.0438)"><tspan x="0" y="0">SSI · 6d</tspan></text>
+    </g>
+  </g>
+  <circle class="st65" cx="1277.2" cy="235" r="5.5"/>
+  <rect class="st0" x="853.59" y="453" width="82.91" height="24" rx="4" ry="4"/>
+  <circle class="st62" cx="941.49" cy="463.69" r="13"/>
+  <circle class="st69" cx="941.49" cy="463.69" r="5"/>
+  <circle class="st9" cx="1045.4" cy="464.32" r="6"/>
+  <circle class="st9" cx="1149.49" cy="464.32" r="6"/>
+  <polygon class="st29" points="1065.82 541.04 1051.6 547.53 1062.55 556.37 1065.82 541.04"/>
+</svg>
