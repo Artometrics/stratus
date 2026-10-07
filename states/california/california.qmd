@@ -521,8 +521,8 @@ methods <- tibble::tibble(
     sprintf("CMS HRRP public use file (dataset %s), window %s", hrrp$dataset_id, hrrp_period),
     "CMS Certification Number, exact match",
     "CCN map in data/ca_team_system_affiliations.csv (name-to-system, Sept 2026 review)",
-    "Federal Register final rules and 42 CFR 512.547",
-    "Peer-reviewed evaluations of CJR and BPCI",
+    "Federal Register final rules and 42 CFR 512.547 [1, 2, 3, 6]",
+    "Peer-reviewed evaluations of CJR and BPCI [7, 8]",
     "Not published at hospital level"
   ),
   `Computed or cited` = c(
@@ -540,7 +540,7 @@ methods <- tibble::tibble(
 knitr::kable(methods)
 ```
 
-One thing this analysis deliberately does not do is put a dollar figure on any of this. Medicare doesn't publish what an individual hospital's target price is, or what its baseline episode spending looks like, and without that, any specific dollar exposure number circulating for California is somebody's estimate dressed up as a fact. What the evidence does support, from Medicare's own evaluations of earlier bundled-payment efforts, is a rough sense of where the money actually moves. In the first year of the mandatory joint-replacement program that preceded TEAM, hospitals under the mandate cut the share of patients discharged to institutional post-acute care by **2.9 percentage points**, but total Medicare spending per episode didn't change by a statistically meaningful amount. A separate, longer-running voluntary bundled-payment program did show real savings over time, roughly **$1,166 less per episode** compared to hospitals outside the program, driven again mostly from reduced use of institutional post-acute care rather than from cutting anything in the hospital stay itself, and without a measurable increase in readmissions, emergency visits, or deaths. The lesson for California is that savings are achievable, but they show up gradually, through sustained changes in where patients go after discharge, not in the first reconciliation cycle.
+One thing this analysis deliberately does not do is put a dollar figure on any of this. Medicare doesn't publish what an individual hospital's target price is, or what its baseline episode spending looks like, and without that, any specific dollar exposure number circulating for California is somebody's estimate dressed up as a fact. What the evidence does support, from Medicare's own evaluations of earlier bundled-payment efforts, is a rough sense of where the money actually moves. In the first year of the mandatory joint-replacement program that preceded TEAM, hospitals under the mandate cut the share of patients discharged to institutional post-acute care by **2.9 percentage points** <a href="#ref-8" class="cite-ref">[8]</a>, but total Medicare spending per episode didn't change by a statistically meaningful amount. A separate, longer-running voluntary bundled-payment program did show real savings over time, roughly **$1,166 less per episode** <a href="#ref-7" class="cite-ref">[7]</a> compared to hospitals outside the program, driven again mostly from reduced use of institutional post-acute care rather than from cutting anything in the hospital stay itself, and without a measurable increase in readmissions, emergency visits, or deaths. The lesson for California is that savings are achievable, but they show up gradually, through sustained changes in where patients go after discharge, not in the first reconciliation cycle.
 
 Every number quoted in Sections 01 through 05 is computed at render time from the vendored CMS participant list and HRRP public use file (`r hrrp_period`). The national TEAM total (`r NATIONAL_TOTAL` hospitals) is the row count of that same participant file, not a separate CMS headline figure. **`r reconciliation_note`** This copy was built on **`r render_date`**. Full citations, glossary, and downloadable tables are in the appendices below.
 
