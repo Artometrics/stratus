@@ -26,7 +26,7 @@ format:
 
         <div class="article-byline">
           <div class="byline-authors">
-            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jessica Ohlssen" class="author-avatar"> <span>Jessica Ohlssen</span></span> <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Robby Wallace" class="author-avatar"> <span>Robby Wallace</span></span>
+            <span class="author-chip"><img src="../assets/authors/eddie-qureshi.png" alt="Jessica Ohlssen" class="author-avatar"> <span>Jessica Ohlssen</span></span> <span class="author-chip"><img src="../assets/authors/eddie-qureshi.png" alt="Robby Wallace" class="author-avatar"> <span>Robby Wallace</span></span>
           </div>
           <span class="byline-dot">&middot;</span>
           <span class="byline-date">June 23, 2026</span>
@@ -48,7 +48,7 @@ format:
         </div>
       </header>
 
-      <img src="/assets/media/webinar-team-mandate/hero-journey.png" alt="Navigating the CMS TEAM Mandate: A Hospital Leader's Webinar Guide" class="article-hero-image">
+      <img src="../assets/media/webinar-team-mandate/hero-journey.png" alt="Navigating the CMS TEAM Mandate: A Hospital Leader's Webinar Guide" class="article-hero-image">
 
       <div class="article-body">
 ```
@@ -103,7 +103,7 @@ Reimbursement under the TEAM model is determined by performance across four acco
 Learn more in our [CMS TEAM guide](/cms-team/) and [TEAM product overview](/team/).
 
 <BlogExpandableImage
-  src="/assets/media/webinar-team-mandate/cms-team-model.svg"
+  src="../assets/media/webinar-team-mandate/cms-team-model.svg"
   alt="CMS TEAM Model overview — five episodes, three participation tracks, and payment mechanics from 2026–2030"
 />
 
@@ -177,12 +177,12 @@ Same patient. Same surgeon. Same surgery. Two very different episodes — and tw
 | Hospital outcome           | Penalty risk                     | Incentive payment potential                                                  |
 
 <BlogExpandableImage
-  src="/assets/media/webinar-team-mandate/randy-episode-timeline.svg"
+  src="../assets/media/webinar-team-mandate/randy-episode-timeline.svg"
   alt="Randy's episode timeline — pre-TEAM vs. post-TEAM"
 />
 
 <BlogExpandableImage
-  src="/assets/media/webinar-team-mandate/randy-pre-post-team.svg"
+  src="../assets/media/webinar-team-mandate/randy-pre-post-team.svg"
   alt="Randy's hip replacement — Pre-TEAM vs. Post-TEAM outcomes compared"
 />
 
@@ -347,48 +347,48 @@ _Jessica Ohlssen is Senior Vice President of Revenue at Rainfall Health. Robby W
       <ul class="blog-featured__list">
         
               <li>
-                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
-                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="../assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
-                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="../assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
-                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="../assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
-                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="../assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
-                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="../assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
-                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="../assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
                 </a>
               </li>

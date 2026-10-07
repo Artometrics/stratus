@@ -101,7 +101,7 @@ format:
           <!-- Ep 01 -->
           <tr data-guest="Bradley Heiges Jessica Ohlssen Orthopedics" data-status="pending">
             <td><strong>Ep 01</strong></td>
-            <td><a href="/assets/thumbnails/ep01-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep01-thumbnail.png" alt="Ep 01 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep01-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep01-thumbnail.png" alt="Ep 01 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Bradley Heiges, MD</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">w/ Jessica Ohlssen</span>
@@ -126,7 +126,7 @@ format:
           <!-- Ep 02 -->
           <tr data-guest="Hemant Keny Surgery Geriatric" data-status="complete">
             <td><strong>Ep 02</strong></td>
-            <td><a href="/assets/thumbnails/ep02-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep02-thumbnail.png" alt="Ep 02 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep02-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep02-thumbnail.png" alt="Ep 02 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Dr. Hemant Keny</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">Vascular &amp; General Surgeon</span>
@@ -152,7 +152,7 @@ format:
           <!-- Ep 03 -->
           <tr data-guest="David Shulkin VA Veterans Affairs Policy" data-status="complete">
             <td><strong>Ep 03</strong></td>
-            <td><a href="/assets/thumbnails/ep03-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep03-thumbnail.png" alt="Ep 03 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep03-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep03-thumbnail.png" alt="Ep 03 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Dr. David Shulkin</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">9th Secretary of Veterans Affairs</span>
@@ -178,7 +178,7 @@ format:
           <!-- Ep 04 -->
           <tr data-guest="Paul Uhrig Surescripts Legal Compliance" data-status="pending">
             <td><strong>Ep 04</strong></td>
-            <td><a href="/assets/thumbnails/ep04-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep04-thumbnail.png" alt="Ep 04 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep04-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep04-thumbnail.png" alt="Ep 04 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Paul Uhrig</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">Former GC &amp; CLO, Surescripts</span>
@@ -204,7 +204,7 @@ format:
           <!-- Ep 05 -->
           <tr data-guest="Charlotte Yeh AARP Care Plans How-To Gap" data-status="complete">
             <td><strong>Ep 05</strong></td>
-            <td><a href="/assets/thumbnails/ep05-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep05-thumbnail.png" alt="Ep 05 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep05-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep05-thumbnail.png" alt="Ep 05 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Dr. Charlotte Yeh</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">Former CMO, AARP Services</span>
@@ -230,7 +230,7 @@ format:
           <!-- Ep 06 -->
           <tr data-guest="Steve Ganyard State Department Market Discipline" data-status="pending">
             <td><strong>Ep 06</strong></td>
-            <td><a href="/assets/thumbnails/ep06-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep06-thumbnail.png" alt="Ep 06 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep06-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep06-thumbnail.png" alt="Ep 06 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Steve Ganyard</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">Col USMC (Ret.), Former DAS of State</span>
@@ -256,7 +256,7 @@ format:
           <!-- Ep 07 -->
           <tr data-guest="Mark Adams Two Bear Capital AI Nursing" data-status="complete">
             <td><strong>Ep 07</strong></td>
-            <td><a href="/assets/thumbnails/ep07-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep07-thumbnail.png" alt="Ep 07 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep07-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep07-thumbnail.png" alt="Ep 07 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Mark Adams</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">MD, Two Bear Capital</span>
@@ -282,7 +282,7 @@ format:
           <!-- Ep 08 -->
           <tr data-guest="Steve Schutzer CJRI Bundled Payments Joint Replacement" data-status="complete">
             <td><strong>Ep 08</strong></td>
-            <td><a href="/assets/thumbnails/ep08-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep08-thumbnail.png" alt="Ep 08 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep08-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep08-thumbnail.png" alt="Ep 08 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Dr. Steve Schutzer</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">Founding Director, CJRI</span>
@@ -308,7 +308,7 @@ format:
           <!-- Ep 09 -->
           <tr data-guest="Scott Cooper Mercy Orthopedic Hip Fracture CJR-X" data-status="complete">
             <td><strong>Ep 09</strong></td>
-            <td><a href="/assets/thumbnails/ep09-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep09-thumbnail.png" alt="Ep 09 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep09-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep09-thumbnail.png" alt="Ep 09 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Dr. Scott Cooper</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">Orthopedic Surgeon, Mercy Health</span>
@@ -334,7 +334,7 @@ format:
           <!-- Ep 10 -->
           <tr data-guest="Sandra Scott One Brooklyn Health Safety Net" data-status="complete">
             <td><strong>Ep 10</strong></td>
-            <td><a href="/assets/thumbnails/ep10-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep10-thumbnail.png" alt="Ep 10 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep10-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep10-thumbnail.png" alt="Ep 10 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Dr. Sandra Scott</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">CEO, One Brooklyn Health</span>
@@ -360,7 +360,7 @@ format:
           <!-- Ep 11 -->
           <tr data-guest="Cora Han UC Health Data Governance Responsible AI" data-status="complete">
             <td><strong>Ep 11</strong></td>
-            <td><a href="/assets/thumbnails/ep11-thumbnail.png" target="_blank"><img src="/assets/thumbnails/ep11-thumbnail.png" alt="Ep 11 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
+            <td><a href="assets/thumbnails/ep11-thumbnail.png" target="_blank"><img src="assets/thumbnails/ep11-thumbnail.png" alt="Ep 11 Thumbnail" class="table-thumb-preview" loading="lazy"></a></td>
             <td>
               <strong>Cora Han, JD</strong><br>
               <span style="font-size: 0.75rem; color: var(--hub-slate);">Chief Health Data Officer, UC Health</span>
@@ -399,7 +399,7 @@ format:
       <!-- CARD 11: Cora Han -->
       <article class="hub-card" data-card-guest="Cora Han UC Health Data Governance Responsible AI" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep11-thumbnail.png" alt="Ep 11 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep11-thumbnail.png" alt="Ep 11 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 11</span>
         </div>
         <div class="hub-card-body">
@@ -440,7 +440,7 @@ format:
       <!-- CARD 10: Sandra Scott -->
       <article class="hub-card" data-card-guest="Sandra Scott One Brooklyn Health Safety Net" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep10-thumbnail.png" alt="Ep 10 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep10-thumbnail.png" alt="Ep 10 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 10</span>
         </div>
         <div class="hub-card-body">
@@ -487,7 +487,7 @@ format:
       <!-- CARD 09: Scott Cooper -->
       <article class="hub-card" data-card-guest="Scott Cooper Mercy Orthopedics Hip Fracture" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep09-thumbnail.png" alt="Ep 09 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep09-thumbnail.png" alt="Ep 09 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 09</span>
         </div>
         <div class="hub-card-body">
@@ -534,7 +534,7 @@ format:
       <!-- CARD 08: Steve Schutzer -->
       <article class="hub-card" data-card-guest="Steve Schutzer CJRI Bundled Payments" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep08-thumbnail.png" alt="Ep 08 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep08-thumbnail.png" alt="Ep 08 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 08</span>
         </div>
         <div class="hub-card-body">
@@ -581,7 +581,7 @@ format:
       <!-- CARD 07: Mark Adams -->
       <article class="hub-card" data-card-guest="Mark Adams Two Bear Capital AI Nursing" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep07-thumbnail.png" alt="Ep 07 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep07-thumbnail.png" alt="Ep 07 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 07</span>
         </div>
         <div class="hub-card-body">
@@ -628,7 +628,7 @@ format:
       <!-- CARD 06: Steve Ganyard -->
       <article class="hub-card" data-card-guest="Steve Ganyard State Department Market Discipline" data-card-status="pending">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep06-thumbnail.png" alt="Ep 06 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep06-thumbnail.png" alt="Ep 06 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 06</span>
         </div>
         <div class="hub-card-body">
@@ -675,7 +675,7 @@ format:
       <!-- CARD 05: Charlotte Yeh -->
       <article class="hub-card" data-card-guest="Charlotte Yeh AARP Care Plans How-To Gap" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep05-thumbnail.png" alt="Ep 05 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep05-thumbnail.png" alt="Ep 05 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 05</span>
         </div>
         <div class="hub-card-body">
@@ -722,7 +722,7 @@ format:
       <!-- CARD 04: Paul Uhrig -->
       <article class="hub-card" data-card-guest="Paul Uhrig Surescripts Legal Compliance Gainsharing" data-card-status="pending">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep04-thumbnail.png" alt="Ep 04 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep04-thumbnail.png" alt="Ep 04 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 04</span>
         </div>
         <div class="hub-card-body">
@@ -769,7 +769,7 @@ format:
       <!-- CARD 03: David Shulkin -->
       <article class="hub-card" data-card-guest="David Shulkin VA Veterans Affairs Policy" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep03-thumbnail.png" alt="Ep 03 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep03-thumbnail.png" alt="Ep 03 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 03</span>
         </div>
         <div class="hub-card-body">
@@ -816,7 +816,7 @@ format:
       <!-- CARD 02: Hemant Keny -->
       <article class="hub-card" data-card-guest="Hemant Keny Surgery Geriatric Cost Drivers" data-card-status="complete">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep02-thumbnail.png" alt="Ep 02 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep02-thumbnail.png" alt="Ep 02 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 02</span>
         </div>
         <div class="hub-card-body">
@@ -863,7 +863,7 @@ format:
       <!-- CARD 01: Bradley Heiges -->
       <article class="hub-card" data-card-guest="Bradley Heiges Jessica Ohlssen Orthopedics" data-card-status="pending">
         <div class="hub-card-thumb-wrap">
-          <img src="/assets/thumbnails/ep01-thumbnail.png" alt="Ep 01 Thumbnail" loading="lazy">
+          <img src="assets/thumbnails/ep01-thumbnail.png" alt="Ep 01 Thumbnail" loading="lazy">
           <span class="hub-card-ep-pill">Episode 01</span>
         </div>
         <div class="hub-card-body">

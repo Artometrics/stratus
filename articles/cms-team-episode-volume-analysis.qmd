@@ -26,7 +26,7 @@ format:
 
         <div class="article-byline">
           <div class="byline-authors">
-            <span class="author-chip"><img src="/assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
+            <span class="author-chip"><img src="../assets/authors/eddie-qureshi.png" alt="Jennifer Tim-Diamond" class="author-avatar"> <span>Jennifer Tim-Diamond</span></span>
           </div>
           <span class="byline-dot">&middot;</span>
           <span class="byline-date">July 22, 2026</span>
@@ -43,7 +43,7 @@ format:
         </div>
       </header>
 
-      <img src="/assets/media/imported/banner-episode-volume.jpg" alt="CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries" class="article-hero-image">
+      <img src="../assets/media/imported/banner-episode-volume.jpg" alt="CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries" class="article-hero-image">
 
       <div class="article-body">
 ```
@@ -157,48 +157,48 @@ SHFFT (surgical hip and femur fracture treatment) averages 63% of its $46,615 ep
       <ul class="blog-featured__list">
         
               <li>
-                <a href="../articles/the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
-                  <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="the-trust-gap-health-data-governance-cora-han.html" class="blog-featured__link">
+                  <img src="../assets/media/the-trust-gap-cora-han-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
-                  <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="cms-team-safety-net-hospitals-sandra-scott.html" class="blog-featured__link">
+                  <img src="../assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/hip-fracture-home-scott-cooper.html" class="blog-featured__link">
-                  <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="hip-fracture-home-scott-cooper.html" class="blog-featured__link">
+                  <img src="../assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
-                  <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="rainfall-health-adds-three-new-rain-compliant-partners.html" class="blog-featured__link">
+                  <img src="../assets/media/rain-ecosystem-partners-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
-                  <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="bundled-payment-analytics-steve-schutzer.html" class="blog-featured__link">
+                  <img src="../assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data</span>
                 </a>
               </li>
             
 
               <li>
-                <a href="../articles/ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
-                  <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
+                <a href="ai-leverage-mark-adams-two-bear-capital.html" class="blog-featured__link">
+                  <img src="../assets/media/ai-leverage-mark-adams.jpg" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI</span>
                 </a>
               </li>

@@ -68,34 +68,48 @@ body {
   font-weight: 500 !important;
   font-size: 0.9375rem !important;
   padding: 0.5rem 0.875rem !important;
-  transition: color 0.15s ease !important;
+  border-radius: 8px !important;
+  transition: all 0.15s ease !important;
 }
 
 .navbar .navbar-nav .nav-link:hover,
-.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .nav-link:focus {
+  color: var(--color-brand-blue) !important;
+  background-color: var(--color-brand-gray-50, #f8fafc) !important;
+}
+
 .navbar .navbar-nav .nav-link.active {
   color: var(--color-brand-blue) !important;
+  background-color: var(--color-brand-sky, #eff6ff) !important;
+  font-weight: 700 !important;
 }
 
 /* "Request a Demo" button on right side of nav */
+.navbar .nav-link[href*="schedule-a-demo"],
 .nav-btn-demo {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.45rem 1rem;
-  border: 1px solid var(--color-brand-navy);
-  border-radius: 9999px;
-  font-size: 0.875rem;
-  font-weight: 600;
-  color: var(--color-brand-navy) !important;
-  text-decoration: none;
-  transition: all 0.15s ease;
-  margin-left: 0.75rem;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0.45rem 1.15rem !important;
+  border: 1px solid var(--color-brand-navy) !important;
+  border-radius: 9999px !important;
+  font-size: 0.875rem !important;
+  font-weight: 600 !important;
+  color: #ffffff !important;
+  background-color: var(--color-brand-navy) !important;
+  text-decoration: none !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) !important;
+  transition: all 0.15s ease !important;
+  margin-left: 0.75rem !important;
 }
 
+.navbar .nav-link[href*="schedule-a-demo"]:hover,
 .nav-btn-demo:hover {
-  background-color: var(--color-brand-navy);
+  background-color: var(--color-brand-blue) !important;
+  border-color: var(--color-brand-blue) !important;
   color: #ffffff !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px -1px rgba(43, 98, 231, 0.2) !important;
 }
 
 /* Main Site Container */
@@ -956,3 +970,244 @@ body {
   .blog-expandable-image__dialog[open] {
     display: flex;
     align-items: center;
+    justify-content: center;
+  }
+
+  .blog-expandable-image__dialog img {
+    max-width: 92vw;
+    max-height: 92vh;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* =====================================================================
+   SHADCN-INSPIRED DESIGN SYSTEM TOKENS & COMPONENTS ("Shade UI")
+   ===================================================================== */
+
+/* Dropdown Menu Styling (Shadcn Popover / Menu standard) */
+.dropdown-menu {
+  background-color: #ffffff !important;
+  border: 1px solid var(--color-brand-gray-200, #e2e8f0) !important;
+  border-radius: 12px !important;
+  padding: 0.375rem !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04) !important;
+  margin-top: 0.5rem !important;
+  min-width: 220px !important;
+  animation: scDropdownFadeIn 0.15s ease-out;
+}
+
+@keyframes scDropdownFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.dropdown-item {
+  border-radius: 6px !important;
+  padding: 0.5rem 0.85rem !important;
+  font-size: 0.875rem !important;
+  font-weight: 500 !important;
+  color: var(--color-brand-navy, #1e293b) !important;
+  transition: all 0.15s ease !important;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background-color: var(--color-brand-sky, #eff6ff) !important;
+  color: var(--color-brand-blue, #2b62e7) !important;
+}
+
+.dropdown-header {
+  font-size: 0.6875rem !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.08em !important;
+  color: var(--color-brand-gray-400, #94a3b8) !important;
+  padding: 0.6rem 0.85rem 0.25rem !important;
+}
+
+.dropdown-divider {
+  border-top: 1px solid var(--color-brand-gray-200, #e2e8f0) !important;
+  margin: 0.35rem 0 !important;
+}
+
+/* Base Cards (Shadcn Card aesthetic) */
+.rf-card {
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border: 1px solid var(--color-brand-gray-200, #e2e8f0);
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.04), 0 1px 2px -1px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+}
+
+.rf-card:hover {
+  transform: translateY(-2px);
+  border-color: #cbd5e1;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.07), 0 4px 6px -4px rgba(0, 0, 0, 0.03);
+  text-decoration: none;
+}
+
+.rf-card:hover h3,
+.rf-card:hover h4 {
+  color: var(--color-brand-blue, #2b62e7) !important;
+}
+
+.rf-card-kicker {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+  display: block;
+}
+
+/* Shadcn Metric / KPI Card */
+.sc-metric-card {
+  background: #ffffff;
+  border: 1px solid var(--color-brand-gray-200, #e2e8f0);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.03);
+  transition: all 0.2s ease;
+}
+
+.sc-metric-card:hover {
+  border-color: #cbd5e1;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.sc-metric-kicker {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-brand-blue, #2b62e7);
+  margin-bottom: 0.35rem;
+}
+
+.sc-metric-val {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: var(--color-brand-navy, #0f172a);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.sc-metric-sub {
+  font-size: 0.875rem;
+  color: var(--color-brand-gray-500, #64748b);
+  margin-top: 0.35rem;
+  line-height: 1.4;
+}
+
+/* Shadcn Pill Badges */
+.sc-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.sc-badge--blue {
+  background-color: var(--color-brand-sky, #eff6ff);
+  color: var(--color-brand-blue, #2b62e7);
+  border: 1px solid #bfdbfe;
+}
+
+.sc-badge--navy {
+  background-color: var(--color-brand-gray-100, #f1f5f9);
+  color: var(--color-brand-navy, #1e293b);
+  border: 1px solid var(--color-brand-gray-200, #e2e8f0);
+}
+
+.sc-badge--emerald {
+  background-color: #ecfdf5;
+  color: #059669;
+  border: 1px solid #a7f3d0;
+}
+
+.sc-badge--amber {
+  background-color: #fffbeb;
+  color: #d97706;
+  border: 1px solid #fde68a;
+}
+
+/* Shadcn Button Components */
+.sc-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 0.6rem 1.15rem;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  line-height: 1;
+}
+
+.sc-button--primary {
+  background-color: var(--color-brand-blue, #2b62e7);
+  color: #ffffff !important;
+  border: 1px solid var(--color-brand-blue, #2b62e7);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+.sc-button--primary:hover {
+  background-color: var(--color-brand-blue-dark, #1d4ed8);
+  border-color: var(--color-brand-blue-dark, #1d4ed8);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px -1px rgba(43, 98, 231, 0.2);
+}
+
+.sc-button--outline {
+  background-color: #ffffff;
+  color: var(--color-brand-navy, #1e293b) !important;
+  border: 1px solid var(--color-brand-gray-200, #e2e8f0);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.02);
+}
+
+.sc-button--outline:hover {
+  background-color: var(--color-brand-gray-50, #f8fafc);
+  border-color: #cbd5e1;
+  color: var(--color-brand-blue, #2b62e7) !important;
+}
+
+/* Section Header Bar with Shadcn Accent */
+.sc-section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--color-brand-navy, #1e293b);
+}
+
+.sc-section-title {
+  font-size: 1.125rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-brand-navy, #1e293b);
+  margin: 0;
+}

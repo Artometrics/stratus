@@ -24,7 +24,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/the-trust-gap-health-data-governance-cora-han.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/the-trust-gap-cora-han-banner.jpg" alt="The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions" class="media-card__image" loading="lazy">
+              <img src="assets/media/the-trust-gap-cora-han-banner.jpg" alt="The Trust Gap: Cora Han on Health Data Governance, Responsible AI, and Care Transitions" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">October 05, 2026</time>
@@ -41,7 +41,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/cms-team-safety-net-hospitals-sandra-scott.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?" class="media-card__image" loading="lazy">
+              <img src="assets/media/cms-team-safety-net-hospitals-sandra-scott-banner.jpg" alt="How Is the CMS TEAM Model Reshaping Leadership at Safety Net Hospitals?" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">September 28, 2026</time>
@@ -58,7 +58,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/hip-fracture-home-scott-cooper.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode" class="media-card__image" loading="lazy">
+              <img src="assets/media/hip-fracture-home-scott-cooper-banner.jpg" alt="Patients Do Better at Home: Dr. Scott Cooper on Hip Fractures, TEAM, and the 90-Day Episode" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">September 23, 2026</time>
@@ -75,7 +75,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/rainfall-health-adds-three-new-rain-compliant-partners.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/rain-ecosystem-partners-banner.jpg" alt="Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates" class="media-card__image" loading="lazy">
+              <img src="assets/media/rain-ecosystem-partners-banner.jpg" alt="Rainfall Health Adds Three New Partners to its Verified Ecosystem to Help Hospitals Meet Federal CMS Mandates" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">September 22, 2026</time>
@@ -92,7 +92,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/bundled-payment-analytics-steve-schutzer.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data" class="media-card__image" loading="lazy">
+              <img src="assets/media/bundled-payment-analytics-steve-schutzer-banner.jpg" alt="Physician-Led Bundled Payments Work: Dr. Steve Schutzer on 20 Years of Joint Replacement Data" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">September 09, 2026</time>
@@ -109,7 +109,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/ai-leverage-mark-adams-two-bear-capital.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/ai-leverage-mark-adams.jpg" alt="AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI" class="media-card__image" loading="lazy">
+              <img src="assets/media/ai-leverage-mark-adams.jpg" alt="AI Won't Replace Nurses — It Will Give Them Leverage: Mark Adams on the Future of Healthcare AI" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">September 01, 2026</time>
@@ -126,7 +126,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/hospitals-that-will-win-on-cms-team-have-already-started.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/mayo-team-readiness-banner.jpg" alt="The Hospitals That Will Win on CMS TEAM Have Already Started" class="media-card__image" loading="lazy">
+              <img src="assets/media/mayo-team-readiness-banner.jpg" alt="The Hospitals That Will Win on CMS TEAM Have Already Started" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">September 01, 2026</time>
@@ -143,7 +143,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/market-discipline-steve-ganyard.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/market-discipline-steve-ganyard.jpg" alt="Market Discipline Finally Arrives: Steve Ganyard on CMS TEAM, Carrots and Sticks, and AI That Stays Human-First" class="media-card__image" loading="lazy">
+              <img src="assets/media/market-discipline-steve-ganyard.jpg" alt="Market Discipline Finally Arrives: Steve Ganyard on CMS TEAM, Carrots and Sticks, and AI That Stays Human-First" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">August 31, 2026</time>
@@ -160,7 +160,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/why-medicare-patients-dont-follow-care-plans-how-to-gap.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/how-to-gap-charlotte-yeh.jpg" alt="Why Don't Medicare Patients Follow Their Care Plans? Closing Healthcare's 'How-To Gap" class="media-card__image" loading="lazy">
+              <img src="assets/media/how-to-gap-charlotte-yeh.jpg" alt="Why Don't Medicare Patients Follow Their Care Plans? Closing Healthcare's 'How-To Gap" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">August 23, 2026</time>
@@ -177,7 +177,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cjr-x-mandatory-bundled-payment-2028.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/cjr-x-mandatory-bundled-payment-2028-banner.png" alt="CJR-X: The $725 Million Bet Coming for Every Hospital Not Already Under CMS TEAM" class="media-card__image" loading="lazy">
+              <img src="assets/media/cjr-x-mandatory-bundled-payment-2028-banner.png" alt="CJR-X: The $725 Million Bet Coming for Every Hospital Not Already Under CMS TEAM" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">August 10, 2026</time>
@@ -194,7 +194,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/compliance-risk-hiding-in-plain-sight-under-team.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/cms-team-compliance-risk-banner.png" alt="The Compliance Risk Hiding in Plain Sight Under CMS TEAM" class="media-card__image" loading="lazy">
+              <img src="assets/media/cms-team-compliance-risk-banner.png" alt="The Compliance Risk Hiding in Plain Sight Under CMS TEAM" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">August 05, 2026</time>
@@ -211,7 +211,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/why-cms-team-turned-mandatory-shulkin.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/cms-team-shulkin-banner.png" alt="Why Did CMS TEAM Turn Mandatory? A Former VA Secretary Explains the Calendar and the Math" class="media-card__image" loading="lazy">
+              <img src="assets/media/cms-team-shulkin-banner.png" alt="Why Did CMS TEAM Turn Mandatory? A Former VA Secretary Explains the Calendar and the Math" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 23, 2026</time>
@@ -228,7 +228,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/adventhealth-cms-team-network-guide.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-state-florida.jpg" alt="AdventHealth Under CMS TEAM: Florida Density and Sun Belt Episode Strategy" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-state-florida.jpg" alt="AdventHealth Under CMS TEAM: Florida Density and Sun Belt Episode Strategy" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -245,7 +245,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/bpci-advanced-outcomes-vs-team.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-bpci-vs-team.jpg" alt="BPCI Advanced Saved Medicare $465 Million: What TEAM Can Learn" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-bpci-vs-team.jpg" alt="BPCI Advanced Saved Medicare $465 Million: What TEAM Can Learn" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -262,7 +262,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-episode-costs-analysis.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-episode-costs.jpg" alt="What a CMS TEAM Episode Actually Costs: $24K to $53K Depending on Procedure" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-episode-costs.jpg" alt="What a CMS TEAM Episode Actually Costs: $24K to $53K Depending on Procedure" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -279,7 +279,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-episode-volume-analysis.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-episode-volume.jpg" alt="CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-episode-volume.jpg" alt="CMS TEAM by Procedure: 204,000 Episodes, Five Surgeries" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -296,7 +296,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-five-procedure-categories-explained.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-episode-volume.jpg" alt="CMS TEAM’s Five Procedure Categories Explained for Surgeons and CFOs" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-episode-volume.jpg" alt="CMS TEAM’s Five Procedure Categories Explained for Surgeons and CFOs" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -313,7 +313,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-track-comparison.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-track-comparison.jpg" alt="CMS TEAM Track 1 vs. Track 2 vs. Track 3: Which Is Right for Your Hospital?" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-track-comparison.jpg" alt="CMS TEAM Track 1 vs. Track 2 vs. Track 3: Which Is Right for Your Hospital?" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -330,7 +330,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/fee-for-service-vs-value-based-care.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-fee-for-service-vs-vbc.jpg" alt="Fee-for-Service vs. Value-Based Care: A Hospital CFO's Guide" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-fee-for-service-vs-vbc.jpg" alt="Fee-for-Service vs. Value-Based Care: A Hospital CFO's Guide" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -347,7 +347,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/hca-healthcare-cms-team-network-guide.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-state-tennessee.jpg" alt="HCA Healthcare Under CMS TEAM: Multi-State Density and the TriStar Playbook" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-state-tennessee.jpg" alt="HCA Healthcare Under CMS TEAM: Multi-State Density and the TriStar Playbook" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -364,7 +364,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/hospital-networks-cms-team-advantage.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-pathway-guide.jpg" alt="Which Hospital Networks Benefit Most Under CMS TEAM?" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-pathway-guide.jpg" alt="Which Hospital Networks Benefit Most Under CMS TEAM?" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -381,7 +381,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/hospital-readmissions-hrrp-team-analysis.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-hrrp-readmissions.jpg" alt="Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-hrrp-readmissions.jpg" alt="Hospital Readmissions and CMS TEAM: 48% of Hospital-Condition Pairs Are Still Failing the 30-Day Standard" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -398,7 +398,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/medicare-reimbursement-cms-team-2026.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-medicare-reimbursement.jpg" alt="Medicare Reimbursement in 2026: What CMS TEAM Changes for Your Hospital" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-medicare-reimbursement.jpg" alt="Medicare Reimbursement in 2026: What CMS TEAM Changes for Your Hospital" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -415,7 +415,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/value-based-care-software-platform-guide.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-vbc-software.jpg" alt="Value-Based Care Software: What to Look For in a CMS TEAM Platform" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-vbc-software.jpg" alt="Value-Based Care Software: What to Look For in a CMS TEAM Platform" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -432,7 +432,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/what-is-episode-of-care.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-episode-of-care.jpg" alt="What Is an Episode of Care? How CMS TEAM Defines the 30-Day Window" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-episode-of-care.jpg" alt="What Is an Episode of Care? How CMS TEAM Defines the 30-Day Window" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -449,7 +449,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/why-cms-team-hospital-counts-dont-match.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-myths-warning.jpg" alt="Why CMS TEAM Hospital Counts Don’t Match: 741, 721, and the Roster Confusion" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-myths-warning.jpg" alt="Why CMS TEAM Hospital Counts Don’t Match: 741, 721, and the Roster Confusion" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 22, 2026</time>
@@ -466,7 +466,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/geriatric-patients-cms-team-episode-costs.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/geriatric-cms-team-banner.png" alt="What Do Geriatric Patients Cost Under CMS TEAM — and What Can Hospitals Do About It?" class="media-card__image" loading="lazy">
+              <img src="assets/media/geriatric-cms-team-banner.png" alt="What Do Geriatric Patients Cost Under CMS TEAM — and What Can Hospitals Do About It?" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 21, 2026</time>
@@ -483,7 +483,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/reflections-from-two-days-on-capitol-hill.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/capitol-hill-reflections-banner.jpg" alt="Reflections from Two Days on Capitol Hill" class="media-card__image" loading="lazy">
+              <img src="assets/media/capitol-hill-reflections-banner.jpg" alt="Reflections from Two Days on Capitol Hill" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 16, 2026</time>
@@ -500,7 +500,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/what-hospitals-get-wrong-about-cms-team.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-myths-warning.jpg" alt="What Hospitals Are Getting Wrong About CMS TEAM: An Analysis" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-myths-warning.jpg" alt="What Hospitals Are Getting Wrong About CMS TEAM: An Analysis" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 11, 2026</time>
@@ -517,7 +517,7 @@ format:
         <div class="research-card" data-group="report">
           <a href="articles/cms-team-explained-for-hospital-ceos.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-pathway-guide.jpg" alt="CMS TEAM Explained for Hospital CEOs: What It Means, What’s at Stake, and What to Do" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-pathway-guide.jpg" alt="CMS TEAM Explained for Hospital CEOs: What It Means, What’s at Stake, and What to Do" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 09, 2026</time>
@@ -534,7 +534,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/the-week-in-bundled-payments.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/bundled-payments-banner.jpg" alt="The Week in Bundled Payments" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/bundled-payments-banner.jpg" alt="The Week in Bundled Payments" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 08, 2026</time>
@@ -551,7 +551,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-compliance-checklist.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-checklist-clipboard.jpg" alt="CMS TEAM Compliance Checklist: 12 Things Every Mandated Hospital Must Have in Place" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-checklist-clipboard.jpg" alt="CMS TEAM Compliance Checklist: 12 Things Every Mandated Hospital Must Have in Place" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 06, 2026</time>
@@ -568,7 +568,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-update-fy2027-rule-cjr-x.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-comparison-docs.jpg" alt="CMS TEAM Update: What the Latest Medicare Reimbursement Guidance Means for Mandated Hospitals" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-comparison-docs.jpg" alt="CMS TEAM Update: What the Latest Medicare Reimbursement Guidance Means for Mandated Hospitals" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 03, 2026</time>
@@ -585,7 +585,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-hospital-leaders-qa-shulkin.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-qa-people.jpg" alt="What CMS TEAM Means for Hospital Leaders: A Q&A with Dr. David Shulkin" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-qa-people.jpg" alt="What CMS TEAM Means for Hospital Leaders: A Q&A with Dr. David Shulkin" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">July 01, 2026</time>
@@ -602,7 +602,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-common-misconceptions.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-myths-warning.jpg" alt="5 Common Misconceptions About CMS TEAM That Could Cost Your Hospital Millions" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-myths-warning.jpg" alt="5 Common Misconceptions About CMS TEAM That Could Cost Your Hospital Millions" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 29, 2026</time>
@@ -619,7 +619,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-statistics-by-the-numbers.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-financial-chart.jpg" alt="CMS TEAM by the Numbers: Key Statistics Every Mandated Hospital Should Know" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-financial-chart.jpg" alt="CMS TEAM by the Numbers: Key Statistics Every Mandated Hospital Should Know" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 26, 2026</time>
@@ -636,7 +636,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/how-to-prepare-for-cms-team.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-roadmap-steps.jpg" alt="How to Prepare for CMS TEAM: A Step-by-Step Compliance Roadmap for Mandated Hospitals" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-roadmap-steps.jpg" alt="How to Prepare for CMS TEAM: A Step-by-Step Compliance Roadmap for Mandated Hospitals" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 24, 2026</time>
@@ -653,7 +653,7 @@ format:
         <div class="research-card" data-group="podcast">
           <a href="articles/navigating-the-cms-team-mandate-ebook.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/webinar-team-mandate/hero-journey.png" alt="Navigating the CMS TEAM Mandate: A Hospital Leader's Webinar Guide" class="media-card__image" loading="lazy">
+              <img src="assets/media/webinar-team-mandate/hero-journey.png" alt="Navigating the CMS TEAM Mandate: A Hospital Leader's Webinar Guide" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 23, 2026</time>
@@ -670,7 +670,7 @@ format:
         <div class="research-card" data-group="report">
           <a href="articles/cms-team-medicare-reimbursement-cfo-guide.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-financial-chart.jpg" alt="How CMS TEAM Affects Medicare Reimbursement: What Hospital CFOs Need to Know in 2026" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-financial-chart.jpg" alt="How CMS TEAM Affects Medicare Reimbursement: What Hospital CFOs Need to Know in 2026" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 22, 2026</time>
@@ -687,7 +687,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-vs-cjr-x-comparison.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-comparison-docs.jpg" alt="CMS TEAM vs. CJR-X: What's the Difference and Which Hospitals Are Affected?" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-comparison-docs.jpg" alt="CMS TEAM vs. CJR-X: What's the Difference and Which Hospitals Are Affected?" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 17, 2026</time>
@@ -704,7 +704,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/rainfall-comments-on-cjr-x-and-team.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/cms-cjr-x-team-comments.png" alt="Rainfall Health Submits Comments on CMS Proposed Rules for CJR-X and TEAM, Applauding the Continued Move to Value-Based Payment" class="media-card__image" loading="lazy">
+              <img src="assets/media/cms-cjr-x-team-comments.png" alt="Rainfall Health Submits Comments on CMS Proposed Rules for CJR-X and TEAM, Applauding the Continued Move to Value-Based Payment" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 17, 2026</time>
@@ -721,7 +721,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-team-model-explained-guide.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/imported/banner-pathway-guide.jpg" alt="CMS TEAM for Mandated Hospitals: Who Is In, What Is Covered, How to Prepare" class="media-card__image" loading="lazy">
+              <img src="assets/media/imported/banner-pathway-guide.jpg" alt="CMS TEAM for Mandated Hospitals: Who Is In, What Is Covered, How to Prepare" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 15, 2026</time>
@@ -738,7 +738,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/the-clinical-conscience-of-a-tech-company.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/general/clinical-conscience-banner.png" alt="The Clinical Conscience of a Tech Company" class="media-card__image" loading="lazy">
+              <img src="assets/media/general/clinical-conscience-banner.png" alt="The Clinical Conscience of a Tech Company" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 04, 2026</time>
@@ -755,7 +755,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/cms-issues-letters-to-nearly-15-of-hospitals-nationwide-outlining-pricing-targets-and-quality-scores-for-team-implementation.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/cms-issues-letters.jpg" alt="CMS Issues Letters to Nearly 15% of Hospitals Nationwide Outlining Pricing Targets and Quality Scores for TEAM Implementation" class="media-card__image" loading="lazy">
+              <img src="assets/media/cms-issues-letters.jpg" alt="CMS Issues Letters to Nearly 15% of Hospitals Nationwide Outlining Pricing Targets and Quality Scores for TEAM Implementation" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">November 17, 2025</time>
@@ -772,7 +772,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/the-team-playbook-what-healthcare-executives-can-learn-from-nfl-coaches.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/team-playbook.jpg" alt="The TEAM Playbook: What Healthcare Executives Can Learn from NFL Coaches" class="media-card__image" loading="lazy">
+              <img src="assets/media/team-playbook.jpg" alt="The TEAM Playbook: What Healthcare Executives Can Learn from NFL Coaches" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">October 01, 2025</time>
@@ -789,7 +789,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/revolutionizing-healthcare-frameworks-with-generative-ai.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/revolutionizing-healthcare.jpg" alt="Revolutionizing Healthcare Frameworks with Generative AI" class="media-card__image" loading="lazy">
+              <img src="assets/media/revolutionizing-healthcare.jpg" alt="Revolutionizing Healthcare Frameworks with Generative AI" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">September 20, 2024</time>
@@ -806,7 +806,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/bridging-the-gap-rural-health-needs-technology-tools-too.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/bridging-the-gap.jpg" alt="Bridging the Gap: Rural Health Needs Technology Tools, Too" class="media-card__image" loading="lazy">
+              <img src="assets/media/bridging-the-gap.jpg" alt="Bridging the Gap: Rural Health Needs Technology Tools, Too" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">June 15, 2024</time>
@@ -823,7 +823,7 @@ format:
         <div class="research-card" data-group="article">
           <a href="articles/rural-america-and-disproportionate-access-to-healthcare-and-how-we-fix-the-infrastructure.html" class="media-card">
             <div class="media-card__image-wrap">
-              <img src="/assets/media/rural-america.jpg" alt="Rural America and Disproportionate Access to Healthcare and How We Fix The Infrastructure!" class="media-card__image" loading="lazy">
+              <img src="assets/media/rural-america.jpg" alt="Rural America and Disproportionate Access to Healthcare and How We Fix The Infrastructure!" class="media-card__image" loading="lazy">
             </div>
             <div class="media-card__content">
               <time class="media-card__date">April 10, 2024</time>

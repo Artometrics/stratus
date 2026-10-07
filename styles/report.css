@@ -82,7 +82,7 @@ h4,
   color: var(--rain-blue);
 }
 
-h2 {
+.content:has(.wp-cover) h2 {
   border-left: 3px solid var(--rain-blue);
   padding-left: 0.65rem;
   margin-top: 2rem;
@@ -95,8 +95,8 @@ h3 {
 
 #quarto-document-content strong,
 #quarto-document-content b {
-  color: var(--rain-blue);
-  font-weight: 600;
+  color: inherit;
+  font-weight: 700;
 }
 
 .wp-cover {

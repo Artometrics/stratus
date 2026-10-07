@@ -13,28 +13,29 @@ import glob
 from datetime import datetime
 
 SRC_DIR = "/Users/kylemcauliffe/code/rainfall-corp-website/src/content/blog"
-DEST_DIR = "/Users/kylemcauliffe/stratus/articles"
-MEDIA_DIR = "/Users/kylemcauliffe/stratus"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEST_DIR = os.path.join(BASE_DIR, "articles")
+MEDIA_DIR = BASE_DIR
 
 os.makedirs(DEST_DIR, exist_ok=True)
 
 AUTHOR_AVATARS = {
-    "Ahmed Qureshi": "/assets/authors/eddie-qureshi.png",
-    'Ahmed "Eddie" Qureshi': "/assets/authors/eddie-qureshi.png",
-    "Dr. David Shulkin": "/assets/authors/david-shulkin.png",
-    "David Shulkin": "/assets/authors/david-shulkin.png",
-    "Dr. Hemant Keny": "/assets/authors/hemant-keny.png",
-    "Paul Hammer": "/assets/authors/paul-hammer.png",
-    "Paul Uhrig": "/assets/authors/paul-uhrig.jpg",
-    "Dr. Charlotte Yeh": "/assets/authors/charlotte-yeh.png",
-    "Steve Ganyard": "/assets/authors/steve-ganyard.jpg",
-    "Mark Adams": "/assets/authors/mark-adams.webp",
-    "Dr. Steve Schutzer": "/assets/authors/steve-schutzer.jpg",
-    "Dr. Scott Cooper": "/assets/authors/scott-cooper.png",
-    "Dr. Sandra Scott": "/assets/authors/sandra-scott.jpg",
-    "Cora Han": "/assets/authors/cora-han.png",
-    "Cora Han, JD": "/assets/authors/cora-han.png",
-    "Rainfall Health": "/assets/rainfall-logo.svg",
+    "Ahmed Qureshi": "assets/authors/eddie-qureshi.png",
+    'Ahmed "Eddie" Qureshi': "assets/authors/eddie-qureshi.png",
+    "Dr. David Shulkin": "assets/authors/david-shulkin.png",
+    "David Shulkin": "assets/authors/david-shulkin.png",
+    "Dr. Hemant Keny": "assets/authors/hemant-keny.png",
+    "Paul Hammer": "assets/authors/paul-hammer.png",
+    "Paul Uhrig": "assets/authors/paul-uhrig.jpg",
+    "Dr. Charlotte Yeh": "assets/authors/charlotte-yeh.png",
+    "Steve Ganyard": "assets/authors/steve-ganyard.jpg",
+    "Mark Adams": "assets/authors/mark-adams.webp",
+    "Dr. Steve Schutzer": "assets/authors/steve-schutzer.jpg",
+    "Dr. Scott Cooper": "assets/authors/scott-cooper.png",
+    "Dr. Sandra Scott": "assets/authors/sandra-scott.jpg",
+    "Cora Han": "assets/authors/cora-han.png",
+    "Cora Han, JD": "assets/authors/cora-han.png",
+    "Rainfall Health": "assets/rainfall-logo.svg",
 }
 
 def parse_frontmatter(text):
@@ -227,13 +228,16 @@ def main():
         tags = art["tags"]
         ebook = art["ebook"]
         body = art["body"]
+        body = re.sub(r'(src=["\'])/?assets/', r'\1../assets/', body)
+        body = re.sub(r'(\]\()/assets/', r'\1../assets/', body)
         
         # Parse authors (split by &)
         import html
         author_names = [a.strip() for a in re.split(r"\s*&\s*", author) if a.strip()]
         author_chips = []
         for a_name in author_names:
-            av = AUTHOR_AVATARS.get(a_name, "/assets/authors/eddie-qureshi.png")
+            av_rel = AUTHOR_AVATARS.get(a_name, "assets/authors/eddie-qureshi.png").lstrip("/")
+            av = f"../{av_rel}"
             author_chips.append(f'<span class="author-chip"><img src="{av}" alt="{html.escape(a_name, quote=True)}" class="author-avatar"> <span>{a_name}</span></span>')
         authors_html = " ".join(author_chips)
         
@@ -253,10 +257,11 @@ def main():
         featured_items = [f for f in featured_pool if f["slug"] != slug][:6]
         sidebar_items_html = []
         for feat in featured_items:
-            f_img = feat["image"] or "/assets/media/hip-fracture-home-scott-cooper-banner.jpg"
+            f_img_rel = (feat["image"] or "assets/media/hip-fracture-home-scott-cooper-banner.jpg").lstrip("/")
+            f_img = f"../{f_img_rel}"
             sidebar_items_html.append(f'''
               <li>
-                <a href="../articles/{feat["slug"]}.html" class="blog-featured__link">
+                <a href="{feat["slug"]}.html" class="blog-featured__link">
                   <img src="{f_img}" alt="" class="blog-featured__thumb" loading="lazy">
                   <span class="blog-featured__title">{feat["title"]}</span>
                 </a>
@@ -264,7 +269,8 @@ def main():
             ''')
         featured_list_html = "\n".join(sidebar_items_html)
 
-        hero_img_html = f'<img src="{img}" alt="{title}" class="article-hero-image">' if img else ""
+        hero_img_path = f"../{img.lstrip('/')}" if img else ""
+        hero_img_html = f'<img src="{hero_img_path}" alt="{title}" class="article-hero-image">' if hero_img_path else ""
         subtitle_html = f'<p class="article-subtitle" style="font-size:1.15rem; color:#475569; margin-bottom:1.5rem; line-height:1.6;">{subtitle}</p>' if subtitle else ""
 
         qmd_content = f'''---
@@ -345,7 +351,7 @@ format:
     for art in articles:
         bg = art["blogGroup"]
         group_type = "podcast" if "podcast" in bg.lower() or "podcast" in art["title"].lower() else ("report" if "report" in bg.lower() or "cfo" in art["slug"] or "ceo" in art["slug"] else "article")
-        f_img = art["image"] or "/assets/media/hip-fracture-home-scott-cooper-banner.jpg"
+        f_img = (art["image"] or "assets/media/hip-fracture-home-scott-cooper-banner.jpg").lstrip("/")
         cards_html.append(f'''
         <div class="research-card" data-group="{group_type}">
           <a href="articles/{art["slug"]}.html" class="media-card">

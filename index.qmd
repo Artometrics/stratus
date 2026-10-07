@@ -20,6 +20,104 @@ format:
     </p>
   </header>
 
+  <!-- Departmental Operating Hub (Shadcn-style Quick Launcher) -->
+  <section style="margin-bottom: 4rem;">
+    <div class="sc-section-header">
+      <h2 class="sc-section-title">
+        Departmental Operating Portals
+      </h2>
+      <span style="font-size:0.875rem; color:var(--color-brand-gray-500); font-weight:500;">
+        Workspaces &amp; Production Tools
+      </span>
+    </div>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(340px, 1fr)); gap:1.25rem;">
+      <a href="studio.html" class="rf-card" style="border-top:3px solid #2B72E6;">
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:0.5rem;">
+          <span class="sc-badge sc-badge--blue">Marketing Suite</span>
+          <span style="font-size:1.25rem;">🎨</span>
+        </div>
+        <h3 style="font-size:1.2rem; font-weight:800; color:var(--color-brand-navy); margin:0.25rem 0 0.5rem;">Marketing Studio</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0; flex-grow:1;">
+          Multi-channel episode launch engine: Nano Banana thumbnail generator, YouTube SEO kits, LinkedIn copy, Transistor HTML show notes, and SRT subtitles.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:700; font-size:0.875rem; margin-top:1rem; display:inline-flex; align-items:center; gap:0.25rem;">
+          Open Studio &rarr;
+        </span>
+      </a>
+
+      <a href="sales.html" class="rf-card" style="border-top:3px solid #059669;">
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:0.5rem;">
+          <span class="sc-badge sc-badge--emerald">Commercial Intelligence</span>
+          <span style="font-size:1.25rem;">💼</span>
+        </div>
+        <h3 style="font-size:1.2rem; font-weight:800; color:var(--color-brand-navy); margin:0.25rem 0 0.5rem;">Sales Intelligence</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0; flex-grow:1;">
+          720 mandatory CMS TEAM hospital dataset, CFO value equation, objection playbooks, and downside financial exposure calculators.
+        </p>
+        <span style="color:#059669; font-weight:700; font-size:0.875rem; margin-top:1rem; display:inline-flex; align-items:center; gap:0.25rem;">
+          Access Sales Portal &rarr;
+        </span>
+      </a>
+
+      <a href="media.html" class="rf-card" style="border-top:3px solid #8B69FF;">
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:0.5rem;">
+          <span class="sc-badge sc-badge--navy">Knowledge Hub</span>
+          <span style="font-size:1.25rem;">📚</span>
+        </div>
+        <h3 style="font-size:1.2rem; font-weight:800; color:var(--color-brand-navy); margin:0.25rem 0 0.5rem;">Research &amp; Library</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0; flex-grow:1;">
+          Complete media index, 48 expert articles, podcast audio inventory with interactive player, and state CMS baseline whitepapers.
+        </p>
+        <span style="color:var(--color-brand-blue); font-weight:700; font-size:0.875rem; margin-top:1rem; display:inline-flex; align-items:center; gap:0.25rem;">
+          Explore Research &rarr;
+        </span>
+      </a>
+
+      <a href="design.html" class="rf-card" style="border-top:3px solid #f59e0b;">
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:0.5rem;">
+          <span class="sc-badge sc-badge--amber">Design System</span>
+          <span style="font-size:1.25rem;">✨</span>
+        </div>
+        <h3 style="font-size:1.2rem; font-weight:800; color:var(--color-brand-navy); margin:0.25rem 0 0.5rem;">Brand &amp; Design</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0; flex-grow:1;">
+          Rainfall brand palette with click-to-copy hex codes, vector logos, typography specifications, and Gemini AI image prompts.
+        </p>
+        <span style="color:#d97706; font-weight:700; font-size:0.875rem; margin-top:1rem; display:inline-flex; align-items:center; gap:0.25rem;">
+          View Design System &rarr;
+        </span>
+      </a>
+
+      <a href="engineering.html" class="rf-card" style="border-top:3px solid #0284c7;">
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:0.5rem;">
+          <span class="sc-badge sc-badge--blue">Data Infrastructure</span>
+          <span style="font-size:1.25rem;">⚙️</span>
+        </div>
+        <h3 style="font-size:1.2rem; font-weight:800; color:var(--color-brand-navy); margin:0.25rem 0 0.5rem;">Engineering</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0; flex-grow:1;">
+          CMS hospital master matching pipeline, R rollup analytics scripts, production schemas, and local Quarto build command reference.
+        </p>
+        <span style="color:#0284c7; font-weight:700; font-size:0.875rem; margin-top:1rem; display:inline-flex; align-items:center; gap:0.25rem;">
+          View Engineering &rarr;
+        </span>
+      </a>
+
+      <a href="management.html" class="rf-card" style="border-top:3px solid #6366f1;">
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:0.5rem;">
+          <span class="sc-badge sc-badge--navy">Executive Tracking</span>
+          <span style="font-size:1.25rem;">📊</span>
+        </div>
+        <h3 style="font-size:1.2rem; font-weight:800; color:var(--color-brand-navy); margin:0.25rem 0 0.5rem;">Management</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.55; margin:0; flex-grow:1;">
+          Release calendar, Episodes 1–11 distribution matrix across YouTube, Transistor &amp; LinkedIn, and production SOP checklists.
+        </p>
+        <span style="color:#6366f1; font-weight:700; font-size:0.875rem; margin-top:1rem; display:inline-flex; align-items:center; gap:0.25rem;">
+          Open Management &rarr;
+        </span>
+      </a>
+    </div>
+  </section>
+
   <!-- Featured Media & Blog Section -->
   <section style="margin-bottom: 4rem;">
     <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
