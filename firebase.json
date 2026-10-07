@@ -9,6 +9,16 @@
     ],
     "cleanUrls": true,
     "trailingSlash": false,
+    "rewrites": [
+      {
+        "source": "/california",
+        "destination": "/states/california/california.html"
+      },
+      {
+        "source": "/states/california",
+        "destination": "/states/california/california.html"
+      }
+    ],
     "headers": [
       {
         "source": "**/*.@(js|css)",
