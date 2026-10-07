@@ -26,6 +26,20 @@ class StudioRequestHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(BASE_DIR), **kwargs)
 
+    def translate_path(self, path):
+        clean_path = urlparse(path).path.lstrip('/')
+        if not clean_path or clean_path == "":
+            site_index = BASE_DIR / "_site" / "index.html"
+            if site_index.exists():
+                return str(site_index)
+        
+        # Check if requested in _site first
+        site_target = BASE_DIR / "_site" / clean_path
+        if site_target.exists():
+            return str(site_target)
+
+        return super().translate_path(path)
+
     def do_POST(self):
         parsed = urlparse(self.path)
         content_length = int(self.headers.get("Content-Length", 0))
