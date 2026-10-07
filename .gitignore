@@ -39,3 +39,4 @@ data/cache/
 /website/
 
 .firebase/
+firebase-debug.log
