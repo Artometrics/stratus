@@ -13,16 +13,22 @@ website:
   navbar:
     logo: assets/rainfall-logo.svg
     search: true
-    collapse-below: lg
+    collapse-below: xl
     left:
       - href: index.qmd
         text: Overview
-      - href: media.qmd
-        text: Media & Blog
-      - href: inventory.qmd
-        text: Inventory
-      - text: "State Reports"
+      - href: studio.qmd
+        text: "Marketing Studio"
+      - href: sales.qmd
+        text: Sales
+      - text: "Research & Library"
         menu:
+          - href: media.qmd
+            text: "Media & Podcast Series"
+          - href: inventory.qmd
+            text: "Podcast Knowledge Hub & Inventory"
+          - text: "---"
+          - text: "State Whitepapers"
           - href: states/california/california.qmd
             text: "California (White Paper)"
           - href: states/new-york/index.qmd
@@ -37,8 +43,8 @@ website:
             text: "Massachusetts"
           - href: states/pennsylvania/index.qmd
             text: "Pennsylvania"
-      - text: "Regions"
-        menu:
+          - text: "---"
+          - text: "Regional Briefings"
           - href: regions/northeast/index.qmd
             text: "Northeast"
           - href: regions/norcal-pnw-rockies/index.qmd
@@ -47,8 +53,8 @@ website:
             text: "South & Midwest"
           - href: regions/socal-southwest-gulf/index.qmd
             text: "SoCal & Southwest"
-      - text: "Newsletter"
-        menu:
+          - text: "---"
+          - text: "Investigative Reports"
           - href: newsletter/cjr-history-team-selection/index.qmd
             text: "CJR History & TEAM"
           - href: newsletter/the-one-hospital-towns/index.qmd
@@ -57,6 +63,12 @@ website:
             text: "Why LA Has One Hospital"
           - href: newsletter/modesto-the-market-that-lost-twice/index.qmd
             text: "Modesto Market Analysis"
+      - href: design.qmd
+        text: Design
+      - href: engineering.qmd
+        text: Engineering
+      - href: management.qmd
+        text: Management
     right:
       - text: "Request a Demo"
         href: "https://www.rainfallhealth.com/schedule-a-demo/"
@@ -64,8 +76,10 @@ website:
 format:
   html:
     theme: cosmo
+    page-layout: full
     css:
       - styles/report.css
       - styles/stratus-media.css
       - styles/inventory.css
+      - styles/studio.css
     smooth-scroll: true

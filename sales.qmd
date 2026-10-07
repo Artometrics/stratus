@@ -1,0 +1,144 @@
+---
+title: "Sales & Hospital Market Intelligence"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css:
+      - styles/report.css
+      - styles/stratus-media.css
+---
+
+```{=html}
+<div class="page-container" style="max-width:1150px; margin:0 auto; padding: 2rem 1.5rem 5rem;">
+  <header style="margin-bottom: 3rem;">
+    <div style="display:inline-flex; align-items:center; gap:0.5rem; padding:0.35rem 0.85rem; border-radius:9999px; background-color:#EAF1FC; color:#2B72E6; font-size:0.8125rem; font-weight:700; letter-spacing:0.05em; text-transform:uppercase; margin-bottom:0.75rem;">
+      💼 Commercial &amp; Enterprise Growth Toolkit
+    </div>
+    <h1 style="font-size: clamp(2.25rem, 4vw, 3rem); font-weight:800; color:var(--color-brand-navy); line-height:1.15; margin-bottom:0.75rem;">
+      Sales &amp; Hospital Market Intelligence
+    </h1>
+    <p style="font-size:1.125rem; color:var(--color-brand-gray-600); max-width:820px; line-height:1.6; margin:0;">
+      Commercial positioning, CFO value metrics, objection-handling playbooks, and market targeting intelligence for 720 mandatory CMS TEAM hospitals.
+    </p>
+  </header>
+
+  <!-- Key Metrics Row -->
+  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:1.25rem; margin-bottom: 3.5rem;">
+    <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.04);">
+      <div style="font-size:0.8125rem; font-weight:700; text-transform:uppercase; color:#2B72E6; margin-bottom:0.35rem;">Target Universe</div>
+      <div style="font-size:2.25rem; font-weight:800; color:var(--color-brand-navy);">720</div>
+      <div style="font-size:0.875rem; color:var(--color-brand-gray-500); margin-top:0.25rem;">Mandatory TEAM acute care hospitals</div>
+    </div>
+    <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.04);">
+      <div style="font-size:0.8125rem; font-weight:700; text-transform:uppercase; color:#2B72E6; margin-bottom:0.35rem;">Market Reach</div>
+      <div style="font-size:2.25rem; font-weight:800; color:var(--color-brand-navy);">188</div>
+      <div style="font-size:0.875rem; color:var(--color-brand-gray-500); margin-top:0.25rem;">Selected Metropolitan Core Areas</div>
+    </div>
+    <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.04);">
+      <div style="font-size:0.8125rem; font-weight:700; text-transform:uppercase; color:#2B72E6; margin-bottom:0.35rem;">Financial Exposure</div>
+      <div style="font-size:2.25rem; font-weight:800; color:var(--color-brand-navy);">$1.2M - $4.5M</div>
+      <div style="font-size:0.875rem; color:var(--color-brand-gray-500); margin-top:0.25rem;">Avg annual downside penalty risk per system</div>
+    </div>
+    <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.04);">
+      <div style="font-size:0.8125rem; font-weight:700; text-transform:uppercase; color:#2B72E6; margin-bottom:0.35rem;">Implementation Horizon</div>
+      <div style="font-size:2.25rem; font-weight:800; color:var(--color-brand-navy);">Jan 1, 2026</div>
+      <div style="font-size:0.875rem; color:var(--color-brand-gray-500); margin-top:0.25rem;">Mandatory performance baseline begins</div>
+    </div>
+  </div>
+
+  <!-- The Value Equation -->
+  <section style="margin-bottom: 4rem;">
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      The CFO Value Equation
+    </h2>
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:1.5rem;">
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.75rem;">
+        <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">1. Preventing Post-Acute Margin Leakage</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.6;">
+          Under TEAM, CMS penalizes hospitals up to 20% of episode spending for post-acute variance. By directing patients to verified home recovery rather than unnecessary SNF placement, hospitals protect $8,000 to $14,000 per episode.
+        </p>
+      </div>
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.75rem;">
+        <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">2. 30-Day Readmission Mitigation</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.6;">
+          Readmissions inside the 30-day window count directly against the hospital's target price reconciliation. Rainfall's R.A.I.N. compliance framework identifies medication non-adherence and wound complications in days 1–7.
+        </p>
+      </div>
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.75rem;">
+        <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">3. Surgeon &amp; Clinician Retention</h3>
+        <p style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.6;">
+          Orthopedic and cardiac surgical leaders demand transparent scorecards. Offering clinical autonomy backed by objective episode analytics cements surgeon alignment and prevents case migration to ambulatory surgery centers.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Objection-Handling Playbook -->
+  <section style="margin-bottom: 4rem;">
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      Objection-Handling Playbook
+    </h2>
+    <div style="display:flex; flex-direction:column; gap:1.25rem;">
+      <div style="background:#f8fafc; border:1px solid #e2e8f0; border-left:4px solid #2B72E6; border-radius:8px; padding:1.25rem 1.5rem;">
+        <div style="font-weight:700; color:var(--color-brand-navy); font-size:1rem; margin-bottom:0.35rem;">
+          Objection: "We performed fine in voluntary CJR, so TEAM won't be a problem."
+        </div>
+        <div style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.6;">
+          <strong>Response:</strong> CJR had a 90-day window with higher regional target baselines and generous quality discount adjustments. In TEAM, CMS compressed benchmarks, eliminated voluntary dropout options, and mandated 30-day accountability across 5 major surgical tracks simultaneously.
+        </div>
+      </div>
+
+      <div style="background:#f8fafc; border:1px solid #e2e8f0; border-left:4px solid #2B72E6; border-radius:8px; padding:1.25rem 1.5rem;">
+        <div style="font-weight:700; color:var(--color-brand-navy); font-size:1rem; margin-bottom:0.35rem;">
+          Objection: "Our EHR already tracks patient discharge."
+        </div>
+        <div style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.6;">
+          <strong>Response:</strong> EHR discharge planning ends when the patient exits the sliding glass doors. TEAM holds you financially responsible for the next 30 days. Stratus and Rainfall provide active adherence monitoring and early clinical escalation when patients are actually recovering at home.
+        </div>
+      </div>
+
+      <div style="background:#f8fafc; border:1px solid #e2e8f0; border-left:4px solid #2B72E6; border-radius:8px; padding:1.25rem 1.5rem;">
+        <div style="font-weight:700; color:var(--color-brand-navy); font-size:1rem; margin-bottom:0.35rem;">
+          Objection: "We don't have budget for new analytics platforms right now."
+        </div>
+        <div style="font-size:0.925rem; color:var(--color-brand-gray-600); line-height:1.6;">
+          <strong>Response:</strong> Avoiding a single unnecessary SNF readmission saves an average of $16,400. Rainfall's software and clinical network pay for themselves across the first 3 bundled episodes each month.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sales Collateral & Executive Downloads -->
+  <section>
+    <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin:0;">
+        Executive Leave-Behind Decks &amp; eBooks
+      </h2>
+      <a href="inventory.html" style="font-size:0.875rem; font-weight:600; color:#2B72E6; text-decoration:none;">
+        View All 11 eBooks &rarr;
+      </a>
+    </div>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:1.25rem;">
+      <a href="downloads/eBook_01_Bradley_Heiges_Navigating_CMS_TEAM_Mandate.pdf" class="rf-card">
+        <span style="font-size:0.75rem; font-weight:700; color:#2B72E6; text-transform:uppercase;">eBook 01 &middot; Executive Brief</span>
+        <h4 style="font-size:1.1rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">Navigating the CMS TEAM Mandate</h4>
+        <p style="font-size:0.875rem; color:var(--color-brand-gray-600); margin:0;">Bradley Heiges on operational readiness, downside risk mitigation, and target price calculations.</p>
+      </a>
+
+      <a href="downloads/eBook_08_Dr_Steve_Schutzer_At_the_Head_of_the_Table.pdf" class="rf-card">
+        <span style="font-size:0.75rem; font-weight:700; color:#2B72E6; text-transform:uppercase;">eBook 08 &middot; Clinical Governance</span>
+        <h4 style="font-size:1.1rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">At the Head of the Table</h4>
+        <p style="font-size:0.875rem; color:var(--color-brand-gray-600); margin:0;">Dr. Steve Schutzer on surgeon-led value models and orthopedic bundle performance.</p>
+      </a>
+
+      <a href="downloads/eBook_09_Dr_Scott_Cooper_Patients_Do_Better_at_Home.pdf" class="rf-card">
+        <span style="font-size:0.75rem; font-weight:700; color:#2B72E6; text-transform:uppercase;">eBook 09 &middot; Post-Acute Strategy</span>
+        <h4 style="font-size:1.1rem; font-weight:700; color:var(--color-brand-navy); margin:0.35rem 0;">Patients Do Better at Home</h4>
+        <p style="font-size:0.875rem; color:var(--color-brand-gray-600); margin:0;">Dr. Scott Cooper on hip fracture pathways and skilled nursing facility diversion.</p>
+      </a>
+    </div>
+  </section>
+</div>
+```

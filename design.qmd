@@ -1,0 +1,218 @@
+---
+title: "Design System & Brand Kit"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css:
+      - styles/report.css
+      - styles/stratus-media.css
+---
+
+```{=html}
+<div class="page-container" style="max-width:1150px; margin:0 auto; padding: 2rem 1.5rem 5rem;">
+  <header style="margin-bottom: 3rem;">
+    <div style="display:inline-flex; align-items:center; gap:0.5rem; padding:0.35rem 0.85rem; border-radius:9999px; background-color:#EAF1FC; color:#2B72E6; font-size:0.8125rem; font-weight:700; letter-spacing:0.05em; text-transform:uppercase; margin-bottom:0.75rem;">
+      🎨 Visual Identity &amp; Creative Guidelines
+    </div>
+    <h1 style="font-size: clamp(2.25rem, 4vw, 3rem); font-weight:800; color:var(--color-brand-navy); line-height:1.15; margin-bottom:0.75rem;">
+      Rainfall Health Design System &amp; Brand Kit
+    </h1>
+    <p style="font-size:1.125rem; color:var(--color-brand-gray-600); max-width:820px; line-height:1.6; margin:0;">
+      Official brand aesthetics, color palettes, vector asset downloads, and AI image generation prompts for all Stratus and Rainfall media.
+    </p>
+  </header>
+
+  <!-- Color Palette Section -->
+  <section style="margin-bottom: 4rem;">
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      Brand Color Palette
+    </h2>
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:1.25rem;">
+      <!-- Swatch 1 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; box-shadow:0 4px 6px -1px rgba(0,0,0,0.03);">
+        <div style="height:110px; background-color:#2B72E6;"></div>
+        <div style="padding:1rem;">
+          <div style="font-weight:700; color:var(--color-brand-navy); font-size:0.95rem;">Bright Sky Blue</div>
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.35rem;">
+            <code style="font-size:0.8125rem; color:#2B72E6; font-weight:700;">#2B72E6</code>
+            <button onclick="navigator.clipboard.writeText('#2B72E6'); this.innerText='✓'; setTimeout(()=>this.innerText='Copy',1500)" style="font-size:0.75rem; border:1px solid #e2e8f0; background:#f8fafc; border-radius:4px; padding:0.2rem 0.5rem; cursor:pointer;">Copy</button>
+          </div>
+          <div style="font-size:0.75rem; color:var(--color-brand-gray-500); margin-top:0.4rem;">Primary brand &amp; interactive accent</div>
+        </div>
+      </div>
+
+      <!-- Swatch 2 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; box-shadow:0 4px 6px -1px rgba(0,0,0,0.03);">
+        <div style="height:110px; background-color:#8FBAFF;"></div>
+        <div style="padding:1rem;">
+          <div style="font-weight:700; color:var(--color-brand-navy); font-size:0.95rem;">Clear Sky Blue</div>
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.35rem;">
+            <code style="font-size:0.8125rem; color:#2B72E6; font-weight:700;">#8FBAFF</code>
+            <button onclick="navigator.clipboard.writeText('#8FBAFF'); this.innerText='✓'; setTimeout(()=>this.innerText='Copy',1500)" style="font-size:0.75rem; border:1px solid #e2e8f0; background:#f8fafc; border-radius:4px; padding:0.2rem 0.5rem; cursor:pointer;">Copy</button>
+          </div>
+          <div style="font-size:0.75rem; color:var(--color-brand-gray-500); margin-top:0.4rem;">Secondary sky tone &amp; illustrations</div>
+        </div>
+      </div>
+
+      <!-- Swatch 3 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; box-shadow:0 4px 6px -1px rgba(0,0,0,0.03);">
+        <div style="height:110px; background-color:#EAF1FC; border-bottom:1px solid #e2e8f0;"></div>
+        <div style="padding:1rem;">
+          <div style="font-weight:700; color:var(--color-brand-navy); font-size:0.95rem;">Ice Blue</div>
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.35rem;">
+            <code style="font-size:0.8125rem; color:#2B72E6; font-weight:700;">#EAF1FC</code>
+            <button onclick="navigator.clipboard.writeText('#EAF1FC'); this.innerText='✓'; setTimeout(()=>this.innerText='Copy',1500)" style="font-size:0.75rem; border:1px solid #e2e8f0; background:#f8fafc; border-radius:4px; padding:0.2rem 0.5rem; cursor:pointer;">Copy</button>
+          </div>
+          <div style="font-size:0.75rem; color:var(--color-brand-gray-500); margin-top:0.4rem;">Container backgrounds &amp; pills</div>
+        </div>
+      </div>
+
+      <!-- Swatch 4 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; box-shadow:0 4px 6px -1px rgba(0,0,0,0.03);">
+        <div style="height:110px; background-color:#8B69FF;"></div>
+        <div style="padding:1rem;">
+          <div style="font-weight:700; color:var(--color-brand-navy); font-size:0.95rem;">Violet Accent</div>
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.35rem;">
+            <code style="font-size:0.8125rem; color:#2B72E6; font-weight:700;">#8B69FF</code>
+            <button onclick="navigator.clipboard.writeText('#8B69FF'); this.innerText='✓'; setTimeout(()=>this.innerText='Copy',1500)" style="font-size:0.75rem; border:1px solid #e2e8f0; background:#f8fafc; border-radius:4px; padding:0.2rem 0.5rem; cursor:pointer;">Copy</button>
+          </div>
+          <div style="font-size:0.75rem; color:var(--color-brand-gray-500); margin-top:0.4rem;">UI highlights &amp; secondary badges</div>
+        </div>
+      </div>
+
+      <!-- Swatch 5 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; box-shadow:0 4px 6px -1px rgba(0,0,0,0.03);">
+        <div style="height:110px; background-color:#1D1C1A;"></div>
+        <div style="padding:1rem;">
+          <div style="font-weight:700; color:var(--color-brand-navy); font-size:0.95rem;">Night Black</div>
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.35rem;">
+            <code style="font-size:0.8125rem; color:#1D1C1A; font-weight:700;">#1D1C1A</code>
+            <button onclick="navigator.clipboard.writeText('#1D1C1A'); this.innerText='✓'; setTimeout(()=>this.innerText='Copy',1500)" style="font-size:0.75rem; border:1px solid #e2e8f0; background:#f8fafc; border-radius:4px; padding:0.2rem 0.5rem; cursor:pointer;">Copy</button>
+          </div>
+          <div style="font-size:0.75rem; color:var(--color-brand-gray-500); margin-top:0.4rem;">Linework, borders &amp; primary typography</div>
+        </div>
+      </div>
+
+      <!-- Swatch 6 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; box-shadow:0 4px 6px -1px rgba(0,0,0,0.03);">
+        <div style="height:110px; background-color:#AD7E5E;"></div>
+        <div style="padding:1rem;">
+          <div style="font-weight:700; color:var(--color-brand-navy); font-size:0.95rem;">Warm Brown</div>
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.35rem;">
+            <code style="font-size:0.8125rem; color:#AD7E5E; font-weight:700;">#AD7E5E</code>
+            <button onclick="navigator.clipboard.writeText('#AD7E5E'); this.innerText='✓'; setTimeout(()=>this.innerText='Copy',1500)" style="font-size:0.75rem; border:1px solid #e2e8f0; background:#f8fafc; border-radius:4px; padding:0.2rem 0.5rem; cursor:pointer;">Copy</button>
+          </div>
+          <div style="font-size:0.75rem; color:var(--color-brand-gray-500); margin-top:0.4rem;">Character skin tone &amp; warmth</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Illustration Rules Brief -->
+  <section style="margin-bottom: 4rem;">
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      Official Illustration Rules &amp; Characteristics
+    </h2>
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:1.5rem;">
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem;">
+        <h4 style="font-size:1.05rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">✏️ Linework</h4>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.5; margin:0;">
+          Flat vector with bold, uniform black outlines. Zero grain, paper textures, or realistic gradients on characters. Clean, solid color fills only.
+        </p>
+      </div>
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem;">
+        <h4 style="font-size:1.05rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">😊 Characters</h4>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.5; margin:0;">
+          Simplified and friendly. Closed curved-line eyes and minimal facial features. Figures look approachable and warm, never photorealistic or hyper-detailed.
+        </p>
+      </div>
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem;">
+        <h4 style="font-size:1.05rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">☁️ Backgrounds</h4>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.5; margin:0;">
+          Large, soft geometric cloud silhouettes cropped at the canvas edges. Clean paneled split layouts with spacious breathing room.
+        </p>
+      </div>
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem;">
+        <h4 style="font-size:1.05rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">🎴 UI Elements</h4>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.5; margin:0;">
+          Floating rounded cards or circular plus buttons with hard, offset black drop shadows (no gaussian blur). Gives a tactical editorial feel.
+        </p>
+      </div>
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem;">
+        <h4 style="font-size:1.05rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">➖ Abstract Text</h4>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.5; margin:0;">
+          Shown strictly as horizontal black bars paired with shorter colored indicator bars. Never generate real letters or readable typography.
+        </p>
+      </div>
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem;">
+        <h4 style="font-size:1.05rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">📐 Format &amp; Watermark</h4>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.5; margin:0;">
+          16:9 widescreen composition (1376x768). The bottom-right corner must always remain clear of characters so the Rainfall signet can be stamped.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Official Logo & Vector Assets -->
+  <section style="margin-bottom: 4rem;">
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      Official Logo &amp; Vector Assets
+    </h2>
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:1.25rem;">
+      <!-- Asset 1 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem; text-align:center;">
+        <div style="height:100px; display:flex; align-items:center; justify-content:center; margin-bottom:1rem;">
+          <img src="assets/rainfall-iconmark-primary.svg" alt="Rainfall Signet" style="height:70px;">
+        </div>
+        <div style="font-weight:700; color:var(--color-brand-navy); margin-bottom:0.5rem;">Rainfall Iconmark (Signet)</div>
+        <div style="display:flex; justify-content:center; gap:0.5rem;">
+          <a href="assets/rainfall-iconmark-primary.svg" download class="rf-btn" style="font-size:0.75rem; padding:0.35rem 0.75rem;">Download SVG</a>
+          <a href="assets/rainfall-iconmark-primary.png" download class="rf-btn" style="font-size:0.75rem; padding:0.35rem 0.75rem; background:#f8fafc; color:#0f172a; border:1px solid #e2e8f0;">Download PNG</a>
+        </div>
+      </div>
+
+      <!-- Asset 2 -->
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem; text-align:center;">
+        <div style="height:100px; display:flex; align-items:center; justify-content:center; margin-bottom:1rem;">
+          <img src="assets/rainfall-logo-primary.svg" alt="Rainfall Full Logo" style="height:32px;">
+        </div>
+        <div style="font-weight:700; color:var(--color-brand-navy); margin-bottom:0.5rem;">Rainfall Primary Wordmark</div>
+        <div style="display:flex; justify-content:center; gap:0.5rem;">
+          <a href="assets/rainfall-logo-primary.svg" download class="rf-btn" style="font-size:0.75rem; padding:0.35rem 0.75rem;">Download SVG</a>
+          <a href="assets/rainfall-logo-dark.png" download class="rf-btn" style="font-size:0.75rem; padding:0.35rem 0.75rem; background:#f8fafc; color:#0f172a; border:1px solid #e2e8f0;">Download PNG</a>
+        </div>
+      </div>
+
+      <!-- Asset 3 -->
+      <div style="background:#0f172a; border:1px solid #334155; border-radius:12px; padding:1.5rem; text-align:center;">
+        <div style="height:100px; display:flex; align-items:center; justify-content:center; margin-bottom:1rem;">
+          <img src="assets/rainfall-logo-light.png" alt="Rainfall Dark Theme Logo" style="height:32px;">
+        </div>
+        <div style="font-weight:700; color:#ffffff; margin-bottom:0.5rem;">Rainfall Light (Dark BG)</div>
+        <div style="display:flex; justify-content:center; gap:0.5rem;">
+          <a href="assets/rainfall-logo-light.png" download class="rf-btn" style="font-size:0.75rem; padding:0.35rem 0.75rem; background:#ffffff; color:#0f172a;">Download PNG</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Prompt Engineering Section -->
+  <section>
+    <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin:0;">
+        Nano Banana Pro / Gemini Master Prompt
+      </h2>
+      <button onclick="navigator.clipboard.writeText(document.getElementById('master-prompt-code').innerText); this.innerText='✓ Copied!'; setTimeout(()=>this.innerText='Copy Prompt',2000)" style="font-size:0.8125rem; font-weight:700; background:#2B72E6; color:#ffffff; border:none; border-radius:6px; padding:0.4rem 0.85rem; cursor:pointer;">
+        Copy Prompt
+      </button>
+    </div>
+
+    <pre id="master-prompt-code" style="background:#0f172a; color:#e2e8f0; border-radius:10px; padding:1.25rem; font-size:0.875rem; line-height:1.6; overflow-x:auto;">Flat vector editorial illustration for a blog header. Bold, uniform black outlines. Flat color fills only, no gradients on characters, no texture, no realistic shading. Limited palette: Bright Sky Blue (#2B72E6), Clear Sky Blue (#8FBAFF), Ice Blue (#EAF1FC), Violet (#8B69FF), Black (#1D1C1A), White (#FFFFFF). Warm brown (#AD7E5E) and peach (#F2D6C2) skin tones. Characters are simplified and friendly, with eyes drawn as closed curved lines and minimal facial features. Background uses large soft cloud shapes cropped at the edges and clean geometric panels. UI elements are rounded cards or buttons with a hard, offset Black drop shadow (no blur). Abstract "text" is shown only as horizontal black bars paired with shorter colored bars. Clean, spacious composition, 16:9, with the bottom-right corner left empty.
+
+Scene: [ One sentence: who or what, doing what, plus one supporting UI element if applicable ]
+
+Avoid: Real text or words, logos, 3D, photo-realism, gradients on people, detailed faces, open eyes, colors outside the palette, busy backgrounds, blurred drop shadows.</pre>
+  </section>
+</div>
+```

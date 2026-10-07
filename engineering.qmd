@@ -1,0 +1,115 @@
+---
+title: "Engineering Architecture & Data Pipelines"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css:
+      - styles/report.css
+      - styles/stratus-media.css
+---
+
+```{=html}
+<div class="page-container" style="max-width:1150px; margin:0 auto; padding: 2rem 1.5rem 5rem;">
+  <header style="margin-bottom: 3rem;">
+    <div style="display:inline-flex; align-items:center; gap:0.5rem; padding:0.35rem 0.85rem; border-radius:9999px; background-color:#EAF1FC; color:#2B72E6; font-size:0.8125rem; font-weight:700; letter-spacing:0.05em; text-transform:uppercase; margin-bottom:0.75rem;">
+      ⚙️ Infrastructure, Pipelines &amp; Code
+    </div>
+    <h1 style="font-size: clamp(2.25rem, 4vw, 3rem); font-weight:800; color:var(--color-brand-navy); line-height:1.15; margin-bottom:0.75rem;">
+      Engineering Architecture &amp; Data Pipelines
+    </h1>
+    <p style="font-size:1.125rem; color:var(--color-brand-gray-600); max-width:820px; line-height:1.6; margin:0;">
+      Technical architecture, CMS TEAM analytical rollups, Gemini 3 API integrations, and continuous deployment pipelines.
+    </p>
+  </header>
+
+  <!-- High-Level Architecture Grid -->
+  <section style="margin-bottom: 4rem;">
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      System Architecture
+    </h2>
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:1.5rem;">
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.75rem;">
+        <div style="font-size:0.8125rem; font-weight:700; color:#2B72E6; text-transform:uppercase; margin-bottom:0.4rem;">Layer 1 &middot; Analytical Data Engine</div>
+        <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">CMS Data Ingestion &amp; R Pipelines</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.6; margin:0;">
+          Raw CMS TEAM hospital rosters, CMMI CJR historical data, and cost performance baselines are ingested and transformed using deterministic R rollup scripts (<code>ca_system_rollup.R</code>) into structured JSON data models.
+        </p>
+      </div>
+
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.75rem;">
+        <div style="font-size:0.8125rem; font-weight:700; color:#2B72E6; text-transform:uppercase; margin-bottom:0.4rem;">Layer 2 &middot; Generative Automation</div>
+        <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">Gemini 3 Multi-Modal Studio Engine</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.6; margin:0;">
+          Direct Google GenAI SDK v2 connectivity with <code>gemini-3-pro-image</code> (Nano Banana Pro) for 16:9 editorial banners and <code>gemini-3.8-flash</code> for structured multi-channel publishing kits (YouTube, LinkedIn, Transistor, Quarto).
+        </p>
+      </div>
+
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.75rem;">
+        <div style="font-size:0.8125rem; font-weight:700; color:#2B72E6; text-transform:uppercase; margin-bottom:0.4rem;">Layer 3 &middot; Delivery &amp; Edge CDN</div>
+        <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-brand-navy); margin-top:0;">Quarto Static Site &amp; Firebase Hosting</h3>
+        <p style="font-size:0.9rem; color:var(--color-brand-gray-600); line-height:1.6; margin:0;">
+          Fully static, lightning-fast HTML distribution compiled via Quarto and served through Google Cloud Edge CDN via Firebase Hosting (<code>stratus-510519</code>) with zero server maintenance overhead.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Command Reference -->
+  <section style="margin-bottom: 4rem;">
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      Developer Command Reference
+    </h2>
+    <div style="background:#0f172a; border-radius:12px; padding:1.5rem; color:#e2e8f0; font-family:monospace; font-size:0.875rem;">
+      <div style="margin-bottom:1.25rem;">
+        <span style="color:#8FBAFF;"># 1. Launch Marketing Studio Local API &amp; Server</span><br>
+        <span style="color:#10b981;">npm</span> run studio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#64748b;"># Runs tools/studio_server.py at http://localhost:8080</span>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <span style="color:#8FBAFF;"># 2. Build Stratus Website with Quarto</span><br>
+        <span style="color:#10b981;">npm</span> run build &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#64748b;"># Compiles all .qmd into _site/</span>
+      </div>
+      <div style="margin-bottom:1.25rem;">
+        <span style="color:#8FBAFF;"># 3. Live Preview Local Site</span><br>
+        <span style="color:#10b981;">npm</span> run preview &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#64748b;"># Launches Quarto hot-reload preview</span>
+      </div>
+      <div>
+        <span style="color:#8FBAFF;"># 4. Deploy Live to Firebase Hosting</span><br>
+        <span style="color:#10b981;">npm</span> run deploy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#64748b;"># Deploys _site/ to https://stratus-510519.web.app</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tool Script Architecture -->
+  <section>
+    <h2 style="font-size:1.5rem; font-weight:800; color:var(--color-brand-navy); margin-bottom:1.5rem; padding-bottom:0.75rem; border-bottom:2px solid var(--color-brand-navy);">
+      Tool Script Directory
+    </h2>
+    <div style="display:flex; flex-direction:column; gap:0.85rem;">
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:8px; padding:1rem 1.25rem; display:flex; justify-content:space-between; align-items:center;">
+        <div>
+          <code style="font-weight:700; color:#2B72E6;">tools/generate_thumbnail.py</code>
+          <div style="font-size:0.8125rem; color:var(--color-brand-gray-600); margin-top:0.2rem;">Calls gemini-3-pro-image with Rainfall style brief and composites signet watermark via PIL.</div>
+        </div>
+        <span style="font-size:0.75rem; background:#f1f5f9; padding:0.25rem 0.5rem; border-radius:4px; font-weight:600;">Python 3</span>
+      </div>
+
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:8px; padding:1rem 1.25rem; display:flex; justify-content:space-between; align-items:center;">
+        <div>
+          <code style="font-weight:700; color:#2B72E6;">tools/generate_episode_kit.py</code>
+          <div style="font-size:0.8125rem; color:var(--color-brand-gray-600); margin-top:0.2rem;">Multi-channel structured generator for YouTube, LinkedIn, Transistor, Quarto, and SRT.</div>
+        </div>
+        <span style="font-size:0.75rem; background:#f1f5f9; padding:0.25rem 0.5rem; border-radius:4px; font-weight:600;">Python 3</span>
+      </div>
+
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:8px; padding:1rem 1.25rem; display:flex; justify-content:space-between; align-items:center;">
+        <div>
+          <code style="font-weight:700; color:#2B72E6;">tools/studio_server.py</code>
+          <div style="font-size:0.8125rem; color:var(--color-brand-gray-600); margin-top:0.2rem;">Zero-dependency local HTTP API server running on port 8080.</div>
+        </div>
+        <span style="font-size:0.75rem; background:#f1f5f9; padding:0.25rem 0.5rem; border-radius:4px; font-weight:600;">HTTP/REST</span>
+      </div>
+    </div>
+  </section>
+</div>
+```

@@ -100,9 +100,11 @@ body {
 
 /* Main Site Container */
 .page-container {
-  max-width: 1280px;
+  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 2rem 1.5rem 4rem;
+  padding: 2rem clamp(1.5rem, 3vw, 3.5rem) 5rem;
+  box-sizing: border-box;
 }
 
 /* =====================================================================
@@ -260,9 +262,11 @@ body {
    ARTICLE 2-COLUMN LAYOUT (Screenshots 2-4)
    ===================================================================== */
 .blog-shell {
-  max-width: 1320px;
+  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 2.5rem 1.5rem 5rem;
+  padding: 2.5rem clamp(1.5rem, 3vw, 3.5rem) 5rem;
+  box-sizing: border-box;
 }
 
 .blog-article-grid {
@@ -853,7 +857,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 0.75rem 1rem;
-    max-width: 52rem;
+    max-width: 1000px;
     margin: 0 auto 1.5rem;
     padding: 0 0.25rem;
   }
@@ -891,7 +895,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.25rem;
-    max-width: 52rem;
+    max-width: 1000px;
     margin: 0 auto;
   }
 
