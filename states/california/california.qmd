@@ -705,8 +705,71 @@ if (knitr::is_html_output()) {
 # References
 
 ::: {.content-visible when-format="html"}
+<div class="wp-citation-card">
+  <div class="wp-cite-top">
+    <div>
+      <span class="wp-cite-badge">APA 7th Edition</span>
+      <h4 class="wp-cite-heading">Cite this White Paper</h4>
+    </div>
+    <button type="button" class="wp-cite-copy-btn" id="copy-paper-citation-btn" aria-label="Copy white paper APA citation">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      <span>Copy APA Citation</span>
+    </button>
+  </div>
+  <p class="wp-cite-entry" id="paper-citation-text">
+    Qureshi, A. (2026). <em>CMS TEAM in California: Reading the state’s roster, risk and readiness</em> (White Paper). Rainfall Health. https://stratus-510519.web.app/states/california
+  </p>
+</div>
+
 <span id="ref-roster-label" hidden>`r roster_label`</span>
-<div id="ref-hub" class="ref-hub" aria-busy="true"></div>
+<div id="ref-hub" class="ref-hub" aria-busy="true">
+  <div class="ref-list" role="list">
+    <article class="ref-card" id="ref-1">
+      <div class="ref-card-header"><span class="ref-number">[1]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Centers for Medicare &amp; Medicaid Services. (2024). <em>Medicare and Medicaid programs and the Children’s Health Insurance Program; hospital inpatient prospective payment systems for acute care hospitals and the long-term care hospital prospective payment system and policy changes and fiscal year 2025 rates</em> (Final rule). 89 Fed. Reg. 68986. <a class="ref-link" href="https://www.federalregister.gov/d/2024-17021" target="_blank" rel="noopener noreferrer">https://www.federalregister.gov/d/2024-17021</a></p>
+    </article>
+    <article class="ref-card" id="ref-2">
+      <div class="ref-card-header"><span class="ref-number">[2]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Centers for Medicare &amp; Medicaid Services. (2025). <em>Medicare program; hospital inpatient prospective payment systems for acute care hospitals and the long-term care hospital prospective payment system and policy changes and fiscal year 2026 rates</em> (Final rule, CMS-1833-F). 90 Fed. Reg. 36536. <a class="ref-link" href="https://www.federalregister.gov/d/2025-14681" target="_blank" rel="noopener noreferrer">https://www.federalregister.gov/d/2025-14681</a></p>
+    </article>
+    <article class="ref-card" id="ref-3">
+      <div class="ref-card-header"><span class="ref-number">[3]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Centers for Medicare &amp; Medicaid Services. (2026a). <em>Medicare program; hospital inpatient prospective payment systems for acute care hospitals and the long-term care hospital prospective payment system and policy changes and fiscal year 2027 rates</em> (Final rule, CMS-1849-F). 91 Fed. Reg. 49570. <a class="ref-link" href="https://www.federalregister.gov/d/2026-15833" target="_blank" rel="noopener noreferrer">https://www.federalregister.gov/d/2026-15833</a></p>
+    </article>
+    <article class="ref-card" id="ref-4">
+      <div class="ref-card-header"><span class="ref-number">[4]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Centers for Medicare &amp; Medicaid Services. (2026b). <em>Transforming Episode Accountability Model participant list</em> (`r roster_label`). <a class="ref-link" href="https://www.cms.gov/team-model-participant-list" target="_blank" rel="noopener noreferrer">https://www.cms.gov/team-model-participant-list</a></p>
+    </article>
+    <article class="ref-card" id="ref-5">
+      <div class="ref-card-header"><span class="ref-number">[5]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Centers for Medicare &amp; Medicaid Services. (2026c). <em>Hospital Readmissions Reduction Program</em> [Data set, 9n3s-kdb3]. CMS Provider Data Catalog. <a class="ref-link" href="https://data.cms.gov/provider-data/dataset/9n3s-kdb3" target="_blank" rel="noopener noreferrer">https://data.cms.gov/provider-data/dataset/9n3s-kdb3</a></p>
+    </article>
+    <article class="ref-card" id="ref-6">
+      <div class="ref-card-header"><span class="ref-number">[6]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text"><em>Quality measures, composite quality score, and display of quality measures</em>, 42 C.F.R. § 512.547 (2026). <a class="ref-link" href="https://www.ecfr.gov/current/title-42/section-512.547" target="_blank" rel="noopener noreferrer">https://www.ecfr.gov/current/title-42/section-512.547</a></p>
+    </article>
+    <article class="ref-card" id="ref-7">
+      <div class="ref-card-header"><span class="ref-number">[7]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Dummit, L. A., Kahvecioglu, D., Marrufo, G., Rajkumar, R., Marshall, J., Tan, E., Press, M. J., Flood, S., Muldoon, L. D., Gu, Q., Hassol, A., Bott, D. M., Bassano, A., &amp; Conway, P. H. (2016). Association between hospital participation in a Medicare bundled payment initiative and payments and quality outcomes for lower extremity joint replacement episodes. <em>JAMA, 316</em>(12), 1267–1278. <a class="ref-link" href="https://doi.org/10.1001/jama.2016.12717" target="_blank" rel="noopener noreferrer">https://doi.org/10.1001/jama.2016.12717</a></p>
+    </article>
+    <article class="ref-card" id="ref-8">
+      <div class="ref-card-header"><span class="ref-number">[8]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Finkelstein, A., Ji, Y., Mahoney, N., &amp; Skinner, J. (2018). Mandatory Medicare bundled payment program for lower extremity joint replacement and discharge to institutional postacute care: Interim analysis of the first year of a 5-year randomized trial. <em>JAMA, 320</em>(9), 892–900. <a class="ref-link" href="https://doi.org/10.1001/jama.2018.12346" target="_blank" rel="noopener noreferrer">https://doi.org/10.1001/jama.2018.12346</a></p>
+    </article>
+    <article class="ref-card" id="ref-9">
+      <div class="ref-card-header"><span class="ref-number">[9]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Zuckerman, R. B., Sheingold, S. H., Orav, E. J., Ruhter, J., &amp; Epstein, A. M. (2016). Readmissions, observation, and the Hospital Readmissions Reduction Program. <em>New England Journal of Medicine, 374</em>(16), 1543–1551. <a class="ref-link" href="https://doi.org/10.1056/NEJMsa1513024" target="_blank" rel="noopener noreferrer">https://doi.org/10.1056/NEJMsa1513024</a></p>
+    </article>
+    <article class="ref-card" id="ref-10">
+      <div class="ref-card-header"><span class="ref-number">[10]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Rainfall Health. (2026a). <em>Comments on the proposed Comprehensive Care for Joint Replacement Expanded (CJR-X) Model</em>. <a class="ref-link" href="https://www.rainfallhealth.com/documents/cms-comments/rainfall-health-cjr-x-comment-letter-2026-06-08.pdf" target="_blank" rel="noopener noreferrer">https://www.rainfallhealth.com/documents/cms-comments/rainfall-health-cjr-x-comment-letter-2026-06-08.pdf</a></p>
+    </article>
+    <article class="ref-card" id="ref-11">
+      <div class="ref-card-header"><span class="ref-number">[11]</span><span class="ref-copy-badge">APA 7</span></div>
+      <p class="ref-card-text">Rainfall Health. (2026b). <em>CMS TEAM participating hospitals: California</em>. <a class="ref-link" href="https://www.rainfallhealth.com/cms-team/participating-hospitals/california/" target="_blank" rel="noopener noreferrer">https://www.rainfallhealth.com/cms-team/participating-hospitals/california/</a></p>
+    </article>
+  </div>
+</div>
 :::
 
 ::: {.content-visible when-format="typst"}
