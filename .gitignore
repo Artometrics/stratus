@@ -5,6 +5,8 @@
 .quarto
 _site/
 _output/
+__pycache__/
+*.pyc
 **/netlify/
 states/*/index.html
 regions/*/index.html
