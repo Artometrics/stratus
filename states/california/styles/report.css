@@ -743,3 +743,146 @@ figure figcaption,
     width: calc(100vw - 2rem);
   }
 }
+
+/* --- In-text Citations & References Hub Enhancements --- */
+
+.cite-ref {
+  font-size: 0.78em;
+  font-weight: 700;
+  vertical-align: super;
+  line-height: 0;
+  color: var(--rain-blue);
+  text-decoration: none;
+  padding: 0.1em 0.25em;
+  margin: 0 0.1em;
+  border-radius: 4px;
+  background: #f1f5f9;
+  border: 1px solid #cbd5e1;
+  transition: all 0.15s ease;
+  display: inline-block;
+}
+
+.cite-ref:hover {
+  color: #1d4ed8;
+  background: #dbeafe;
+  border-color: #93c5fd;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.wp-citation-card {
+  background: #f8fafc;
+  border: 1px solid #cbd5e1;
+  border-left: 5px solid var(--rain-blue);
+  border-radius: 10px;
+  padding: 1.15rem 1.35rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 3px rgba(30, 41, 59, 0.05);
+}
+
+.wp-cite-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.65rem;
+}
+
+.wp-cite-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #1e40af;
+  background: #dbeafe;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+}
+
+.wp-cite-heading {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--rain-navy);
+  margin: 0.25rem 0 0;
+}
+
+.wp-cite-copy-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  background: var(--rain-blue);
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.45rem 0.95rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.wp-cite-copy-btn:hover {
+  background: #1d4ed8;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(43, 98, 231, 0.2);
+}
+
+.wp-cite-copy-btn.is-copied {
+  background: #16a34a !important;
+}
+
+.wp-cite-entry {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: #1e293b;
+  margin: 0;
+  background: #ffffff;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;
+}
+
+.ref-card:target {
+  border-color: var(--rain-blue) !important;
+  background-color: #eff6ff !important;
+  box-shadow: 0 0 0 3px rgba(43, 98, 231, 0.25) !important;
+}
+
+.ref-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.4rem;
+}
+
+.ref-number {
+  font-weight: 700;
+  font-size: 0.86rem;
+  color: var(--rain-blue);
+  background: #eff6ff;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+}
+
+.ref-copy-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--rain-slate);
+  background: #f1f5f9;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  border: 1px solid #e2e8f0;
+  transition: all 0.15s ease;
+}
+
+.ref-card:hover .ref-copy-badge {
+  color: var(--rain-blue);
+  background: #dbeafe;
+  border-color: #bfdbfe;
+}

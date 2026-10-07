@@ -1,12 +1,8 @@
-# Source from each report folder's .Rprofile (see README).
-.d <- normalizePath(getwd(), winslash = "/", mustWork = TRUE)
-for (i in 1:6) {
-  if (file.exists(file.path(.d, "renv.lock"))) {
-    Sys.setenv(RENV_PROJECT = .d)
-    source(file.path(.d, "renv/activate.R"))
-    break
-  }
-  parent <- dirname(.d)
-  if (identical(parent, .d)) break
-  .d <- parent
+extra_paths <- c(
+  "/Users/kylemcauliffe/Library/R/arm64/4.6/library",
+  "/Library/Frameworks/R.framework/Versions/4.6/Resources/library"
+)
+existing_paths <- extra_paths[dir.exists(extra_paths)]
+if (length(existing_paths) > 0) {
+  .libPaths(unique(c(.libPaths(), existing_paths)))
 }

@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "stratus-510519",
     "public": "_site",
     "ignore": [
       "firebase.json",

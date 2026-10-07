@@ -86,13 +86,24 @@
         seek.max = "100";
       }
       if (curEl) curEl.textContent = formatTime(c);
-      if (durEl) durEl.textContent = formatTime(d);
+      if (durEl) {
+        if (isFinite(d) && d > 0) {
+          durEl.textContent = formatTime(d);
+        } else {
+          durEl.textContent = "13:23";
+        }
+      }
     }
 
     if (playBtn) {
       playBtn.addEventListener("click", function () {
-        if (audio.paused) audio.play();
-        else audio.pause();
+        if (audio.paused) {
+          audio.play().catch(function (err) {
+            console.error("Audio playback error:", err);
+          });
+        } else {
+          audio.pause();
+        }
       });
     }
     if (backBtn) {
@@ -121,12 +132,17 @@
     audio.addEventListener("timeupdate", syncProgress);
     audio.addEventListener("loadedmetadata", syncProgress);
     audio.addEventListener("durationchange", syncProgress);
+    audio.addEventListener("canplay", syncProgress);
+    audio.addEventListener("loadeddata", syncProgress);
 
     syncPlayState();
     syncProgress();
   }
 
   $$(".wp-listen-panel").forEach(bindPanel);
+  if (audio && audio.load) {
+    try { audio.load(); } catch (e) {}
+  }
 
   var saved = parseFloat(sessionStorage.getItem(STORAGE_KEY), 10);
   setSpeed(SPEEDS.indexOf(saved) >= 0 ? saved : 1);

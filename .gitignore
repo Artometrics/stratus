@@ -11,6 +11,9 @@ __pycache__/
 states/*/index.html
 regions/*/index.html
 newsletter/*/index.html
+articles/*.html
+*.html
+essays/**/*.html
 states/*/index_files/
 regions/*/index_files/
 newsletter/*/index_files/
@@ -42,3 +45,6 @@ data/cache/
 
 .firebase/
 firebase-debug.log
+site_libs/
+*.rmarkdown
+*.knit.md
