@@ -705,6 +705,7 @@ if (knitr::is_html_output()) {
 # References
 
 ::: {.content-visible when-format="html"}
+```{=html}
 <div class="wp-citation-card">
   <div class="wp-cite-top">
     <div>
@@ -721,7 +722,7 @@ if (knitr::is_html_output()) {
   </p>
 </div>
 
-<span id="ref-roster-label" hidden>`r roster_label`</span>
+<span id="ref-roster-label" hidden>March 2026 participant list</span>
 <div id="ref-hub" class="ref-hub" aria-busy="true">
   <div class="ref-list" role="list">
     <article class="ref-card" id="ref-1">
@@ -738,7 +739,7 @@ if (knitr::is_html_output()) {
     </article>
     <article class="ref-card" id="ref-4">
       <div class="ref-card-header"><span class="ref-number">[4]</span><span class="ref-copy-badge">APA 7</span></div>
-      <p class="ref-card-text">Centers for Medicare &amp; Medicaid Services. (2026b). <em>Transforming Episode Accountability Model participant list</em> (`r roster_label`). <a class="ref-link" href="https://www.cms.gov/team-model-participant-list" target="_blank" rel="noopener noreferrer">https://www.cms.gov/team-model-participant-list</a></p>
+      <p class="ref-card-text">Centers for Medicare &amp; Medicaid Services. (2026b). <em>Transforming Episode Accountability Model participant list</em> (March 2026 participant list). <a class="ref-link" href="https://www.cms.gov/team-model-participant-list" target="_blank" rel="noopener noreferrer">https://www.cms.gov/team-model-participant-list</a></p>
     </article>
     <article class="ref-card" id="ref-5">
       <div class="ref-card-header"><span class="ref-number">[5]</span><span class="ref-copy-badge">APA 7</span></div>
@@ -770,6 +771,7 @@ if (knitr::is_html_output()) {
     </article>
   </div>
 </div>
+```
 :::
 
 ::: {.content-visible when-format="typst"}
